@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 02:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 03:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퇴근버스]]></title>
+            <link>https://poclanos.com/album/%ed%87%b4%ea%b7%bc%eb%b2%84%ec%8a%a4/</link>
+            <guid>https://poclanos.com/album/%ed%87%b4%ea%b7%bc%eb%b2%84%ec%8a%a4/</guid>
+            <pubDate>Mon, 21 Feb 2022 03:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[해빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/bus-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[volero.com]]></title>
+            <link>https://poclanos.com/album/volero-com/</link>
+            <guid>https://poclanos.com/album/volero-com/</guid>
+            <pubDate>Mon, 21 Feb 2022 03:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[수영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/volero.com_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Know]]></title>
+            <link>https://poclanos.com/album/i-know/</link>
+            <guid>https://poclanos.com/album/i-know/</guid>
+            <pubDate>Mon, 21 Feb 2022 03:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/I-Know-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당신의 사랑이 늘 행복하기를]]></title>
             <link>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[진동욱]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/the-orchard-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[dance around you (all i do)]]></title>
-            <link>https://poclanos.com/album/dance-around-you-all-i-do/</link>
-            <guid>https://poclanos.com/album/dance-around-you-all-i-do/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/dance-around-you-all-i-do-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤]]></title>
-            <link>https://poclanos.com/album/%ec%b6%a4-6/</link>
-            <guid>https://poclanos.com/album/%ec%b6%a4-6/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[담담구구 (DamDamGuGu)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MIC “The Hammer”]]></title>
-            <link>https://poclanos.com/album/mic-the-hammer/</link>
-            <guid>https://poclanos.com/album/mic-the-hammer/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[P-TYPE (피타입)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/P-TYPE-MIC-The-Hammer-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
