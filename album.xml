@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조퇴의 기분]]></title>
+            <link>https://poclanos.com/album/%ec%a1%b0%ed%87%b4%ec%9d%98-%ea%b8%b0%eb%b6%84/</link>
+            <guid>https://poclanos.com/album/%ec%a1%b0%ed%87%b4%ec%9d%98-%ea%b8%b0%eb%b6%84/</guid>
+            <pubDate>Tue, 22 Feb 2022 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[크리스탈 티(CRYSTAL TEA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Crystal-Tea-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lullaby]]></title>
+            <link>https://poclanos.com/album/lullaby-2/</link>
+            <guid>https://poclanos.com/album/lullaby-2/</guid>
+            <pubDate>Tue, 22 Feb 2022 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[장아름]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dreamy Dream]]></title>
+            <link>https://poclanos.com/album/dreamy-dream/</link>
+            <guid>https://poclanos.com/album/dreamy-dream/</guid>
+            <pubDate>Tue, 22 Feb 2022 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[도나 (DONNA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Dreamy-Dream-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퇴근버스]]></title>
             <link>https://poclanos.com/album/%ed%87%b4%ea%b7%bc%eb%b2%84%ec%8a%a4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[유귀]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/2022.02.14-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No way home]]></title>
-            <link>https://poclanos.com/album/no-way-home/</link>
-            <guid>https://poclanos.com/album/no-way-home/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/No-way-home-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뜬구름]]></title>
-            <link>https://poclanos.com/album/%eb%9c%ac%ea%b5%ac%eb%a6%84-3/</link>
-            <guid>https://poclanos.com/album/%eb%9c%ac%ea%b5%ac%eb%a6%84-3/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[이예린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/2022.02.12-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 차가운 까닭에]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ea%b9%8c%eb%8b%ad%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%b0%a8%ea%b0%80%ec%9a%b4-%ea%b9%8c%eb%8b%ad%ec%97%90/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[진동욱]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/the-orchard-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
