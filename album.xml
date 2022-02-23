@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바다와 모래]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%ec%99%80-%eb%aa%a8%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%ec%99%80-%eb%aa%a8%eb%9e%98/</guid>
+            <pubDate>Wed, 23 Feb 2022 09:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[방민혁]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Sea-and-Sand-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[El dorado]]></title>
             <link>https://poclanos.com/album/el-dorado/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[바미]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Mono-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mr.Winter Time]]></title>
-            <link>https://poclanos.com/album/mr-winter-time/</link>
-            <guid>https://poclanos.com/album/mr-winter-time/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[PJNOTREBLE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Mr.Winter-Time-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
