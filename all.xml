@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 04:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 05:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-3/</link>
             <guid>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-3/</guid>
             <pubDate>Thu, 24 Feb 2022 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[pylat]]></content:encoded>
+            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Pylat_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
