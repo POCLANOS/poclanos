@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sleep, by the sea]]></title>
+            <link>https://poclanos.com/album/sleep-by-the-sea/</link>
+            <guid>https://poclanos.com/album/sleep-by-the-sea/</guid>
+            <pubDate>Thu, 24 Feb 2022 09:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Sleep-by-the-sea-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[편지]]></title>
             <link>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[O'KOYE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/We-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퇴적]]></title>
-            <link>https://poclanos.com/album/%ed%87%b4%ec%a0%81/</link>
-            <guid>https://poclanos.com/album/%ed%87%b4%ec%a0%81/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[물과음]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/sedimentation-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
