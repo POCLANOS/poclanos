@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[편지]]></title>
+            <link>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-3/</link>
+            <guid>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-3/</guid>
+            <pubDate>Thu, 24 Feb 2022 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[pylat]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Pylat_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Break Out]]></title>
+            <link>https://poclanos.com/album/break-out/</link>
+            <guid>https://poclanos.com/album/break-out/</guid>
+            <pubDate>Thu, 24 Feb 2022 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[DIH (동이혼)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Break-Out-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바다와 모래]]></title>
             <link>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%ec%99%80-%eb%aa%a8%eb%9e%98/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[물과음]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/sedimentation-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let me know]]></title>
-            <link>https://poclanos.com/album/let-me-know-2/</link>
-            <guid>https://poclanos.com/album/let-me-know-2/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[STAY'S]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Let-me-know-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mono]]></title>
-            <link>https://poclanos.com/album/mono/</link>
-            <guid>https://poclanos.com/album/mono/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[바미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Mono-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
