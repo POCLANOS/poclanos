@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 02:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 03:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rise]]></title>
+            <link>https://poclanos.com/album/rise/</link>
+            <guid>https://poclanos.com/album/rise/</guid>
+            <pubDate>Sat, 26 Feb 2022 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[여전희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Rise-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6 in the morning]]></title>
+            <link>https://poclanos.com/album/6-in-the-morning/</link>
+            <guid>https://poclanos.com/album/6-in-the-morning/</guid>
+            <pubDate>Sat, 26 Feb 2022 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[DRENCH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/6-in-the-morning-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 어릴 적 기억은]]></title>
             <link>https://poclanos.com/album/%eb%82%b4-%ec%96%b4%eb%a6%b4-%ec%a0%81-%ea%b8%b0%ec%96%b5%ec%9d%80/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[MODO]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/MODO-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[¿Dance?]]></title>
-            <link>https://poclanos.com/album/dance-3/</link>
-            <guid>https://poclanos.com/album/dance-3/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[Jaron]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Dance-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City Rights 3rd Season]]></title>
-            <link>https://poclanos.com/album/city-rights-3rd-season/</link>
-            <guid>https://poclanos.com/album/city-rights-3rd-season/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[Tanaka Yuri (田中裕梨)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/City-Rights-3rd-Season-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
