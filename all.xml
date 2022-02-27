@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 02:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 03:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Over U (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/over-u/</link>
+            <guid>https://poclanos.com/album/over-u/</guid>
+            <pubDate>Sun, 27 Feb 2022 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[NECTA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Over-U_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달빛 그리고 바다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%ac%eb%b9%9b-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%b0%94%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%eb%8b%ac%eb%b9%9b-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%b0%94%eb%8b%a4/</guid>
+            <pubDate>Sun, 27 Feb 2022 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/moon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rise (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/rise/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[신승은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Unfair-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Hardboiled Café (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/hardboiled-cafe/</link>
-            <guid>https://poclanos.com/album/hardboiled-cafe/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[P-TYPE (피타입)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Hardboiled_Cafe_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초시간 : 시계 봐늘 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b4%88%ec%8b%9c%ea%b0%84-%ec%8b%9c%ea%b3%84-%eb%b4%90%eb%8a%98/</link>
-            <guid>https://poclanos.com/album/%ec%b4%88%ec%8b%9c%ea%b0%84-%ec%8b%9c%ea%b3%84-%eb%b4%90%eb%8a%98/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[MODO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/MODO-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시와 [잠 못 이루는 당신에게] (POCLANOS ─ Review)]]></title>
