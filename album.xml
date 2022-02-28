@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 02:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dekobe]]></title>
+            <link>https://poclanos.com/album/dekobe/</link>
+            <guid>https://poclanos.com/album/dekobe/</guid>
+            <pubDate>Mon, 28 Feb 2022 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[Dekobe]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Interlude-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flower]]></title>
+            <link>https://poclanos.com/album/flower-2/</link>
+            <guid>https://poclanos.com/album/flower-2/</guid>
+            <pubDate>Mon, 28 Feb 2022 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[함병선 (9z)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Flower-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맨발]]></title>
+            <link>https://poclanos.com/album/%eb%a7%a8%eb%b0%9c/</link>
+            <guid>https://poclanos.com/album/%eb%a7%a8%eb%b0%9c/</guid>
+            <pubDate>Mon, 28 Feb 2022 03:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[Loytoy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Loytoy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Over U]]></title>
             <link>https://poclanos.com/album/over-u/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 21 Feb 2022 03:13:08 GMT</pubDate>
             <content:encoded><![CDATA[수영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/volero.com_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Know]]></title>
-            <link>https://poclanos.com/album/i-know/</link>
-            <guid>https://poclanos.com/album/i-know/</guid>
-            <pubDate>Mon, 21 Feb 2022 03:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/I-Know-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 사랑이 늘 행복하기를]]></title>
-            <link>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/</link>
-            <guid>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/</guid>
-            <pubDate>Sun, 20 Feb 2022 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[억울해]]></title>
-            <link>https://poclanos.com/album/%ec%96%b5%ec%9a%b8%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%ec%96%b5%ec%9a%b8%ed%95%b4/</guid>
-            <pubDate>Sat, 19 Feb 2022 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[신승은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Unfair-600x600.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
