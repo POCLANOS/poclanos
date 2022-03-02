@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RHYTHM]]></title>
+            <link>https://poclanos.com/album/rhythm/</link>
+            <guid>https://poclanos.com/album/rhythm/</guid>
+            <pubDate>Wed, 02 Mar 2022 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[루싸이트 토끼]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/RHYTHM-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[forget-me-not]]></title>
             <link>https://poclanos.com/album/forget-me-not/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Feb 2022 03:11:28 GMT</pubDate>
             <content:encoded><![CDATA[크리스탈 티(CRYSTAL TEA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Crystal-Tea-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lullaby]]></title>
-            <link>https://poclanos.com/album/lullaby-2/</link>
-            <guid>https://poclanos.com/album/lullaby-2/</guid>
-            <pubDate>Tue, 22 Feb 2022 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[장아름]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
