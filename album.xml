@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미운여우새끼]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%ec%9a%b4%ec%97%ac%ec%9a%b0%ec%83%88%eb%81%bc/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%ec%9a%b4%ec%97%ac%ec%9a%b0%ec%83%88%eb%81%bc/</guid>
+            <pubDate>Fri, 04 Mar 2022 03:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[Foxyb34r (폭시베어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Foxyb34r-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[01(영원)]]></title>
             <link>https://poclanos.com/album/01%ec%98%81%ec%9b%90/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 23 Feb 2022 09:10:30 GMT</pubDate>
             <content:encoded><![CDATA[방민혁]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Sea-and-Sand-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[El dorado]]></title>
-            <link>https://poclanos.com/album/el-dorado/</link>
-            <guid>https://poclanos.com/album/el-dorado/</guid>
-            <pubDate>Wed, 23 Feb 2022 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[Nubset]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/El-dorado-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
