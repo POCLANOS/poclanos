@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 02:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 03:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[건강하세모]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b4%ea%b0%95%ed%95%98%ec%84%b8%eb%aa%a8/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b4%ea%b0%95%ed%95%98%ec%84%b8%eb%aa%a8/</guid>
+            <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[임세모]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/0308-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[White Ceiling / Black Dots Wandering Around]]></title>
+            <link>https://poclanos.com/album/white-ceiling-black-dots-wandering-around/</link>
+            <guid>https://poclanos.com/album/white-ceiling-black-dots-wandering-around/</guid>
+            <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/White-Ceiling-Black-Dots-Wandering-Around-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ohashiTrio best Too]]></title>
+            <link>https://poclanos.com/album/ohashitrio-best-too/</link>
+            <guid>https://poclanos.com/album/ohashitrio-best-too/</guid>
+            <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/ohashiTrio-best-Too-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불시착]]></title>
             <link>https://poclanos.com/album/%eb%b6%88%ec%8b%9c%ec%b0%a9/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 28 Feb 2022 03:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Loytoy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Loytoy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Over U]]></title>
-            <link>https://poclanos.com/album/over-u/</link>
-            <guid>https://poclanos.com/album/over-u/</guid>
-            <pubDate>Sun, 27 Feb 2022 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[NECTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Over-U_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달빛 그리고 바다]]></title>
-            <link>https://poclanos.com/album/%eb%8b%ac%eb%b9%9b-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%b0%94%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%eb%8b%ac%eb%b9%9b-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%b0%94%eb%8b%a4/</guid>
-            <pubDate>Sun, 27 Feb 2022 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/moon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rise]]></title>
-            <link>https://poclanos.com/album/rise/</link>
-            <guid>https://poclanos.com/album/rise/</guid>
-            <pubDate>Sat, 26 Feb 2022 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[여전희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Rise-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
