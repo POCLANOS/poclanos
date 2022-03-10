@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 03:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLUE WORLD (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/blue-world/</link>
+            <guid>https://poclanos.com/album/blue-world/</guid>
+            <pubDate>Thu, 10 Mar 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[지빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/BLUEWORLD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[괴물 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b4%b4%eb%ac%bc/</link>
+            <guid>https://poclanos.com/album/%ea%b4%b4%eb%ac%bc/</guid>
+            <pubDate>Thu, 10 Mar 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[유귀]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/monster-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보리차 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b3%b4%eb%a6%ac%ec%b0%a8/</link>
+            <guid>https://poclanos.com/album/%eb%b3%b4%eb%a6%ac%ec%b0%a8/</guid>
+            <pubDate>Thu, 10 Mar 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[천용성]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/01_0000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dat girl (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dat-girl/</link>
+            <guid>https://poclanos.com/album/dat-girl/</guid>
+            <pubDate>Thu, 10 Mar 2022 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie(가르종로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/dat-girl-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Every Minute (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/every-minute/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 03:11:34 GMT</pubDate>
             <content:encoded><![CDATA[lavndr]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/forget-me-not-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊은 밤 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4-2/</link>
-            <guid>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4-2/</guid>
-            <pubDate>Wed, 02 Mar 2022 03:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[너와]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/0505-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환희 (Hwanhee) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%98%ed%9d%ac-hwanhee/</link>
-            <guid>https://poclanos.com/album/%ed%99%98%ed%9d%ac-hwanhee/</guid>
-            <pubDate>Tue, 01 Mar 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[GLOWCEAN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Hwanhee-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dekobe (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dekobe/</link>
-            <guid>https://poclanos.com/album/dekobe/</guid>
-            <pubDate>Mon, 28 Feb 2022 03:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[Dekobe]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Interlude-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flower (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/flower-2/</link>
-            <guid>https://poclanos.com/album/flower-2/</guid>
-            <pubDate>Mon, 28 Feb 2022 03:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[함병선 (9z)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Flower-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[lavndr [forget-me-not] (POCLANOS ─ Review)]]></title>
