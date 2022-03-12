@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 02:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 03:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Doldrums Disco]]></title>
+            <link>https://poclanos.com/album/doldrums-disco/</link>
+            <guid>https://poclanos.com/album/doldrums-disco/</guid>
+            <pubDate>Sat, 12 Mar 2022 03:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[Ram (람)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Doldrums-Disco-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[something]]></title>
+            <link>https://poclanos.com/album/something/</link>
+            <guid>https://poclanos.com/album/something/</guid>
+            <pubDate>Sat, 12 Mar 2022 03:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[정바스]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/something-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Love you in the dark]]></title>
             <link>https://poclanos.com/album/love-you-in-the-dark/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 04 Mar 2022 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[강]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Waterloo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미운여우새끼]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%ec%9a%b4%ec%97%ac%ec%9a%b0%ec%83%88%eb%81%bc/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%ec%9a%b4%ec%97%ac%ec%9a%b0%ec%83%88%eb%81%bc/</guid>
-            <pubDate>Fri, 04 Mar 2022 03:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[Foxyb34r (폭시베어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Foxyb34r-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[01(영원)]]></title>
-            <link>https://poclanos.com/album/01%ec%98%81%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/01%ec%98%81%ec%9b%90/</guid>
-            <pubDate>Thu, 03 Mar 2022 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[정비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/01_01-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
