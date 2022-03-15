@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Snowdrop (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/snowdrop/</link>
+            <guid>https://poclanos.com/album/snowdrop/</guid>
+            <pubDate>Tue, 15 Mar 2022 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[SA.IE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Snowdrop-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lean On Me (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lean-on-me/</link>
+            <guid>https://poclanos.com/album/lean-on-me/</guid>
+            <pubDate>Tue, 15 Mar 2022 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[화평]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Lean-On-Me-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dear, Ann (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dear-ann/</link>
+            <guid>https://poclanos.com/album/dear-ann/</guid>
+            <pubDate>Tue, 15 Mar 2022 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[사공(Sagong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Dear-Ann-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flash (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/flash-4/</link>
+            <guid>https://poclanos.com/album/flash-4/</guid>
+            <pubDate>Tue, 15 Mar 2022 03:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[Blu Swing]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Blu-Swing-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[입춘 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9e%85%ec%b6%98/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/ohashiTrio-best-Too-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불시착 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ec%8b%9c%ec%b0%a9/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ec%8b%9c%ec%b0%a9/</guid>
-            <pubDate>Mon, 07 Mar 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[SAGA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/01_SAGA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나아간다는 것 머무른다는 것 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%95%84%ea%b0%84%eb%8b%a4%eb%8a%94-%ea%b2%83-%eb%a8%b8%eb%ac%b4%eb%a5%b8%eb%8b%a4%eb%8a%94-%ea%b2%83/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%95%84%ea%b0%84%eb%8b%a4%eb%8a%94-%ea%b2%83-%eb%a8%b8%eb%ac%b4%eb%a5%b8%eb%8b%a4%eb%8a%94-%ea%b2%83/</guid>
-            <pubDate>Mon, 07 Mar 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[리선]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/lee-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[life goes on (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/life-goes-on/</link>
-            <guid>https://poclanos.com/album/life-goes-on/</guid>
-            <pubDate>Mon, 07 Mar 2022 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/life-goes-on-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일에게 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ec%9d%bc%ec%97%90%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ec%9d%bc%ec%97%90%ea%b2%8c/</guid>
-            <pubDate>Sun, 06 Mar 2022 03:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[와인 (Wyne)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/01_Wyne-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보일 [나쁜 마음] (POCLANOS ─ Review)]]></title>
