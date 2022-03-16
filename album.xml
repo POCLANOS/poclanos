@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dancing On The Burning Floor]]></title>
+            <link>https://poclanos.com/album/dancing-on-the-burning-floor/</link>
+            <guid>https://poclanos.com/album/dancing-on-the-burning-floor/</guid>
+            <pubDate>Wed, 16 Mar 2022 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[One Off Them]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Dancing-On-The-Burning-Floor-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직까지]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%ec%a7%81%ea%b9%8c%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%ec%a7%81%ea%b9%8c%ec%a7%80/</guid>
+            <pubDate>Wed, 16 Mar 2022 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[윤누구]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Even-for-now-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Snowdrop]]></title>
             <link>https://poclanos.com/album/snowdrop/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[임세모]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/0308-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[White Ceiling / Black Dots Wandering Around]]></title>
-            <link>https://poclanos.com/album/white-ceiling-black-dots-wandering-around/</link>
-            <guid>https://poclanos.com/album/white-ceiling-black-dots-wandering-around/</guid>
-            <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/White-Ceiling-Black-Dots-Wandering-Around-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ohashiTrio best Too]]></title>
-            <link>https://poclanos.com/album/ohashitrio-best-too/</link>
-            <guid>https://poclanos.com/album/ohashitrio-best-too/</guid>
-            <pubDate>Tue, 08 Mar 2022 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/ohashiTrio-best-Too-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
