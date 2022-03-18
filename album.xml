@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 00:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://poclanos.com/album/%ec%b0%bd%eb%ac%b8%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%96%b4%eb%a0%b4%ed%92%8b%ec%9d%b4/</guid>
             <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[진수영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Happy-Foolishness-600x600.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Abgrund]]></title>
