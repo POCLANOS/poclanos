@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Instant Song]]></title>
+            <link>https://poclanos.com/album/instant-song/</link>
+            <guid>https://poclanos.com/album/instant-song/</guid>
+            <pubDate>Fri, 18 Mar 2022 03:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[일월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Instant-Song-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넌 날 이해하지 못한다더라]]></title>
+            <link>https://poclanos.com/album/%eb%84%8c-%eb%82%a0-%ec%9d%b4%ed%95%b4%ed%95%98%ec%a7%80-%eb%aa%bb%ed%95%9c%eb%8b%a4%eb%8d%94%eb%9d%bc/</link>
+            <guid>https://poclanos.com/album/%eb%84%8c-%eb%82%a0-%ec%9d%b4%ed%95%b4%ed%95%98%ec%a7%80-%eb%aa%bb%ed%95%9c%eb%8b%a4%eb%8d%94%eb%9d%bc/</guid>
+            <pubDate>Fri, 18 Mar 2022 03:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Yohna-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[창문을 통해 어렴풋이]]></title>
             <link>https://poclanos.com/album/%ec%b0%bd%eb%ac%b8%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%96%b4%eb%a0%b4%ed%92%8b%ec%9d%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 11 Mar 2022 03:13:26 GMT</pubDate>
             <content:encoded><![CDATA[태훈킴]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/2022.03.11-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When I See The Moon]]></title>
-            <link>https://poclanos.com/album/when-i-see-the-moon/</link>
-            <guid>https://poclanos.com/album/when-i-see-the-moon/</guid>
-            <pubDate>Fri, 11 Mar 2022 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[Bukyng]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/When-I-See-The-Moon-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[BLUE WORLD]]></title>
-            <link>https://poclanos.com/album/blue-world/</link>
-            <guid>https://poclanos.com/album/blue-world/</guid>
-            <pubDate>Thu, 10 Mar 2022 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[지빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/BLUEWORLD-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
