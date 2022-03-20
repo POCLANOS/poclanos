@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 02:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 03:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핑계]]></title>
+            <link>https://poclanos.com/album/%ed%95%91%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%ed%95%91%ea%b3%84/</guid>
+            <pubDate>Sun, 20 Mar 2022 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[버민 (BUMIN)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Excuse_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공항에서]]></title>
+            <link>https://poclanos.com/album/%ea%b3%b5%ed%95%ad%ec%97%90%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ea%b3%b5%ed%95%ad%ec%97%90%ec%84%9c/</guid>
+            <pubDate>Sun, 20 Mar 2022 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[크르르]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/krr-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덤]]></title>
             <link>https://poclanos.com/album/%eb%8d%a4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 13 Mar 2022 03:11:43 GMT</pubDate>
             <content:encoded><![CDATA[kennytheking (케니더킹)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Everything-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doldrums Disco]]></title>
-            <link>https://poclanos.com/album/doldrums-disco/</link>
-            <guid>https://poclanos.com/album/doldrums-disco/</guid>
-            <pubDate>Sat, 12 Mar 2022 03:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[Ram (람)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Doldrums-Disco-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[something]]></title>
-            <link>https://poclanos.com/album/something/</link>
-            <guid>https://poclanos.com/album/something/</guid>
-            <pubDate>Sat, 12 Mar 2022 03:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[정바스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/something-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
