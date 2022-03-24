@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eyes On Eyes]]></title>
+            <link>https://poclanos.com/album/eyes-on-eyes/</link>
+            <guid>https://poclanos.com/album/eyes-on-eyes/</guid>
+            <pubDate>Thu, 24 Mar 2022 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[미루송]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Eyes-On-Eyes_cover-600x600.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우주먼지]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%ec%a3%bc%eb%a8%bc%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%ec%a3%bc%eb%a8%bc%ec%a7%80/</guid>
+            <pubDate>Thu, 24 Mar 2022 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/pylat_cober-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Have You Ever]]></title>
+            <link>https://poclanos.com/album/have-you-ever/</link>
+            <guid>https://poclanos.com/album/have-you-ever/</guid>
+            <pubDate>Thu, 24 Mar 2022 03:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Have-You-Ever_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1202]]></title>
             <link>https://poclanos.com/album/1202/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[Vincent]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/V12-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frankly I…]]></title>
-            <link>https://poclanos.com/album/frankly-i/</link>
-            <guid>https://poclanos.com/album/frankly-i/</guid>
-            <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LURKER]]></title>
-            <link>https://poclanos.com/album/lurker/</link>
-            <guid>https://poclanos.com/album/lurker/</guid>
-            <pubDate>Wed, 16 Mar 2022 09:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[yoono]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/LURKER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dancing On The Burning Floor]]></title>
-            <link>https://poclanos.com/album/dancing-on-the-burning-floor/</link>
-            <guid>https://poclanos.com/album/dancing-on-the-burning-floor/</guid>
-            <pubDate>Wed, 16 Mar 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[One Off Them]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Dancing-On-The-Burning-Floor-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
