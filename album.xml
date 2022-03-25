@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:12:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도망쳐]]></title>
+            <link>https://poclanos.com/album/%eb%8f%84%eb%a7%9d%ec%b3%90/</link>
+            <guid>https://poclanos.com/album/%eb%8f%84%eb%a7%9d%ec%b3%90/</guid>
+            <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/runaway_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머스타드]]></title>
+            <link>https://poclanos.com/album/%eb%a8%b8%ec%8a%a4%ed%83%80%eb%93%9c/</link>
+            <guid>https://poclanos.com/album/%eb%a8%b8%ec%8a%a4%ed%83%80%eb%93%9c/</guid>
+            <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[smalltown (스몰타운)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/smalltown_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Last Thing Left]]></title>
+            <link>https://poclanos.com/album/the-last-thing-left/</link>
+            <guid>https://poclanos.com/album/the-last-thing-left/</guid>
+            <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[세이수미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Around-You_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[empath (Instrumental)]]></title>
+            <link>https://poclanos.com/album/empath-instrumental/</link>
+            <guid>https://poclanos.com/album/empath-instrumental/</guid>
+            <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[Kenichiro Nishihara]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/empath-instrumental_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eyes On Eyes]]></title>
             <link>https://poclanos.com/album/eyes-on-eyes/</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 18 Mar 2022 03:15:12 GMT</pubDate>
             <content:encoded><![CDATA[요나 (Yohna)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Yohna-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[창문을 통해 어렴풋이]]></title>
-            <link>https://poclanos.com/album/%ec%b0%bd%eb%ac%b8%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%96%b4%eb%a0%b4%ed%92%8b%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%ec%b0%bd%eb%ac%b8%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%96%b4%eb%a0%b4%ed%92%8b%ec%9d%b4/</guid>
-            <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[진수영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Abgrund]]></title>
-            <link>https://poclanos.com/album/abgrund/</link>
-            <guid>https://poclanos.com/album/abgrund/</guid>
-            <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[Vincent]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Abgrund_-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Portrait Of A Lady]]></title>
-            <link>https://poclanos.com/album/portrait-of-a-lady/</link>
-            <guid>https://poclanos.com/album/portrait-of-a-lady/</guid>
-            <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[CHANMIN &amp; Vincent]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Portrait-Of-A-Lady-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V12]]></title>
-            <link>https://poclanos.com/album/v12/</link>
-            <guid>https://poclanos.com/album/v12/</guid>
-            <pubDate>Thu, 17 Mar 2022 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[Vincent]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/V12-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
