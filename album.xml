@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 19:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:29:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TICTOC]]></title>
+            <link>https://poclanos.com/album/tictoc/</link>
+            <guid>https://poclanos.com/album/tictoc/</guid>
+            <pubDate>Mon, 28 Mar 2022 03:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[PITCHGRIN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/TicToc_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Still I Crave You]]></title>
+            <link>https://poclanos.com/album/still-i-crave-you/</link>
+            <guid>https://poclanos.com/album/still-i-crave-you/</guid>
+            <pubDate>Mon, 28 Mar 2022 03:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[Snowk]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Still-I-Crave-You_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Look at the Sky]]></title>
+            <link>https://poclanos.com/album/look-at-the-sky/</link>
+            <guid>https://poclanos.com/album/look-at-the-sky/</guid>
+            <pubDate>Mon, 28 Mar 2022 03:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Look-at-the-Sky_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그대여]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%8c%80%ec%97%ac/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 21 Mar 2022 03:19:53 GMT</pubDate>
             <content:encoded><![CDATA[ohsol]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Diving_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핑계]]></title>
-            <link>https://poclanos.com/album/%ed%95%91%ea%b3%84/</link>
-            <guid>https://poclanos.com/album/%ed%95%91%ea%b3%84/</guid>
-            <pubDate>Sun, 20 Mar 2022 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[버민 (BUMIN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Excuse_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공항에서]]></title>
-            <link>https://poclanos.com/album/%ea%b3%b5%ed%95%ad%ec%97%90%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ea%b3%b5%ed%95%ad%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Sun, 20 Mar 2022 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/krr-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[덤]]></title>
-            <link>https://poclanos.com/album/%eb%8d%a4/</link>
-            <guid>https://poclanos.com/album/%eb%8d%a4/</guid>
-            <pubDate>Sat, 19 Mar 2022 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[OHIORABBIT]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Dumb_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
