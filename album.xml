@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 02:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 08:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백년]]></title>
+            <link>https://poclanos.com/album/%eb%b0%b1%eb%85%84/</link>
+            <guid>https://poclanos.com/album/%eb%b0%b1%eb%85%84/</guid>
+            <pubDate>Sat, 02 Apr 2022 08:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[회기동 단편선]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/100_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[처녀]]></title>
+            <link>https://poclanos.com/album/%ec%b2%98%eb%85%80/</link>
+            <guid>https://poclanos.com/album/%ec%b2%98%eb%85%80/</guid>
+            <pubDate>Sat, 02 Apr 2022 08:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[회기동 단편선]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/virgin_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[터트려 Burst it all]]></title>
             <link>https://poclanos.com/album/%ed%84%b0%ed%8a%b8%eb%a0%a4-burst-it-all/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
             <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/runaway_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[머스타드]]></title>
-            <link>https://poclanos.com/album/%eb%a8%b8%ec%8a%a4%ed%83%80%eb%93%9c/</link>
-            <guid>https://poclanos.com/album/%eb%a8%b8%ec%8a%a4%ed%83%80%eb%93%9c/</guid>
-            <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[smalltown (스몰타운)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/smalltown_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Last Thing Left]]></title>
-            <link>https://poclanos.com/album/the-last-thing-left/</link>
-            <guid>https://poclanos.com/album/the-last-thing-left/</guid>
-            <pubDate>Fri, 25 Mar 2022 07:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[세이수미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Around-You_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
