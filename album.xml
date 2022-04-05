@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 13:24:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[earth]]></title>
+            <link>https://poclanos.com/album/earth/</link>
+            <guid>https://poclanos.com/album/earth/</guid>
+            <pubDate>Tue, 05 Apr 2022 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[남경운]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wildflower (Original Soundtrack for Document 15th Film)]]></title>
             <link>https://poclanos.com/album/wildflower-original-soundtrack-for-document-15th-film/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 28 Mar 2022 03:27:30 GMT</pubDate>
             <content:encoded><![CDATA[Snowk]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Still-I-Crave-You_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Look at the Sky]]></title>
-            <link>https://poclanos.com/album/look-at-the-sky/</link>
-            <guid>https://poclanos.com/album/look-at-the-sky/</guid>
-            <pubDate>Mon, 28 Mar 2022 03:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[Darley]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Look-at-the-Sky_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
