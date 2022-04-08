@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 14:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 04:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리들의 가능성]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4%ec%9d%98-%ea%b0%80%eb%8a%a5%ec%84%b1/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4%ec%9d%98-%ea%b0%80%eb%8a%a5%ec%84%b1/</guid>
+            <pubDate>Fri, 08 Apr 2022 04:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[장들레]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Potential_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Maiden’s Requital]]></title>
+            <link>https://poclanos.com/album/the-maidens-requital/</link>
+            <guid>https://poclanos.com/album/the-maidens-requital/</guid>
+            <pubDate>Fri, 08 Apr 2022 04:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[Last Benevolence]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/The-Maidens-Requital_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Memories]]></title>
             <link>https://poclanos.com/album/memories-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 30 Mar 2022 12:19:29 GMT</pubDate>
             <content:encoded><![CDATA[최정윤]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/love_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모든게 제 색을 찾았으면]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%eb%93%a0%ea%b2%8c-%ec%a0%9c-%ec%83%89%ec%9d%84-%ec%b0%be%ec%95%98%ec%9c%bc%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%eb%93%a0%ea%b2%8c-%ec%a0%9c-%ec%83%89%ec%9d%84-%ec%b0%be%ec%95%98%ec%9c%bc%eb%a9%b4/</guid>
-            <pubDate>Wed, 30 Mar 2022 04:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[BLUE ROOM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/BLUE-ROOM_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 그대만 사랑하고요]]></title>
-            <link>https://poclanos.com/album/%eb%82%9c-%ea%b7%b8%eb%8c%80%eb%a7%8c-%ec%82%ac%eb%9e%91%ed%95%98%ea%b3%a0%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%eb%82%9c-%ea%b7%b8%eb%8c%80%eb%a7%8c-%ec%82%ac%eb%9e%91%ed%95%98%ea%b3%a0%ec%9a%94/</guid>
-            <pubDate>Wed, 30 Mar 2022 04:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[로쿠 (roku)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/roku_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
