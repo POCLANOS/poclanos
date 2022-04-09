@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 02:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 03:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불타올라라 연예세포]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc%eb%9d%bc-%ec%97%b0%ec%98%88%ec%84%b8%ed%8f%ac/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc%eb%9d%bc-%ec%97%b0%ec%98%88%ec%84%b8%ed%8f%ac/</guid>
+            <pubDate>Sat, 09 Apr 2022 03:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/2022.04.09-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안부]]></title>
             <link>https://poclanos.com/album/%ec%95%88%eb%b6%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Mar 2022 04:14:22 GMT</pubDate>
             <content:encoded><![CDATA[모드 (mode)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Lovelorn_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코기]]></title>
-            <link>https://poclanos.com/album/%ec%bd%94%ea%b8%b0/</link>
-            <guid>https://poclanos.com/album/%ec%bd%94%ea%b8%b0/</guid>
-            <pubDate>Thu, 31 Mar 2022 04:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[SSW]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/kogi_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
