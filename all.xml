@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 22:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:34:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나무 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%ac%b4/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%ac%b4/</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[김뽐므]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EB%82%98%EB%AC%B4_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[처음 만난 사람이 아닌데 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b2%98%ec%9d%8c-%eb%a7%8c%eb%82%9c-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%95%84%eb%8b%8c%eb%8d%b0/</link>
+            <guid>https://poclanos.com/album/%ec%b2%98%ec%9d%8c-%eb%a7%8c%eb%82%9c-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%95%84%eb%8b%8c%eb%8d%b0/</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[jujuland]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/jujuland_0412_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비상구 있는 집 (Original Sound Track) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b9%84%ec%83%81%ea%b5%ac-%ec%9e%88%eb%8a%94-%ec%a7%91-original-sound-track/</link>
+            <guid>https://poclanos.com/album/%eb%b9%84%ec%83%81%ea%b5%ac-%ec%9e%88%eb%8a%94-%ec%a7%91-original-sound-track/</guid>
+            <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
+            <content:encoded><![CDATA[장아름]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EB%B9%84%EC%83%81%EA%B5%AC-%EC%9E%88%EB%8A%94-%EC%A7%91-Original-Sound-Track_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울, 코로나 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%84%9c%ec%9a%b8-%ec%bd%94%eb%a1%9c%eb%82%98/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 04 Apr 2022 04:19:25 GMT</pubDate>
             <content:encoded><![CDATA[수림 SURIM]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Forest-Fire_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[True Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/true-love/</link>
-            <guid>https://poclanos.com/album/true-love/</guid>
-            <pubDate>Sun, 03 Apr 2022 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[종연]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/True-Love_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백년 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b0%b1%eb%85%84/</link>
-            <guid>https://poclanos.com/album/%eb%b0%b1%eb%85%84/</guid>
-            <pubDate>Sat, 02 Apr 2022 08:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[회기동 단편선]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/100_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처녀 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b2%98%eb%85%80/</link>
-            <guid>https://poclanos.com/album/%ec%b2%98%eb%85%80/</guid>
-            <pubDate>Sat, 02 Apr 2022 08:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[회기동 단편선]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/virgin_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진수영 [창문을 통해 어렴풋이] (POCLANOS ─ Review)]]></title>
