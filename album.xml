@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 22:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 10:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Belief]]></title>
+            <link>https://poclanos.com/album/belief-2/</link>
+            <guid>https://poclanos.com/album/belief-2/</guid>
+            <pubDate>Wed, 13 Apr 2022 10:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[eundohee]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/4.-eundohee-Belief_cover-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mirror In The Room]]></title>
+            <link>https://poclanos.com/album/mirror-in-the-room/</link>
+            <guid>https://poclanos.com/album/mirror-in-the-room/</guid>
+            <pubDate>Wed, 13 Apr 2022 10:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Mirror-In-The-Room_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나무]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%ac%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 05 Apr 2022 08:16:46 GMT</pubDate>
             <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Wildflower-_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Water Traveller (Original Soundtrack for Document 14th Film)]]></title>
-            <link>https://poclanos.com/album/water-traveller-original-soundtrack-for-document-14th-film/</link>
-            <guid>https://poclanos.com/album/water-traveller-original-soundtrack-for-document-14th-film/</guid>
-            <pubDate>Mon, 04 Apr 2022 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Water-Traveller_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불 Forest Fire]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88-forest-fire/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88-forest-fire/</guid>
-            <pubDate>Mon, 04 Apr 2022 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[수림 SURIM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Forest-Fire_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
