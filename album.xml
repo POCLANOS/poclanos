@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 21:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Today From Past Days]]></title>
+            <link>https://poclanos.com/album/today-from-past-days/</link>
+            <guid>https://poclanos.com/album/today-from-past-days/</guid>
+            <pubDate>Thu, 14 Apr 2022 09:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Today-From-Past-Days_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[untidy]]></title>
+            <link>https://poclanos.com/album/untidy/</link>
+            <guid>https://poclanos.com/album/untidy/</guid>
+            <pubDate>Thu, 14 Apr 2022 09:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[오아트(OART)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/untidy_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Belief]]></title>
             <link>https://poclanos.com/album/belief-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 06 Apr 2022 03:25:31 GMT</pubDate>
             <content:encoded><![CDATA[BLVN (BELIEVE IN)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/BLVN_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[earth]]></title>
-            <link>https://poclanos.com/album/earth/</link>
-            <guid>https://poclanos.com/album/earth/</guid>
-            <pubDate>Tue, 05 Apr 2022 13:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[남경운]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wildflower (Original Soundtrack for Document 15th Film)]]></title>
-            <link>https://poclanos.com/album/wildflower-original-soundtrack-for-document-15th-film/</link>
-            <guid>https://poclanos.com/album/wildflower-original-soundtrack-for-document-15th-film/</guid>
-            <pubDate>Tue, 05 Apr 2022 08:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Wildflower-_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
