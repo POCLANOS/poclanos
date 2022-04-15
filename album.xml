@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 13:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑이 없다면]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%97%86%eb%8b%a4%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%97%86%eb%8b%a4%eb%a9%b4/</guid>
+            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[아웃오브블루 (Out of Blue)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%95%84%EC%9B%83%EC%98%A4%EB%B8%8C%EB%B8%94%EB%A3%A8_%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%97%86%EB%8B%A4%EB%A9%B4_-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grandpa’s Book]]></title>
+            <link>https://poclanos.com/album/grandpas-book/</link>
+            <guid>https://poclanos.com/album/grandpas-book/</guid>
+            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[전태원]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/GRANDPAS-BOOK-ALBUM_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FANTASIAS]]></title>
+            <link>https://poclanos.com/album/fantasias/</link>
+            <guid>https://poclanos.com/album/fantasias/</guid>
+            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[PAX JAPONICA GROOVE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/FANTASIAS_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zero Sugar]]></title>
+            <link>https://poclanos.com/album/zero-sugar/</link>
+            <guid>https://poclanos.com/album/zero-sugar/</guid>
+            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-About-Paul-Zero-Sugar-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Today From Past Days]]></title>
             <link>https://poclanos.com/album/today-from-past-days/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 07 Apr 2022 03:24:19 GMT</pubDate>
             <content:encoded><![CDATA[nemA]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Memories_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은,]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80/</guid>
-            <pubDate>Thu, 07 Apr 2022 03:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[민제 (MINJE)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Love-is_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히아신스]]></title>
-            <link>https://poclanos.com/album/%ed%9e%88%ec%95%84%ec%8b%a0%ec%8a%a4/</link>
-            <guid>https://poclanos.com/album/%ed%9e%88%ec%95%84%ec%8b%a0%ec%8a%a4/</guid>
-            <pubDate>Thu, 07 Apr 2022 03:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[공토끼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/hyacinth_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[If You Didn’t Know]]></title>
-            <link>https://poclanos.com/album/if-you-didnt-know/</link>
-            <guid>https://poclanos.com/album/if-you-didnt-know/</guid>
-            <pubDate>Wed, 06 Apr 2022 17:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[Jflow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/If-You-Didnt-Know_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노스텔지어]]></title>
-            <link>https://poclanos.com/album/%eb%85%b8%ec%8a%a4%ed%85%94%ec%a7%80%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%85%b8%ec%8a%a4%ed%85%94%ec%a7%80%ec%96%b4/</guid>
-            <pubDate>Wed, 06 Apr 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[BLVN (BELIEVE IN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/BLVN_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
