@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 00:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Carousel (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/carousel/</link>
+            <guid>https://poclanos.com/album/carousel/</guid>
+            <pubDate>Sat, 16 Apr 2022 09:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[김나은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-%EA%B9%80%EB%82%98%EC%9D%80-Carousel-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑이 없다면 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%97%86%eb%8b%a4%eb%a9%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Apr 2022 04:14:51 GMT</pubDate>
             <content:encoded><![CDATA[Last Benevolence]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/The-Maidens-Requital_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Memories (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/memories-2/</link>
-            <guid>https://poclanos.com/album/memories-2/</guid>
-            <pubDate>Thu, 07 Apr 2022 03:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[nemA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Memories_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진수영 [창문을 통해 어렴풋이] (POCLANOS ─ Review)]]></title>
