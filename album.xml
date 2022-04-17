@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 09:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alpine District]]></title>
+            <link>https://poclanos.com/album/alpine-district/</link>
+            <guid>https://poclanos.com/album/alpine-district/</guid>
+            <pubDate>Sun, 17 Apr 2022 06:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[Grack Thany]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Alpine-District_%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95%EB%B3%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Carousel]]></title>
             <link>https://poclanos.com/album/carousel/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 08 Apr 2022 04:14:51 GMT</pubDate>
             <content:encoded><![CDATA[장들레]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Potential_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Maiden’s Requital]]></title>
-            <link>https://poclanos.com/album/the-maidens-requital/</link>
-            <guid>https://poclanos.com/album/the-maidens-requital/</guid>
-            <pubDate>Fri, 08 Apr 2022 04:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[Last Benevolence]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/The-Maidens-Requital_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
