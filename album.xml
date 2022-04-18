@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 02:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Trying to do What I can do]]></title>
+            <link>https://poclanos.com/album/trying-to-do-what-i-can-do/</link>
+            <guid>https://poclanos.com/album/trying-to-do-what-i-can-do/</guid>
+            <pubDate>Mon, 18 Apr 2022 17:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[jANE (재인)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Trying-to-do-what-I-can-do-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Poor Love]]></title>
+            <link>https://poclanos.com/album/poor-love-2/</link>
+            <guid>https://poclanos.com/album/poor-love-2/</guid>
+            <pubDate>Mon, 18 Apr 2022 17:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[SHIRT]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Poor-Love_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑할거야]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%a0%ea%b1%b0%ec%95%bc/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 10 Apr 2022 06:16:40 GMT</pubDate>
             <content:encoded><![CDATA[hamzzi]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/MDA_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불타올라라 연애세포]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc%eb%9d%bc-%ec%97%b0%ec%98%88%ec%84%b8%ed%8f%ac/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc%eb%9d%bc-%ec%97%b0%ec%98%88%ec%84%b8%ed%8f%ac/</guid>
-            <pubDate>Sat, 09 Apr 2022 03:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/2022.04.09-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안부]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%eb%b6%80/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%eb%b6%80/</guid>
-            <pubDate>Fri, 08 Apr 2022 11:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[김오키]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/kimoki_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
