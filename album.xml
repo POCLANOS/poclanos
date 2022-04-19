@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 22:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:03:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Helm]]></title>
+            <link>https://poclanos.com/album/helm/</link>
+            <guid>https://poclanos.com/album/helm/</guid>
+            <pubDate>Tue, 19 Apr 2022 03:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Helm_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In Your Sweet Memory – Another Spring Rain]]></title>
+            <link>https://poclanos.com/album/in-your-sweet-memory-another-spring-rain/</link>
+            <guid>https://poclanos.com/album/in-your-sweet-memory-another-spring-rain/</guid>
+            <pubDate>Tue, 19 Apr 2022 03:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/In-Your-Sweet-Memory_ASR_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어느새 봄]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%8a%90%ec%83%88-%eb%b4%84/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%8a%90%ec%83%88-%eb%b4%84/</guid>
+            <pubDate>Tue, 19 Apr 2022 03:01:52 GMT</pubDate>
+            <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%96%B4%EB%8A%90%EC%83%88-%EB%B4%84_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Trying to do What I can do]]></title>
             <link>https://poclanos.com/album/trying-to-do-what-i-can-do/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 03:39:36 GMT</pubDate>
             <content:encoded><![CDATA[신서울]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/seoul_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4:04AM]]></title>
-            <link>https://poclanos.com/album/404am/</link>
-            <guid>https://poclanos.com/album/404am/</guid>
-            <pubDate>Mon, 11 Apr 2022 03:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/404AM_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WIHU]]></title>
-            <link>https://poclanos.com/album/wihu/</link>
-            <guid>https://poclanos.com/album/wihu/</guid>
-            <pubDate>Mon, 11 Apr 2022 03:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/WIHU_cover_220410-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MDA]]></title>
-            <link>https://poclanos.com/album/mda/</link>
-            <guid>https://poclanos.com/album/mda/</guid>
-            <pubDate>Sun, 10 Apr 2022 06:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[hamzzi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/MDA_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
