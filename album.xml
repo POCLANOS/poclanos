@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Last Thing Left]]></title>
+            <link>https://poclanos.com/album/the-last-thing-left-2/</link>
+            <guid>https://poclanos.com/album/the-last-thing-left-2/</guid>
+            <pubDate>Wed, 20 Apr 2022 09:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[세이수미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/saysueme_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I Do Really]]></title>
             <link>https://poclanos.com/album/i-do-really/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
             <content:encoded><![CDATA[jujuland]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/jujuland_0412_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비상구 있는 집 (Original Sound Track)]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ec%83%81%ea%b5%ac-%ec%9e%88%eb%8a%94-%ec%a7%91-original-sound-track/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ec%83%81%ea%b5%ac-%ec%9e%88%eb%8a%94-%ec%a7%91-original-sound-track/</guid>
-            <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[장아름]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EB%B9%84%EC%83%81%EA%B5%AC-%EC%9E%88%EB%8A%94-%EC%A7%91-Original-Sound-Track_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
