@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 03:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Do Really]]></title>
+            <link>https://poclanos.com/album/i-do-really/</link>
+            <guid>https://poclanos.com/album/i-do-really/</guid>
+            <pubDate>Wed, 20 Apr 2022 03:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[L.X.M]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/L.X.M-I-Do-Really_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Helm]]></title>
             <link>https://poclanos.com/album/helm/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
             <content:encoded><![CDATA[장아름]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EB%B9%84%EC%83%81%EA%B5%AC-%EC%9E%88%EB%8A%94-%EC%A7%91-Original-Sound-Track_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울, 코로나]]></title>
-            <link>https://poclanos.com/album/%ec%84%9c%ec%9a%b8-%ec%bd%94%eb%a1%9c%eb%82%98/</link>
-            <guid>https://poclanos.com/album/%ec%84%9c%ec%9a%b8-%ec%bd%94%eb%a1%9c%eb%82%98/</guid>
-            <pubDate>Mon, 11 Apr 2022 03:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[신서울]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/seoul_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
