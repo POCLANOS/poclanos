@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 19:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃이 지듯 피지]]></title>
+            <link>https://poclanos.com/album/%ea%bd%83%ec%9d%b4-%ec%a7%80%eb%93%af-%ed%94%bc%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ea%bd%83%ec%9d%b4-%ec%a7%80%eb%93%af-%ed%94%bc%ec%a7%80/</guid>
+            <pubDate>Thu, 21 Apr 2022 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[사람12사람]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Me before you]]></title>
+            <link>https://poclanos.com/album/me-before-you/</link>
+            <guid>https://poclanos.com/album/me-before-you/</guid>
+            <pubDate>Thu, 21 Apr 2022 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[Bowl]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Bowl-Me-before-you-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마구 좋아하는 마음]]></title>
+            <link>https://poclanos.com/album/%eb%a7%88%ea%b5%ac-%ec%a2%8b%ec%95%84%ed%95%98%eb%8a%94-%eb%a7%88%ec%9d%8c/</link>
+            <guid>https://poclanos.com/album/%eb%a7%88%ea%b5%ac-%ec%a2%8b%ec%95%84%ed%95%98%eb%8a%94-%eb%a7%88%ec%9d%8c/</guid>
+            <pubDate>Thu, 21 Apr 2022 06:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-pylat-%ED%8C%8C%EC%9D%BC%EB%9E%AB-%EB%A7%88%EA%B5%AC-%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%8C-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[The Last Thing Left]]></title>
             <link>https://poclanos.com/album/the-last-thing-left-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 13 Apr 2022 10:12:27 GMT</pubDate>
             <content:encoded><![CDATA[eundohee]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/4.-eundohee-Belief_cover-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirror In The Room]]></title>
-            <link>https://poclanos.com/album/mirror-in-the-room/</link>
-            <guid>https://poclanos.com/album/mirror-in-the-room/</guid>
-            <pubDate>Wed, 13 Apr 2022 10:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Mirror-In-The-Room_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나무]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%ac%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%ac%b4/</guid>
-            <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[김뽐므]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EB%82%98%EB%AC%B4_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처음 만난 사람이 아닌데]]></title>
-            <link>https://poclanos.com/album/%ec%b2%98%ec%9d%8c-%eb%a7%8c%eb%82%9c-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%95%84%eb%8b%8c%eb%8d%b0/</link>
-            <guid>https://poclanos.com/album/%ec%b2%98%ec%9d%8c-%eb%a7%8c%eb%82%9c-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%95%84%eb%8b%8c%eb%8d%b0/</guid>
-            <pubDate>Tue, 12 Apr 2022 03:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[jujuland]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/jujuland_0412_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
