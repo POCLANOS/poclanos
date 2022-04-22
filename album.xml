@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 16:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Not Yet]]></title>
+            <link>https://poclanos.com/album/not-yet-2/</link>
+            <guid>https://poclanos.com/album/not-yet-2/</guid>
+            <pubDate>Fri, 22 Apr 2022 06:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[SE YEON (이세연)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/NOT-YET_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잿더미심장 / 문채]]></title>
+            <link>https://poclanos.com/album/%ec%9e%bf%eb%8d%94%eb%af%b8%ec%8b%ac%ec%9e%a5-%eb%ac%b8%ec%b1%84/</link>
+            <guid>https://poclanos.com/album/%ec%9e%bf%eb%8d%94%eb%af%b8%ec%8b%ac%ec%9e%a5-%eb%ac%b8%ec%b1%84/</guid>
+            <pubDate>Fri, 22 Apr 2022 06:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%9E%BF%EB%8D%94%EB%AF%B8%EC%8B%AC%EC%9E%A5-%EB%AC%B8%EC%B1%84_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Better]]></title>
+            <link>https://poclanos.com/album/better/</link>
+            <guid>https://poclanos.com/album/better/</guid>
+            <pubDate>Fri, 22 Apr 2022 06:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Better_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[꽃이 지듯 피지]]></title>
             <link>https://poclanos.com/album/%ea%bd%83%ec%9d%b4-%ec%a7%80%eb%93%af-%ed%94%bc%ec%a7%80/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
             <content:encoded><![CDATA[About Paul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-About-Paul-Zero-Sugar-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Today From Past Days]]></title>
-            <link>https://poclanos.com/album/today-from-past-days/</link>
-            <guid>https://poclanos.com/album/today-from-past-days/</guid>
-            <pubDate>Thu, 14 Apr 2022 09:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Today-From-Past-Days_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[untidy]]></title>
-            <link>https://poclanos.com/album/untidy/</link>
-            <guid>https://poclanos.com/album/untidy/</guid>
-            <pubDate>Thu, 14 Apr 2022 09:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[오아트(OART)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/untidy_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belief]]></title>
-            <link>https://poclanos.com/album/belief-2/</link>
-            <guid>https://poclanos.com/album/belief-2/</guid>
-            <pubDate>Wed, 13 Apr 2022 10:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[eundohee]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/4.-eundohee-Belief_cover-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
