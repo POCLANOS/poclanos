@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 02:31:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 05:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Figure It Out]]></title>
+            <link>https://poclanos.com/album/figure-it-out/</link>
+            <guid>https://poclanos.com/album/figure-it-out/</guid>
+            <pubDate>Sat, 23 Apr 2022 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Figure-It-Out_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Always You]]></title>
+            <link>https://poclanos.com/album/always-you/</link>
+            <guid>https://poclanos.com/album/always-you/</guid>
+            <pubDate>Sat, 23 Apr 2022 05:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/5.-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Always-You-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Not Yet]]></title>
             <link>https://poclanos.com/album/not-yet-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
             <content:encoded><![CDATA[전태원]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/GRANDPAS-BOOK-ALBUM_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FANTASIAS]]></title>
-            <link>https://poclanos.com/album/fantasias/</link>
-            <guid>https://poclanos.com/album/fantasias/</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[PAX JAPONICA GROOVE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/FANTASIAS_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Zero Sugar]]></title>
-            <link>https://poclanos.com/album/zero-sugar/</link>
-            <guid>https://poclanos.com/album/zero-sugar/</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[About Paul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-About-Paul-Zero-Sugar-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
