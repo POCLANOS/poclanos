@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 00:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 07:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[More]]></title>
+            <link>https://poclanos.com/album/more/</link>
+            <guid>https://poclanos.com/album/more/</guid>
+            <pubDate>Sun, 24 Apr 2022 07:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-More_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Figure It Out]]></title>
             <link>https://poclanos.com/album/figure-it-out/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
             <content:encoded><![CDATA[아웃오브블루 (Out of Blue)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%95%84%EC%9B%83%EC%98%A4%EB%B8%8C%EB%B8%94%EB%A3%A8_%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%97%86%EB%8B%A4%EB%A9%B4_-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grandpa’s Book]]></title>
-            <link>https://poclanos.com/album/grandpas-book/</link>
-            <guid>https://poclanos.com/album/grandpas-book/</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[전태원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/GRANDPAS-BOOK-ALBUM_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
