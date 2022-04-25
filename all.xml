@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 07:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HATE YOU (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hate-you-2/</link>
+            <guid>https://poclanos.com/album/hate-you-2/</guid>
+            <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-POLYP-%ED%8F%B4%EB%A6%BD-HATE-YOU-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Birdie (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/birdie/</link>
+            <guid>https://poclanos.com/album/birdie/</guid>
+            <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[이상록]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Birdie_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[기다리던 아침이 올 거야 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%8d%98-%ec%95%84%ec%b9%a8%ec%9d%b4-%ec%98%ac-%ea%b1%b0%ec%95%bc/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%8d%98-%ec%95%84%ec%b9%a8%ec%9d%b4-%ec%98%ac-%ea%b1%b0%ec%95%bc/</guid>
+            <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/blurrin_%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%8D%98-%EC%95%84%EC%B9%A8%EC%9D%B4-%EC%98%AC-%EA%B1%B0%EC%95%BC_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[More (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/more/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 17 Apr 2022 14:10:58 GMT</pubDate>
             <content:encoded><![CDATA[예빛]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%82%AC%EB%9E%91%ED%95%A0%EA%B1%B0%EC%95%BC_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alpine District (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/alpine-district/</link>
-            <guid>https://poclanos.com/album/alpine-district/</guid>
-            <pubDate>Sun, 17 Apr 2022 06:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[Grack Thany]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Alpine-District_%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95%EB%B3%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carousel (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/carousel/</link>
-            <guid>https://poclanos.com/album/carousel/</guid>
-            <pubDate>Sat, 16 Apr 2022 09:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-%EA%B9%80%EB%82%98%EC%9D%80-Carousel-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이 없다면 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%97%86%eb%8b%a4%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%97%86%eb%8b%a4%eb%a9%b4/</guid>
-            <pubDate>Fri, 15 Apr 2022 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[아웃오브블루 (Out of Blue)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%95%84%EC%9B%83%EC%98%A4%EB%B8%8C%EB%B8%94%EB%A3%A8_%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%97%86%EB%8B%A4%EB%A9%B4_-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장아름 [Lullaby] (POCLANOS ─ Review)]]></title>
