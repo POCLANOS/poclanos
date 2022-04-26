@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 23:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 03:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[home (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/home-6/</link>
+            <guid>https://poclanos.com/album/home-6/</guid>
+            <pubDate>Tue, 26 Apr 2022 03:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[His (히스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/home_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Koreography (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/koreography/</link>
+            <guid>https://poclanos.com/album/koreography/</guid>
+            <pubDate>Tue, 26 Apr 2022 03:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[Leevisa]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Koreography_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daisy (with 969) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/daisy-with-969/</link>
+            <guid>https://poclanos.com/album/daisy-with-969/</guid>
+            <pubDate>Tue, 26 Apr 2022 03:48:39 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-Daisy-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요새 (feat. So!YoON!) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%94%ec%83%88-feat-soyoon/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 19 Apr 2022 03:01:52 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/In-Your-Sweet-Memory_ASR_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느새 봄 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%8a%90%ec%83%88-%eb%b4%84/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%8a%90%ec%83%88-%eb%b4%84/</guid>
-            <pubDate>Tue, 19 Apr 2022 03:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%96%B4%EB%8A%90%EC%83%88-%EB%B4%84_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trying to do What I can do (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/trying-to-do-what-i-can-do/</link>
-            <guid>https://poclanos.com/album/trying-to-do-what-i-can-do/</guid>
-            <pubDate>Mon, 18 Apr 2022 17:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[jANE (재인)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Trying-to-do-what-I-can-do-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poor Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/poor-love-2/</link>
-            <guid>https://poclanos.com/album/poor-love-2/</guid>
-            <pubDate>Mon, 18 Apr 2022 17:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[SHIRT]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Poor-Love_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장아름 [Lullaby] (POCLANOS ─ Review)]]></title>
