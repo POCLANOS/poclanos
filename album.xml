@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 22:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sonatine]]></title>
+            <link>https://poclanos.com/album/sonatine/</link>
+            <guid>https://poclanos.com/album/sonatine/</guid>
+            <pubDate>Wed, 27 Apr 2022 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[Sojeso]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 비행기]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%b9%84%ed%96%89%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%b9%84%ed%96%89%ea%b8%b0/</guid>
+            <pubDate>Wed, 27 Apr 2022 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EB%82%98%EB%8A%94-%EB%B9%84%ED%96%89%EA%B8%B0_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈]]></title>
             <link>https://poclanos.com/album/%ea%bf%88-6/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 20 Apr 2022 09:13:45 GMT</pubDate>
             <content:encoded><![CDATA[세이수미]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/saysueme_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Do Really]]></title>
-            <link>https://poclanos.com/album/i-do-really/</link>
-            <guid>https://poclanos.com/album/i-do-really/</guid>
-            <pubDate>Wed, 20 Apr 2022 03:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[L.X.M]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/L.X.M-I-Do-Really_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helm]]></title>
-            <link>https://poclanos.com/album/helm/</link>
-            <guid>https://poclanos.com/album/helm/</guid>
-            <pubDate>Tue, 19 Apr 2022 03:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[Darley]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Helm_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
