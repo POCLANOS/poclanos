@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리잔]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%9e%94/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%9e%94/</guid>
+            <pubDate>Thu, 28 Apr 2022 09:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EA%B5%AC%EC%9B%90%EC%B0%AC_%EC%9C%A0%EB%A6%AC%EC%9E%94_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무기력]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%eb%a0%a5/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Apr 2022 06:16:07 GMT</pubDate>
             <content:encoded><![CDATA[SE YEON (이세연)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/NOT-YET_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잿더미심장 / 문채]]></title>
-            <link>https://poclanos.com/album/%ec%9e%bf%eb%8d%94%eb%af%b8%ec%8b%ac%ec%9e%a5-%eb%ac%b8%ec%b1%84/</link>
-            <guid>https://poclanos.com/album/%ec%9e%bf%eb%8d%94%eb%af%b8%ec%8b%ac%ec%9e%a5-%eb%ac%b8%ec%b1%84/</guid>
-            <pubDate>Fri, 22 Apr 2022 06:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%9E%BF%EB%8D%94%EB%AF%B8%EC%8B%AC%EC%9E%A5-%EB%AC%B8%EC%B1%84_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
