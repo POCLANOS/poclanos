@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 00:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 06:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관람차]]></title>
+            <link>https://poclanos.com/album/%ea%b4%80%eb%9e%8c%ec%b0%a8/</link>
+            <guid>https://poclanos.com/album/%ea%b4%80%eb%9e%8c%ec%b0%a8/</guid>
+            <pubDate>Fri, 29 Apr 2022 06:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[강연주]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-%EA%B0%95%EC%97%B0%EC%A3%BC-%EA%B4%80%EB%9E%8C%EC%B0%A8-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유리잔]]></title>
             <link>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%9e%94/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Apr 2022 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/5.-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Always-You-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Not Yet]]></title>
-            <link>https://poclanos.com/album/not-yet-2/</link>
-            <guid>https://poclanos.com/album/not-yet-2/</guid>
-            <pubDate>Fri, 22 Apr 2022 06:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[SE YEON (이세연)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/NOT-YET_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
