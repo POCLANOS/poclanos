@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 11:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tallgrass]]></title>
+            <link>https://poclanos.com/album/tallgrass/</link>
+            <guid>https://poclanos.com/album/tallgrass/</guid>
+            <pubDate>Fri, 29 Apr 2022 11:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[오존(O3ohn)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Tallgrass_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[관람차]]></title>
             <link>https://poclanos.com/album/%ea%b4%80%eb%9e%8c%ec%b0%a8/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Apr 2022 05:10:48 GMT</pubDate>
             <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Figure-It-Out_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Always You]]></title>
-            <link>https://poclanos.com/album/always-you/</link>
-            <guid>https://poclanos.com/album/always-you/</guid>
-            <pubDate>Sat, 23 Apr 2022 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/5.-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Always-You-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
