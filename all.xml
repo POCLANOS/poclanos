@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 15:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 05:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D’story (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dstory/</link>
+            <guid>https://poclanos.com/album/dstory/</guid>
+            <pubDate>Sat, 30 Apr 2022 05:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[D.no (디노)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/D.no_Dstory_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충무에서 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b6%a9%eb%ac%b4%ec%97%90%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ec%b6%a9%eb%ac%b4%ec%97%90%ec%84%9c/</guid>
+            <pubDate>Sat, 30 Apr 2022 05:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[강아솔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%B6%A9%EB%AC%B4%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tallgrass (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/tallgrass/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
             <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/blurrin_%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%8D%98-%EC%95%84%EC%B9%A8%EC%9D%B4-%EC%98%AC-%EA%B1%B0%EC%95%BC_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/more/</link>
-            <guid>https://poclanos.com/album/more/</guid>
-            <pubDate>Sun, 24 Apr 2022 07:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-More_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Figure It Out (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/figure-it-out/</link>
-            <guid>https://poclanos.com/album/figure-it-out/</guid>
-            <pubDate>Sat, 23 Apr 2022 05:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Figure-It-Out_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장아름 [Lullaby] (POCLANOS ─ Review)]]></title>
