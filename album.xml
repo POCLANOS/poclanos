@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 01:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 07:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tomorrow]]></title>
+            <link>https://poclanos.com/album/tomorrow-2/</link>
+            <guid>https://poclanos.com/album/tomorrow-2/</guid>
+            <pubDate>Sun, 01 May 2022 07:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[권은진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Tomorrow_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[D’story]]></title>
             <link>https://poclanos.com/album/dstory/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
             <content:encoded><![CDATA[이상록]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Birdie_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[기다리던 아침이 올 거야]]></title>
-            <link>https://poclanos.com/album/%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%8d%98-%ec%95%84%ec%b9%a8%ec%9d%b4-%ec%98%ac-%ea%b1%b0%ec%95%bc/</link>
-            <guid>https://poclanos.com/album/%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%8d%98-%ec%95%84%ec%b9%a8%ec%9d%b4-%ec%98%ac-%ea%b1%b0%ec%95%bc/</guid>
-            <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/blurrin_%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%8D%98-%EC%95%84%EC%B9%A8%EC%9D%B4-%EC%98%AC-%EA%B1%B0%EC%95%BC_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
