@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 20:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 10:17:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Last For ONE 20th Anniversary]]></title>
+            <link>https://poclanos.com/album/last-for-one-20th-anniversary/</link>
+            <guid>https://poclanos.com/album/last-for-one-20th-anniversary/</guid>
+            <pubDate>Mon, 02 May 2022 10:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Wreckx (디제이렉스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Last-for-one-20th-anniversary_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흔적]]></title>
+            <link>https://poclanos.com/album/%ed%9d%94%ec%a0%81/</link>
+            <guid>https://poclanos.com/album/%ed%9d%94%ec%a0%81/</guid>
+            <pubDate>Mon, 02 May 2022 10:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[WINee(위니)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-WINee-%EC%9C%84%EB%8B%88-%ED%9D%94%EC%A0%81-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tomorrow]]></title>
             <link>https://poclanos.com/album/tomorrow-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 25 Apr 2022 13:28:55 GMT</pubDate>
             <content:encoded><![CDATA[김도언]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/01-%EA%B9%80%EB%8F%84%EC%96%B8-%EC%9A%94%EC%83%88-feat.-SoYoON-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HATE YOU]]></title>
-            <link>https://poclanos.com/album/hate-you-2/</link>
-            <guid>https://poclanos.com/album/hate-you-2/</guid>
-            <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-POLYP-%ED%8F%B4%EB%A6%BD-HATE-YOU-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Birdie]]></title>
-            <link>https://poclanos.com/album/birdie/</link>
-            <guid>https://poclanos.com/album/birdie/</guid>
-            <pubDate>Mon, 25 Apr 2022 07:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[이상록]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Birdie_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
