@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 02:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:37:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Suiteki]]></title>
+            <link>https://poclanos.com/album/suiteki/</link>
+            <guid>https://poclanos.com/album/suiteki/</guid>
+            <pubDate>Fri, 06 May 2022 03:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Suiteki_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Happiness]]></title>
+            <link>https://poclanos.com/album/happiness/</link>
+            <guid>https://poclanos.com/album/happiness/</guid>
+            <pubDate>Fri, 06 May 2022 03:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[스멜스 (Smells)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Happiness_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hiking]]></title>
+            <link>https://poclanos.com/album/hiking/</link>
+            <guid>https://poclanos.com/album/hiking/</guid>
+            <pubDate>Fri, 06 May 2022 03:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[잭킹콩(Jackingcong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Hiking_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해보자고 어]]></title>
             <link>https://poclanos.com/album/%ed%95%b4%eb%b3%b4%ec%9e%90%ea%b3%a0-%ec%96%b4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 28 Apr 2022 05:36:08 GMT</pubDate>
             <content:encoded><![CDATA[Ain Blurr]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Watercash_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착륙]]></title>
-            <link>https://poclanos.com/album/%ec%b0%a9%eb%a5%99/</link>
-            <guid>https://poclanos.com/album/%ec%b0%a9%eb%a5%99/</guid>
-            <pubDate>Thu, 28 Apr 2022 05:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[생각의 여름]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%B0%A9%EB%A5%99_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHUUU!]]></title>
-            <link>https://poclanos.com/album/shuuu/</link>
-            <guid>https://poclanos.com/album/shuuu/</guid>
-            <pubDate>Thu, 28 Apr 2022 05:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[슈 (SHUUU)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/SHUUU_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love On Scale]]></title>
-            <link>https://poclanos.com/album/love-on-scale/</link>
-            <guid>https://poclanos.com/album/love-on-scale/</guid>
-            <pubDate>Wed, 27 Apr 2022 16:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[지환]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
