@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 00:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 03:32:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Need To Pray 2nd Single Album (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/need-to-pray-2nd-single-album/</link>
+            <guid>https://poclanos.com/album/need-to-pray-2nd-single-album/</guid>
+            <pubDate>Sat, 07 May 2022 03:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[Need To pray]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Dont-Worry_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[chatter(loop) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/chatterloop/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Apr 2022 09:12:59 GMT</pubDate>
             <content:encoded><![CDATA[구원찬]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EA%B5%AC%EC%9B%90%EC%B0%AC_%EC%9C%A0%EB%A6%AC%EC%9E%94_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무기력 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%eb%a0%a5/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%eb%a0%a5/</guid>
-            <pubDate>Thu, 28 Apr 2022 05:36:08 GMT</pubDate>
-            <content:encoded><![CDATA[성인창]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-%EC%84%B1%EC%9D%B8%EC%B0%BD-%EB%AC%B4%EA%B8%B0%EB%A0%A5_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[남경운 [earth] (POCLANOS ─ Review)]]></title>
