@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 20:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Show Me Love]]></title>
+            <link>https://poclanos.com/album/show-me-love-2/</link>
+            <guid>https://poclanos.com/album/show-me-love-2/</guid>
+            <pubDate>Mon, 09 May 2022 08:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Show-Me-Love_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LUSH]]></title>
+            <link>https://poclanos.com/album/lush-2/</link>
+            <guid>https://poclanos.com/album/lush-2/</guid>
+            <pubDate>Mon, 09 May 2022 08:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/LUSH_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살금 (SALGEUM)]]></title>
             <link>https://poclanos.com/album/%ec%82%b4%ea%b8%88-salgeum/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 30 Apr 2022 05:12:36 GMT</pubDate>
             <content:encoded><![CDATA[강아솔]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%B6%A9%EB%AC%B4%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tallgrass]]></title>
-            <link>https://poclanos.com/album/tallgrass/</link>
-            <guid>https://poclanos.com/album/tallgrass/</guid>
-            <pubDate>Fri, 29 Apr 2022 11:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[오존(O3ohn)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Tallgrass_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관람차]]></title>
-            <link>https://poclanos.com/album/%ea%b4%80%eb%9e%8c%ec%b0%a8/</link>
-            <guid>https://poclanos.com/album/%ea%b4%80%eb%9e%8c%ec%b0%a8/</guid>
-            <pubDate>Fri, 29 Apr 2022 06:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[강연주]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/3.-%EA%B0%95%EC%97%B0%EC%A3%BC-%EA%B4%80%EB%9E%8C%EC%B0%A8-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
