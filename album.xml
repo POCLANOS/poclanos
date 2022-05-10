@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 20:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 05:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[발그레]]></title>
+            <link>https://poclanos.com/album/%eb%b0%9c%ea%b7%b8%eb%a0%88/</link>
+            <guid>https://poclanos.com/album/%eb%b0%9c%ea%b7%b8%eb%a0%88/</guid>
+            <pubDate>Tue, 10 May 2022 05:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[아사히]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EC%95%84%EC%82%AC%ED%9E%88_%EB%B0%9C%EA%B7%B8%EB%A0%88_Cover-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Damage]]></title>
+            <link>https://poclanos.com/album/damage/</link>
+            <guid>https://poclanos.com/album/damage/</guid>
+            <pubDate>Tue, 10 May 2022 05:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[김도언]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EA%B9%80%EB%8F%84%EC%96%B8-Damage-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Type 1]]></title>
+            <link>https://poclanos.com/album/type-1/</link>
+            <guid>https://poclanos.com/album/type-1/</guid>
+            <pubDate>Tue, 10 May 2022 05:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Type-1-3000x3000-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Show Me Love]]></title>
             <link>https://poclanos.com/album/show-me-love-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 02 May 2022 10:16:02 GMT</pubDate>
             <content:encoded><![CDATA[WINee(위니)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-WINee-%EC%9C%84%EB%8B%88-%ED%9D%94%EC%A0%81-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomorrow]]></title>
-            <link>https://poclanos.com/album/tomorrow-2/</link>
-            <guid>https://poclanos.com/album/tomorrow-2/</guid>
-            <pubDate>Sun, 01 May 2022 07:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[권은진]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/Tomorrow_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[D’story]]></title>
-            <link>https://poclanos.com/album/dstory/</link>
-            <guid>https://poclanos.com/album/dstory/</guid>
-            <pubDate>Sat, 30 Apr 2022 05:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[D.no (디노)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/D.no_Dstory_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충무에서]]></title>
-            <link>https://poclanos.com/album/%ec%b6%a9%eb%ac%b4%ec%97%90%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ec%b6%a9%eb%ac%b4%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Sat, 30 Apr 2022 05:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[강아솔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/%EC%B6%A9%EB%AC%B4%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
