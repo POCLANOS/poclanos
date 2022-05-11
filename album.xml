@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 21:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 03:02:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무도 모르게]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%eb%ac%b4%eb%8f%84-%eb%aa%a8%eb%a5%b4%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%eb%ac%b4%eb%8f%84-%eb%aa%a8%eb%a5%b4%ea%b2%8c/</guid>
+            <pubDate>Wed, 11 May 2022 03:00:39 GMT</pubDate>
+            <content:encoded><![CDATA[너와]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/0511_01-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발그레]]></title>
             <link>https://poclanos.com/album/%eb%b0%9c%ea%b7%b8%eb%a0%88/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 May 2022 10:16:02 GMT</pubDate>
             <content:encoded><![CDATA[DJ Wreckx (디제이렉스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Last-for-one-20th-anniversary_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흔적]]></title>
-            <link>https://poclanos.com/album/%ed%9d%94%ec%a0%81/</link>
-            <guid>https://poclanos.com/album/%ed%9d%94%ec%a0%81/</guid>
-            <pubDate>Mon, 02 May 2022 10:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[WINee(위니)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-WINee-%EC%9C%84%EB%8B%88-%ED%9D%94%EC%A0%81-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
