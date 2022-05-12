@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 02:53:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3]]></title>
+            <link>https://poclanos.com/album/3-5/</link>
+            <guid>https://poclanos.com/album/3-5/</guid>
+            <pubDate>Thu, 12 May 2022 07:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[sh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사색 (思索)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%ec%83%89-%e6%80%9d%e7%b4%a2/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%ec%83%89-%e6%80%9d%e7%b4%a2/</guid>
+            <pubDate>Thu, 12 May 2022 07:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[초월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Shape-Of-Regret_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤하늘]]></title>
+            <link>https://poclanos.com/album/%eb%b0%a4%ed%95%98%eb%8a%98-2/</link>
+            <guid>https://poclanos.com/album/%eb%b0%a4%ed%95%98%eb%8a%98-2/</guid>
+            <pubDate>Thu, 12 May 2022 07:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[DRENCH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/night-sky_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[둥글게]]></title>
             <link>https://poclanos.com/album/%eb%91%a5%ea%b8%80%ea%b2%8c/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 03 May 2022 15:12:24 GMT</pubDate>
             <content:encoded><![CDATA[dsel (디젤)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/2kzm.zip_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Echosystem]]></title>
-            <link>https://poclanos.com/album/echosystem/</link>
-            <guid>https://poclanos.com/album/echosystem/</guid>
-            <pubDate>Tue, 03 May 2022 15:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[An0]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Echosystem_%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[All You Need]]></title>
-            <link>https://poclanos.com/album/all-you-need/</link>
-            <guid>https://poclanos.com/album/all-you-need/</guid>
-            <pubDate>Tue, 03 May 2022 15:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/All-You-Need_Album-Cover-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[말해줘]]></title>
-            <link>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%a4%98/</link>
-            <guid>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%a4%98/</guid>
-            <pubDate>Tue, 03 May 2022 15:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[DOF2D]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%A7%90%ED%95%B4%EC%A4%98_%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
