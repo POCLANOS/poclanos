@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 03:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[평범한 엔딩 (옥상달빛 X LH 한국토지주택공사) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%8f%89%eb%b2%94%ed%95%9c-%ec%97%94%eb%94%a9-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-x-lh-%ed%95%9c%ea%b5%ad%ed%86%a0%ec%a7%80%ec%a3%bc%ed%83%9d%ea%b3%b5%ec%82%ac/</link>
+            <guid>https://poclanos.com/album/%ed%8f%89%eb%b2%94%ed%95%9c-%ec%97%94%eb%94%a9-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-x-lh-%ed%95%9c%ea%b5%ad%ed%86%a0%ec%a7%80%ec%a3%bc%ed%83%9d%ea%b3%b5%ec%82%ac/</guid>
+            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[옥상달빛]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EC%98%A5%EC%83%81%EB%8B%AC%EB%B9%9B-%ED%8F%89%EB%B2%94%ED%95%9C%EC%97%94%EB%94%A9_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠겨 살지 말아요 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%a0%ea%b2%a8-%ec%82%b4%ec%a7%80-%eb%a7%90%ec%95%84%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%9e%a0%ea%b2%a8-%ec%82%b4%ec%a7%80-%eb%a7%90%ec%95%84%ec%9a%94/</guid>
+            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/5.-Dreamus-%EC%9E%A0%EA%B2%A8-%EC%82%B4%EC%A7%80-%EB%A7%90%EC%95%84%EC%9A%94_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-1-600x600.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[saekdallian (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/saekdallian/</link>
+            <guid>https://poclanos.com/album/saekdallian/</guid>
+            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[최첨단맨 (ultramodernista)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/saekdallian_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물고기 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-4/</link>
+            <guid>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-4/</guid>
+            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%B0%B1%EC%98%88%EB%A6%B0_%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼼짝마! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%bc%bc%ec%a7%9d%eb%a7%88/</link>
+            <guid>https://poclanos.com/album/%ea%bc%bc%ec%a7%9d%eb%a7%88/</guid>
+            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[Viann]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%B9%84%EC%95%99x%ED%98%B8%ED%94%84%EA%B0%B1_%EA%BC%BC%EC%A7%9D%EB%A7%88_%EB%A9%94%EC%9D%B8%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hero (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/hero/</link>
@@ -128,46 +168,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/As-D_cover-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[flipstrumentals (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/flipstrumentals/</link>
-            <guid>https://poclanos.com/album/flipstrumentals/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[Guggenz]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/flipstrumentals_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연화 (年華) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%97%b0%ed%99%94-%e5%b9%b4%e8%8f%af/</link>
-            <guid>https://poclanos.com/album/%ec%97%b0%ed%99%94-%e5%b9%b4%e8%8f%af/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[정오월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Flowing-time_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SIN데렐라 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sin%eb%8d%b0%eb%a0%90%eb%9d%bc/</link>
-            <guid>https://poclanos.com/album/sin%eb%8d%b0%eb%a0%90%eb%9d%bc/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[Silly Silky]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN%EB%8D%B0%EB%A0%90%EB%9D%BC-_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Left Behind (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/left-behind/</link>
-            <guid>https://poclanos.com/album/left-behind/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[Dekobe]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Left-Behind_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저튼과멜 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a0%80%ed%8a%bc%ea%b3%bc%eb%a9%9c/</link>
-            <guid>https://poclanos.com/album/%ec%a0%80%ed%8a%bc%ea%b3%bc%eb%a9%9c/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Jerton-and-Mell_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해서웨이 (hathaw9y) [Sweet Violet Flame] (POCLANOS ─ Review)]]></title>
             <link>https://poclanos.com/review/sweet-violet-flame/</link>
             <guid>https://poclanos.com/review/sweet-violet-flame/</guid>
@@ -246,7 +246,7 @@
 <p>&nbsp;</p>
 <p>더욱이나 좀만 더 자세히 들어보면, ‘꽃이 지듯 피지’가 지난 두 EP의 특색이었던 불안정한 감각을 완전히 몰아내지는 않는다는 것도 알 수 있다. 이는 다시 한 번, 여전히 곳곳에서 모호함과 불분명함을 띠고 있는 음색 덕일 것이다. 이를테면, 드롭의 중심에 오는 명확한 신스음 주위로 치찰음처럼 스치는 잡음들이 흩뿌려지고, 그 앰비언트한 뒷켠에 사람12사람의 코러스가 희미하게 퍼질 때가 그렇다. 또 이와는 반대로, 꽤나 청량하게 고양되는 비트와 대치되게 들릴 수도 있는 목소리가 첫 드롭을 통과한 후 비트의 일부로 편입되듯 툭툭 끊기며 새로운 빌드업으로 진출하는 과정도 마찬가지다. ‘꽃이 지듯 피지’에서 정말로 인상적인 구간은 첫 드롭을 통과하고 마지막을 향해 나아가는 과정에서, 사람12사람이 통제 불가능한 요소들로 “투명함”과 “모호함” 양쪽 모두를 움켜쥐는 풍경이다. 드롭을 연장하듯 쿵쿵대는 베이스음과 길게 끌어지는 신스음으로 이뤄졌던 인스투르멘탈이 조금 갑작스럽게 처음의 건반과 현악기 쌍으로 툭 넘어갈 때, 음색상의 불분명함을 갖고 있는 목소리가 선율의 분명함으로 이 급박한 전환이 휘청거리지 않도록 꽉 붙들어주듯 말이다. 이런 식으로, 지금의 사람12사람이 추구하고자 하는 “완전함”은 불안정함에도 불구하고, 아니면 바로 그 불안정함을 통해 달성되는 것일지도 모른다. [빗물구름태풍태양]이 들려줬듯, 하나의 사운드가 투명하면서도 모호할 수 있고, 또 불안정한 소리들을 모아 꽤나 안정적인 구조와 전개의 팝을 만들어낼 수 있듯이 말이다. ‘꽃이 지듯 피지’는, 어떻게 보자면 소리의 불분명함을 쌓아올려 분명함을 만들었던 사람12사람의 기존 방식을 뒤집어, 팝적인 분명함이 소리의 불분명함으로 이뤄졌다는 걸 벅차오르는 전개로 들려주는 트랙일 것이다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 사람12사람 (SARAM12SARAM) - 꽃이 지듯 피지 (Flower bloom as if Wither)" src="https://www.youtube.com/embed/44mXg1qOSys?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_44mXg1qOSys" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 사람12사람 (SARAM12SARAM) - 꽃이 지듯 피지 (Flower bloom as if Wither)" src="https://www.youtube.com/embed/44mXg1qOSys?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_44mXg1qOSys" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>“넌 너무 달라져 있지 다시 오를 쯤에 / 기대를 걸어봐 많은 시간들이 보여”가 말해주듯, 트랙에서는 과거에 대한 회고와 미래에 대한 전망이 동시다발적으로 일어난다. 사람12사람의 변화는 예고되지 않고 불시에 즉시 일어나며, 그 모습은 제목처럼 “지듯이 피어나는” 과정과도 무척이나 닮아있다. 이는 끝과 시작에 놓인 사람12사람이 트랙 자체에서 확실한 방향을 향해가며 스스로를 재구성하는 방식이기도 할 것이다. 그 모든 경로가 억지스럽지 않게 느껴지는 건 역시나 사람12사람의 사람 목소리가 전면으로 나서 주어진 소리들의 주도권을 잡았기 때문일 테다. 도입부에서는 수려하게 연약함을 들려줬던 전작과 닮아있던 소리들이 주저하지 않고 드롭으로 뛰어든 후 차근차근 솟아올라가면서, 처음에는 불안정하거나 모호했을 소리 조각들이 어느새 투명하고 분명한 합을 만들어낸다. 그를 따라 다시 한 번 직선으로 흘러가는 시간을 따라 마지막 드롭이 시작되고, 도입부를 장식했던 피아노 소리가 합쳐지며 마무리의 종합을 향해 나아간다. 시작할 때만 해도 “작은 햇빛에 그을려” “숨 쉬는 것도 조금 벅차 보”였던 “너”가, 긴 시간을 지나온 이 끝에서 “빛이 많은 너”가 되어있다. 이전과 “똑같은 것도 조금 있었는지”, 새로이 찾아온 빛이 “아무렇지 않게 밝았었는지”는 모르는 일이겠지만, 그 불분명한 사람 목소리는 여전히 분명하게 사람12사람의 것이다.</p>
 <p>&nbsp;</p>
@@ -332,19 +332,19 @@
 <p>&nbsp;</p>
 <p>(이석원보다도 더 많은 통제권이 일임됐을지 모를) 이런 원맨밴드의 제작방식은 “대체역사”를 오롯이 홀로 상상해내는 것에 대한 이야기일 것이며, 그것은 이번의 EP [earth]도 동일하게 추동한다. [seoul cloud]와 비슷하게, 음반은 ‘에코’의 첫 음으로 “나…” 한 마디를 툭 던지면서 시작되니까. 그렇지만 분화의 분기점은 훨씬 더 이르게 찾아오며, 그만큼 트랙은 평행우주의 이발관에서부터 더 멀어져간다. 감정적인 섬세함을 포착하려는 이석원식의 보컬에는 종종 가성의 코러스가 짙게 겹쳐 올라가고, 춤추기에 충실한 경쾌함을 무게감 있게 제시하는 전대정식 드럼의 치밀함은 더 여유롭게 풀리며, 특히나 꼼꼼하게 자글거리는 이능룡식의 전기기타 톤은 블루스의 더 찐득한 그루브로 교체된다. 그러한 남경운만의 음색이 오로지 “오마주보다 오히려 파스티슈에 가까”울만큼 “직접적인 인용으로 범벅 (정병욱, [음악취향 Y])”이지만은 아닌 이유가 아마 거기에 있을 테다. 2000년대 기타 팝의 대체역사를 홀로 재상상하는 과정에 블루스를 더하며, 남경운은 도리어 원본에서 부차적으로 파생되지만은 않은 존재가 된다. [seoul cloud]에서도 레퍼런스에 가장 충실할 ‘이발관’에서마저도 ‘아름다운 것’의 멜로디를 로우파이하게 삽입해 직접인용의 정점을 찍었다가, 상징적인 “그렇게 사라져 가는데 / 아무것도 할 수 없었네”에 다른 멜로디를 부여하며 새어나가니 말이다. 이러한 과정을 따라서, 남경운은 평행우주의 옆길을 따라 좀 더 다른 세계로 산들산들 옮겨간다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 남경운 (Nam Kyung Un) - 에코 (echo)" src="https://www.youtube.com/embed/3tbx2QJp5RM?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_3tbx2QJp5RM" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 남경운 (Nam Kyung Un) - 에코 (echo)" src="https://www.youtube.com/embed/3tbx2QJp5RM?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_3tbx2QJp5RM" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>[earth]를 여는 ‘에코’가 제목대로 [seoul cloud]로부터의 메아리를 타고 뒤늦은 고백의 서정과 함께 시작된다면, 이후에 찾아오는 곡들은 음반명과 곡명에서 넌지시 끌어낼 수 있을 전원풍의 분위기에 집중한다. 진하게 조율됐던 블루스에서 여유 있는 그루브가 따와져 어쿠스틱한 톤으로 이식되고, 남경운의 전기기타는 트랙마다의 맥락에 따라 블루지한 톤을 조절한다. 귀뚜라미를 비롯한 자연 소리를 배경에 깔아둔 ‘여름비’는 보사노바풍의 기타와 셰이커를 통해 그에 상응하는 차분한 분위기를 만들며, 이에 따라 기타 솔로 또한 재지하게 맞춰져 편안한 음색에 일조한다. 한편 ‘구름’은 소상규의 나일론 기타와 오르내리는 코러스의 화성을 강조하며 [seoul cloud]의 가장 블루지했던 순간들을 더 가볍게 옮겨오는데, 여기에서의 기타 솔로는 슬라이드 주법을 통해 나른함을 최대치로 뽑아내 덧붙인다. 스윙 리듬의 잼을 선사하는 ‘별’을 지나 돌아온 보사노바 박자에 신스음의 흐름을 몇 줄기 올린 ‘바람’까지, 드럼은 이 네 곡 내내 브러시로 스치며 살랑거리는 리듬을 선사한다. [earth]의 중간을 통과하며, ‘에코’에 울려 퍼지던 [seoul cloud]의 잔향은 훨씬 차분하게 다듬어진 음색으로 재구성된다. 그에 따라 EP의 지반에서는 지난 음반의 ‘왕가위’처럼 직접 인용된 레퍼런스들이 대부분 떼어지고, 블루스가 박자 사이에서 빈틈을 만들듯 어쿠스틱한 여유로움이 들어온다.</p>
 <p>&nbsp;</p>
 <p>일종의 가벼운 스케치와도 같던 앞선 트랙들보다 재생시간이 더 긴 뒤쪽의 두 트랙으로 가며, ‘유토피아’는 [earth]에서 그 제목처럼 [earth]의 풍경들을 이상적이게 합쳐낸다. 나일론 기타와 전기기타는 스테레오를 타고 양쪽에서 블루지한 프레이즈를 가볍게 튕기고, 드럼은 훨씬 더 든든한 무게감을 갖고 박 간의 거리를 좁히고 넓히며 반복되며, 댄서블함은 속도가 느려진 만큼 몸을 까닥일 수 있을 호흡으로 풀린다. 하지만, 그 안정감과 달리 전작에서 돋보였다던 일종의 “염세”가 문득 “언제라도 도망갈 수 있게 / 짐을 싸두자”는 도피주의로 꺾여 들어온다. [earth]에서 마련되었다고 느껴지던 이 땅이 ‘유토피아’가 아니라 “모든 게 싫증이 나면 / 정 없이 떠나”게 되는 곳인가 싶을 찰나, ‘내 안엔 내가 없었네’가 시작된다. “겨우 든 잠에서 깼네”라는 첫 마디가, 일장춘몽이라도 되는 듯 지금까지의 경로를 툭 끊는다. ‘에코’에서 “이곳에 처음 왔을 때”로 시작되었던 회고가 곧장 이어지기라도 한 듯 “모처럼 널 떠올렸네”하는 중얼거림이 되돌아온다. [earth]를 채운 나일론 기타나 드럼 브러시, 재지한 그루브, 심지어 블루지한 기타 톤까지 모조리 거둬진 소리들은 오직 “가장 보통”으로, 그 중에서도 “100년 동안의 진심”을 담은 듯 조율된 전기기타와 목소리만으로 공간을 소박히 채운다. 그렇다면 마지막에 와서야 [earth]의 땅이 [seoul cloud]의 직접인용들이 남긴 울림 안쪽에 잠시 마련된 구운몽, 상상 속에서만 존재하는 유토피아라도 된다는 의미인 걸까.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 남경운(Nam Kyung Un) - seoul cloud" src="https://www.youtube.com/embed/O7B_XDn6xmA?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_O7B_XDn6xmA" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 남경운(Nam Kyung Un) - seoul cloud" src="https://www.youtube.com/embed/O7B_XDn6xmA?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_O7B_XDn6xmA" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>이에 나는 어쩔 수 없이, 직간접적인 인용들의 영향력을 변주하는 것으로 구성된 그 몸체에 대해 생각하게 된다. 그러니까, 이번 EP에서도 끊임없이 호명되는 “너”를 연모하는 개인이 아니라 상당한 비율로 인용된 언니네 이발관이라는 이름과, 이제는 과거의 잔재라 판단되는 “모던 록”과 같은 장르착오적인 이름, 무엇보다 밴드와 장르 전체를 과다하게 대표하게 된 [가장 보통의 존재] 같은 이름으로 둬본다면? 그들이 2010년대 대부분 동안 존재하되 실재하지는 않다가, 너무 오래 기다린 마무리 이후 정말로 존재하지 않게 된 주제에도 존재감을 뽐냈던 걸 떠올려보면, 이 밴드가 동시기에 남긴 흔적들은 사뭇 복잡다단하다. 그 한가운데를 파고들어가면서 스스로를 형성한 남경운은 이들의 부재를 실감하는 동시에, 과거에 영영 고정된 그 존재를 되새기는 셈이다. 이 모든 “의외의 사실”들을 “뒤늦게 알게 되었”다는 자조와, 과거를 재구성하며 “다시 그곳을 찾지만 / 그때 같을 순 없었”다는 허탈함과 함께.</p>
 <p>&nbsp;</p>
 <p>그의 이름자를 그대로 뜻풀이한 음반명인 [seoul cloud]에는 어쨌든 그 말마따나 “원맨”으로서 남경운의 비율이 높았고, [earth] 또한 그러하다. 전작에서 확연히 거리를 두고 걸어가던 도중 불현듯 떠오른 이 “내 안엔 내가 없었네”라는 깨달음은, 줄곧 자기 자신으로만 이뤄진 줄 알았던 지반이 실은 “나”가 아닌 것들로 이뤄졌을지도 모른다는 무척이나 “섬뜩한 자각”이 된다. 그렇다면 “나”의 안쪽은 대체 무엇으로 이뤄진 것인가? 그에 대한 이야기들은 언제나 한 사람을 구성하는 조각난 과거들을 되짚어 가보는 후일담, 역사를 다시 상상하는 일이 될 수밖엔 없을 것이다. 그런 의미에서 [earth]는 [seoul cloud]라는 후일담에 대한 뒤늦은 재상상, 혹은 뒤늦은 재상상에 대한 후일담인 걸지도 모르겠다. 그래도 계속 걸어가다 보면 언젠가는, 그러한 “예전”의 잊을 수 없을 것만 같던 순간도 희미해져 갈 수 있지 않을까.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Full Album] 남경운 (Nam Kyung Un) - earth / 앨범 전곡 듣기" src="https://www.youtube.com/embed/tpT7jmSCDwA?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_tpT7jmSCDwA" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Full Album] 남경운 (Nam Kyung Un) - earth / 앨범 전곡 듣기" src="https://www.youtube.com/embed/tpT7jmSCDwA?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_tpT7jmSCDwA" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <hr>
 <p><strong>Editor / 나원영 (대중음악비평가)</strong></p>
 	</div><!-- .entry-content -->
@@ -387,7 +387,7 @@
 <p>&nbsp;</p>
 <p>앨범이 나온 지 시간이 지나기는 했지만, 늦었지만 좋은 작품을 소개할 수 있어서 기쁘다. 앞으로 나올 작품을 기대한다는 식상한 말보다는 이미 나온 작품을 좀 더 들어봐 달라고 음악가 대신 이야기하고 싶다. 이미 세상에 나와 있는 작품도 좀 더 빛을 봤으면 할 만큼 충분히 매력적이기 때문이다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 장아름 (ARUM) - 우연히 (It just happens)" src="https://www.youtube.com/embed/ox8_NPZGKv4?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ox8_NPZGKv4" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 장아름 (ARUM) - 우연히 (It just happens)" src="https://www.youtube.com/embed/ox8_NPZGKv4?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ox8_NPZGKv4" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <hr>
 <p><strong>Editor / 블럭</strong></p>
 	</div><!-- .entry-content -->
@@ -430,13 +430,13 @@
 <p>&nbsp;</p>
 <p>이때 [Frankly I…]의 첫 트랙 ‘TR’이 로우파이하게 녹음된 전기기타 리프로 시작하거나, 노랫말에서 “(당신의) 록 스타”를 강조하는 트랙이라는 것을 함께 떠올려보면 좋을 것이다. 리드 기타와 리듬 기타 양쪽 모두가 각자의 개러지함을 내뿜고 제법 시끌벅적하게 조절된 드럼 구간과 기타 솔로가 존재감을 뽐내듯, 프랭클리의 사운드는 부단히 록적인 음색을 지니고자 한다. 멤버들이 복고적 팝 멜로디의 “록 스타” 이미지로 국내에 옮겨와진 이른바 “브릿팝” 스타일을 애호한다는 것과 조 레인의 영국 유학 경력이, 어쩌면 ‘TR’을 비롯해 [Frankly I…]가 지향하는 이 록적인 무드와도 연결될 것이다. 그러한 의미에서, 트랙 후반부의 결정적인 순간을 만드는 것은 전기기타 사운드를 강조한 짜릿한 연주 구간이 된다. 꽉 찬 무게감으로 질주하며 매듭짓는 ‘TR’의 마무리 기술은 다른 트랙들에서도 동일하게 사용된다. 보컬에 있어 발라드적인 탑 라인을 가장 강조하는 편일 ‘Back to Love’의 앞뒤로 지글거리는 기타 소리가 배경에서 은근한 공간감을 형성하며 삽입된다거나, 느린 정박의 리듬으로 찰랑거리는 리프를 차근차근 이어가는 ‘버거’가 짙게 일그러진 소음으로 대단원을 장식하는 구성이, 프랭클리가 EP에서 잡아둔 인디 팝의 록적 균형감각을 효과적이게 들려준다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="프랭클리 (FRankly) - 철 (When I Grew up) 가사  '제32회유재하음악경연대회'" src="https://www.youtube.com/embed/w9rFoFuXCXo?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_w9rFoFuXCXo" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="프랭클리 (FRankly) - 철 (When I Grew up) 가사  '제32회유재하음악경연대회'" src="https://www.youtube.com/embed/w9rFoFuXCXo?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_w9rFoFuXCXo" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>그러므로 [Frankly I…]의 안팎으로 작용하는 두 이름과 힘, 유재하(고전적인 가요)와 조 레인(동시기의 인디 록/팝 결합체) 중에서는 후자가 아무래도 강하다 단언할 수도 있겠다. 하지만 EP는 국내의 가요나 영국적인 팝 록 이외에도 의외의 방식으로 동시기 아시아권의 인디 팝/록과 직접 연결되기도 한다: ‘飛車 (Roller Coaster)’는 대만의 밴드 선셋 롤러코스터(낙일비차, 落日飛車)에게서 “선셋/落日”을 떼어둔 것 같은 곡명이다. 개인적으로는, 대만이나 태국의 인디 팝/록이 앞서 언급한 “라이트-멜로우”함, 특히 나른하거나 청량하게 떠다니는 기타 톤으로 승부하는 쪽을 국내의 밴드들보다 능력껏 발휘한다고 느껴진다. 흥미롭게도, 프랭클리가 그러한 밴드들로 대표되는 양식을 참조할 때에는, 흐느적거리는 음색 대신 쫀쫀한 그루브만을 가져와 록적인 트랙 편성에 이식한다. 이번에는 적재적소에서 리듬을 밀고 당기는 베이스를 중심으로, 쫄깃하게 삽입되는 전기기타와 기본기를 다잡은 드럼이 밀도 높은 합을 맞춘다. 그 덕에 트랙은 미세하게 분화되는 양식들이 점차 융합되어가는 동시기 인디 팝/록의 특성을 유감없이 들려준다. 조금만 비약하자면, 그러한 ‘飛車 (Roller Coaster)’에서는 인디 팝/록 간의 명민한 조합을 특유의 그루브로 선보였던 과거의 또 다른 “롤러코스터”, [Absolute]로 하우스적인 완벽함을 추구하기 전까지의 그들이 연상될지도 모르겠다.</p>
 <p>&nbsp;</p>
 <p>그나마 적법하게 유재하와 조 레인을, 비약을 살짝 담아 낙일비차와 롤러코스터를 끌어들이긴 했지만, [Frankly I…]는 단순히 그러한 이름과 힘들의 교차점에 있는 것만은 아니다. 가요사의 과거와 현재, 동시기의 국내와 국외, 그리고 록/팝의 양식 사이에서 그들에게 가장 알맞은 지점을 찾아 나서면서, 여러 갈래로 뻗어나가는 회로 간에 겹쳐진 구간들이 기억할만한 데뷔 EP로 구성된다. 더 넓게 보자면, 이는 2010년대 중후반 이래로 포크라노스라는 플랫폼에서 발매하는 일정 비율의 “동시기 국내 인디”의 특색이기도 할 것이다. 그렇게 교차지대에서 취해온 다양한 요소들을 각각 살리면서도 하나로 합쳐내는 방식은 햄버거라는 음식이 맛을 내는 것과도 비슷할지 모르며, 솔직히 나는 마지막 트랙이 햄버거에 대한 이야기가 거의 아님에도 어쨌든 제목이 ‘버거’라는 이유만으로 EP를 좋아하게 된 것일지도 모르겠다. 육즙 가득한 패티부터 신선한 야채들과 풍미를 더하는 소스까지의 재료들이 두 장의 빵 사이에 알맞게 담긴 버거를 크게 한 입 베어 먹는 느낌은, [Frankly I…]를 비롯한 요 몇 년 동안의 팝적인 인디 록 또 록적인 인디 팝과 꽤나 닮아있으니까.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[MV] FRankly (프랭클리) - 버거 (Burger) / Official Music Video" src="https://www.youtube.com/embed/HRskSE0t1zY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_HRskSE0t1zY" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[MV] FRankly (프랭클리) - 버거 (Burger) / Official Music Video" src="https://www.youtube.com/embed/HRskSE0t1zY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_HRskSE0t1zY" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <hr>
 <p><strong>Editor / 나원영 (대중음악비평가)</strong></p>
@@ -480,7 +480,7 @@
 <p>&nbsp;</p>
 <p>BTS의 RM도 SNS에 업로드한 적 있는 이 앨범은 전시와 함께 즐긴 뒤 그 여운을 안고 다시 들으면 더욱 크게 다가온다. 물론 전시를 감상하지 않아도 충분히 좋은 감상을 할 수 있는 작품이지만, 전시와 함께 접하고 또 다시 접하며 들어볼 것을 추천한다. 사울 레이터에 더 큰 관심이 생긴다면 다큐멘터리 [사울 레이터: 인 노 그레이트 허리]까지 접해보는 것도 좋다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Full Album] 진수영 (Chin Sooyoung) - 사울 레이터 «창문을 통해 어렴풋이» 전시 OST" src="https://www.youtube.com/embed/KAb7Cso-DWY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_KAb7Cso-DWY" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Full Album] 진수영 (Chin Sooyoung) - 사울 레이터 «창문을 통해 어렴풋이» 전시 OST" src="https://www.youtube.com/embed/KAb7Cso-DWY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_KAb7Cso-DWY" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <hr>
 <p><strong>Editor / 블럭</strong></p>
 	</div><!-- .entry-content -->
@@ -517,7 +517,7 @@
 <p>&nbsp;</p>
 <p>붐은 이미 왔다. 익숙한 얼굴들의 반가운 복귀로, 잔뼈 굵은 이들이 합심해 결성한 밴드들로, 오래간 기다려온 첫 번째 발매작들로, 무엇보다 벅차게도 많이 등장하는 새로운 이름으로, 따로 또 같이 모이는 기획 공연과 컴필레이션 음반과 스튜디오 라이브 영상들로. 로우 파이의 잡음으로 둘러지고 전기 기타의 소음으로 채워진 후 오랜 시간동안 세밀하게도 양식들이 갈라져온 록은 (굳이 멀리까지 거슬러 올라가자면) [Our Nation] 때부터 국내 인디 록의 한 부분을 차지해왔으며 어느 시기에나 어떻게든 고유한 방식으로 존재했다. 장르 특유의 자가발전 무한동력원이 그 지속을 이루던 과정은 더 나아가 그 나름대로의 “씬”을 지시해볼 수 있을 느슨한 규모를 유지하다가 급기야 2020년대에 들어서니 무슨 캄브리아기 대폭발 같은 양적인 번성기를 맞는 것으로 이어졌고, 작년을 통과하면서는 온라인상에서 큰 규모로까지 주목(혹은 주목받지 못했다는 것에 대한 주목하는 편에서의 더욱 큰 주목)을 받게 되었다. 세상에 대체 그것이 “붐”이 아니라면 또 언제가 “붐”이 될 수 있는지는 도통 모르겠다. 하지만 그렇게 “스스로를 축복하는” 크고 작은 움직임들은 언제든 “스스로만을 자화자찬하는” 되먹임이 되어버린 채, 피드백-루프 같은 폐쇄회로에 갇혀버릴 가능성을 가진다. 그렇다면, 이렇게 찾아온 붐을 어떻게 이어나갈 수 있을까?</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] BrokenTeeth - 불꽃놀이 (Fireworks)" src="https://www.youtube.com/embed/20uas5rhWaU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_20uas5rhWaU" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] BrokenTeeth - 불꽃놀이 (Fireworks)" src="https://www.youtube.com/embed/20uas5rhWaU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_20uas5rhWaU" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>그나마 다행인 것은 그 지속의 방법들을 다양한 작품들에서 찾아낼 수 있다는 점이다. ([편지]의 음반 소개문에서 살짝 언급했듯) 나는 슈게이즈와 인접한 양식들에서 넓은 의미의 팝적인 안정감을 가져다주는 멜로디/리프와, 그러한 “팝”으로 분류되거나 사용되지 못한 채 침투하는 소음/잡음 간의 (부)조화로운 광경을 듣는 걸 좋아한다. 브로큰티스가 나아가는 갈래를 설정하자면 로우파이의 잡음보다는 전기기타를 비롯한 여러 증폭장치들의 소음에 집중하는 만큼, 기본적으로 소리들의 부피가 큰 편이라 할 수 있을 것이다. 솔직히 밝히자면, 나는 아무래도 두꺼운 소음들에 매우 손쉽게 말려드는 편이긴 하다. [편지]의 연속선상에서 들어볼 수 있는 ‘당신의 사랑이 늘 행복하기를’은, ‘불꽃놀이’와 ‘Whitebird’처럼 빽빽하게 공간을 채운 노이즈와 그 속에서 희미하게라도 울려 퍼지는 목소리를 섞은 트랙이다. 이때 소음과 잡음은 로우파이와 가상악기의 ‘찢어지는’ 음질들을 전면적으로 내세웠던 작년의 [Cull Ficle]이나 [To See the Next Part of the Dream]처럼, 청자가 소리들 간의 분열적인 성질을 분명히 느끼도록 “사용”되었다기보다, 언제나 존재하고 있는 배경처럼 집채만 하게 “심어져” 있다. 이는 파란노을의 작업들처럼 대안적이었다던 8-90년대의 정전들부터 동시기 밴드캠프의 온라인 성공신화들까지 그러모은 영미권 로우파이 인디 록과 함께, 웹상에서 크고 작은 컬트를 형성해온 여러 일본과 국내 밴드들로 뻗어나가는 수많은 레퍼런스들을 직간접적으로 한가득 종합했다기보다는, 지난 25년 정도 동안 장르상에서 나름의 정전이 되어버린 국내의 여러 음반들과 연결 지을 수 있는, 고전적이게 느껴지는 방식이기도 하다.</p>
 <p>&nbsp;</p>
@@ -528,7 +528,7 @@
 <p>&nbsp;</p>
 <p>‘당신의 사랑이 늘 행복하기를’이 지향하는 “달콤쌉싸름함”은 그 스스로의 정서를 하나의 고정 값으로 삼기보다는 그를 들어볼 수 있는 한 가지 제안을 하면서도, 단순히 그것만이 월등해지지 않도록 분명한 슈게이즈 노이즈와 서정적인 멜로디에 담긴 불분명한 정서라는 패러독스를 완충장치로 활용한다. 그것은 편지라는 브로큰티스의 또 다른 분명한 형식을 따라, 과거형의 회상과 미래형의 바람을 담고 두 방향의 시간을 타면서 청자에게 전해진다. 글쓰기 양식으로서 편지는 오로지 자기 자신만이 아니라 이를 받아 읽을 대상들을 언제나 염두에 둘 수밖에 없으며, 특히나 발송인에게는 수신인에게 무언가 반응이 돌아올 때까지 관조할 수밖에 없다는 체념의 감정이 필연적으로 서려있을 것이다. 그러한 불능감에도 불구하고 브로큰티스의 슈게이즈-편지는 스스로의 사연을 구구절절이 써내려가기보다 그것이 가닿을 “당신”의 사랑이 늘 행복하기를 바란다. 그 바람을 받아들을 청자에게 “이 세상이 무너지지 않는다면 언젠가는 꿈에서 만날 수 있길” 바라는 그는, 연결과 매개에 대한 믿음을 쉽사리 놓지 않고 편지 작성과 소음 형성을 계속 이어간다. 나는 그것에 많은 의미를 두게 된 편이다. 우리에게 찾아온 “붐”의 다음 장을 찾아나서는 것에 있어서도.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] BrokenTeeth - 당신의 사랑이 늘 행복하기를 (Paradox)" src="https://www.youtube.com/embed/Oug9gHy8k5w?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_Oug9gHy8k5w" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] BrokenTeeth - 당신의 사랑이 늘 행복하기를 (Paradox)" src="https://www.youtube.com/embed/Oug9gHy8k5w?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_Oug9gHy8k5w" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <hr>
 <p><strong>Editor / 나원영 (대중음악비평가)</strong></p>
 	</div><!-- .entry-content -->
@@ -571,7 +571,7 @@
 <p>&nbsp;</p>
 <p>한국은 더 이상 프리 내셔널스(Free Nationals) 같은 밴드를 부러워할 필요가 없다. 이제 소울 딜리버리 보유국이 되었기 때문이다. 보통 트랙 바이 트랙으로 앨범 리뷰를 쓰면 개인적으로는 아쉬움이 남을 때도 있다. 앨범 전체가 가진 매력을 다 담아내지 못한다는 아쉬움이 있어서다. 하지만 이번만큼은 각각의 곡이 정말 매력적인 만큼 하나 하나 귀를 기울여 들어봤으면 하는 바람으로 이와 같이 썼다. 앨범 전체에 관한 감상은 이 글을 읽거나 앨범을 듣는 각자의 몫으로 돌리는 것으로 하겠다. 요즘 알앤비, 요즘 재즈, 요즘 음악에 귀가 밝은 편이라고 자부한다면 꼭 체크해보자. 후회는 절대 없을 것이라고 확신한다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] Soul delivery - 넋 (NUGS) (with THAMA)" src="https://www.youtube.com/embed/7tAp_G7tW4g?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_7tAp_G7tW4g" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] Soul delivery - 넋 (NUGS) (with THAMA)" src="https://www.youtube.com/embed/7tAp_G7tW4g?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_7tAp_G7tW4g" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <hr>
 <p><strong>Editor / 블럭</strong></p>
 	</div><!-- .entry-content -->
@@ -612,7 +612,7 @@
 <p>&nbsp;</p>
 <p>텀블벅 작업기에서 단편선이 밝혔듯, 지난 몇 년 간 오소리웍스는 “주로 밴드 음악, 또는 포크 기반의 싱어송라이터가 연주하는” 성향의 음반들을 발매해왔다. 다만 이 작업들은 그러한 “기반”을 틀로 삼아 전기기타를 능숙히 이용하는 팝과 가요를 겨냥하고 있던 것으로 보인다. 여유롭고 나른한 후하와 명쾌하게 찰랑거리는 전복들의 기타 팝이나 이펙트를 강조한 전기기타 사운드로 “자연적인” 풍경을 그리는 전유동, 특히 과거를 도구 삼아 작가주의적인 가요사의 중앙으로 뛰어든 천용성의 음악은 스튜디오에서 세심하게 다듬어진 분명한 음색들로 주어진 보컬 라인과 기타 리프의 친근한 멜로디를 전달하곤 했다. 팝 음반으로서의 [나쁜 마음]도 유사한 목표를 설정하겠지만, 출발지점이 조금 다르다. 지근거리에서 속삭이듯 비음과 숨소리가 두드러지는 보일의 목소리와 이를 두드러지게 하는 음색은 “가요”의 그것과는 사뭇 거리가 있을 테니 말이다. 전작에서 분명치 않은 음정으로 조절된 악기소리들처럼 나지막한 허밍과 속삭임이 사용된 “Yuri”나, 진수영의 뮤트 피아노 연주 뒤편으로 고음질의 잡음이 부스럭대는 다른 소리들과 깔리던 “그리고 여기로 오세요”처럼 말이다. 꽤나 기이하게 들릴 수 있을 소리를 익숙한 팝적 화성과 멜로디의 배경에 끼우는 보일의 세계는 명확한 스튜디오 작업을 바탕으로 한 “가요”의 그것으로 번안되기에 사뭇 까다로운 편 같다. 때문에 촉촉한 색채가 분명한 전자음과, 알맞게 합쳐지는 특유한 보컬들에 강세를 두어 F.W.D, Room306, blent. 등의 재지한 다운템포 팝 프로젝트를 꾸준히 진행해온 허민(FIRST AID)의 프로듀싱으로, 어쩌면 양측의 교집합을 위한 자리가 마련된 걸지도 모르겠다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="Park" src="https://www.youtube.com/embed/_EiMSZItwsM?list=OLAK5uy_l_chMuvXCj89OLaxFw-GARtEBVaT_FIOs&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer__EiMSZItwsM" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="Park" src="https://www.youtube.com/embed/_EiMSZItwsM?list=OLAK5uy_l_chMuvXCj89OLaxFw-GARtEBVaT_FIOs&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer__EiMSZItwsM" data-gtm-yt-inspected-12796466_15="true" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>[나쁜 마음]에서 안정감과 명확함을 추구하는 형색의 가요와 기이한 소리들을 숨겨 담은 앰비언트 팝이 각자 발휘하는 힘은 꽤나 집단적인 프로듀싱과 편곡으로 묘한 합의점을 찾는다. 음반을 여는 ‘Park’에서 그것이 가장 잘 드러나는 것도 같은데, 보일의 가창은 분명한 음색으로 들었다면 상대적으로 좀 더 익숙하게 느껴질 수 있을 멜로디를, 문장 끝에서 날숨을 끊고 대신 짧은 효과음처럼 잘라낸 목소리를 뿌리면서 그 분명함을 흐린다. Room306의 근작들이 차차 실제 악기들의 재지한 연주 합을 강조해온 것보다는 조금 이전으로 돌아가듯, 리버브를 잔뜩 담아 몽글해진 신스음을 적재적소에서 조절하는 허민의 솜씨가 맞물린다. 더불어 은근한 그루브를 만드는 기타/베이스가 탄탄하게 받쳐지면서, ’Park‘에는 팝적 리듬의 명료함과 목소리/사운드의 불명료함이 함께 생겨난다. ‘나쁜 마음’ 또한 낮게 읊조리는 천용성의 목소리를 보일과의 듀엣으로 대비되게 배치해, 전자음들이 후면에서부터 전면으로 스멀스멀 올라오는 전개로 이들을 집어삼킨다. 이후 트랙에서 우리존재와 이태훈의 목소리가 유사한 한 쌍으로서 사용되는 것 또한 이와 맥을 같이 할 것이다. 이러한 식으로 [나쁜 마음]은 팝/가요가 추구할 사운드적인 분명함과, 이에 불순물처럼 끼어들어 주어진 시공을 일순 흔드는 소리의 불분명함 간에 놓인 “주도권을 가진 기분”을 집중 공략하며, 0의 원점에 놓인 무게중심에서 빙글빙글 돌아가는 긴장관계를 만든다. 앞 문단에서 언급했던, 여러 잡음들이 빼꼼히 드러난 트랙들에서도 여전히 재즈적으로 다듬어진 악기 소리들이 전개를 이끌지만, 바로 그 잡음들 덕에 팝과 가요의 힘이 철저히 우세할 수는 없는 것처럼 말이다.</p>
 <p>&nbsp;</p>
@@ -620,7 +620,7 @@
 <p>&nbsp;</p>
 <p>‘해피엔딩’에서는 보일의 목소리가 한 줄기의 신스 멜로디와 들숨이 자세히 들릴 정도로 조용하게 움직이며 곡을 이끈다. 한편 오르골처럼 아른거리는 선율과 피아노 연주에, 스쳐 올라오는 화이트 노이즈와 자그맣게 짤깍거리는 잡음들이 같이 삽입되고, 앞으로가 “더 이상 궁금하지/기대되지 않아”버리는 결말이 이어진다. 호기심과 기대치가 이 다음으로 계속 이어지지 않을 때 찾아오는 단념의 “다음에는”, 그러므로 제대로 맺어지지 않고 하염없이 이어지는 후일담만이 남을 것이다. 소리들을 분명하게 정렬하려는 팝/가요의 체계적인 힘과 그럼에도 언제나 기이한 외형을 띠고 나타나는 소리들 간의 “주도권” 다툼은 [나쁜 마음]에서 어느 한 쪽으로 기울어지지 않고 결론을 유예하길 선택한 걸지도 모른다. 그러한 지연의 감각은, 라이너노트에서 제시되듯 음반 내내 나른하게 가라앉은 체념의 정서와도 맞닿아있다. 이윽고 ‘다음에는’에서는 이 모든 잡다함과 불분명함의 틈입에도 불구하고 늘 특정 수치 이상으로 팝/가요의 명확함을 띠었던 음색이, 후처리된 효과들 속에서 마침내 분명함을 잃어가며 열화된다. 이때 소리들 사이의 주도권과, 주도권을 가진 듯한 화자와 청자의 기분은 어디로 갔을까? 지연과 체념은 느리게 퇴색하는 정경의 속도로 찾아오고, 나쁜 마음에 마지막까지 남아있는 건 결국 분명치 않은 불안함의 잔여물뿐이다. [나쁜 마음]의 기이함, 어쩌면 “섬뜩함”은 이렇게 음반 내내 출렁거렸던 팝/가요의 신경전에 대한 기대감이 정말로 져버린 이후, 또 다른 유형의 소리들이 늘상 잠재되어 있다는 걸 알리듯, 느리게 엄습해온다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 보일 (boil) - 나쁜 마음 (Bad) (Feat. 천용성 Chun Yongsung)" src="https://www.youtube.com/embed/tguzeRr2wEY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_tguzeRr2wEY" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 보일 (boil) - 나쁜 마음 (Bad) (Feat. 천용성 Chun Yongsung)" src="https://www.youtube.com/embed/tguzeRr2wEY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_tguzeRr2wEY" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <hr>
 <p><strong>Editor / 나원영 (대중음악비평가)</strong></p>
@@ -668,7 +668,7 @@
 <p>&nbsp;</p>
 <p><em><a href="https://tumblbug.com/lavndr" data-pjax-state=""><strong>텀블벅 바로가기</strong></a></em></p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] lavndr - ma chérie" src="https://www.youtube.com/embed/gkaNJWuEr2k?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_gkaNJWuEr2k" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] lavndr - ma chérie" src="https://www.youtube.com/embed/gkaNJWuEr2k?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_gkaNJWuEr2k" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <hr>
 <p><strong>Editor / 블럭</strong></p>
 	</div><!-- .entry-content -->
@@ -709,15 +709,15 @@
 <p>&nbsp;</p>
 <p>청소년기의 청취 경험이었던 80년대 후반의 가요 테이프들을 떠올리며 “내 음악의 기원은 발라드였어! (“[아니 어떻게 이렇게 9-1] 시와 편 / 발라드야 나?”)”라고 외쳤던 모습이 멜로디와 화성의 진행이나 이를 뒷받침해주는 풍성한 편성으로까지 비춰져 [머무름 없이 이어지다]와 [다녀왔습니다]의 시간적 간격을 이어줬다면, [잠 못 이루는 당신에게]는 최소적인 구성 속에서 소리들 간의 배치와 왈츠 박자의 활용으로, 일찌감치 정립됐던 시와의 형상을 갈무리해온다. 21년도에 발표된 세 트랙은, 목소리가 나타나는 시간과 나타나지 않는 시간을 건반으로 연결 지어 동등하게 배치하고(‘곁에 있어도 될까’), 세 박자 속에 “하나 둘 셋 넷”을 슬며시 끼워 넣으며(‘waltz at night’), 건반과 목소리 사이 또 홀수박의 강약에 주어진 거리를 좁히고 넓히며(‘숨’) 어떻게 소리들이 안정적인 세모꼴로 지어질 수 있는지를 들려준다. 이는 물론, 시간이 그리 배치된 소리들 사이로 “서서히 스밀 수 있”고, 제 자신의 속도로 “천천히 흐를 수 있게” 하는 일이기도 하다. ‘곁에 있어도 될까’가 후렴구 없이 한 단위의 (혹은 반쪽짜리처럼 느껴질 수 있을) 절로 마무리되어도 사뭇 불완전하거나 미완성된 느낌이 들지 않는 것도, ‘숨’과 ‘waltz at night’가 트랙 안에서 속도를 슬쩍 조절해도 느린 산책 같은 걸음이 비틀거리지 않는 것도 그 덕일 테다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 시와 (Siwa) - 잠 못 이루는 당신에게 (moon) (feat. 정현서 Jung Hyun Seo)" src="https://www.youtube.com/embed/A-_I8Xc9YHU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_A-_I8Xc9YHU" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 시와 (Siwa) - 잠 못 이루는 당신에게 (moon) (feat. 정현서 Jung Hyun Seo)" src="https://www.youtube.com/embed/A-_I8Xc9YHU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_A-_I8Xc9YHU" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>정현서와 함께 한 두 개의 트랙은 낮은 소리의 존재감을 활용해, 적은 수의 부품들만으로도 성긴 틈새 없이 소리의 아귀를 맞물려놓는 시와의 트랙들에 무게감 있는 말동무를 달아놓는다. 이전에 발표한 트랙들에 대한 “일종의 정본(正本) 작업 (김병우, [음악취향 Y])”으로서 스튜디오 작업으로 리메이크된 ‘잠 못 이루는 당신에게’는, 라이브 버전과 달리 오로지 시와의 목소리로만 시작된다. 분명한 질감의 목소리 저변에서 베이스음이 현현하듯 시공을 채워 넣는 모습은 순식간에 곡의 “채도를 높이고 명확히 선을 그리 (김병우)”면서 형상을 부여한다. 박자에 대한 그 어떤 표지 없이 시작된 트랙이 세 개의 소리들을 차곡차곡 엮어가며 이전 곡들과 같은 세 박자의 뼈대를 서서히 드러내고, 어느덧 세 개의 확연한 선분들이 서로와 나란히 교차된 무늬를 만들며, 그 마무리가 완성된다. [다녀왔습니다]의 예고로 발매되었으나, 마찬가지로 이번 EP에 다시 녹음되어 실린 ‘완벽한 사랑’에서 또한, 정현서의 베이스음을 들이며 그 “명확한 채도”가 올라간다. ‘잠 못 이루는 당신에게’의 도입부와 조금은 반대되듯, 이번에는 시와의 목소리 없이 두 대의 악기로만 트랙이 시작된다. 여기서도 베이스음는 원테이크라는 환경에 담겼던 2017년 판 ‘완벽한 사랑’의 단출함에 두터운 겹을 하나 깔아놓는다. 두 소리 사이에서 나타난 하나의 관계에 또 다른 소리 하나가 더해진 것만으로도, 두 관계들이 새로이 나타난다. 둘에서 셋으로, 또 하나에서 셋으로, 그렇게 셋에서 여섯으로. 그 중앙이자 밑바닥에서 미끄러지는 베이스음은 나머지 소리들과 멜로디를 주고받듯 오르내리며, 더욱 많은 이야기를 트랙에 더해놓는다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 시와 (Siwa) - 숨 (distance to breathe)" src="https://www.youtube.com/embed/3wGQvZKsAIw?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_3wGQvZKsAIw" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 시와 (Siwa) - 숨 (distance to breathe)" src="https://www.youtube.com/embed/3wGQvZKsAIw?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_3wGQvZKsAIw" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>3이라는 숫자가 안정성을 상징한다면, 이는 시와와 [잠 못 이루는 당신에게]에 더할 나위 없이 어울려 보인다. 21년도의 두 곡이 삼박자를 따르는 세 개의 소리들을 세 방향으로 교차해 그 구심점 주위를 돌고 돈다면, 뒤쪽의 두 곡은 두꺼운 소리를 부드럽게 추가한 삼각형의 소리 꼴에서 달라진 무게중심을 차근차근 찾아 나선다. “숨소리를 내어보면 사이가 생각나”는 것처럼, 시와의 셋은 무언가와 다른 무언가, 이 둘만큼의 값을 띄고 나타난 그 사이와 함께 한다. 양쪽 소리 간의 거리를 유유히 소요하는 정적이거나, 두 소리가 원래 놓인 땅에 내려앉은 저음이라거나, 너와 나를 머무름 없이 잇는 관계쌍이거나. 그러므로 시와라는 이름에 접속조사 “와”가 이미 품어진 것은, 그 뒤로 오는 무엇이든 그 이상으로 이어낼 수 있단 뜻이기도 할 것이다. 시와 소리, 시와와 정현서, 그리고 시와와의 또 다른 우연한 만남으로.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 시와 (Siwa) - waltz at night" src="https://www.youtube.com/embed/Hn8r7vE-Et8?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_Hn8r7vE-Et8" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 시와 (Siwa) - waltz at night" src="https://www.youtube.com/embed/Hn8r7vE-Et8?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_Hn8r7vE-Et8" data-gtm-yt-inspected-12796466_15="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <hr>
 <p><strong>Editor / 나원영 (대중음악비평가)</strong></p>
@@ -726,6 +726,187 @@
 	<footer class="entry-footer">
 		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/review/" rel="tag" data-pjax-state="">REVIEW</a>, <a href="https://poclanos.com/tag/%ec%8b%9c%ec%99%80/" rel="tag" data-pjax-state="">시와</a>, <a href="https://poclanos.com/tag/%ec%9e%a0-%eb%aa%bb-%ec%9d%b4%eb%a3%a8%eb%8a%94-%eb%8b%b9%ec%8b%a0%ec%97%90%ea%b2%8c/" rel="tag" data-pjax-state="">잠 못 이루는 당신에게</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/2022.02.06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김도언 (POCLANOS ─ Interview)]]></title>
+            <link>https://poclanos.com/interview/kimdoeon/</link>
+            <guid>https://poclanos.com/interview/kimdoeon/</guid>
+            <pubDate>Wed, 25 May 2022 17:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[<header class="entry-header">
+		<h2 class="entry-title"><a href="https://poclanos.com/interview/kimdoeon/" rel="bookmark" data-pjax-state="">김도언</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/kimdoeon/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-05-20T21:00:30+09:00">2022년 5월 20일</time><time class="updated" datetime="2022-05-20T21:18:11+09:00">2022년 5월 20일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	
+			<a class="post-thumbnail" href="https://poclanos.com/interview/kimdoeon/" aria-hidden="true" tabindex="-1" data-pjax-state="">
+				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon0.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="김도언" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon0.png 974w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon0-900x506.png 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon0-768x432.png 768w" sizes="(max-width: 974px) 100vw, 974px" width="974" height="548">			</a>
+
+			
+	<div class="entry-content">
+		<p><img loading="lazy" class="aligncenter size-full wp-image-48987" src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon1.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon1.jpg 974w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon1-720x900.jpg 720w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon1-820x1024.jpg 820w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon1-768x960.jpg 768w" sizes="(max-width: 974px) 100vw, 974px" width="974" height="1217"></p>
+<p>&nbsp;</p>
+<p><em><strong>김도언, 그의 경험과 영감을 바탕으로 쌓아 올린 청각적 서사</strong></em></p>
+<p>&nbsp;</p>
+<p>무려 16트랙의 꽉 찬 정규 앨범과 함께 등장한 프로듀서 김도언. 씬에서의 경험과 영감을 바탕으로 그가 쌓아 올린 청각적인 서사는 꽉 찬 볼륨에 못지않은 밀도와 집적된 유기성을 자랑한다. 장르를 넘나드는 유수의 피쳐링진으로 눈길을 끌지만 곧이어 앨범의 끝에 가서는 김도언이라는 인물의 시선으로 귀결되는 이번 앨범은 그만큼 세세한 부분까지 아티스트의 손이 닿아있는 작품이다. 레이블 ‘SoundSupply_Service’ 소속 아티스트로서 본격적인 솔로 활동에 박차를 가하기 시작한 그를 만나 현실과 가상의 세계를 넘나들며 작품의 겉과 속을 모두 관통하는 다양한 이야기를 나눠보았다.</p>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p><strong>Q. 마침 정규 앨범 발매 날에 인터뷰하게 되었네요. 앨범이 발매된 지 채 반나절도 지나지 않은 시점인데 오늘 하루 어떻게 지내다 오셨나요?</strong></p>
+<p>&nbsp;</p>
+<p>제가 원래 좀 늦게 일어나는데 오늘은 모처럼 발매 날이어서 평소보다 조금 더 일찍 일어났어요. 발매가 무사히 잘 됐나 확인도 하고 제가 근처에 사는데 마침 인터뷰 장소가 되게 가까워서 머리 비울 겸 산책도 하다 보니 여기까지 오게 된 하루였네요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 주변 반응은 어땠나요?</strong></p>
+<p>&nbsp;</p>
+<p>SNS 등을 통해서 좋게 들어주셨다고 말씀해 주시는 분들도 많고 아무래도 다양한 분들이 참여를 해주셔서 샤라웃도 많이 해주셨던 것 같아요.</p>
+<p>&nbsp;</p>
+<p><strong>Q.&nbsp;</strong><strong>아무래도 이번 인터뷰를 통해서 김도언이라는 아티스트를 처음 알게 된 분들도 많을 것 같아요. 간단한 자기소개 부탁드립니다.</strong></p>
+<p>&nbsp;</p>
+<p>저는 이번에 [Damage]라는 정규 1집을 들고나온 김도언이라고 해요. 처음 음악을 만들기 시작했던 게 중학생에서 고등학생 될 때쯤부터였던 것 같은데 그때부터 항상 앨범 단위의 음악을 만들고 싶다는 생각이 컸어요. 그런데 아무래도 고민을 많이 하다 보니까 시간이 너무 오래 걸리더라고요. 그 시간 동안 주로 만나게 됐던 분들이 오히려 음악 하시는 분들 보다도 음악 외적인 작업을 하시는 분들이 많았어요. 가령 미술이나 영상을 하신다거나 그림을 그리신다거나 전방위적인 예술 활동을 하시는 분들도 많이 만났는데 그럴 때마다 그분들도 제가 음악 하는 걸 아시다 보니까 이래저래 외주 격으로 부탁을 많이 해주셨어요. 그래서 전시 형태로 이루어진 작업에서 배경 음악 작업을 한다던가 졸업 작업을 준비하는 친구의 단편 영화 배경 음악이나 애니메이션 배경 음악 등을 작업하기도 했어요. 알게 모르게 음악이 필요한 일들을 많이 했던 것 같고 또 그와 동시에 음악에 필요한 일들, 예를 들면 믹싱 같은 일들도 마다하지 않고 했었어요. 사실 다 재밌었기 때문에 일이라기보다 작업의 일부로 해왔던 것 같네요.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-48992" src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon6.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon6.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon6-597x900.jpg 597w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon6-679x1024.jpg 679w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon6-768x1159.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon6-1018x1536.jpg 1018w" sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="1545"></p>
+<p>&nbsp;</p>
+<p><strong>Q. 그 작업들이 어떻게 보면 전부 정규 작업을 위한 밑바탕이 됐다고도 볼 수 있을까요?</strong></p>
+<p>&nbsp;</p>
+<p>네, 충분히 도움이 됐죠. 사실 그런 경험이 없었다면 만들 수 없던 앨범이에요. 왜냐면 그 경험들 하나하나가 저한텐 다 도전이었기 때문인데, 외주라는 특성상 클라이언트가 요구하는 기준이 있고 그것들이 전부 저 혼자서는 두지 않았던 기준이거든요. 그걸 미션처럼 수행했던 기억이 있어요. 예컨대 전시 음악 같은 경우는 사진과 어우러지는 20분짜리 음악을 만드는 작업이었는데 클라이언트 측에서는 되게 미니멀한 음악을 요구했었어요. 그런데 저는 그 당시에 꽉꽉 채우는 것에 급급해서 비우는 작업이 어려웠거든요. 그런데 그 일을 함으로써 비우는 연습이 됐죠. 그리고 애니메이션 같은 경우도 서사가 있는 작업이다 보니까 고조되는 파트에 맞춰서 초 단위의 디테일을 요구하는 작업이었기 때문에 되게 힘들었지만 도움이 됐어요. 물론 영화 음악도 마찬가지고 일단 저한테 부탁을 주셨던 작업자분들이 저보다도 좋은 음악적인 아이디어를 갖고 계신 분들이었어서 많이 배우기도 했습니다.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 단순히 완성이 미뤄진 것이라고 생각할 수도 있겠지만 어떻게 보면 그 과정에서 내실을 다질 수 있었다고도 볼 수 있겠네요.</strong></p>
+<p>&nbsp;</p>
+<p>네, 그렇죠.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 디스코그라피 찾아보다 ‘잠자코도’라는 이름으로 한때 활동하셨던 것도 눈에 띄었어요.</strong></p>
+<p>&nbsp;</p>
+<p>그 이름으로 처음 활동했던 게 이수호 님의 앨범에 참여했던 건데 그때는 본명을 써야겠다는 생각을 아예 못 하기도 했고 뭔가 예명이 있어야 될 것 같다는 생각에 별 뜻 없이 지었던 이름이에요. 그 당시에는 제가 인스트루멘탈이나 기악곡 위주로 만들었다 보니까 보컬이나 가사 같은 언어 없이도 감상이 전달되기를 바라는 의미에서 ‘잠자코도’라고 지었죠.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-48988" src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon2.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon2.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon2-597x900.jpg 597w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon2-679x1024.jpg 679w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon2-768x1159.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon2-1018x1536.jpg 1018w" sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="1545"></p>
+<p>&nbsp;</p>
+<p><strong>Q. 그러다 활동명을 본명으로 바꾸게 되신 특별한 이유가 있을까요?</strong></p>
+<p>&nbsp;</p>
+<p>사실 그렇게 특별한 이유는 없어요. (웃음) 뭐랄까 나중에 가서 생각해보니까 굳이 제가 그런 음악만 할 것도 아닐 거라는 생각이 들더라고요. 이제 앨범을 제가 직접 만들고 전면으로 나설 상황을 앞두고 있다 보니까 그냥 나한테 제일 익숙한 이름이 맞겠다 싶기도 했고. 그리고 그 예명이 입에 계속 안 붙었어요. 괜히 민망하기도 하고 (웃음). 그렇게 본명으로 바꾸고 나니까 마음이 좀 편해졌던 것 같아요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 이름 따라간다는 말도 있는 것처럼 활동명에서부터 한계가 규정되어 버리는 느낌도 있었겠네요.</strong></p>
+<p>&nbsp;</p>
+<p>네, 오히려 약간 답답하더라고요. 이름에 맞춰서 뭔가 해야 할 것 같고, 그리고 그 ‘잠자코도’라는 이름으로 엄청 활발하게 활동하지도 않았어서 본명을 선택하게 되었습니다.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 뒤에서 조금 더 자세히 이야기 나누겠지만 이번 정규 앨범 피쳐링진도 인상적이에요. 친분이 있는 분들 위주로 섭외하신 건가요?</strong></p>
+<p>&nbsp;</p>
+<p>그런 분도 있고 아닌 분도 있는데, 한주 님과 소윤 님의 경우는 작년에 제가 이수호 님의 [Monika]라는 앨범의 믹싱 엔지니어로 참여했을 때 같이 믹싱 세션을 가지면서 처음 만났어요. 그 이후에 몇 달이 지나서 앨범 데모를 들어달라고 따로 연락을 드렸고 감사하게도 두 분 다 흔쾌히 응해주셨어요. 그 외의 분들 같은 경우는 다 작업 때문에 처음 뵙게 된 분들이었는데 직접 작업 요청 메일을 드렸어요. 그때 되게 긴장이 많이 됐는데, 왜냐면 일단 팬으로서 너무 좋아하는 분들이었기 때문에 연락이 닿았을 때 너무 기뻤던 기억이 있어요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 참여해주신 분들이 장르적인 다양성도 인상적이더라고요. 실제로 도언 님의 장르 전반적인 관심이 반영된 부분일까요?</strong></p>
+<p>&nbsp;</p>
+<p>요즘은 어떤 특정한 장르에 초점을 맞추는 게 어려운 시대라고 생각해요. 조금 더 설명을 덧붙이자면, 저를 포함한 또래 친구들 대부분이 미디어나 컨텐츠에 많이 노출되어 있고 중독도 되어 있단 말이죠. 예컨대 제가 개인적으로 좋아하는 러시아 영화감독 중에 ‘안드레이 타르코프스키’라는 분이 있어요. 보통 호흡이 느리고 긴 시간의 영화를 만드시는데 그분 영상을 유튜브로 보다가 버튼을 몇 번 잘못 누르기만 해도 ‘매운 팽이버섯 먹방’ 같은 쇼츠가 갑자기 뜨는 거예요. 아니면 요즘 카페 같은 곳에서 턴테이블이나 바이닐이 놓여 있고 80년대 소울 알앤비 음악이 흘러나오는데 사실 알고 보니 아이맥에서 틀어진 애플뮤직 플레이리스트였다던지 하는 순간에 느껴지는, 이상한 경계선에 놓여있는 것 같은 기분이 있어요. 그래서 지금 시대는 무겁고 가벼운 게 혼재되어 있는, 뒤섞여 있는 세상이라고 생각해요. 그 경계선 사이를 오갈 때 저는 약간 머리가 붕 뜨는 기분을 느끼거든요. 돌고 돌아 처음 해주신 질문에 답을 하자면, 그런 상태에서 작업을 하다 보니까 실제로 모호한 경계선에 놓은 결과물들이 나오게 되는 것 같아요. 제 삶이 그런 상황에 놓여 있다 보니 어떠한 ‘장르’에 관심을 두었다기보다 많은 것들이 자연스럽게 섞여버린 거죠.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-48991" src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon5.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon5.jpg 1391w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon5-643x900.jpg 643w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon5-731x1024.jpg 731w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon5-768x1076.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon5-1097x1536.jpg 1097w" sizes="(max-width: 1391px) 100vw, 1391px" width="1391" height="1948"></p>
+<p>&nbsp;</p>
+<p>Q.&nbsp;자연스럽게 앨범 이야기로 넘어가 볼게요. 이번 정규 1집 [Damage]에 대해서 도언 님이 직접 간단한 소개 부탁드립니다.</p>
+<p>&nbsp;</p>
+<p>[Damage]는 제 첫 번째 앨범이에요. 어린아이를 화자로 내세우고 크게는 ‘순수성’과 ‘폭력성’을 키워드로 생각하며 작업했습니다.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 도언 님이 생각하시는 ‘어린아이의 시선으로 바라본 세상’은 어떤 모습일까요?</strong></p>
+<p>&nbsp;</p>
+<p>이번 작품은 그것에 대한 답을 제시한다기보다 질문을 던져보는 느낌이에요. 여기서 구성적인 장치가 하나 있는데, 1번 트랙이 ‘청명(淸明)’이라는 제목이고 마지막 16번 트랙이 ‘Green Screen (feat. Fisherman)’인데 그게 사실은 수미상관 느낌으로 배치했던 거예요. ‘청명’의 한자 뜻을 풀어보면 하늘이 차츰 맑아진다는 뜻인데 푸른 하늘과 그린 스크린 사이의 경계도 아까 이야기한 것처럼 모호한 느낌을 의도했던 것 같아요. 중국 철학자 장자가 ‘내가 나비인지, 나비가 나인지’라고 했던 ‘호접지몽’이라는 이야기하잖아요. 그러니까 청명과 그린 스크린 사이에 놓은 트랙들 전부가 판타지일 수도 있는 거고 현실의 이야기일 수도 있는 거죠. 그렇게 의도적으로 경계가 모호하도록 만들었던 것 같네요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 전체적으로 디테일한 설계가 눈에 띄어서 들으면 들을수록 다시 보이는 지점이 많은 앨범인 것 같아요. 이렇게 많은 공을 들이신 솔로 작품이신 만큼 그간의 외주 작업이나 다른 아티스트 앨범에 참여하셨던 것과 비교했을 때 어떤 차이점이 있었나요?</strong></p>
+<p>&nbsp;</p>
+<p>단순하게 생각해봤을 때 결국 외주냐, 내 작업이냐의 차이는 타인을 이해하기 위해서 노력을 하는가, 아니면 나 자신을 이해하기 위해서 초점을 맞추는가의 차이라고 생각을 하는데요, 그것도 사실 차이가 없는 일이라는 생각도 들었어요. 타인과 이야기를 하고 그들을 이해하다 보면 어느 순간 오히려 나 자신에 대해서 이해가 되는 순간도 있고 반대로 오로지 나 자신에 대해서 집중을 하려고 할 때도 자연스럽게 타인이 생각이 날 때가 있거든요. 그러니까 이게 결국에는 끝에 가서 맞닿아있는 거라고 생각해요. 그래도 어쨌든 솔로 작업을 함에 있어서 제가 주도적으로 완성까지 끌고 나가야 하니까 조금 더 책임감도 생기고 중간중간 스스로 지치지 않도록 당근과 채찍을 적당히 줘야한다고 느꼈던 것 같아요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 당근과 채찍을 어떤 식으로 주셨는지 궁금합니다. (웃음)</strong></p>
+<p>&nbsp;</p>
+<p>사실 당근을 잘 못 줬던 거 같은데 주로 그냥 훌쩍 국내 여행을 떠났던 것 같아요. 진짜 작업하다가 너무 안 돼서 새벽에 그냥 강원도에 갔던 적도 있어요. 일단 자신한테 너무 잡아먹히는 느낌이 싫어서 전시도 보러 다니고 계속 환기를 시키려고 했던 것 같은데 사실 구체적인 방법은 매번 달랐던 것 같네요. 어쨌든 작업실을 나오는 것. (웃음)</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-48990" src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon4.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon4.jpg 653w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon4-642x900.jpg 642w" sizes="(max-width: 653px) 100vw, 653px" width="653" height="915"></p>
+<p>&nbsp;</p>
+<p><strong>Q. 앞서 해주신 이야기 중에 두 작업 스타일이 결국 맞닿아있다고 하신 내용도 재미있어요. 그렇다면 마치 타인을 이해하듯이 나 자신도 타자화해서 바라보신 적도 있을까요?</strong></p>
+<p>&nbsp;</p>
+<p>네 맞아요. 타자화, 객관화해서 멀리서 보려고 했던 것 같아요. 내가 어디쯤에 있는지, 아니면 내가 왜 이런 감정을 느끼고 있는지를. 그리고 차분해지려고 노력을 했던 것 같아요. 사실 모든 작업자분들이 그렇겠지만 고독해지는 순간이 많이 있는데 그때를 잘 이겨내려고 했던 것 같네요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 참고로 이번 앨범은 저 개인적으로도 굉장히 인상적으로 들었어요. 물론 4월 말 발매된 선공개 싱글이 있기는 하나 본격적인 데뷔 작품은 이번 [Damage]라고 볼 수 있을 텐데요, 싱글 위주의 시장 흐름 속에서 이렇게 거대한 규모로 커리어를 시작하신 의도가 궁금합니다.</strong></p>
+<p>&nbsp;</p>
+<p>사실 생각보다 그 이유는 단순해서, 그리고 아까 음악 시작하던 시절에 앨범 내는 것이 목표라고 말씀드렸던 이유도 제가 소비하던 음악이 주로 앨범의 형태였기 때문에 그게 저한테는 자연스럽게 느껴졌어요. 그렇다 보니 생산자 입장에서도 앨범 단위로 아웃풋이 나오게 된 것 같아요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 특히 이번 작품은 앨범 전체를 관통하는 대주제가 확실하기도 해요. 아무래도 규모 있는 작업이다 보니 준비하는 과정에서 어려움은 없으셨나요?</strong></p>
+<p>&nbsp;</p>
+<p>사실 쉽지 않았는데요. (웃음) 16트랙이지만 데모로 치면 거의 20~30트랙까지 있었던 상황이었는데 결국에는 비워내고 덜어내고 재배치하는 과정이었던 것 같아요. 물론 한 곡 안에서도 파트가 있다 보니까 그 안에서 퍼즐 느낌을 주는 식으로 작업을 진행했어요. 근데 그 퍼즐 조각을 맞추는 데 있어서 하나의 그림 같이 정답이 있는 퍼즐이라기보다 자유롭게 상상의 여지를 많이 남겨두고 싶었던 앨범이었어요. 물론 제가 속으로 생각했던 이야기는 있지만요. 간략하게 말씀드리자면 1번 트랙 ‘청명(淸明)’에서 다음 트랙 ‘Newbie (feat. 이랑)’로 넘어가는데 여기서 ‘Newbie (뉴비)’가 인터넷 용어로 어떤 게임에서 시작 단계에 있는 사람을 말하기 때문에 그때부터 어떤 이야기의 주인공을 설정하고 시작이 되는 셈이에요. 사실 이 앨범은 게임과도 많이 맞닿아있어서 그런 설정을 넣었던 트랙이기도 해요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 곡 간의 유기성이나 서사를 설계하시는 것도 만만치 않으셨을 것 같네요.</strong></p>
+<p>&nbsp;</p>
+<p>배치하는 데 있어서 어쨌든 제가 듣기에 음악적으로 잘 연결되는 구조로 가져가고 싶었고 제 트랙들에서 이펙트나 노이즈 같은 요소가 되게 많기 때문에 진행될수록 단순해지는 구조였으면 좋겠다는 생각을 했어요. 무드에 있어서는 비교적 밝은 느낌의 초반 트랙들을 앞에 배치하고 중간중간 마치 날씨가 어두워지듯이 어두운 느낌의 구간을 중후반부에 배치했는데 마지막에 다시 그 구름이 걷히는 느낌으로 직관적인 장치를 많이 이용하기도 했죠.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="[Official Audio] 김도언 (Kim Doeon) - SaGA" src="https://www.youtube.com/embed/qQ_FN400ne0?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_qQ_FN400ne0" width="640" height="360" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Q. 마치 소설로 치면 다음 장으로 넘어가는 계기가 되는 사건처럼 이번 앨범에도 서사에 방점을 찍는 특별한 트랙이 있을까요?</strong></p>
+<p>&nbsp;</p>
+<p>16개 트랙 중에 9번 트랙 ‘SaGA’가 제일 어떻게 보면 그런 챕터 같은 역할을 해주는 것 같아요. 8번 트랙 ‘When You Were…’는 이제 9번을 위한 힌트의 역할을 하고 있고요. ‘SaGA’는 소설이나 이야기 속 영웅담 같은 이야기를 담고 있는 제목인데 이때부터 연달아 나오는 트랙들의 분위기가 비교적 어두운 편이에요. 이 트랙을 통해서 분위기의 전환을 가져가고 싶었던 것 같아요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 음악과 함께 하는 뮤직비디오도 인상 깊어요. 지금까지 총 두 곡의 뮤직비디오가 나왔고 영상을 비롯해 앨범 커버 같은 비주얼적인 부분 또한 도언 님의 작품 속에서 중요한 축을 담당하고 있는 것 같더라고요.</strong></p>
+<p>&nbsp;</p>
+<p>아트 디렉션을 저랑 전재민이라는 친구가 함께 맡았는데요, 그 친구는 ‘요새 (feat. So!YoON!)’ 비디오 디렉터도 하고 싱글 아트워크, 앨범 아트워크까지 맡아서 해준 친구예요. 작업 초반의 기획 단계 때부터 음악적인 부분까지도 피드백을 주고받아서 자연스럽게 비주얼과 음악이 섞이게 됐어요. 그리고 황현진, 박형준, 이수호, 윤준희 같은 창의적인 디렉터들과도 평소에 작업에 대한 이야기를 나누곤 했기에 지속적으로 영향을 받아왔어요.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="김도언 Kim Doeon - Prophet (feat. Kim Hanjoo) MV" src="https://www.youtube.com/embed/R0YYB2qp3RQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_R0YYB2qp3RQ" width="640" height="360" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Q. 뮤직비디오도 직접 참여하신 부분들이 많은 편인가요?</strong></p>
+<p>&nbsp;</p>
+<p>비디오 같은 경우도 음악만큼이나 신경을 저도 많이 썼죠. 저도 사실 뜬금없이 몰래몰래 나오는데 아마 못 찾으실 거예요. (웃음) 저도 어떻게 보면 스탭 역할로 촬영장에 항상 갔었죠.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 주변에 시각 작업자들이 많이 계시다 보니 다방면으로 영감을 주고받으시는 것 같네요.</strong></p>
+<p>&nbsp;</p>
+<p>네, 맞아요. 그리고 다들 앨범에 대한 이해를 깊게 해주시는 분들이라서 더더욱 따로 떼놓고 생각할 수 없는 부분인 것 같아요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 사운드적인 측면도 재미있게 들었어요. 굉장히 다양한 요소가 얽혀있는데 평소에 이런 음악적인 영감은 어디서 받으시는 편인가요?</strong></p>
+<p>&nbsp;</p>
+<p>물론 양한 인풋이 있지만 저는 악기 자체에서 영향을 많이 받는 것 같아요. 제가 처음으로 가져봤던 악기가 아이폰에 있는 ‘가라지밴드’라는 어플이에요. 작은 핸드폰에서 다양한 악기 소리를 낼 수 있다는 점이 굉장히 재미있었어요. 그 후 컴퓨터로 환경이 바뀌면서 자연스럽게 이런저런 가상악기와 플러그인을 만져보며 제가 좋아하는 소리를 만들게 됐던 것 같아요. 영감이 어디서 따로 오는 편은 아닌 것 같고, 실제로 기술을 다루고 익히며 경험으로 배우는 편입니다.</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-48989" src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon3.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon3.jpg 876w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon3-642x900.jpg 642w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon3-730x1024.jpg 730w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon3-768x1077.jpg 768w" sizes="(max-width: 876px) 100vw, 876px" width="876" height="1228"></p>
+<p>&nbsp;</p>
+<p><strong>Q. 인터넷 라디오 ‘Worldwide FM’에서 객원 믹스셋으로 참여하신 소식도 들었어요. 전세계를 대상으로 송출되는 방송에서 한국 가요들을 선곡해주신 것이 인상 깊었는데 한국 가요에서도 작업적인 영향을 받으시는 편일까요?</strong></p>
+<p>&nbsp;</p>
+<p>물론 관심 가는 한국 가요가 있지만 앨범 전반에 걸쳐 한국 가요의 영향이 들어갔다고 할 정도는 아닌 것 같아요. 싱글로 나왔던 ‘요새’ 같은 경우가 좀 두드러지게 그런 면이 있는 것 같네요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 마치 고전 게임을 연상시키는 전자음들도 재미있는 요소 중에 하나에요. 앞에서도 잠깐 이번 앨범에 녹아든 게임적인 요소들을 언급해주시기도 했는데 평소에 게임도 많이 즐겨 하시는 편이신가요?</strong></p>
+<p>&nbsp;</p>
+<p>사실 게임에 재미를 붙여보려고 했는데 잘 안되더라고요. 재미를 느끼고는 싶은데 자꾸 플레이어로서 몰입은 잘 안 돼요. 다만 사운드트랙 같은 건 많이 좋아했어요. 유일하게 열중해서 했던 게임이 초등학교 때 닌텐도 게임보이로 하던 ‘포켓몬스터 골드 버전’인데 생각해보면 그때 그 음악들이 영향이 있기는 했을 것 같아요. 유저는 아니지만, 관련 음악을 디깅하면서 ‘크로노 트리거’나 ‘파이널 판타지’ 같이 한 명의 주인공이 세상을 탐험하는 RPG류 게임의 사운드트랙을 개인적으로 좋아했죠.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 보컬리스트 혹은 싱어송라이터에 비해 가창을 겸하지 않는 프로듀서라는 역할은 곡 작업 과정을 바라보는 각도도 다를 것 같다는 생각이 들어요. 아무래도 다양한 피쳐링진을 자랑하는 앨범이기도 한 만큼, 보컬이라는 요소에 대해서 어떤 관점을 갖고 계신지도 궁금합니다.</strong></p>
+<p>&nbsp;</p>
+<p>평소에 주로 인스트루멘탈 음악을 들어서 목소리를 음악적인 소스 단위로 쓰는 악기에 관심이 많았는데, 이번 앨범에서 가창을 겸하는 뮤지션분들과 협업을 하며 가사가 주는 힘을 많이 생각하게 됐습니다.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="김도언 Kim Doeon - 요새 Fort (feat. So!YoON!) MV" src="https://www.youtube.com/embed/2BM5DfNkx_s?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_2BM5DfNkx_s" width="640" height="360" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Q. 예를 들면 어떤 곡에서 그런 느낌을 크게 받으셨나요?</strong></p>
+<p>&nbsp;</p>
+<p>방금 말씀드린 ‘Newbie (feat. 이랑)’라는 트랙이 그래요. 이랑 님이 “위험, 위험, 위험, 주의, 주의, 주의”라고 경고 신호 같은 사인을 주시거든요. 덕분에 이미지가 확장된 느낌을 받기도 했고요. 소윤 님이 참여했던 ‘요새 (feat. So!YoON!)’ 같은 경우에는 글로만 보면 어두울 수 있는 내용이 멜로디가 붙으니까 서로 이상한 모순을 만들어내는 것도 느꼈고요.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Q. 말씀하신 것처럼 각양각색의 목소리가 다양한 방식으로 얹어진 모습들이 인상적이에요. 곡별로 피쳐링 아티스트를 선정하셨던 특별한 기준이 있으셨을까요?</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>네, 그렇죠. 그리고 기본적으로 제가 너무 좋아했던 앨범들을 내주신 분들이라는 게 또 공통점이라면 공통점이었던 것 같고, [Damage]의 각 곡에 들어있는 특징적인 사운드가 어울릴 것 같은 목소리를 가진 분들께 섭외를 드린 것 같아요. 예를 들어, Newbie에서 콘트라베이스가 주가 되는 파트가 있는데, 이랑 님의 음악에서도 콘트라베이스가 두드러지는 인상을 받았기에 그 트랙에 요청을 드렸어요.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="김도언 Kim Doeon - 거울 Mirror (feat. 이이언 eAeon) MV" src="https://www.youtube.com/embed/mg5XPrZMMiU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_mg5XPrZMMiU" width="640" height="480" frameborder="0"></iframe></p>
+<p>&nbsp;</p>
+<p><strong>Q. 정말 다각도로 바라볼 수 있는 재미있는 앨범이에요. 다시 한번 이야기하지만, 오늘이 딱 앨범 발매일이라서 더 의미 있는 자리라고 생각합니다. 오늘 이후에 이번 앨범에 관련된 추가적인 활동도 계획 중이신가요?</strong></p>
+<p>&nbsp;</p>
+<p>일단 앞서 말씀드린 것처럼 뮤비가 더 릴리즈될 예정입니다.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 혹시 앞으로도 정규 단위의 활동을 이어갈 생각이실까요?</strong></p>
+<p>&nbsp;</p>
+<p>미정. 아직은 미정이고 일단은 앨범을 기준점으로 삼아서 다음을 향해 움직일 것 같긴 해요. 그렇지만 중간중간 어떤 일이 벌어질지는 모르니까. 저도 언젠간 싱글로 낼 수도 있다 생각을 하고 아니면 누군가와 협업을 할 수도 있고 사실 어떤 포맷을 딱 정해두진 않았어요.</p>
+<p>&nbsp;</p>
+<p><strong>Q. 그렇죠. 마치 활동명을 본명으로 정하셨던 계기처럼 굳이 벌써부터 길을 좁혀둘 필요는 없으니까요. (웃음)</strong></p>
+<p>&nbsp;</p>
+<p>그렇죠. (웃음)</p>
+<p>&nbsp;</p>
+<p><strong>Q. 이후의 작품활동은 어떤 식으로 이어지게 될지에 관한 도언 님의 간단한 힌트와 함께 마지막 한 마디 부탁드리면서 인터뷰 마무리하도록 하겠습니다.</strong></p>
+<p>&nbsp;</p>
+<p>이번 음반 같은 경우는 ‘인더박스’라고 하는데 컴퓨터 하나로 끝내버리는 작업이었거든요. 다음에는 라이브 레코딩을 한다던가 워크 플로우를 좀 바꿔서 해보고 싶다는 생각은 있어요. 그리고 5월 말쯤에 CD가 소량 제작될 예정인데 많은 관심 부탁드립니다. (웃음) 참여해준 모든 친구들 너무 모두 고맙다는 말 전하고 싶어요.</p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" title="[Full Album] 김도언 Kim Doeon - Damage / 앨범 전곡 듣기" src="https://www.youtube.com/embed/Ha6AwMN67IQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_Ha6AwMN67IQ" width="640" height="360" frameborder="0"></iframe></p>
+<hr>
+<p><strong>Interview | 월로비</strong></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/interview/" rel="category tag" data-pjax-state="">INTERVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/kimdoeon0.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[OHIORABBIT (POCLANOS ─ Interview)]]></title>
@@ -1946,7 +2127,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>밴드의 이름은 우리가 밴드를 시작하기 전에 이미 일상의 대화 속에서 나왔던 말이에요. 누군가가 “I mean us”라고 말했고 그 이름이 우리를 바로 뭉치게 했습니다. 음악도 우리에게 비슷한 의미를 지니는 것 같아요. 공연이나 파티 장면들을 보면, 사람들은 음악 속에서 하나가 되어 기쁨과 슬픔을 나누잖아요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="I Mean Us - You So (Youth Soul) [Official Music Video]" src="https://www.youtube.com/embed/zBU4R1Jm46k?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_zBU4R1Jm46k" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="I Mean Us - You So (Youth Soul) [Official Music Video]" src="https://www.youtube.com/embed/zBU4R1Jm46k?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 이러한 팀명에서는 바이오그래피에서 “각기 다른 모든 악기, 아이디어와 생각을 하나로 통합하는 것(uniting every single piece of different instruments, ideas and thoughts as one)”이라고 하신 것도 생각났는데, 이 문장이 마치 밴드의 형태로 음악을 하는 이야기처럼 느껴지더라고요. 하나의 ‘밴드’로서 I Mean Us가 지향하는 음악이나 그 이미지가 있다면 무엇인가요?</strong></p>
 <p>&nbsp;</p>
@@ -1954,7 +2135,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>우리는 모든 악기, 아이디어 그리고 생각들이 각 멤버들의 강점과 취향이 드러나는 응축된 문장으로 결합되는 걸 목표로 합니다. 밴드로서 우리가 함께일 때 우리만이 할 수 있는 음악을 만들고 싶어요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="I Mean Us - EYƎ [Official Music Video]" src="https://www.youtube.com/embed/sBLVe2Fu1Qc?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_sBLVe2Fu1Qc" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="I Mean Us - EYƎ [Official Music Video]" src="https://www.youtube.com/embed/sBLVe2Fu1Qc?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. I Mean Us</strong><strong>의 음악에서 또한 ‘각기 다른 부분이 통합된 전체’와 비슷한 인상이 들었어요. 신시사이저와 전기기타 모두가 다른 소리를 내지만 균형을 잡으면서, 선잠을 잘 때 꾸는 꿈같은 분위기의 사운드를 만드는 인상이 느껴졌습니다. 작업을 하실 때에 이렇게 ‘분위기’를 만드는 것에 있어 가장 집중하는 점이 있다면 무엇인가요?</strong></p>
 <p>&nbsp;</p>
@@ -1976,13 +2157,13 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>우연히 앨범의 메인 아이디어를 지난 질문에서 이야기했네요. 우리는 사람들의 마음속에 있는 소중한 감정들을 살펴보고 지켜내길 바랍니다. 각 노래들에 특정 감정을 부과하지는 않았어요. 그저 사람들이 음악을 들으며 느꼈던 감정들을 간직하길 바라요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="E.D.E.N." src="https://www.youtube.com/embed/ma5agMawy6k?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ma5agMawy6k" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="E.D.E.N." src="https://www.youtube.com/embed/ma5agMawy6k?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 이제 본격적으로 [Into Innerverse] 속 음악 얘기를 해보겠습니다. 우선 트랙들에 새로 들어온 소리가 두드러지는 편이었어요. 대표적으로는 “E.D.E.N”에서의 색소폰과 함께 몽골 지역의 전통 창법인 흐미(khoomei)의 소리가 있을 거 같네요. 어쩌다가 대중음악 트랙에서 흔히 사용하지 않는 이런 창법의 목소리를 넣었는지 알려주실 수 있으신가요?</strong></p>
 <p>&nbsp;</p>
 <p>‘E.D.E.N’의 작곡가 Chun은 트라이벌한 사운드에 주목하고 있어요. 그는 전세계 곳곳에 있는 오래된 노래들이 어머니 지구에 대한 사랑으로 깊이 연결되어 있다고 생각해요. ‘E.D.E.N’의 데모를 만들고 있는 중에 마침 그의 친구가 내몽골에서 흐미와 마두금을 배우고 귀국했고 친구를 초대해 콜라보레이션을 진행했습니다. Chun이 전통음악에 대해 전문가는 아니지만, 이 트랙의 작곡가로서 곡의 사이키델릭한 분위기와 흐미가 완벽하게 호응할 것이라는 걸 알았죠. 흐미 파트의 가사는 “욕정을 삼가라”라는 의미로, 문수보살(Manjushri)의 진언에서 유래되었습니다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="除淫欲咒 ( Manjusrhi T )" src="https://www.youtube.com/embed/6P4EGTdB9KY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_6P4EGTdB9KY" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="除淫欲咒 ( Manjusrhi T )" src="https://www.youtube.com/embed/6P4EGTdB9KY?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. “E.D.E.N” </strong><strong>얘기를 좀 더 하자면 ‘네오 사이키델리아’나 ‘드림 팝’의 분위기를 강조하던 전작과는 거리가 꽤 먼 것에도 불구하고, 굉장히 댄서블해서 무척 즐거웠습니다. 신스음을 중심으로 반복적인 그루브를 강조한 건 “E.D.E.N”의 앞뒤에 놓인 “普通人類”이나 “I Dot Car”에서도 그랬고요. 어떻게 해서 이런 트랙들에서 그루브나 리듬감을 특히 강조하게 되었는지 궁금합니다. 조금 더해서, 춤추게 하는 음악들을 꿈꾸게 하는 음악들보다 좋아하시는지요?</strong></p>
 <p>&nbsp;</p>
@@ -1992,7 +2173,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>‘普通人類 Humans’를 만들 때 우리가 집중했던 단 한 가지는 “더 스타일리시하면서도 거침없는 사운드를 만들자”였습니다. 절대 “댄서블”하게 만들려고 하지는 않았어요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="I Dot Car" src="https://www.youtube.com/embed/xpMUGmn5uDc?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_xpMUGmn5uDc" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="I Dot Car" src="https://www.youtube.com/embed/xpMUGmn5uDc?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 한편, 한 트랙 안에서도 분위기나 박자, 장르적인 특징이 지속적으로 뒤바뀔 때가 많다고 느껴졌습니다. 마지막으로 “E.D.E.N” 얘기를 하자면 곡 내의 강약의 조절이 굉장히 극적인 것도 있었고요, 그러다 보니 무언가 지난 음반의 제목이 ‘OST’였던 것도 떠올랐습니다. 이를테면 “Run Ran Run”의 도입부나 브릿지 구간들이 트랙에 ‘삽입’된 듯 들어간 것이 은근히 블록버스터 영화의 시퀀스처럼 느껴지기도 했거든요. 이외에도 “普通人類”의 도입부나 장엄한 “Muséum”의 시계 소리 효과음이 비슷한 감상을 줬는데, 곡 작업을 할 때 어떤 극적인 이미지나 진행을 염두에 두셨는지 궁금합니다.</strong></p>
 <p>&nbsp;</p>
@@ -2002,7 +2183,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>‘Run Ran Run’의 이미지는 바쁜 날을 보내고 한 후 침대에 누워 자신만의 시간을 보내고 있는 당신과 닮아 있습니다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="Run Ran Run" src="https://www.youtube.com/embed/3J8zh72QT6k?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_3J8zh72QT6k" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="Run Ran Run" src="https://www.youtube.com/embed/3J8zh72QT6k?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. [Into Innerverse]</strong><strong>에는 현악기를 사용하는 트랙들도 있었습니다. “Run Ran Run”에서는 컨트리나 웨스턴 음악과 같은 스트링 솔로가 들어오고, “9”에서는 왈츠가 울려 퍼지는 무도회장처럼 나타난 현악 연주가 자연스럽게 분위기를 전환시키네요. 이런 식의 사운드가 록에 현악기를 접목시키는 일반적인 방법들과 조금 다르다는 느낌도 들었는데, 스트링 세션을 어떤 방식으로 활용하려 하셨나요?</strong></p>
 <p>&nbsp;</p>
@@ -2010,7 +2191,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>‘Run Ran Run’의 작곡가의 의도대로 원 데모에서 스트링과 바이올린을 추가했습니다. 우리는 모두 넓고 광대한 느낌을 좋아하는데, 도입부가 마치 옛 중국에서 말을 타고 달리는 것과 같은 느낌을 준다고 농담처럼 이야기하기도 해요. 프로듀서는 이 노래에서 블루그래스의 정신이 느껴진다고 했는데, 와이드한 코러스와 스트링을 사용해서 클라이맥스 부분을 만들고자 했어요. 아웃트로를 들을 때 모두가 “와우!”라고 느낄만한 요소를 느꼈으면 좋겠습니다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="24 Years Old of You" src="https://www.youtube.com/embed/Y8iKjGRcKM8?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_Y8iKjGRcKM8" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="24 Years Old of You" src="https://www.youtube.com/embed/Y8iKjGRcKM8?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 굉장히 인상적인 톤의 건반과 함께 현악기를 탄탄히 적용한 “24 Years Old of You”는 음반에서 특히나 돋보이는 곡입니다. 싱글로서는 이번 음반과 지난 음반 사이에 놓인 연결점 같은 위치에 있기도 하고, 변하는 것과 변하지 않는 것에 대한 가사(“Something begin to change and embrace / But you might not know that my feelings will never change”)도 있어서, [Into Innerverse]의 정수가 담겨있다는 느낌이 들기도 했습니다. 이 곡에서 가장 중점으로 두었던 요소가 있다면, 어떤 걸 담아보려 하셨는지 궁금합니다.</strong></p>
 <p>&nbsp;</p>
@@ -2020,7 +2201,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>작곡가인 Mandark는 이곡의 특별한 요소로, 오보에를 사용해야 한다고 주장했습니다. 그녀는 보통 머릿속에 있는 멜로디와 노래의 이상적인 사운드로부터 작업을 시작해요. 그래서 오보에와 스트링 사운드가 그 노래에 들어가야 한다고 주장한 거죠. 프로듀서인 LUB의 제안으로 오보에와 스트링 사운드를 실제 악기의 질감과 가장 비슷하게 구현했지만 더 독특한 느낌을 주는 신스와 가상악기를 사용했습니다. 우리 모두 그게 마음에 들었어요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="Muséum" src="https://www.youtube.com/embed/_ujdYMR0IY0?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer__ujdYMR0IY0" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="Muséum" src="https://www.youtube.com/embed/_ujdYMR0IY0?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 이번엔 노랫말에 대해서 조금 질문을 드리겠습니다. 개인적으로는 음반 내내 ‘너’와 ‘나’가 함께 혼란스러운 감정들의 공간 속에서 헤맨다는 느낌이 들었어요. 첫 곡인 “Muséum”에서 제시되는 ‘Suddenly awake from the end of the dreams’이나 ‘What if we turned around / There’s nothing there?‘에서 불안하게 요동치는 심정이 음반이 진행될수록 격해진다고 느껴졌는데요, [Into Innerverse]를 관통하는 감정이 있다면 무엇이라고 할 수 있을까요?</strong></p>
 <p>&nbsp;</p>
@@ -2028,7 +2209,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>굳이 이야기하자면, 어떤 감정이든 좋고 나쁜 건 없어요. 그저 지켜보고, 느끼고, 받아들이는 거죠. 어느 날 우리가 이 세상을 떠나야 한다면, 그게 완전히 나쁜 것만은 아닐 거예요. 끝은 언제나 새로운 시작을 동반하니까요. 모든 감정을 평가하거나 정의할 필요는 없다고 생각해요. 그저 흘러가게 놔두는 거죠.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="9" src="https://www.youtube.com/embed/FjoSXrK1hnc?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_FjoSXrK1hnc" width="640" height="480" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="9" src="https://www.youtube.com/embed/FjoSXrK1hnc?list=OLAK5uy_kP6iJ4OH_B6BJEQ-q4Bu_wtefJ6vtOWUQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="480" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 조금 뜬금없게 느껴질 수도 있긴 한데, 음반의 8번째 곡이자 마지막 곡의 제목이 하필 “9”더라고요. 이런 불일치가 일종의 농담처럼 느껴지기도 하는 한편, ‘Fear landing / Inside your heart and you break’ 같은 가사를 보면 “Muséum”에서 시작된 혼란이 제대로 해소되지 않은 채 끝난다는 인상도 있습니다. “9”의 진행 또한 에너지가 가장 높이 오른 부분이 갑작스레 뚝 끊기면서 음반을 끝내는 게 겹쳐지기도 했고요. 그런 의미에서, 어떻게 음반을 마무리하거나 “9”를 끝내보려 했는지 알 수 있을까요?</strong></p>
 <p>&nbsp;</p>
@@ -2040,7 +2221,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>한국에 머무르며 좋은 친구들을 많이 사귀었어요. 그 친구들과 우리의 음악을 사랑해 주는 팬들은 우리가 가장 아끼는 아름다운 것들이에요. 솔직히 한국의 음악 시장은 외국의 인디밴드가 진입하기 어려운 것 같아요. 하지만 한국의 팬들이 나날이 늘어간다는 사실에 굉장히 감사하고 있어요. 매번 한국에 갈 때마다 긍정적인 피드백도 많이 받았고요. 게다가 우리는 삼겹살의 노예에요. 사랑하는 친구들과 삼겹살/오겹살을 먹었던 순간들이 그리워요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[KYEJEOL 계절라이브] Autumn #01. I Mean Us - You So" src="https://www.youtube.com/embed/lftEeWVvhuI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_lftEeWVvhuI" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[KYEJEOL 계절라이브] Autumn #01. I Mean Us - You So" src="https://www.youtube.com/embed/lftEeWVvhuI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><strong>Q. 반대로 대만에서 열렸던 공연에 보수동쿨러(Bosudong Cooler)를 초청하기도 하셨죠. 종종 한국과 대만 밴드들 사이에서 이렇게 공연을 통해 오고 가며 만나는 일들이 많은데, 한국 공연에 함께 가고 싶은 다른 대만 밴드나, 아니면 대만 공연을 함께 하고 싶은 다른 한국 밴드가 있을까요?</strong></p>
 <p>&nbsp;</p>
@@ -2227,7 +2408,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>기록하는 걸 좋아했던 거 같아요. 일기는 쓰면서도 누가 볼 것 같다는 불안감이 항상 있잖아요. 중학교 2,3학년 때는 그래서 일부러 영어 필기체로 못 알아보게 쓰려고 하고. 국제 학교를 다녀서 중국어보다는 영어가 편했거든요. 그때부터 자연스럽게 읽고 쓰는 행위에 대해서 파고 들었던 것 같아요. 그렇게 시집도 읽고, 문학도 읽고요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[MV] 알레프 (ALEPH) - 궁전 (Night Palace) / Official Music Video" src="https://www.youtube.com/embed/jE6EwmyuF30?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_jE6EwmyuF30" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[MV] 알레프 (ALEPH) - 궁전 (Night Palace) / Official Music Video" src="https://www.youtube.com/embed/jE6EwmyuF30?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>궁금했어요. [홰홰]는 전 트랙이 다 한글로 구성되어 있는데, 8월에 발매했던 ‘Like No Other’ 같은 경우는 한글이 한 글자도 나오지 않죠. 왜 둘로 나뉠까 궁금했어요. 곡마다 들려주고 싶은 청취자가 다른 건가요?</strong><strong><br>
 </strong></span></p>
@@ -2236,7 +2417,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>그런데 해보니 어떤 부분은 영어로 불러야 뉘앙스가 살고 어떤 건 한국어로 개사해도 괜찮은 거예요. 그래서 낸 게 2017년에 냈던 EP [1] 앨범이었고요. 그런데 작년에 몸 담았던 회사를 나오고 관념에 빠졌었어요. 한국어가 더 아름답다고요. 소위 국뽕에 찼다고 하는… (웃음). 그렇게 [홰홰] 앨범을 만들었어요. 앨범 전체에 쓰인 영어 문장이 몇 개 안돼죠.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 알레프 (ALEPH) - Morning Sun" src="https://www.youtube.com/embed/nZZpndiSsRk?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_nZZpndiSsRk" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 알레프 (ALEPH) - Morning Sun" src="https://www.youtube.com/embed/nZZpndiSsRk?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p>[홰홰] 이후에 발매했던 ‘Morning Sun’이라는 곡이 담긴 노래는 해외 여행 하며 써뒀던 노래라 가사가 전부 다 영어였거든요. 미리 써놓은 곡들이기도 하고, 영어로 표현하고 싶기도 했고요. 그래서 영어로 앨범을 내봤는데요. 여러 시도 이후로는 영어과 한글에 대한 고정관념이 많이 풀린 것 같아요.</p>
 <p>&nbsp;</p>
@@ -2282,7 +2463,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>[파수꾼]은 제가 제일 아끼는 앨범이에요. 그 앨범 내기까지가 제일 오래 걸렸어요. 2014년에 만든 곡도 있고. ‘바람들’이나 ‘조금 일찍 알았더라도’는 2015년 쯤에 만들어졌고 나머지는 대부분 군대에 있을 때 쓰거나, 2016~17년도에 작업했던 곡들이에요. 좋아하지만 차마 다 못 냈던 노래들을 모아서 낸 앨범이죠.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[MV] ALEPH (알레프) - 파수꾼 (The Guardian) / Official Music Video" src="https://www.youtube.com/embed/4qflPxiNnrU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_4qflPxiNnrU" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[MV] ALEPH (알레프) - 파수꾼 (The Guardian) / Official Music Video" src="https://www.youtube.com/embed/4qflPxiNnrU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>[파수꾼] 앨범 중에 그래도 제일 애정이 가는 곡을 고른다면요?</strong></span></p>
 <p>&nbsp;</p>
@@ -2304,7 +2485,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>내년 1월쯤 아카이브 개념으로 앨범을 묶어서 하나 내려고요. [2021 아카이브]로 해서 3월부터 12월까지 낸 노래, 그 외에 2-3곡 추가해서요. 곡이 1년만 지나도 낡은 곡이라는 평가를 받는 시대인데, 그런 걸 좀 무마하면서 재조명 시키기 위한 전략이라고 할까요. (웃음)</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 알레프 (ALEPH) - Instant Lover" src="https://www.youtube.com/embed/sx2_qhGmdYI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_sx2_qhGmdYI" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 알레프 (ALEPH) - Instant Lover" src="https://www.youtube.com/embed/sx2_qhGmdYI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>그럼 매달 지금까지 낸 싱글 중에 특별히 애착이 가는 곡이 있다면요? </strong></span></p>
 <p>&nbsp;</p>
@@ -2359,7 +2540,7 @@ I mean, I Mean Us is us.</strong></em></p>
 <p>&nbsp;</p>
 <p>파블로 네루다(Pablo Neruda)의 &lt;스무 편의 사랑의 시와 한 편의 절망의 노래&gt;라는 책을 꼽고 싶어요. 파블로 네루다가 칠레의 공산당 출신의 시인인데요. 그런 작가의 배경을 제외하고 읽더라도, 자연을 굉장히 잘 풀어냈어요. 자연이 요즘 제일 좋다 보니 그런 거 같아요. 파블로 네루다 책을 다시 읽고 있는데 진짜로 충만한 힘은 자연에 대한 느낌에서 오는 거 같아요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 알레프 (ALEPH) - Night and Night" src="https://www.youtube.com/embed/gb-Q-N10SBU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_gb-Q-N10SBU" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 알레프 (ALEPH) - Night and Night" src="https://www.youtube.com/embed/gb-Q-N10SBU?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>최근에 발매한 ‘Night and Night’은 어떤 자연으로부터 영감을 받은 건가요?</strong></span></p>
 <p>&nbsp;</p>
@@ -2467,7 +2648,7 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
 <p>&nbsp;</p>
 <p>맞아요. 그런 반응을 보니 기분이 좋더라고요. (웃음)</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="김예림 Lim Kim - FALLING Prod. by DPR CREAM (Official Music Video)" src="https://www.youtube.com/embed/h-anX1_bYmA?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_h-anX1_bYmA" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="김예림 Lim Kim - FALLING Prod. by DPR CREAM (Official Music Video)" src="https://www.youtube.com/embed/h-anX1_bYmA?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>앨범과 함께 공개한 뮤직비디오는 현재 100만 뷰를 돌파했네요. 형식적인 질문이지만 소감이 궁금합니다.</strong></span></p>
 <p>&nbsp;</p>
@@ -2587,7 +2768,7 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
 <p>&nbsp;</p>
 <p>‘여름밤에 우리’를 만들면서 느리고 슬픈 음악을 만들 때보다 더 울컥한 감정을 느꼈어요. 제가 솔로로 낸 곡 중에서 BPM도 가장 빠르고, 신나고 밝은 느낌인데도 곡이 완성될수록 이상하게 울컥하더라고요. 듣다가 차 안에서 눈물이 흐르기도 했고요. 왜 그럴까 생각해봤는데, 이 곡은 결국 여름밤이 그리워서 만든 곡인 것 같아요. 제가 젊었던 때에는 젊다는 사실을 몰랐어요. 그러다 서른이 훌쩍 넘은 시점부터 ‘끝나버린 건가? 생이라는 게 사실 이때 끝나는 게 아닐까?’라는 생각이 들 정도로 큰 벽을 마주친 것 같았어요. 인생이라는 게 고독한 게 아닌가 싶었고요. 그런 감정에 휩싸였을 때가 이 곡의 시작이었던 것 같아요. 젊은 날의 젊음에 대해 곱씹고, 생각하고, 지금은 어떤지에 대해 고민하다가 이 곡의 가사가 나오고, 멜로디가 나오고 또 사운드가 나오게 된 거죠.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 전진희 (Jeon Jin Hee) - 여름밤에 우리 (summer, night) (feat. wave to earth)" src="https://www.youtube.com/embed/_BouCVTQ5c8?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer__BouCVTQ5c8" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 전진희 (Jeon Jin Hee) - 여름밤에 우리 (summer, night) (feat. wave to earth)" src="https://www.youtube.com/embed/_BouCVTQ5c8?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>곡과는 사뭇 다른 분위기의 앨범 아트워크도 비슷한 맥락일까요?</strong></span></p>
 <p>&nbsp;</p>
@@ -2633,7 +2814,7 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
 <p>&nbsp;</p>
 <p>따지자면 제게는 [Breathing]에 들어가 있는 곡들을 만들고, 연주하는 게 가장 자연스러워요. 그 앨범은 애를 써서 만든 게 아니라 뱉듯이 나온 앨범이거든요. 늘 가사가 있는 음악을 발표해왔지만, 사실은 그게 저인 거예요. 지금까지 연주 앨범을 내지 않았던 이유는 일단 제게 확신이 없었기 때문이에요. 재즈 연주에 가까운 방향으로 앨범을 만들까 싶다가도, 제게 자연스럽게 나오는 것들은 [Breathing]에 수록된 곡들이니까요. 그러다 제 안에서 확신이 생겼을 때쯤 [Breathing]이 나왔죠. 가사와 노래가 있는 곡들이 먼저 나오면서 순서가 뒤바뀌었지만, 제 시초는 [Breathing]처럼 피아노로 표현된 곡들이에요. 지금도 쌓여있는 연주곡들이 많아요. 언젠가 자연스럽게 또 다른 연주 앨범이 나오지 않을까 싶어요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[MV] 전진희 (Jeon Jin Hee) - Breathing in September, Breathing in October / Official Music Video" src="https://www.youtube.com/embed/oHoGRIQzbsI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_oHoGRIQzbsI" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[MV] 전진희 (Jeon Jin Hee) - Breathing in September, Breathing in October / Official Music Video" src="https://www.youtube.com/embed/oHoGRIQzbsI?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>‘뱉듯이 나온 앨범’이라는 점에서 [Breathing]도 일종의 재즈로 볼 수 있지 않을까요?</strong></span></p>
 <p>&nbsp;</p>
@@ -2687,7 +2868,7 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
 <p>&nbsp;</p>
 <p>대부분 저를 참하고, 조용하고 우아한 사람일 거로 생각하시는 그렇지 않거든요. 제 친구들이 찍어준 사진 속 저는 철이 없고 웃음이 많은, 애 같은 유형에 가까워요. 그런데 워낙 고요하고 슬픈 노래들을 쓰다 보니 그런 사람이라고 생각하시는 것 같아요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 전진희 (Jeon Jin Hee), 강아솔 (Kang Asol), 박현서 (Park Hyunseo) - 메리 크리스마스(Merry Christmas)" src="https://www.youtube.com/embed/LTVCa1ngJP0?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_LTVCa1ngJP0" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 전진희 (Jeon Jin Hee), 강아솔 (Kang Asol), 박현서 (Park Hyunseo) - 메리 크리스마스(Merry Christmas)" src="https://www.youtube.com/embed/LTVCa1ngJP0?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="640" height="360" frameborder="0"></iframe></p>
 <p><span style="text-decoration: underline;"><strong>강아솔, 박현서, 신온유 님과 작은평화라는 음악 동아리를 하고 계시죠. 우선, 왜 동아리인가요?</strong></span></p>
 <p>&nbsp;</p>
 <p>상업적인 느낌이 들지 않기를 바랐어요. 작은평화로 큰 업적을 만들고 돈을 벌기보다는 우리를 위해 모였다는 느낌을 주고 싶었고요. 모였을 때 부담스럽지 않고 기분이 좋았으면 했기도 하고요.</p>
@@ -3036,156 +3217,6 @@ Edit | 월로비</p>
 	<footer class="entry-footer">
 		<span class="cat-links">Posted in <a href="https://poclanos.com/category/interview/" rel="category tag" data-pjax-state="">INTERVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새소년 (SE SO NEON) (POCLANOS ─ Interview)]]></title>
-            <link>https://poclanos.com/interview/sesoneon/</link>
-            <guid>https://poclanos.com/interview/sesoneon/</guid>
-            <pubDate>Sat, 19 Feb 2022 04:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/interview/sesoneon/" rel="bookmark" data-pjax-state="">새소년 (SE SO NEON)</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/sesoneon/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2021-03-05T17:37:10+09:00">2021년 3월 5일</time><time class="updated" datetime="2021-07-05T14:08:44+09:00">2021년 7월 5일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
-			</header><!-- .entry-header -->
-
-	
-			<a class="post-thumbnail" href="https://poclanos.com/interview/sesoneon/" aria-hidden="true" tabindex="-1" data-pjax-state="">
-				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="새소년 (SE SO NEON)" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2.jpg 1920w, https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2-900x608.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2-1024x692.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2-768x519.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2-1536x1038.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" width="1920" height="1297">			</a>
-
-			
-	<div class="entry-content">
-		<p><img loading="lazy" class="aligncenter size-full wp-image-42646" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-900x728.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-1024x828.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-768x621.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-1536x1242.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/01-2048x1656.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="2070"></p>
-<p>&nbsp;</p>
-<p><em><strong>자유를 찾아서</strong></em></p>
-<p>&nbsp;</p>
-<hr>
-<p>새소년이 2021년을 여는 새 싱글 [자유]를 발표했다.</p>
-<p>지난 [비적응] EP에서 두려움과 불안에 관해 이야기하던 이들이 약 1년 만에 자유라는 대명제와 함께 돌아온 것.</p>
-<p>음악, 비디오, 프로필 이미지를 비롯하여 머천다이즈, 슬로건 플레이까지. 새소년이 설파한 자유는 그렇게 온/오프라인 곳곳으로 스며들어갔다.</p>
-<p>그들의 노래가사처럼 어느 자유로운 날, 새소년을 만나 ‘자유’에 관한 깊고 넓은 이야기를 나눴다.</p>
-<p>&nbsp;</p>
-<hr>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42648" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-scaled.jpg 1729w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-608x900.jpg 608w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-691x1024.jpg 691w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-768x1137.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-1037x1536.jpg 1037w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/02-1383x2048.jpg 1383w" sizes="(max-width: 1729px) 100vw, 1729px" width="1729" height="2560"></p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>싱글 발매 후 약 한 달 정도가 지났어요. 그동안 어떻게 지냈어요?</strong></span></p>
-<p><strong><br>
-</strong><strong>소윤 / </strong>정신없이 보냈어요. 훌륭하게 소화해야 할 스케줄이 이어지다 보니 아직 쉰다는 생각은 해본 적 없지만, 이제 좀 여유가 생기지 않을까 싶어요.<br>
-<strong><br>
-<span style="text-decoration: underline;">신곡 ‘자유’에 관한 얘기를 해볼까 해요. 간단한 곡 소개 부탁드립니다.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / [비적응]에서 사회에서 느끼는 혼란이나 두려움, 불안을 노래하고 나서 시간을 보내며 느낀 생각은 각자가 가진 두려움을 마주하는 게 중요한 맥락이라는 것이었어요. ‘자유’라는 노래에는 자유를 찾았다는 완결된 의미보다는 자유를 찾아야 하고, 그것이 우리를 더욱 단단하게 만들어준다는 생각이 담겨 있습니다.</p>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42649" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-1024x1024.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-768x768.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-1536x1536.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/03_cover-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="2560"></p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>‘자유’를 착수하게 만든 결정적인 트리거는 무엇이었을까요?</strong></span></p>
-<p>&nbsp;</p>
-<p>소윤 / 결정적인 계기가 있었다기보다는, 작년 이유도 모른 채로 한동안 침잠하며 보냈던 시기가 있었어요. 단순히 저의 기분이 아니라, 해소되지 않는 어떤 무언가 때문이었죠. 결국에는 제가 두려움을 이기지 못하고 새끼 고라니처럼 (웃음) 몸을 가누지 못하고 털썩 쓰러진 거 아닌가 하는 생각도 들었고요. 바닥을 치고 올라와 스스로를 돌보기 시작하면서, 자기비판적 태도를 거두고 받아들일 건 받아들이고 인정할 건 인정하면서 있는 그대로를 바라보자는 자연스러운 흐름이 있었어요.<br>
-<strong><br>
-<span style="text-decoration: underline;">음악적인 부분 역시 짚고 넘어가지 않을 수 없어요. 음악 전반에서 데이비드 보위를 위시한 70년대 클래식 팝/락의 정취를 많이 느낄 수 있는데, 단순히 이것이 재해석이나 오마주라고 느껴지지 않았어요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 말씀하신 것처럼 어떤 핀포인트를 잡고 작업하진 않았고 자연스럽게 흘러가는 대로 만들어낸 트랙에 가까워요. 물론 데모 트랙에서부터 클래식한 느낌이 있긴 했어요. 클래식은 새소년이 한 번도 다뤄보지 않았던 영역이기 때문에 꽤 조심스러웠죠. ‘너무 올드하게 느껴지면 어떡하지?’라는 생각도 들었고요.</p>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42650" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-scaled.jpg 2003w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-704x900.jpg 704w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-801x1024.jpg 801w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-768x981.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-1202x1536.jpg 1202w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/04-1603x2048.jpg 1603w" sizes="(max-width: 2003px) 100vw, 2003px" width="2003" height="2560"></p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">클래식과 올드함은 한 끗 차이니까요. (웃음)</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 네. 심지어 제가 클래식 락에 관해서 깊게 연구를 했던 사람도 아니기에 어쭙잖게 (클래식을) 재해석한 느낌이 나올까 봐 걱정했는데요. 결과적으로는 새소년이 기존에 보여주지 않았던 새로운 음악적 시도를 보여드릴 수 있게 된 것 같아서 다행입니다.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">트랙의 아이디어는 소윤 씨에게서 출발했지만, 노래를 완성하는 데 두 분이 중요하게 생각한 포인트는 무엇이었을까요.</span></strong></p>
-<p>&nbsp;</p>
-<p>유수 / 데모엔 드럼이 없었는데 편곡을 거치면서 드럼을 넣는 방향으로 가닥이 잡혔어요. 처음 데모를 들었을 때, 어떤 방향으로 드럼이 들어갔으면 좋겠다고 상상한 지점을 음악에 그대로 구현할 수 있어 만족스러웠습니다. 6~70년대에 제작된 스네어나 베이스 드럼 등 말 그대로 클래식한 악기를 좋은 상태로 보존하고 있거든요. 그것들을 일일이 스튜디오에 가져가서 녹음에 들어갔는데, 멤버 모두 선뜻 좋아해 주었어요.</p>
-<p>현진 / 저는 유수 님보다 더 나아가서 5~60년대로 갔습니다. (모두 웃음) 딱 10년만큼만 더 갔어요. 이번 앨범을 준비하려고 앰프를 새로 샀거든요. 제가 생각했던 소리를 잘 내준 것 같아요.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">트랙명에 관한 얘기도 간단히 나누고 싶어요. 데모에서부터 작품명은 ‘자유’였지만, 최종 제목으로 결정하기까지 꽤 시간이 걸렸다고 밝힌 바 있어요. 아무래도 ‘자유’라는 단어가 불러일으키는 단어의 무게 때문이었을까요?</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / ‘긴 꿈’, ‘심야행’ 다음에 ‘자유’라니. 마치 ‘사랑’이라는 제목을 짓는 것과 비슷한 느낌의 부담이었어요. (웃음) 그런데 이번 노래에서 느껴지는 함축적인 심상을 떠올려봐도 뭐가 없는 거예요. ‘자유는 자유지, 뭘 빗대’. 약간 이런 느낌이랄까요. ‘자유’가 아닌 다른 후보들도 많았지만, 다시 원점으로 돌아와서 결국 ‘자유’로 결정하자고 다짐했어요.</p>
-<p>멤버들에게 이 사실을 알렸더니, 아니나 다를까 ‘야, 자유가 좋아, 다른 제목은 좀 아니었어’라는 얘길 하더라고요. 그때 쾌감 쩔었어요. “그래, 아니야. 자유야!”</p>
-<p>&nbsp;</p>
-<p><strong>현진 / </strong>소윤이는 늘 답을 찾아오는 스타일이기 때문에, 중간에 저희가 어떻게 해줄 수 있는 건 없었고 답을 찾아왔을 때 그랬죠. “그래, 그건 아니었어.” (모두 웃음)</p>
-<p>&nbsp;</p>
-<p><strong>소윤 / </strong>알고 보니까 저 빼고 모든 스탭들은 ‘자유’를 좋다고 생각하고 있던 거에요. (웃음) 자유라는 단어를 누구나 알고 있지만, 일상에서 자주 쓰지는 않잖아요? 그렇다 보니 ‘자유’라는 글자를 세상에 내보였을 때 느껴지는 쾌감이 있었어요.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">배우 유아인이 출연한 뮤직비디오 역시 큰 화제가 되었어요. 어떤 계기로 함께하게 되었나요?</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 모임 별 활동을 통해 친분을 쌓게 됐어요. 아인 씨가 모임 별 음악을 좋아하거든요. 어느 날 아인 씨가 재밌는 거 있으면 같이 하자고 먼저 얘기를 해줬고, 그때가 마침 ‘자유’를 발표해야겠다고 마음먹은 시기여서 그렇게 같이 작업하게 됐죠. 일련의 작업 과정을 무척 즐겨주어서 정말 고마웠어요. 이번 앨범을 행복한 기억으로 남길 수 있게 해준 인물 중 한 명이에요.</p>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42651" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-900x728.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-1024x829.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-768x622.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-1536x1243.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/05-2048x1657.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="2072"></p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;">&lt;</span><strong><span style="text-decoration: underline;">놀면 뭐하니?&gt;를 기점으로 대중적으로도 큰 인기를 얻게 되었지만, 음악은 보다 모험심이 강해지고 있어요. 이 또한 자유의 일환이라고 생각해도 될까요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 저희 셋 모두 ‘인기를 굳히려면 더 쉽고 재밌는 음악을 만들어야 해!’와 같은 작업자들이 아닌 거 같아요. 기본적으로 하고 싶은 것을 해야 한다는 생각을 갖고 있어요. 그리고 사실 대중적이라는 기준은 아무도 모르는 거잖아요.</p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;">‘</span><span style="text-decoration: underline;"><strong>하고 싶은 것을 한다는’ 것이 쉬운 말이지만, 굉장히 어렵고 또 중요한 태도이기도 하잖아요. 말씀하신 것처럼 대중성이란 개념이 상대적이지만 흔히 ‘대중가요’를 떠올렸을 때 생각나는 스테레오타입들이 있잖아요. 누군가는 타협을 고민하기도 하고요.</strong></span></p>
-<p><span style="text-decoration: underline;"><strong><br>
-</strong></span><br>
-<strong>소윤 / </strong>갑자기 새소년이 다음 앨범으로 일렉트로닉 드럼을 도입해서 디스코를 해도 저는 전혀 이상할 게 없다고 생각해요. 대중성의 유무보다는 하고 싶은 것을 했는지가 더욱 중요한 측면이라 생각해요. 물론 아예 타협하지 않을 수는 없겠죠. 모순된 말이라 생각해요. 다만, 최소한의 타협으로 새소년의 것을 해내면서 외부를 맞이하는 것이 저희가 지킬 수 있는 태도라 생각해요.</p>
-<p>예를 들어 새소년이 방송에서 춤을 췄는데 누군가는 ‘대중들에게 어필하려고 작정했네’라고 생각할 수도 있어요. 예전 같으면 그런 피드백을 신경 썼을 텐데, 오히려 이젠 해를 거듭할수록 더욱 모험심이 커지고 있어요.</p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;">2021</span><strong><span style="text-decoration: underline;">년을 살아가는 지금, 새소년이 하고 싶은 것을 해내는 게 가장 중요하고 그것이 어쩔 땐 댄스 커버일 수도 있는 셈이니까요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 그렇죠.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">이어서 질문할게요. &lt;새참&gt;이나 인스타그램 릴스 컨텐츠도 그렇고, I’m Not Cool 댄스 커버까지 끊임없이 새소년만의 반전 매력을 보여주고 있어요. 이러한 소위 ‘느슨한’ 모습을 선보이는 것을 대중들이 가진 새소년에 관한 오해를 깨기 위한 일환이라 생각해도 괜찮을까요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 질문해주신 컨텐츠의 시작도 ‘자유’가 기점인지 모르겠는데, 일단은 재밌어서 시작했어요. 반면 걱정도 조금 있었어요. ‘아, 내 이미지!’ 같은 생각들. (모두 웃음)</p>
-<p>&nbsp;</p>
-<p><strong>현진 / </strong>소윤이는 그동안 쌓아온 이미지가 있지만, 저희 둘 같은 경우는 아니거든요. (웃음)</p>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42652" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-900x676.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-1024x769.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-768x577.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-1536x1153.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/06-2048x1538.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="1922"></p>
-<p>&nbsp;</p>
-<p><strong>소윤 / </strong>이 오빠들에게는 플러스에요, 완전. 아무튼 저도 사실 입체적인 사람이거든요. 사람의 한 가지 면모만 보여주는 것은 재미없는 것 같아요. 그래서 놀 땐 놀고, 작업할 땐 하고 그러는 거죠.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">팬들의 반응을 포함해 돌이켜보자면, 소윤 씨에게도 플러스가 되지 않았을까요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 득과 실을 따져본 적은 없지만, 그렇다니 다행이네요. 찍고 있으면 그냥 너무 웃겨요. 아드레날린이 솟구친다랄까요. 저는 이런 컨텐츠가 일종의 광기 같거든요. 무대도 그렇고, 카메라 앞에서 노는 것도 모두 광기라 생각하는데 이게 결국엔 공연을 못해서 이러는 게 아닌가… (모두 웃음)</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">웃고 떠들기도 했지만, 조금은 무거운 질문을 드리려 해요. 한 인터뷰를 통해 셋 모두 새소년의 일원임에도 불구하고 공평한 대우를 받지 못하는 것에 대한 아쉬움을 밝힌 바 있어요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 지금도 계속 새소년의 테크라이더를 함께 수정해나가고 있어요. 카메라도, 조명도, 악기도 멤버 모두의 이미지가 고루 (대중에게) 전달되어야 한다고 생각해요. 새소년이 점점 위로 올라갈수록 가능한 선택지 역시 많아질 테고, 앞서 질문 주신 것들에 대한 세심한 터치가 가능하지 않을까 하는 생각도 들고요.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">그런 측면에서 유독 이번 뮤직비디오가 인상적이었어요. 세 명의 멤버가 모두 뮤직비디오에 출연해 하모니를 만드는 모습이 참 보기 좋았거든요. 새소년이 오롯이 컨트롤할 수 있는 운동장에서 즐겁게 합을 맞추는 모습이랄까요. 그러고 보니 &lt;음악중심&gt;에서 엔딩을 각자 나눠 가지기도 했네요. (웃음)</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 재밌는 게, 오히려 음악 방송에서 셋을 골고루 잡아주시더라고요. 편견 없이 대한다는 생각이 들어 좋았어요. 개인 직캠도 따로 있고요.</p>
-<p>&nbsp;</p>
-<p><strong>현진 / </strong>본방송에서 저는 1분 30초까지 출연을 안 해요. 그래서 솔직히 (제 모습을) 안 찍었을 거라 생각했는데 직캠엔 다 담겨 있더라고요. (웃음)</p>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42653" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-scaled.jpg 2048w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-720x900.jpg 720w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-819x1024.jpg 819w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-768x960.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-1229x1536.jpg 1229w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/07-1638x2048.jpg 1638w" sizes="(max-width: 2048px) 100vw, 2048px" width="2048" height="2560"></p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">이번 자리를 빌려, 새소년의 현진과 유수가 아닌 베이시스트 현진과 드러머 유수에 관한 이야기도 들어보고 싶네요. 라이브에서 신경 쓰는 지점이나 연주관 등 어떤 얘기라도 좋아요.</span></strong></p>
-<p>&nbsp;</p>
-<p>현진 / 공연 당일 악기의 컨디션이나 공연장의 온도/습도, 스트랩 길이 같은 사소한 부분까지 신경 쓰는 편입니다. 두 멤버에 비해 아무래도 무대 경험이 적다 보니, 퍼포먼스를 위한 연습도 은근슬쩍 하고요. 예를 들어, ‘파도’에서 박자에 맞춰 발을 움직이면 굉장히 촌스럽거든요. (웃음) 그래서, 박자랑 발을 따로 움직이는 연습을 한다든지 두루두루 신경 쓰는 편이에요. 옆에 서 있는 소윤의 기분도 많이 살펴봅니다. (모두 웃음) 공연 전 분위기가 좋아야 공연도 잘 되니까요.</p>
-<p>&nbsp;</p>
-<p><strong>유수 / </strong>드럼을 녹음했을 때, 어느 곳에서 들어도 최대한 비슷한 소리가 날 수 있게끔 신경을 가장 많이 쓰는 거 같아요. 학생 때부터 재즈 씬에서도 계속 연주하고 있는데, 스케줄이 없고 기회가 있을 때마다 참여하고 있어요. 밴드 활동에서 할 수 없는 부분들을 재즈 사이드에서 표현할 수 있어서 해소의 측면도 있죠.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">소윤 씨는 그 누구보다 냉정한 프론트퍼슨이라는 생각이 들어요. 물론 좋은 측면에서요. 성공에 쉽게 안주하지 않는 듯해요. 소윤 씨가 바라보는 현재 새소년의 위치는 어느 정도일까요.</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 저는 아직도 이제 시작 단계라고 생각해요. 결코 지금 자리에 머물러있고 싶어 하지 않는 습성 때문에 지금도 전진 중인데, 그 끝을 정해두고 싶지는 않아요. ‘우리의’ 음악과 애티튜드를 간직하며 타협하지 않은 채 어디까지 올라갈 수 있을지 궁금해요.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">그렇다면 이렇게 질문해볼게요. 새소년을 바라보고 있으면 차근차근 한 단계씩 도장깨기를 하고 있다는 생각이 들어요. 수천 명을 수용하는 라이브홀에서 단독 공연을 매진시키고, 해외 매체에서 호평을 받고, 이제는 공중파 가요 무대에 올랐어요. 그렇다면 새소년의 가장 가까운 다음 스텝은 무엇일까요?</span></strong></p>
-<p>&nbsp;</p>
-<p>소윤 / 셋 모두 공통된 생각이지 않을까 싶은데, 더 큰 공연장에서 단독 공연을 하고 싶어요.</p>
-<p>&nbsp;</p>
-<p><strong>현진 / </strong>저는 빌보드 1위요. (모두 웃음)</p>
-<p>&nbsp;</p>
-<p><strong>유수 / </strong>월드 투어?</p>
-<p>&nbsp;</p>
-<p><img loading="lazy" class="aligncenter size-full wp-image-42654" src="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-scaled.jpg" alt="" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-scaled.jpg 2048w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-720x900.jpg 720w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-819x1024.jpg 819w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-768x960.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-1229x1536.jpg 1229w, https://poclanos.com/drmvsn/wp-content/uploads/2021/03/08-1638x2048.jpg 1638w" sizes="(max-width: 2048px) 100vw, 2048px" width="2048" height="2560"></p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">사실 코로나19가 아니었다면, 월드 투어도 마냥 먼 이야기는 아니었겠지요. 어느덧 마지막 질문입니다. 그 누구도 훼방 놓을 수 없는 ‘자유’의 일주일이 온전히 주어진다면 어떻게 시간을 보내고 싶어요?</span></strong></p>
-<p>&nbsp;</p>
-<p>현진 / 건강을 위해서 6시 이후로는 아무것도 먹지 않고 있어요. 가끔은 좀 찡하기도 하거든요. 왜 이걸 참으면서 사나 싶기도 하고. (웃음) 그래서 일주일 동안 하루 세끼 꼬박꼬박 챙겨 먹는 식도락 여행을 다녀오고 싶네요. 그게 저한텐 자유일 거 같아요.</p>
-<p>&nbsp;</p>
-<p><strong>유수 / </strong>입대 전, 한 달 반 정도 전국 여행을 다녀온 적이 있어요. 그때만 해도 언제든 마음만 먹으면 다시 떠날 수 있을 줄 알았거든요. 근데 그게 안 되더라고요. 물론 1주일이라는 시간이 짧기도 하지만, 한 번 더 여행을 떠날 거 같아요.</p>
-<p>&nbsp;</p>
-<p><strong>소윤 / </strong>저는 실제로 계획했던 일이기도 한데, 묵언수행과 명상을 겸하는 템플 스테이를 1주일간 다녀오고 싶어요. 내적인 디톡스랄까요. 그런 시간이 있으면 좋겠네요.</p>
-<p>&nbsp;</p>
-<hr>
-<p><strong>인터뷰: 키치킴 (kixxikim)</strong></p>
-	</div><!-- .entry-content -->
-
-	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/interview/" rel="category tag" data-pjax-state="">INTERVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/06/p-int2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[새로운 세련을 찾아서] Summer Soul, DOF2D, 웨스턴 카잇 (POCLANOS ─ Featured)]]></title>
