@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 16:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 17:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARIA II : Vendetta]]></title>
+            <link>https://poclanos.com/album/aria-ii-vendetta/</link>
+            <guid>https://poclanos.com/album/aria-ii-vendetta/</guid>
+            <pubDate>Mon, 30 May 2022 17:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[gamma]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/gamma-ARIA-ll-Vendetta-artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Letter]]></title>
+            <link>https://poclanos.com/album/letter/</link>
+            <guid>https://poclanos.com/album/letter/</guid>
+            <pubDate>Mon, 30 May 2022 17:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[Bukyng]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Letter_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lost cause (feat. 요나)]]></title>
+            <link>https://poclanos.com/album/lost-cause-feat-%ec%9a%94%eb%82%98/</link>
+            <guid>https://poclanos.com/album/lost-cause-feat-%ec%9a%94%eb%82%98/</guid>
+            <pubDate>Mon, 30 May 2022 17:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[An0]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/An0_Lost-cause_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enjoy Perfect Lemon Recipes vol.2 – My Own Summer]]></title>
+            <link>https://poclanos.com/album/enjoy-perfect-lemon-recipes-vol-2-my-own-summer/</link>
+            <guid>https://poclanos.com/album/enjoy-perfect-lemon-recipes-vol-2-my-own-summer/</guid>
+            <pubDate>Mon, 30 May 2022 17:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Various-Artists-Enjoy-Perfect-Lemon-Recipes-vol.2-My-Own-Summer-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CG]]></title>
             <link>https://poclanos.com/album/cg/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
             <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%B0%B1%EC%98%88%EB%A6%B0_%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼼짝마!]]></title>
-            <link>https://poclanos.com/album/%ea%bc%bc%ec%a7%9d%eb%a7%88/</link>
-            <guid>https://poclanos.com/album/%ea%bc%bc%ec%a7%9d%eb%a7%88/</guid>
-            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[Viann]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%B9%84%EC%95%99x%ED%98%B8%ED%94%84%EA%B0%B1_%EA%BC%BC%EC%A7%9D%EB%A7%88_%EB%A9%94%EC%9D%B8%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hero]]></title>
-            <link>https://poclanos.com/album/hero/</link>
-            <guid>https://poclanos.com/album/hero/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[creespy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Hero_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Debris (feat. Jake Feeney)]]></title>
-            <link>https://poclanos.com/album/debris-feat-jake-feeney/</link>
-            <guid>https://poclanos.com/album/debris-feat-jake-feeney/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[Fully Bold]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Debris-feat.-Jake-Feeney_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marigold]]></title>
-            <link>https://poclanos.com/album/marigold/</link>
-            <guid>https://poclanos.com/album/marigold/</guid>
-            <pubDate>Tue, 24 May 2022 03:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-%ED%8F%B4%EB%A6%BD-Marigold-%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
