@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 21:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 08:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[my little]]></title>
+            <link>https://poclanos.com/album/my-little/</link>
+            <guid>https://poclanos.com/album/my-little/</guid>
+            <pubDate>Wed, 01 Jun 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[정우물]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-%EC%A0%95%EC%9A%B0%EB%AC%BC-my-little-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중누각]]></title>
+            <link>https://poclanos.com/album/%ea%b3%b5%ec%a4%91%eb%88%84%ea%b0%81/</link>
+            <guid>https://poclanos.com/album/%ea%b3%b5%ec%a4%91%eb%88%84%ea%b0%81/</guid>
+            <pubDate>Wed, 01 Jun 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[주하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EA%B3%B5%EC%A4%91%EB%88%84%EA%B0%81_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Scratch]]></title>
+            <link>https://poclanos.com/album/scratch/</link>
+            <guid>https://poclanos.com/album/scratch/</guid>
+            <pubDate>Wed, 01 Jun 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[박한빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%B0%95%ED%95%9C%EB%B9%88-Scratch-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thursday]]></title>
+            <link>https://poclanos.com/album/thursday/</link>
+            <guid>https://poclanos.com/album/thursday/</guid>
+            <pubDate>Wed, 01 Jun 2022 08:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[OoOoot(최규철)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/OoOoot_Thursday_cover-%EC%B5%9C%EC%A2%85%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARIA II : Vendetta]]></title>
             <link>https://poclanos.com/album/aria-ii-vendetta/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 26 May 2022 05:16:45 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-%EC%95%8C%EB%A0%88%ED%94%84-%EC%83%A4%EB%8D%B4%ED%94%84%EB%A1%9C%EC%9D%B4%EB%8D%B0-%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[평범한 엔딩 (옥상달빛 X LH 한국토지주택공사)]]></title>
-            <link>https://poclanos.com/album/%ed%8f%89%eb%b2%94%ed%95%9c-%ec%97%94%eb%94%a9-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-x-lh-%ed%95%9c%ea%b5%ad%ed%86%a0%ec%a7%80%ec%a3%bc%ed%83%9d%ea%b3%b5%ec%82%ac/</link>
-            <guid>https://poclanos.com/album/%ed%8f%89%eb%b2%94%ed%95%9c-%ec%97%94%eb%94%a9-%ec%98%a5%ec%83%81%eb%8b%ac%eb%b9%9b-x-lh-%ed%95%9c%ea%b5%ad%ed%86%a0%ec%a7%80%ec%a3%bc%ed%83%9d%ea%b3%b5%ec%82%ac/</guid>
-            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[옥상달빛]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EC%98%A5%EC%83%81%EB%8B%AC%EB%B9%9B-%ED%8F%89%EB%B2%94%ED%95%9C%EC%97%94%EB%94%A9_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠겨 살지 말아요]]></title>
-            <link>https://poclanos.com/album/%ec%9e%a0%ea%b2%a8-%ec%82%b4%ec%a7%80-%eb%a7%90%ec%95%84%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%9e%a0%ea%b2%a8-%ec%82%b4%ec%a7%80-%eb%a7%90%ec%95%84%ec%9a%94/</guid>
-            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/5.-Dreamus-%EC%9E%A0%EA%B2%A8-%EC%82%B4%EC%A7%80-%EB%A7%90%EC%95%84%EC%9A%94_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-1-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[saekdallian]]></title>
-            <link>https://poclanos.com/album/saekdallian/</link>
-            <guid>https://poclanos.com/album/saekdallian/</guid>
-            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[최첨단맨 (ultramodernista)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/saekdallian_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물고기]]></title>
-            <link>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-4/</link>
-            <guid>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-4/</guid>
-            <pubDate>Wed, 25 May 2022 17:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/%EB%B0%B1%EC%98%88%EB%A6%B0_%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
