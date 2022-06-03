@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 15:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Orange Splash]]></title>
+            <link>https://poclanos.com/album/orange-splash/</link>
+            <guid>https://poclanos.com/album/orange-splash/</guid>
+            <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[정바스]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Orange-Splash_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PUNK is nowhere]]></title>
+            <link>https://poclanos.com/album/punk-is-nowhere/</link>
+            <guid>https://poclanos.com/album/punk-is-nowhere/</guid>
+            <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[럼킥스 (RUMKICKS)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/PUNK-is-nowhere_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAMOEDO]]></title>
+            <link>https://poclanos.com/album/goodbye-de/</link>
+            <guid>https://poclanos.com/album/goodbye-de/</guid>
+            <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/SAMOEDO_%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[생각없는생각에털썩머무르자]]></title>
             <link>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%97%86%eb%8a%94%ec%83%9d%ea%b0%81%ec%97%90%ed%84%b8%ec%8d%a9%eb%a8%b8%eb%ac%b4%eb%a5%b4%ec%9e%90/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 29 May 2022 16:15:50 GMT</pubDate>
             <content:encoded><![CDATA[STOPH00N]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/R-U-STILL-THERE_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[mot des]]></title>
-            <link>https://poclanos.com/album/mot-des/</link>
-            <guid>https://poclanos.com/album/mot-des/</guid>
-            <pubDate>Fri, 27 May 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie(가르종로비에)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/mot-des_%EC%BB%A4%EB%B2%84_%EB%93%B1%EB%A1%9D%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bittersweet Timpani]]></title>
-            <link>https://poclanos.com/album/bittersweet-timpani/</link>
-            <guid>https://poclanos.com/album/bittersweet-timpani/</guid>
-            <pubDate>Fri, 27 May 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[WOOZE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Bittersweet-Timpani_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Primal Hysteria]]></title>
-            <link>https://poclanos.com/album/primal-hysteria/</link>
-            <guid>https://poclanos.com/album/primal-hysteria/</guid>
-            <pubDate>Fri, 27 May 2022 17:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[SRL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Primal-Hysteria_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
