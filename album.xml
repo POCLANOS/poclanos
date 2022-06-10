@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 03:49:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 17:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://poclanos.com/album/daisy-3/</link>
             <guid>https://poclanos.com/album/daisy-3/</guid>
             <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[HaeGaL]]></content:encoded>
+            <content:encoded><![CDATA[HaeGaL (해갈)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Daisy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
