@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 21:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 12:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[You Found Me]]></title>
+            <link>https://poclanos.com/album/you-found-me/</link>
+            <guid>https://poclanos.com/album/you-found-me/</guid>
+            <pubDate>Sat, 11 Jun 2022 12:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[g1nger]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-g1nger-You-Found-Me-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Empath EP]]></title>
             <link>https://poclanos.com/album/empath-ep/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
             <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/SAMOEDO_%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[생각없는생각에털썩머무르자]]></title>
-            <link>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%97%86%eb%8a%94%ec%83%9d%ea%b0%81%ec%97%90%ed%84%b8%ec%8d%a9%eb%a8%b8%eb%ac%b4%eb%a5%b4%ec%9e%90/</link>
-            <guid>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%97%86%eb%8a%94%ec%83%9d%ea%b0%81%ec%97%90%ed%84%b8%ec%8d%a9%eb%a8%b8%eb%ac%b4%eb%a5%b4%ec%9e%90/</guid>
-            <pubDate>Thu, 02 Jun 2022 12:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[JISOKURY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-JISOKURY-%EC%83%9D%EA%B0%81%EC%97%86%EB%8A%94%EC%83%9D%EA%B0%81%EC%97%90%ED%84%B8%EC%8D%A9%EB%A8%B8%EB%AC%B4%EB%A5%B4%EC%9E%90-%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
