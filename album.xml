@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 14:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Type 2]]></title>
+            <link>https://poclanos.com/album/type-2/</link>
+            <guid>https://poclanos.com/album/type-2/</guid>
+            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Type2-3000x3000-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tell Me How Can You Stop]]></title>
+            <link>https://poclanos.com/album/tell-me-how-can-you-stop/</link>
+            <guid>https://poclanos.com/album/tell-me-how-can-you-stop/</guid>
+            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[그웬(Gwen)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Tell-Me-How-Can-You-Stop_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설치중]]></title>
+            <link>https://poclanos.com/album/%ec%84%a4%ec%b9%98%ec%a4%91/</link>
+            <guid>https://poclanos.com/album/%ec%84%a4%ec%b9%98%ec%a4%91/</guid>
+            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%A4%EC%B9%98%EC%A4%91-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 4 8 2]]></title>
+            <link>https://poclanos.com/album/2-4-8-2/</link>
+            <guid>https://poclanos.com/album/2-4-8-2/</guid>
+            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/2482_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOLO!!]]></title>
+            <link>https://poclanos.com/album/yolo/</link>
+            <guid>https://poclanos.com/album/yolo/</guid>
+            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[홍비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/YOLO-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[You Found Me]]></title>
             <link>https://poclanos.com/album/you-found-me/</link>
@@ -126,46 +166,6 @@
             <pubDate>Mon, 06 Jun 2022 04:27:35 GMT</pubDate>
             <content:encoded><![CDATA[Chwvin (최원빈)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Hi_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ice cream]]></title>
-            <link>https://poclanos.com/album/ice-cream/</link>
-            <guid>https://poclanos.com/album/ice-cream/</guid>
-            <pubDate>Mon, 06 Jun 2022 04:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[OVCOCO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/icecream_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HERB]]></title>
-            <link>https://poclanos.com/album/herb/</link>
-            <guid>https://poclanos.com/album/herb/</guid>
-            <pubDate>Mon, 06 Jun 2022 04:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[최낙타]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-%EC%B5%9C%EB%82%99%ED%83%80-HERB-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Orange Splash]]></title>
-            <link>https://poclanos.com/album/orange-splash/</link>
-            <guid>https://poclanos.com/album/orange-splash/</guid>
-            <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[정바스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Orange-Splash_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PUNK is nowhere]]></title>
-            <link>https://poclanos.com/album/punk-is-nowhere/</link>
-            <guid>https://poclanos.com/album/punk-is-nowhere/</guid>
-            <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[럼킥스 (RUMKICKS)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/PUNK-is-nowhere_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAMOEDO]]></title>
-            <link>https://poclanos.com/album/goodbye-de/</link>
-            <guid>https://poclanos.com/album/goodbye-de/</guid>
-            <pubDate>Fri, 03 Jun 2022 05:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/SAMOEDO_%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
