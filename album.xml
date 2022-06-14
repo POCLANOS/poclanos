@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 01:06:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Get Ready]]></title>
+            <link>https://poclanos.com/album/get-ready/</link>
+            <guid>https://poclanos.com/album/get-ready/</guid>
+            <pubDate>Tue, 14 Jun 2022 05:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[문소낙 (Sonak Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-%EB%AC%B8%EC%86%8C%EB%82%99-Sonak-Moon-Get-Ready-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Echosystem]]></title>
+            <link>https://poclanos.com/album/echosystem-2/</link>
+            <guid>https://poclanos.com/album/echosystem-2/</guid>
+            <pubDate>Tue, 14 Jun 2022 05:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[An0]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Echosystem_cover-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Type 2]]></title>
             <link>https://poclanos.com/album/type-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
             <content:encoded><![CDATA[김전기]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%ED%9D%94%ED%95%9C-%EB%B0%94%EB%9E%A8_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mindfulness Color]]></title>
-            <link>https://poclanos.com/album/mindfulness-color/</link>
-            <guid>https://poclanos.com/album/mindfulness-color/</guid>
-            <pubDate>Mon, 06 Jun 2022 04:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[Charming Lips]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-Charming-Lips-Mindfullness-Color-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hi]]></title>
-            <link>https://poclanos.com/album/hi/</link>
-            <guid>https://poclanos.com/album/hi/</guid>
-            <pubDate>Mon, 06 Jun 2022 04:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[Chwvin (최원빈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Hi_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
