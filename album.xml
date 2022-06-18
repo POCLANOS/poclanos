@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 06:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 14:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여정]]></title>
+            <link>https://poclanos.com/album/%ec%97%ac%ec%a0%95/</link>
+            <guid>https://poclanos.com/album/%ec%97%ac%ec%a0%95/</guid>
+            <pubDate>Sat, 18 Jun 2022 14:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[예빛]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%98%88%EB%B9%9B_%EC%97%AC%EC%A0%95_COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Loop 1]]></title>
             <link>https://poclanos.com/album/loop-1/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
             <content:encoded><![CDATA[홍비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/YOLO-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You Found Me]]></title>
-            <link>https://poclanos.com/album/you-found-me/</link>
-            <guid>https://poclanos.com/album/you-found-me/</guid>
-            <pubDate>Sat, 11 Jun 2022 12:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[g1nger]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-g1nger-You-Found-Me-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
