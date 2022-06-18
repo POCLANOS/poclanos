@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 22:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 06:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Loop 1]]></title>
+            <link>https://poclanos.com/album/loop-1/</link>
+            <guid>https://poclanos.com/album/loop-1/</guid>
+            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[Non Amer]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거울]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-2/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-2/</guid>
+            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[한로로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%ED%95%9C%EB%A1%9C%EB%A1%9C_%EA%B1%B0%EC%9A%B8_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DOWN]]></title>
+            <link>https://poclanos.com/album/down/</link>
+            <guid>https://poclanos.com/album/down/</guid>
+            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[creespy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/6.-Dreamus-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84_creespy_DOWN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flight Fantastic]]></title>
+            <link>https://poclanos.com/album/flight-fantastic/</link>
+            <guid>https://poclanos.com/album/flight-fantastic/</guid>
+            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[Flamingosis]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Flight-Fantastic_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소나기]]></title>
+            <link>https://poclanos.com/album/%ec%86%8c%eb%82%98%ea%b8%b0-2/</link>
+            <guid>https://poclanos.com/album/%ec%86%8c%eb%82%98%ea%b8%b0-2/</guid>
+            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[이주영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%86%8C%EB%82%98%EA%B8%B0_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bloom]]></title>
             <link>https://poclanos.com/album/bloom/</link>
@@ -126,46 +166,6 @@
             <pubDate>Sat, 11 Jun 2022 12:18:29 GMT</pubDate>
             <content:encoded><![CDATA[g1nger]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-g1nger-You-Found-Me-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Empath EP]]></title>
-            <link>https://poclanos.com/album/empath-ep/</link>
-            <guid>https://poclanos.com/album/empath-ep/</guid>
-            <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[Kenichiro Nishihara]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Empath-EP_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95_%EC%A0%95%EB%B0%A9%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daisy]]></title>
-            <link>https://poclanos.com/album/daisy-3/</link>
-            <guid>https://poclanos.com/album/daisy-3/</guid>
-            <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[HaeGaL (해갈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Daisy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEXT]]></title>
-            <link>https://poclanos.com/album/next/</link>
-            <guid>https://poclanos.com/album/next/</guid>
-            <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[X-ray]]></title>
-            <link>https://poclanos.com/album/x-ray/</link>
-            <guid>https://poclanos.com/album/x-ray/</guid>
-            <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[수퍼수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-%EC%88%98%ED%8D%BC%EC%88%98-X-ray-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Findings]]></title>
-            <link>https://poclanos.com/album/findings/</link>
-            <guid>https://poclanos.com/album/findings/</guid>
-            <pubDate>Fri, 10 Jun 2022 03:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[Eumin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Findings_%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
