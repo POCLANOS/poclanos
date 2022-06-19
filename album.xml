@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 14:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 12:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옷장#2]]></title>
+            <link>https://poclanos.com/album/%ec%98%b7%ec%9e%a52/</link>
+            <guid>https://poclanos.com/album/%ec%98%b7%ec%9e%a52/</guid>
+            <pubDate>Sun, 19 Jun 2022 12:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[크르르]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%98%B7%EC%9E%A52_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여정]]></title>
             <link>https://poclanos.com/album/%ec%97%ac%ec%a0%95/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
             <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/2482_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOLO!!]]></title>
-            <link>https://poclanos.com/album/yolo/</link>
-            <guid>https://poclanos.com/album/yolo/</guid>
-            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[홍비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/YOLO-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
