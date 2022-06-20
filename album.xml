@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 09:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비가 오시네요]]></title>
+            <link>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%ec%8b%9c%eb%84%a4%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%ec%8b%9c%eb%84%a4%ec%9a%94/</guid>
+            <pubDate>Mon, 20 Jun 2022 09:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[이설아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EB%B9%84%EA%B0%80-%EC%98%A4%EC%8B%9C%EB%84%A4%EC%9A%94_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옷장#2]]></title>
             <link>https://poclanos.com/album/%ec%98%b7%ec%9e%a52/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
             <content:encoded><![CDATA[우주히피]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%A4%EC%B9%98%EC%A4%91-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 4 8 2]]></title>
-            <link>https://poclanos.com/album/2-4-8-2/</link>
-            <guid>https://poclanos.com/album/2-4-8-2/</guid>
-            <pubDate>Mon, 13 Jun 2022 08:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/2482_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
