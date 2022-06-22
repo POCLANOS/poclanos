@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 14:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Silly Boy]]></title>
+            <link>https://poclanos.com/album/silly-boy/</link>
+            <guid>https://poclanos.com/album/silly-boy/</guid>
+            <pubDate>Wed, 22 Jun 2022 14:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[잎샘 (IPSAEM)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Silly-Boy_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1234]]></title>
             <link>https://poclanos.com/album/1234/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Jun 2022 17:18:22 GMT</pubDate>
             <content:encoded><![CDATA[LEGIT GOONS (리짓군즈)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Family-Sitcom_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Ready]]></title>
-            <link>https://poclanos.com/album/get-ready/</link>
-            <guid>https://poclanos.com/album/get-ready/</guid>
-            <pubDate>Tue, 14 Jun 2022 05:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[문소낙 (Sonak Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-%EB%AC%B8%EC%86%8C%EB%82%99-Sonak-Moon-Get-Ready-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
