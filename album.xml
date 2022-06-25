@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 19:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’MMORTAL (feat. sogumm)]]></title>
+            <link>https://poclanos.com/album/immortal-feat-sogumm/</link>
+            <guid>https://poclanos.com/album/immortal-feat-sogumm/</guid>
+            <pubDate>Sat, 25 Jun 2022 19:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[실리카겔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/IMMORTAL_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bad connection]]></title>
+            <link>https://poclanos.com/album/bad-connection/</link>
+            <guid>https://poclanos.com/album/bad-connection/</guid>
+            <pubDate>Sat, 25 Jun 2022 19:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Bad-connection_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slow It Down]]></title>
             <link>https://poclanos.com/album/slow-it-down/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
             <content:encoded><![CDATA[이주영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%86%8C%EB%82%98%EA%B8%B0_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bloom]]></title>
-            <link>https://poclanos.com/album/bloom/</link>
-            <guid>https://poclanos.com/album/bloom/</guid>
-            <pubDate>Thu, 16 Jun 2022 17:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[CHAI(이수정)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Bloom_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[like a fool]]></title>
-            <link>https://poclanos.com/album/like-a-fool-2/</link>
-            <guid>https://poclanos.com/album/like-a-fool-2/</guid>
-            <pubDate>Thu, 16 Jun 2022 17:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[장수빈 (Jang Soo Bin)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/3.-%EC%99%80%EC%9D%B8Wyne-like-a-fool-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
