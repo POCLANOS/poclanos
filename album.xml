@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 18:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 22:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mystery Happy]]></title>
+            <link>https://poclanos.com/album/mystery-happy/</link>
+            <guid>https://poclanos.com/album/mystery-happy/</guid>
+            <pubDate>Mon, 27 Jun 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[위아더나잇(We Are The Night)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Mystery-Happy_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MORPH]]></title>
+            <link>https://poclanos.com/album/morph/</link>
+            <guid>https://poclanos.com/album/morph/</guid>
+            <pubDate>Mon, 27 Jun 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[Stainus]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/MORPH_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤이라도 춰]]></title>
+            <link>https://poclanos.com/album/%ec%b6%a4%ec%9d%b4%eb%9d%bc%eb%8f%84-%ec%b6%b0/</link>
+            <guid>https://poclanos.com/album/%ec%b6%a4%ec%9d%b4%eb%9d%bc%eb%8f%84-%ec%b6%b0/</guid>
+            <pubDate>Mon, 27 Jun 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[아사히]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/asahiii_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Divin’]]></title>
+            <link>https://poclanos.com/album/divin/</link>
+            <guid>https://poclanos.com/album/divin/</guid>
+            <pubDate>Mon, 27 Jun 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Divin_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그리움]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%a6%ac%ec%9b%80/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%a6%ac%ec%9b%80/</guid>
+            <pubDate>Mon, 27 Jun 2022 22:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Nostalgia_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[물결]]></title>
             <link>https://poclanos.com/album/%eb%ac%bc%ea%b2%b0/</link>
@@ -126,46 +166,6 @@
             <pubDate>Mon, 20 Jun 2022 09:17:03 GMT</pubDate>
             <content:encoded><![CDATA[이설아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EB%B9%84%EA%B0%80-%EC%98%A4%EC%8B%9C%EB%84%A4%EC%9A%94_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옷장#2]]></title>
-            <link>https://poclanos.com/album/%ec%98%b7%ec%9e%a52/</link>
-            <guid>https://poclanos.com/album/%ec%98%b7%ec%9e%a52/</guid>
-            <pubDate>Sun, 19 Jun 2022 12:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%98%B7%EC%9E%A52_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여정]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%ec%a0%95/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%ec%a0%95/</guid>
-            <pubDate>Sat, 18 Jun 2022 14:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[예빛]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EC%98%88%EB%B9%9B_%EC%97%AC%EC%A0%95_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loop 1]]></title>
-            <link>https://poclanos.com/album/loop-1/</link>
-            <guid>https://poclanos.com/album/loop-1/</guid>
-            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[Non Amer]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거울]]></title>
-            <link>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-2/</link>
-            <guid>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-2/</guid>
-            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%ED%95%9C%EB%A1%9C%EB%A1%9C_%EA%B1%B0%EC%9A%B8_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DOWN]]></title>
-            <link>https://poclanos.com/album/down/</link>
-            <guid>https://poclanos.com/album/down/</guid>
-            <pubDate>Sat, 18 Jun 2022 06:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[creespy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/6.-Dreamus-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84_creespy_DOWN-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
