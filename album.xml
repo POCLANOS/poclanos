@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 23:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 20:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wings]]></title>
+            <link>https://poclanos.com/album/wings-2/</link>
+            <guid>https://poclanos.com/album/wings-2/</guid>
+            <pubDate>Tue, 28 Jun 2022 20:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[Hersh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Wings_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Too Grown Up]]></title>
+            <link>https://poclanos.com/album/too-grown-up/</link>
+            <guid>https://poclanos.com/album/too-grown-up/</guid>
+            <pubDate>Tue, 28 Jun 2022 20:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Too-Grown-Up_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big wave]]></title>
+            <link>https://poclanos.com/album/big-wave/</link>
+            <guid>https://poclanos.com/album/big-wave/</guid>
+            <pubDate>Tue, 28 Jun 2022 20:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Big-wave_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[처서]]></title>
+            <link>https://poclanos.com/album/%ec%b2%98%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ec%b2%98%ec%84%9c/</guid>
+            <pubDate>Tue, 28 Jun 2022 20:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/mooindo_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mystery Happy]]></title>
             <link>https://poclanos.com/album/mystery-happy/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 22 Jun 2022 04:29:24 GMT</pubDate>
             <content:encoded><![CDATA[24아워즈 (24Hours)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/1234_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hawaii]]></title>
-            <link>https://poclanos.com/album/hawaii/</link>
-            <guid>https://poclanos.com/album/hawaii/</guid>
-            <pubDate>Tue, 21 Jun 2022 14:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[neko]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Hawaii_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crack Filler]]></title>
-            <link>https://poclanos.com/album/crack-filler/</link>
-            <guid>https://poclanos.com/album/crack-filler/</guid>
-            <pubDate>Tue, 21 Jun 2022 14:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[화평]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Crack-Filler_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sad Ending]]></title>
-            <link>https://poclanos.com/album/sad-ending/</link>
-            <guid>https://poclanos.com/album/sad-ending/</guid>
-            <pubDate>Tue, 21 Jun 2022 14:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[Hippo]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Sad-Ending_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 오시네요]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%ec%8b%9c%eb%84%a4%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%ec%8b%9c%eb%84%a4%ec%9a%94/</guid>
-            <pubDate>Mon, 20 Jun 2022 09:17:03 GMT</pubDate>
-            <content:encoded><![CDATA[이설아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/%EB%B9%84%EA%B0%80-%EC%98%A4%EC%8B%9C%EB%84%A4%EC%9A%94_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
