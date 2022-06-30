@@ -4,9 +4,65 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피어나]]></title>
+            <link>https://poclanos.com/album/%ed%94%bc%ec%96%b4%eb%82%98/</link>
+            <guid>https://poclanos.com/album/%ed%94%bc%ec%96%b4%eb%82%98/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[The ASIANIC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/The-ASIANIC_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지저분한 농담]]></title>
+            <link>https://poclanos.com/album/%ec%a7%80%ec%a0%80%eb%b6%84%ed%95%9c-%eb%86%8d%eb%8b%b4/</link>
+            <guid>https://poclanos.com/album/%ec%a7%80%ec%a0%80%eb%b6%84%ed%95%9c-%eb%86%8d%eb%8b%b4/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/POLYP_COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유난히 아름다웠던]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%eb%82%9c%ed%9e%88-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%a0%eb%8d%98/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%eb%82%9c%ed%9e%88-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%a0%eb%8d%98/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[장들레]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/We-were-beautiful_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Equilibrium]]></title>
+            <link>https://poclanos.com/album/equilibrium/</link>
+            <guid>https://poclanos.com/album/equilibrium/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Equilibrium_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새빛깔]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/20220629-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stand Up Underground Challenge EP. 02 : ㅅㅅ]]></title>
+            <link>https://poclanos.com/album/stand-up-underground-challenge-ep-02-%e3%85%85%e3%85%85/</link>
+            <guid>https://poclanos.com/album/stand-up-underground-challenge-ep-02-%e3%85%85%e3%85%85/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[Deep Rooted Tree]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Stand-Up-Underground-Challenge-EP.-02-_-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where to?]]></title>
+            <link>https://poclanos.com/album/where-to/</link>
+            <guid>https://poclanos.com/album/where-to/</guid>
+            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[Loytoy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Where-to_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wings]]></title>
             <link>https://poclanos.com/album/wings-2/</link>
@@ -110,62 +166,6 @@
             <pubDate>Sat, 25 Jun 2022 19:09:23 GMT</pubDate>
             <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Bad-connection_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slow It Down]]></title>
-            <link>https://poclanos.com/album/slow-it-down/</link>
-            <guid>https://poclanos.com/album/slow-it-down/</guid>
-            <pubDate>Fri, 24 Jun 2022 03:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[KARIMA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Slow-It-Down_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수영장]]></title>
-            <link>https://poclanos.com/album/%ec%88%98%ec%98%81%ec%9e%a5/</link>
-            <guid>https://poclanos.com/album/%ec%88%98%ec%98%81%ec%9e%a5/</guid>
-            <pubDate>Fri, 24 Jun 2022 03:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[오헬렌]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/swimming-pool_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈 속의 드라이브]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88-%ec%86%8d%ec%9d%98-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88-%ec%86%8d%ec%9d%98-%eb%93%9c%eb%9d%bc%ec%9d%b4%eb%b8%8c/</guid>
-            <pubDate>Thu, 23 Jun 2022 13:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[주윤하]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/dream-drive_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All My Friends Kill Me]]></title>
-            <link>https://poclanos.com/album/all-my-friends-kill-me/</link>
-            <guid>https://poclanos.com/album/all-my-friends-kill-me/</guid>
-            <pubDate>Thu, 23 Jun 2022 13:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[결(KYUL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/All-My-Friends-Kill-Me_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우린]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0/</guid>
-            <pubDate>Thu, 23 Jun 2022 13:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[a 9uy(어 가이)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/a-9uy_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silly Boy]]></title>
-            <link>https://poclanos.com/album/silly-boy/</link>
-            <guid>https://poclanos.com/album/silly-boy/</guid>
-            <pubDate>Wed, 22 Jun 2022 14:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[잎샘 (IPSAEM)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Silly-Boy_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1234]]></title>
-            <link>https://poclanos.com/album/1234/</link>
-            <guid>https://poclanos.com/album/1234/</guid>
-            <pubDate>Wed, 22 Jun 2022 04:29:24 GMT</pubDate>
-            <content:encoded><![CDATA[24아워즈 (24Hours)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/1234_%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
