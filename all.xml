@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 23:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Past Emotion (지나간 감정) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</link>
+            <guid>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[JH Lee (이정현)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Past-Emotion-_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Are My Universe (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/you-are-my-universe/</link>
+            <guid>https://poclanos.com/album/you-are-my-universe/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/You-Are-My-Universe_cover-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[중년의 위기 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%a4%91%eb%85%84%ec%9d%98-%ec%9c%84%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%ec%a4%91%eb%85%84%ec%9d%98-%ec%9c%84%ea%b8%b0/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[샘미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/0707-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mother Nature (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/mother-nature/</link>
+            <guid>https://poclanos.com/album/mother-nature/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[JOONIE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/JOONIE_Mother-Nature_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[익숙하지 않아 이 기분 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b5%ec%88%99%ed%95%98%ec%a7%80-%ec%95%8a%ec%95%84-%ec%9d%b4-%ea%b8%b0%eb%b6%84/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b5%ec%88%99%ed%95%98%ec%a7%80-%ec%95%8a%ec%95%84-%ec%9d%b4-%ea%b8%b0%eb%b6%84/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[스멜스 (Smells)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EC%9D%B5%EC%88%99%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84-%EC%9D%B4-%EA%B8%B0%EB%B6%84_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일 (Tomorrow) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%b4%ec%9d%bc-tomorrow/</link>
+            <guid>https://poclanos.com/album/%eb%82%b4%ec%9d%bc-tomorrow/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[NOAH1LUV]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%82%B4%EC%9D%BC-Tomorrow_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SECOND II NONE (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/second-ii-none/</link>
@@ -118,54 +166,6 @@
             <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
             <content:encoded><![CDATA[The ASIANIC]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/The-ASIANIC_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지저분한 농담 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a7%80%ec%a0%80%eb%b6%84%ed%95%9c-%eb%86%8d%eb%8b%b4/</link>
-            <guid>https://poclanos.com/album/%ec%a7%80%ec%a0%80%eb%b6%84%ed%95%9c-%eb%86%8d%eb%8b%b4/</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[POLYP(폴립)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/POLYP_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유난히 아름다웠던 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9c%a0%eb%82%9c%ed%9e%88-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%a0%eb%8d%98/</link>
-            <guid>https://poclanos.com/album/%ec%9c%a0%eb%82%9c%ed%9e%88-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9b%a0%eb%8d%98/</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[장들레]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/We-were-beautiful_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Equilibrium (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/equilibrium/</link>
-            <guid>https://poclanos.com/album/equilibrium/</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Equilibrium_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새빛깔 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94/</link>
-            <guid>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94/</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[김새녘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/20220629-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stand Up Underground Challenge EP. 02 : ㅅㅅ (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/stand-up-underground-challenge-ep-02-%e3%85%85%e3%85%85/</link>
-            <guid>https://poclanos.com/album/stand-up-underground-challenge-ep-02-%e3%85%85%e3%85%85/</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[Deep Rooted Tree]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Stand-Up-Underground-Challenge-EP.-02-_-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where to? (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/where-to/</link>
-            <guid>https://poclanos.com/album/where-to/</guid>
-            <pubDate>Thu, 30 Jun 2022 09:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[Loytoy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Where-to_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Silly Silky [SIN데렐라] (POCLANOS ─ Review)]]></title>
