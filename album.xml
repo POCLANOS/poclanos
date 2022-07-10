@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 10:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 08:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love Scene]]></title>
+            <link>https://poclanos.com/album/love-scene-2/</link>
+            <guid>https://poclanos.com/album/love-scene-2/</guid>
+            <pubDate>Sun, 10 Jul 2022 08:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[Andor(앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Love-Scene_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[4L (For Life)]]></title>
             <link>https://poclanos.com/album/4l-for-life/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[sh]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/call-my-name-feat.-SHALLYN_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[小暑]]></title>
-            <link>https://poclanos.com/album/49472/</link>
-            <guid>https://poclanos.com/album/49472/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/soses_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
