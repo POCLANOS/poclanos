@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 01:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 07:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[걸음걸이]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b8%ec%9d%8c%ea%b1%b8%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b8%ec%9d%8c%ea%b1%b8%ec%9d%b4/</guid>
+            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Hippo]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/hippo_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Painting ‘Til She Dials]]></title>
+            <link>https://poclanos.com/album/painting-til-she-dials/</link>
+            <guid>https://poclanos.com/album/painting-til-she-dials/</guid>
+            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[SkyBlew]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Painting-Til-She-Dials_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도화선]]></title>
+            <link>https://poclanos.com/album/%eb%8f%84%ed%99%94%ec%84%a0/</link>
+            <guid>https://poclanos.com/album/%eb%8f%84%ed%99%94%ec%84%a0/</guid>
+            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[ian choi (이안 초이)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/ian-choi_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도래]]></title>
+            <link>https://poclanos.com/album/%eb%8f%84%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%eb%8f%84%eb%9e%98/</guid>
+            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[김혼]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/dore_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Love Scene]]></title>
             <link>https://poclanos.com/album/love-scene-2/</link>
@@ -64,20 +96,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/GYE0M0708_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Past Emotion (지나간 감정)]]></title>
-            <link>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</link>
-            <guid>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</guid>
-            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[JH Lee (이정현)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Past-Emotion-_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[You Are My Universe]]></title>
             <link>https://poclanos.com/album/you-are-my-universe/</link>
             <guid>https://poclanos.com/album/you-are-my-universe/</guid>
             <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
             <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/You-Are-My-Universe_cover-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Past Emotion (지나간 감정)]]></title>
+            <link>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</link>
+            <guid>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[JH Lee (이정현)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Past-Emotion-_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중년의 위기]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[한그린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%82%AF%EC%84%A0-%EA%B3%B3%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Good Old Love]]></title>
-            <link>https://poclanos.com/album/good-old-love/</link>
-            <guid>https://poclanos.com/album/good-old-love/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Good-Old-Love_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Night Swimming]]></title>
-            <link>https://poclanos.com/album/night-swimming/</link>
-            <guid>https://poclanos.com/album/night-swimming/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[sunwashere]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Night-Swimming_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lucid Dream]]></title>
-            <link>https://poclanos.com/album/lucid-dream/</link>
-            <guid>https://poclanos.com/album/lucid-dream/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[캄토노 (Camtono)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Lucid-Dream_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[call my name (feat. SHALLYN)]]></title>
-            <link>https://poclanos.com/album/call-my-name-feat-shallyn/</link>
-            <guid>https://poclanos.com/album/call-my-name-feat-shallyn/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/call-my-name-feat.-SHALLYN_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
