@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 13:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Plant]]></title>
+            <link>https://poclanos.com/album/new-plant/</link>
+            <guid>https://poclanos.com/album/new-plant/</guid>
+            <pubDate>Tue, 12 Jul 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[The Volunteers]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/TVT_NewPlant_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Type 5]]></title>
+            <link>https://poclanos.com/album/type-5/</link>
+            <guid>https://poclanos.com/album/type-5/</guid>
+            <pubDate>Tue, 12 Jul 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Type-5_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breeze in the beach (Feat. CHAI)]]></title>
+            <link>https://poclanos.com/album/breeze-in-the-beach-feat-chai/</link>
+            <guid>https://poclanos.com/album/breeze-in-the-beach-feat-chai/</guid>
+            <pubDate>Tue, 12 Jul 2022 09:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Breeze-in-the-beach-_COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[걸음걸이]]></title>
             <link>https://poclanos.com/album/%ea%b1%b8%ec%9d%8c%ea%b1%b8%ec%9d%b4/</link>
@@ -96,20 +120,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/GYE0M0708_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[You Are My Universe]]></title>
-            <link>https://poclanos.com/album/you-are-my-universe/</link>
-            <guid>https://poclanos.com/album/you-are-my-universe/</guid>
-            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/You-Are-My-Universe_cover-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Past Emotion (지나간 감정)]]></title>
             <link>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</link>
             <guid>https://poclanos.com/album/past-emotion-%ec%a7%80%eb%82%98%ea%b0%84-%ea%b0%90%ec%a0%95/</guid>
             <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
             <content:encoded><![CDATA[JH Lee (이정현)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Past-Emotion-_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[You Are My Universe]]></title>
+            <link>https://poclanos.com/album/you-are-my-universe/</link>
+            <guid>https://poclanos.com/album/you-are-my-universe/</guid>
+            <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/You-Are-My-Universe_cover-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[중년의 위기]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 07 Jul 2022 03:44:37 GMT</pubDate>
             <content:encoded><![CDATA[NOAH1LUV]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%82%B4%EC%9D%BC-Tomorrow_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECOND II NONE]]></title>
-            <link>https://poclanos.com/album/second-ii-none/</link>
-            <guid>https://poclanos.com/album/second-ii-none/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[dsel (디젤)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/SECOND-II-NONE_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Endless Shine]]></title>
-            <link>https://poclanos.com/album/endless-shine/</link>
-            <guid>https://poclanos.com/album/endless-shine/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/3.-Tuesday-Beach-Club-Endless-Shine-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EB%93%B1%EB%A1%9D%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 곳에서]]></title>
-            <link>https://poclanos.com/album/%eb%82%af%ec%84%a0-%ea%b3%b3%ec%97%90%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%eb%82%af%ec%84%a0-%ea%b3%b3%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Tue, 05 Jul 2022 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[한그린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%82%AF%EC%84%A0-%EA%B3%B3%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
