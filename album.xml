@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 07:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 10:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BoynextYard]]></title>
+            <link>https://poclanos.com/album/boynextyard/</link>
+            <guid>https://poclanos.com/album/boynextyard/</guid>
+            <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[BoynextYard]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Voicenote_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[착한 사람들이 먼저 가는 우주]]></title>
+            <link>https://poclanos.com/album/%ec%b0%a9%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%b4-%eb%a8%bc%ec%a0%80-%ea%b0%80%eb%8a%94-%ec%9a%b0%ec%a3%bc/</link>
+            <guid>https://poclanos.com/album/%ec%b0%a9%ed%95%9c-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%b4-%eb%a8%bc%ec%a0%80-%ea%b0%80%eb%8a%94-%ec%9a%b0%ec%a3%bc/</guid>
+            <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[최정윤]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/071500-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비행소녀 (飛行少女)]]></title>
+            <link>https://poclanos.com/album/%eb%b9%84%ed%96%89%ec%86%8c%eb%85%80-%e9%a3%9b%e8%a1%8c%e5%b0%91%e5%a5%b3/</link>
+            <guid>https://poclanos.com/album/%eb%b9%84%ed%96%89%ec%86%8c%eb%85%80-%e9%a3%9b%e8%a1%8c%e5%b0%91%e5%a5%b3/</guid>
+            <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[김마리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EA%B9%80%EB%A7%88%EB%A6%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SAMOEDO]]></title>
+            <link>https://poclanos.com/album/goodbye-de/</link>
+            <guid>https://poclanos.com/album/goodbye-de/</guid>
+            <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/SAMOEDO_%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Surfing]]></title>
             <link>https://poclanos.com/album/surfing-2/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
             <content:encoded><![CDATA[민수]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Friendzone_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 정체]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%ec%a0%95%ec%b2%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98-%ec%a0%95%ec%b2%b4/</guid>
-            <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[이정인]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/0708_lee-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fox]]></title>
-            <link>https://poclanos.com/album/fox/</link>
-            <guid>https://poclanos.com/album/fox/</guid>
-            <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[FoxRoom]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Fox_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버스 (BUS)]]></title>
-            <link>https://poclanos.com/album/%eb%b2%84%ec%8a%a4-bus/</link>
-            <guid>https://poclanos.com/album/%eb%b2%84%ec%8a%a4-bus/</guid>
-            <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/BUS_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 없이 사는게 왜 그렇게 어려울까요]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ec%97%86%ec%9d%b4-%ec%82%ac%eb%8a%94%ea%b2%8c-%ec%99%9c-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%96%b4%eb%a0%a4%ec%9a%b8%ea%b9%8c%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ec%97%86%ec%9d%b4-%ec%82%ac%eb%8a%94%ea%b2%8c-%ec%99%9c-%ea%b7%b8%eb%a0%87%ea%b2%8c-%ec%96%b4%eb%a0%a4%ec%9a%b8%ea%b9%8c%ec%9a%94/</guid>
-            <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/GYE0M0708_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
