@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 12:21:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[theme park]]></title>
+            <link>https://poclanos.com/album/theme-park/</link>
+            <guid>https://poclanos.com/album/theme-park/</guid>
+            <pubDate>Sat, 16 Jul 2022 12:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[칠리(chilly)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/theme-park_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[would u]]></title>
+            <link>https://poclanos.com/album/would-u/</link>
+            <guid>https://poclanos.com/album/would-u/</guid>
+            <pubDate>Sat, 16 Jul 2022 12:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[jeje]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/would-u_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BoynextYard]]></title>
             <link>https://poclanos.com/album/boynextyard/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 10 Jul 2022 08:15:24 GMT</pubDate>
             <content:encoded><![CDATA[Andor(앤드오어)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Love-Scene_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4L (For Life)]]></title>
-            <link>https://poclanos.com/album/4l-for-life/</link>
-            <guid>https://poclanos.com/album/4l-for-life/</guid>
-            <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/4L-For-Life_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오해금지]]></title>
-            <link>https://poclanos.com/album/%ec%98%a4%ed%95%b4%ea%b8%88%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ec%98%a4%ed%95%b4%ea%b8%88%ec%a7%80/</guid>
-            <pubDate>Sat, 09 Jul 2022 06:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[민수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Friendzone_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
