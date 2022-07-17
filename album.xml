@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 12:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 09:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I got you]]></title>
+            <link>https://poclanos.com/album/i-got-you-2/</link>
+            <guid>https://poclanos.com/album/i-got-you-2/</guid>
+            <pubDate>Sun, 17 Jul 2022 09:12:18 GMT</pubDate>
+            <content:encoded><![CDATA[vvav (웨이브)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/I-got-you_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[theme park]]></title>
             <link>https://poclanos.com/album/theme-park/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
             <content:encoded><![CDATA[김혼]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/dore_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Scene]]></title>
-            <link>https://poclanos.com/album/love-scene-2/</link>
-            <guid>https://poclanos.com/album/love-scene-2/</guid>
-            <pubDate>Sun, 10 Jul 2022 08:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[Andor(앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Love-Scene_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
