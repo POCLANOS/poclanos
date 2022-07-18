@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 19:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 05:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TG BREAKERS 18th Anniversary (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/tg-breakers-18th-anniversary/</link>
+            <guid>https://poclanos.com/album/tg-breakers-18th-anniversary/</guid>
+            <pubDate>Mon, 18 Jul 2022 05:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[DJ Wreckx (디제이렉스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/TG-BREAKERS-18th-Anniversary_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Certain Romance (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/certain-romance/</link>
+            <guid>https://poclanos.com/album/certain-romance/</guid>
+            <pubDate>Mon, 18 Jul 2022 05:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[블루자몽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Certain-Romance_cover-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[D-Day (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/d-day/</link>
+            <guid>https://poclanos.com/album/d-day/</guid>
+            <pubDate>Mon, 18 Jul 2022 05:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/D-Day_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I got you (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/i-got-you-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
             <content:encoded><![CDATA[Hippo]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/hippo_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Painting ‘Til She Dials (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/painting-til-she-dials/</link>
-            <guid>https://poclanos.com/album/painting-til-she-dials/</guid>
-            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[SkyBlew]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Painting-Til-She-Dials_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도화선 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8f%84%ed%99%94%ec%84%a0/</link>
-            <guid>https://poclanos.com/album/%eb%8f%84%ed%99%94%ec%84%a0/</guid>
-            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[ian choi (이안 초이)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/ian-choi_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도래 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8f%84%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%eb%8f%84%eb%9e%98/</guid>
-            <pubDate>Mon, 11 Jul 2022 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[김혼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/dore_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
