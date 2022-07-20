@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 21:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 06:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pandora]]></title>
+            <link>https://poclanos.com/album/pandora/</link>
+            <guid>https://poclanos.com/album/pandora/</guid>
+            <pubDate>Wed, 20 Jul 2022 06:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[오아트(OART)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/AOART-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Underwater]]></title>
             <link>https://poclanos.com/album/underwater-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
             <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/BAMBOO-FOREST_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Plant]]></title>
-            <link>https://poclanos.com/album/new-plant/</link>
-            <guid>https://poclanos.com/album/new-plant/</guid>
-            <pubDate>Tue, 12 Jul 2022 09:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[The Volunteers]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/TVT_NewPlant_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
