@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 16:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[West Side]]></title>
+            <link>https://poclanos.com/album/west-side/</link>
+            <guid>https://poclanos.com/album/west-side/</guid>
+            <pubDate>Wed, 20 Jul 2022 16:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/West-Side_COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pandora]]></title>
             <link>https://poclanos.com/album/pandora/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
             <content:encoded><![CDATA[CHS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/HIGHWAY_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAMBOO FOREST]]></title>
-            <link>https://poclanos.com/album/bamboo-forest/</link>
-            <guid>https://poclanos.com/album/bamboo-forest/</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/BAMBOO-FOREST_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
