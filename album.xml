@@ -4,9 +4,65 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Voyeur]]></title>
+            <link>https://poclanos.com/album/voyeur/</link>
+            <guid>https://poclanos.com/album/voyeur/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[oddeen]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Voyeur_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finite]]></title>
+            <link>https://poclanos.com/album/finite/</link>
+            <guid>https://poclanos.com/album/finite/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Finite_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUS4]]></title>
+            <link>https://poclanos.com/album/sus4/</link>
+            <guid>https://poclanos.com/album/sus4/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[Yusuke Saint Laurent]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/SUS4_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FoxRoom]]></title>
+            <link>https://poclanos.com/album/foxroom/</link>
+            <guid>https://poclanos.com/album/foxroom/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[FoxRoom]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/foxroom_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Purple Hawaiian Shirts]]></title>
+            <link>https://poclanos.com/album/purple-hawaiian-shirts/</link>
+            <guid>https://poclanos.com/album/purple-hawaiian-shirts/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[후하]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/hooha-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[See you again]]></title>
+            <link>https://poclanos.com/album/see-you-again/</link>
+            <guid>https://poclanos.com/album/see-you-again/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[소수빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/sosubeen-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WATER]]></title>
+            <link>https://poclanos.com/album/water/</link>
+            <guid>https://poclanos.com/album/water/</guid>
+            <pubDate>Fri, 22 Jul 2022 17:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[숨비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/WATER_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[West Side]]></title>
             <link>https://poclanos.com/album/west-side/</link>
@@ -110,62 +166,6 @@
             <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
             <content:encoded><![CDATA[최정윤]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/071500-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비행소녀 (飛行少女)]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ed%96%89%ec%86%8c%eb%85%80-%e9%a3%9b%e8%a1%8c%e5%b0%91%e5%a5%b3/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ed%96%89%ec%86%8c%eb%85%80-%e9%a3%9b%e8%a1%8c%e5%b0%91%e5%a5%b3/</guid>
-            <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[김마리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EA%B9%80%EB%A7%88%EB%A6%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAMOEDO]]></title>
-            <link>https://poclanos.com/album/goodbye-de/</link>
-            <guid>https://poclanos.com/album/goodbye-de/</guid>
-            <pubDate>Fri, 15 Jul 2022 10:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/SAMOEDO_%EC%BB%A4%EB%B2%84-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Surfing]]></title>
-            <link>https://poclanos.com/album/surfing-2/</link>
-            <guid>https://poclanos.com/album/surfing-2/</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[ohsol]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Surfing_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난 그냥 걸었어]]></title>
-            <link>https://poclanos.com/album/%eb%82%9c-%ea%b7%b8%eb%83%a5-%ea%b1%b8%ec%97%88%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%9c-%ea%b7%b8%eb%83%a5-%ea%b1%b8%ec%97%88%ec%96%b4/</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[선과영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/0714-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peace]]></title>
-            <link>https://poclanos.com/album/peace/</link>
-            <guid>https://poclanos.com/album/peace/</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[서울매직클럽 (Seoul Magic Club)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Peace_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Feel]]></title>
-            <link>https://poclanos.com/album/feel/</link>
-            <guid>https://poclanos.com/album/feel/</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[허시 (Hersh)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Feel_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIGHWAY]]></title>
-            <link>https://poclanos.com/album/highway/</link>
-            <guid>https://poclanos.com/album/highway/</guid>
-            <pubDate>Thu, 14 Jul 2022 07:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[CHS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/HIGHWAY_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
