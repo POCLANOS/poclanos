@@ -4,9 +4,65 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 23:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 04:39:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keep Your Eyes On Me]]></title>
+            <link>https://poclanos.com/album/keep-your-eyes-on-me/</link>
+            <guid>https://poclanos.com/album/keep-your-eyes-on-me/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[Eumin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Eumin-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그녀와의 독백]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%85%80%ec%99%80%ec%9d%98-%eb%8f%85%eb%b0%b1/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%85%80%ec%99%80%ec%9d%98-%eb%8f%85%eb%b0%b1/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[데드챈트 (DEAD CHANT)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%8D%B0%EB%93%9C%EC%B1%88%ED%8A%B8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[!ntro]]></title>
+            <link>https://poclanos.com/album/ntro/</link>
+            <guid>https://poclanos.com/album/ntro/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/ntro-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[S.O.S]]></title>
+            <link>https://poclanos.com/album/s-o-s/</link>
+            <guid>https://poclanos.com/album/s-o-s/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%8C%EB%A0%88%ED%94%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄과 여름 사이]]></title>
+            <link>https://poclanos.com/album/%eb%b4%84%ea%b3%bc-%ec%97%ac%eb%a6%84-%ec%82%ac%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%eb%b4%84%ea%b3%bc-%ec%97%ac%eb%a6%84-%ec%82%ac%ec%9d%b4/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[정오월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%B4%84%EA%B3%BC-%EC%97%AC%EB%A6%84-%EC%82%AC%EC%9D%B4_%EC%BB%A4%EB%B2%84_%ED%99%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TOWN]]></title>
+            <link>https://poclanos.com/album/town/</link>
+            <guid>https://poclanos.com/album/town/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[민준기(minzunki)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%AF%BC%EC%A4%80%EA%B8%B0%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HARU]]></title>
+            <link>https://poclanos.com/album/haru/</link>
+            <guid>https://poclanos.com/album/haru/</guid>
+            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
+            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EC%82%AC%ED%9D%98%EC%9C%A4%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rendezvous]]></title>
             <link>https://poclanos.com/album/rendezvous-2/</link>
@@ -110,62 +166,6 @@
             <pubDate>Sat, 30 Jul 2022 10:12:05 GMT</pubDate>
             <content:encoded><![CDATA[Saib]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Ipanema_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미래를 향해, 피해, 사랑해]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%eb%9e%98%eb%a5%bc-%ed%96%a5%ed%95%b4-%ed%94%bc%ed%95%b4-%ec%82%ac%eb%9e%91%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%eb%9e%98%eb%a5%bc-%ed%96%a5%ed%95%b4-%ed%94%bc%ed%95%b4-%ec%82%ac%eb%9e%91%ed%95%b4/</guid>
-            <pubDate>Thu, 28 Jul 2022 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[위아더나잇(We Are The Night)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/0728_01-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2, Apr]]></title>
-            <link>https://poclanos.com/album/2-apr/</link>
-            <guid>https://poclanos.com/album/2-apr/</guid>
-            <pubDate>Thu, 28 Jul 2022 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[이상록]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/2-Apr_cover-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vinyl house Peak]]></title>
-            <link>https://poclanos.com/album/vinyl-house-peak/</link>
-            <guid>https://poclanos.com/album/vinyl-house-peak/</guid>
-            <pubDate>Thu, 28 Jul 2022 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[eqwa]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Vinyl-house-Peak_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunday Morning]]></title>
-            <link>https://poclanos.com/album/sunday-morning/</link>
-            <guid>https://poclanos.com/album/sunday-morning/</guid>
-            <pubDate>Thu, 28 Jul 2022 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[마누 (MANU)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Sunday-Morning_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hate is all around (feat. Mokyo)]]></title>
-            <link>https://poclanos.com/album/hate-is-all-around-feat-mokyo/</link>
-            <guid>https://poclanos.com/album/hate-is-all-around-feat-mokyo/</guid>
-            <pubDate>Thu, 28 Jul 2022 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[Chwvin (최원빈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Hate-is-all-around-feat.-Mokyo_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 바다]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b0%94%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b0%94%eb%8b%a4/</guid>
-            <pubDate>Thu, 28 Jul 2022 10:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[종연]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/sea_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SOC]]></title>
-            <link>https://poclanos.com/album/soc/</link>
-            <guid>https://poclanos.com/album/soc/</guid>
-            <pubDate>Tue, 26 Jul 2022 05:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[Amoon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/SOC_COVER-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
