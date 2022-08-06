@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 01:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 17:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽적 허용]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%eb%b2%bd%ec%a0%81-%ed%97%88%ec%9a%a9/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%eb%b2%bd%ec%a0%81-%ed%97%88%ec%9a%a9/</guid>
+            <pubDate>Sat, 06 Aug 2022 17:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[행성]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%ED%96%89%EC%84%B1_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dance all night]]></title>
+            <link>https://poclanos.com/album/dance-all-night/</link>
+            <guid>https://poclanos.com/album/dance-all-night/</guid>
+            <pubDate>Sat, 06 Aug 2022 17:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[방민혁]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/Dance-all-night_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Dummy]]></title>
+            <link>https://poclanos.com/album/love-dummy/</link>
+            <guid>https://poclanos.com/album/love-dummy/</guid>
+            <pubDate>Sat, 06 Aug 2022 17:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[One Off Them]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%9B%90%EC%98%BE%EB%8E%80_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cowardly Custard]]></title>
+            <link>https://poclanos.com/album/cowardly-custard/</link>
+            <guid>https://poclanos.com/album/cowardly-custard/</guid>
+            <pubDate>Sat, 06 Aug 2022 17:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[WOOZE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%9A%B0%EC%A6%88_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[odnstock.com]]></title>
+            <link>https://poclanos.com/album/odnstock-com/</link>
+            <guid>https://poclanos.com/album/odnstock-com/</guid>
+            <pubDate>Sat, 06 Aug 2022 17:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[oddeen]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/odnstock.com_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Keep Your Eyes On Me]]></title>
             <link>https://poclanos.com/album/keep-your-eyes-on-me/</link>
@@ -126,46 +166,6 @@
             <pubDate>Sun, 31 Jul 2022 18:14:03 GMT</pubDate>
             <content:encoded><![CDATA[BLUE ROOM]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/HOLYDAY_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Night]]></title>
-            <link>https://poclanos.com/album/summer-night/</link>
-            <guid>https://poclanos.com/album/summer-night/</guid>
-            <pubDate>Sat, 30 Jul 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[오엘바인 (OL vine)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Summer-Night_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Machine Gun]]></title>
-            <link>https://poclanos.com/album/machine-gun/</link>
-            <guid>https://poclanos.com/album/machine-gun/</guid>
-            <pubDate>Sat, 30 Jul 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Machine-Gun_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What’s Your Classic?]]></title>
-            <link>https://poclanos.com/album/whats-your-classic/</link>
-            <guid>https://poclanos.com/album/whats-your-classic/</guid>
-            <pubDate>Sat, 30 Jul 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[The ASIANIC]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Whats-Your-Classic_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEYOND THE TIME]]></title>
-            <link>https://poclanos.com/album/beyond-the-time/</link>
-            <guid>https://poclanos.com/album/beyond-the-time/</guid>
-            <pubDate>Sat, 30 Jul 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[D'allant]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/3.-Dallant-BEYOND-THE-TIME_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ipanema]]></title>
-            <link>https://poclanos.com/album/ipanema/</link>
-            <guid>https://poclanos.com/album/ipanema/</guid>
-            <pubDate>Sat, 30 Jul 2022 10:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[Saib]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Ipanema_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
