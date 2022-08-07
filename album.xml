@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 19:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 21:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 쉬운]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%ac%b4-%ec%89%ac%ec%9a%b4/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%ac%b4-%ec%89%ac%ec%9a%b4/</guid>
+            <pubDate>Sun, 07 Aug 2022 21:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[시와]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%8B%9C%EC%99%80_%EB%84%88%EB%AC%B4%EC%89%AC%EC%9A%B4_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽적 허용]]></title>
             <link>https://poclanos.com/album/%ec%83%88%eb%b2%bd%ec%a0%81-%ed%97%88%ec%9a%a9/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Aug 2022 05:12:13 GMT</pubDate>
             <content:encoded><![CDATA[장들레]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/Mindless_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLUE ROOM]]></title>
-            <link>https://poclanos.com/album/blue-room/</link>
-            <guid>https://poclanos.com/album/blue-room/</guid>
-            <pubDate>Sun, 31 Jul 2022 18:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[BLUE ROOM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/HOLYDAY_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
