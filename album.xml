@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 03:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 13:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Type 9]]></title>
+            <link>https://poclanos.com/album/type-9/</link>
+            <guid>https://poclanos.com/album/type-9/</guid>
+            <pubDate>Wed, 10 Aug 2022 13:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[Darley]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%8B%AC%EB%A6%AC-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[monsoon]]></title>
             <link>https://poclanos.com/album/monsoon-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
             <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/ntro-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[S.O.S]]></title>
-            <link>https://poclanos.com/album/s-o-s/</link>
-            <guid>https://poclanos.com/album/s-o-s/</guid>
-            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%8C%EB%A0%88%ED%94%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
