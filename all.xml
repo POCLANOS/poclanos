@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 15:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:03:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[monsoon (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/monsoon-3/</link>
+            <guid>https://poclanos.com/album/monsoon-3/</guid>
+            <pubDate>Wed, 10 Aug 2022 03:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[Nor]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%85%B8%EC%96%B4-%EB%AA%AC%EC%88%9C-%ED%99%88%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Upside Down (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/upside-down/</link>
+            <guid>https://poclanos.com/album/upside-down/</guid>
+            <pubDate>Wed, 10 Aug 2022 03:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[SOQI]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%86%8C%ED%82%A4-hp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sandbar Island (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sandbar-island/</link>
+            <guid>https://poclanos.com/album/sandbar-island/</guid>
+            <pubDate>Wed, 10 Aug 2022 03:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[전태원(JEONTAEWON)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%A0%84%ED%83%9C%EC%9B%90-%EC%BB%A4%EB%B2%84-%ED%99%88%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세레머니 (Ceremony) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%84%b8%eb%a0%88%eb%a8%b8%eb%8b%88-ceremony/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%95%8C%EB%A0%88%ED%94%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄과 여름 사이 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b4%84%ea%b3%bc-%ec%97%ac%eb%a6%84-%ec%82%ac%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%eb%b4%84%ea%b3%bc-%ec%97%ac%eb%a6%84-%ec%82%ac%ec%9d%b4/</guid>
-            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[정오월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%B4%84%EA%B3%BC-%EC%97%AC%EB%A6%84-%EC%82%AC%EC%9D%B4_%EC%BB%A4%EB%B2%84_%ED%99%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOWN (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/town/</link>
-            <guid>https://poclanos.com/album/town/</guid>
-            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[민준기(minzunki)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EB%AF%BC%EC%A4%80%EA%B8%B0%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HARU (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/haru/</link>
-            <guid>https://poclanos.com/album/haru/</guid>
-            <pubDate>Thu, 04 Aug 2022 04:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/07/%EC%82%AC%ED%9D%98%EC%9C%A4%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
