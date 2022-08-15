@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 23:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 22:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[번역 중독]]></title>
+            <link>https://poclanos.com/album/%eb%b2%88%ec%97%ad-%ec%a4%91%eb%8f%85/</link>
+            <guid>https://poclanos.com/album/%eb%b2%88%ec%97%ad-%ec%a4%91%eb%8f%85/</guid>
+            <pubDate>Mon, 15 Aug 2022 22:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[이현준]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-%EC%9D%B4%ED%98%84%EC%A4%80-%EB%B2%88%EC%97%AD-%EC%A4%91%EB%8F%85-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[You need my love]]></title>
             <link>https://poclanos.com/album/you-need-my-love/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Aug 2022 04:30:40 GMT</pubDate>
             <content:encoded><![CDATA[Audiosfrom]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/Right-Now-with-Shinny-Brown-Jiselle_%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Inside]]></title>
-            <link>https://poclanos.com/album/inside-2/</link>
-            <guid>https://poclanos.com/album/inside-2/</guid>
-            <pubDate>Mon, 08 Aug 2022 04:30:40 GMT</pubDate>
-            <content:encoded><![CDATA[미루송]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%AF%B8%EB%A3%A8%EC%86%A1_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
