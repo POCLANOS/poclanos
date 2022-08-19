@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 22:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완전체]]></title>
+            <link>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</link>
+            <guid>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</guid>
+            <pubDate>Thu, 18 Aug 2022 06:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nocturne]]></title>
+            <link>https://poclanos.com/album/nocturne/</link>
+            <guid>https://poclanos.com/album/nocturne/</guid>
+            <pubDate>Fri, 19 Aug 2022 22:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[Kose Noriko]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-6-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Girls Back Home]]></title>
+            <link>https://poclanos.com/album/girls-back-home/</link>
+            <guid>https://poclanos.com/album/girls-back-home/</guid>
+            <pubDate>Fri, 19 Aug 2022 22:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[Ash-B (애쉬비)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%95%A0%EC%89%AC%EB%B9%84-%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울퉁불퉁]]></title>
             <link>https://poclanos.com/album/%ec%9a%b8%ed%89%81%eb%b6%88%ed%89%81/</link>
@@ -22,14 +46,6 @@
             <pubDate>Thu, 18 Aug 2022 06:16:43 GMT</pubDate>
             <content:encoded><![CDATA[4x6]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전체]]></title>
-            <link>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</link>
-            <guid>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</guid>
-            <pubDate>Thu, 18 Aug 2022 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[I LOVE YOU]]></title>
@@ -92,7 +108,7 @@
             <link>https://poclanos.com/album/more-2/</link>
             <guid>https://poclanos.com/album/more-2/</guid>
             <pubDate>Tue, 16 Aug 2022 21:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie(가르종로비에)]]></content:encoded>
+            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-Garzon-Robie-%EA%B0%80%EB%A5%B4%EC%A2%85-%EB%A1%9C%EB%B9%84%EC%97%90-more-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
             <content:encoded><![CDATA[CHEEZE (치즈)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/Blank_Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Didn’t Know I Was Smiling]]></title>
-            <link>https://poclanos.com/album/didnt-know-i-was-smiling/</link>
-            <guid>https://poclanos.com/album/didnt-know-i-was-smiling/</guid>
-            <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Didnt-Know-I-Was-Smiling-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가는 중 feat. MNZU (민주)]]></title>
-            <link>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ec%a4%91/</link>
-            <guid>https://poclanos.com/album/%ea%b0%80%eb%8a%94-%ec%a4%91/</guid>
-            <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[Herz Analog]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_final-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
