@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 01:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[달밤]]></title>
+            <link>https://poclanos.com/album/%eb%8b%ac%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%8b%ac%eb%b0%a4/</guid>
+            <pubDate>Sat, 20 Aug 2022 15:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[사공(Sagong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완전체]]></title>
             <link>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
             <content:encoded><![CDATA[권월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EA%B6%8C%EC%9B%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blank]]></title>
-            <link>https://poclanos.com/album/%eb%b9%88%ec%b9%b8%ec%97%90%ea%b2%8c-room-for-you/</link>
-            <guid>https://poclanos.com/album/%eb%b9%88%ec%b9%b8%ec%97%90%ea%b2%8c-room-for-you/</guid>
-            <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[CHEEZE (치즈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/Blank_Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
