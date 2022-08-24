@@ -4,9 +4,57 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 21:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 14:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅇㅅㅇ]]></title>
+            <link>https://poclanos.com/album/%e3%85%87%e3%85%85%e3%85%87/</link>
+            <guid>https://poclanos.com/album/%e3%85%87%e3%85%85%e3%85%87/</guid>
+            <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[Bababa]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/hp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[summer of love (feat. 류수아)]]></title>
+            <link>https://poclanos.com/album/summer-of-love-feat-%eb%a5%98%ec%88%98%ec%95%84/</link>
+            <guid>https://poclanos.com/album/summer-of-love-feat-%eb%a5%98%ec%88%98%ec%95%84/</guid>
+            <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[sh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/sh-summer-of-love-feat.-%EB%A5%98%EC%88%98%EC%95%84-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Scent]]></title>
+            <link>https://poclanos.com/album/love-scent/</link>
+            <guid>https://poclanos.com/album/love-scent/</guid>
+            <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[GLOWCEAN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/gl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 우리는]]></title>
+            <link>https://poclanos.com/album/%ec%a7%80%ea%b8%88-%ec%9a%b0%eb%a6%ac%eb%8a%94/</link>
+            <guid>https://poclanos.com/album/%ec%a7%80%ea%b8%88-%ec%9a%b0%eb%a6%ac%eb%8a%94/</guid>
+            <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[아사히]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%95%84%EC%82%AC%ED%9E%88_HP_%ED%91%9C%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer songs]]></title>
+            <link>https://poclanos.com/album/summer-songs/</link>
+            <guid>https://poclanos.com/album/summer-songs/</guid>
+            <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[표표]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%ED%91%9C%ED%91%9C_HP_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[34]]></title>
+            <link>https://poclanos.com/album/34/</link>
+            <guid>https://poclanos.com/album/34/</guid>
+            <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8_HP_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마음대로]]></title>
             <link>https://poclanos.com/album/%eb%a7%88%ec%9d%8c%eb%8c%80%eb%a1%9c/</link>
@@ -118,54 +166,6 @@
             <pubDate>Tue, 16 Aug 2022 21:11:26 GMT</pubDate>
             <content:encoded><![CDATA[Iwamizu]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/iwazumi-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Night]]></title>
-            <link>https://poclanos.com/album/this-night/</link>
-            <guid>https://poclanos.com/album/this-night/</guid>
-            <pubDate>Tue, 16 Aug 2022 21:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[마누 (MANU)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-%EB%A7%88%EB%88%84-This-Night-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네 손을 잡을게]]></title>
-            <link>https://poclanos.com/album/%eb%84%a4-%ec%86%90%ec%9d%84-%ec%9e%a1%ec%9d%84%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%eb%84%a4-%ec%86%90%ec%9d%84-%ec%9e%a1%ec%9d%84%ea%b2%8c/</guid>
-            <pubDate>Tue, 16 Aug 2022 21:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4-%EC%A3%A0-jaw-%EB%84%A4-%EC%86%90%EC%9D%84-%EC%9E%A1%EC%9D%84%EA%B2%8C-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[more]]></title>
-            <link>https://poclanos.com/album/more-2/</link>
-            <guid>https://poclanos.com/album/more-2/</guid>
-            <pubDate>Tue, 16 Aug 2022 21:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-Garzon-Robie-%EA%B0%80%EB%A5%B4%EC%A2%85-%EB%A1%9C%EB%B9%84%EC%97%90-more-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번역 중독]]></title>
-            <link>https://poclanos.com/album/%eb%b2%88%ec%97%ad-%ec%a4%91%eb%8f%85/</link>
-            <guid>https://poclanos.com/album/%eb%b2%88%ec%97%ad-%ec%a4%91%eb%8f%85/</guid>
-            <pubDate>Mon, 15 Aug 2022 22:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[이현준]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-%EC%9D%B4%ED%98%84%EC%A4%80-%EB%B2%88%EC%97%AD-%EC%A4%91%EB%8F%85-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You need my love]]></title>
-            <link>https://poclanos.com/album/you-need-my-love/</link>
-            <guid>https://poclanos.com/album/you-need-my-love/</guid>
-            <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-You-need-my-love-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수선 (feat. TAEO)]]></title>
-            <link>https://poclanos.com/album/%ec%88%98%ec%84%a0-feat-taeo/</link>
-            <guid>https://poclanos.com/album/%ec%88%98%ec%84%a0-feat-taeo/</guid>
-            <pubDate>Sun, 14 Aug 2022 23:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-bni-%EB%B9%84%EB%8B%88-%EC%88%98%EC%84%A0-feat.-TAEO-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
