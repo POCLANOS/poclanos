@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 17:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 08:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Every complicated night]]></title>
+            <link>https://poclanos.com/album/every-complicated-night/</link>
+            <guid>https://poclanos.com/album/every-complicated-night/</guid>
+            <pubDate>Sun, 28 Aug 2022 08:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/hpQ-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼자 있는 법을 몰라서]]></title>
+            <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%ec%9e%88%eb%8a%94-%eb%b2%95%ec%9d%84-%eb%aa%b0%eb%9d%bc%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%ec%9e%88%eb%8a%94-%eb%b2%95%ec%9d%84-%eb%aa%b0%eb%9d%bc%ec%84%9c/</guid>
+            <pubDate>Sun, 28 Aug 2022 08:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[바미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%B0%94%EB%AF%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aqua (Feat. Jade)]]></title>
             <link>https://poclanos.com/album/aqua-feat-jade/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 20 Aug 2022 15:13:01 GMT</pubDate>
             <content:encoded><![CDATA[사공(Sagong)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완전체]]></title>
-            <link>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</link>
-            <guid>https://poclanos.com/album/%ec%99%84%ec%a0%84%ec%b2%b4/</guid>
-            <pubDate>Thu, 18 Aug 2022 06:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[리코 (Rico)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nocturne]]></title>
-            <link>https://poclanos.com/album/nocturne/</link>
-            <guid>https://poclanos.com/album/nocturne/</guid>
-            <pubDate>Fri, 19 Aug 2022 22:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[Kose Noriko]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-6-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
