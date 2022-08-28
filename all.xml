@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 08:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 19:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rainy Day (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/rainy-day/</link>
+            <guid>https://poclanos.com/album/rainy-day/</guid>
+            <pubDate>Sun, 28 Aug 2022 19:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[김수영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EA%B9%80%EC%88%98%EC%98%81-hp-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Every complicated night (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/every-complicated-night/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 21 Aug 2022 19:09:59 GMT</pubDate>
             <content:encoded><![CDATA[류이수]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-3-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달밤 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8b%ac%eb%b0%a4/</link>
-            <guid>https://poclanos.com/album/%eb%8b%ac%eb%b0%a4/</guid>
-            <pubDate>Sat, 20 Aug 2022 15:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[사공(Sagong)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
