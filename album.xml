@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 19:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 10:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손혜은]]></title>
+            <link>https://poclanos.com/album/%ec%86%90%ed%98%9c%ec%9d%80/</link>
+            <guid>https://poclanos.com/album/%ec%86%90%ed%98%9c%ec%9d%80/</guid>
+            <pubDate>Mon, 29 Aug 2022 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[손혜은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%86%90%ED%98%9C%EC%9D%80_hp%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Endless Summer]]></title>
+            <link>https://poclanos.com/album/endless-summer/</link>
+            <guid>https://poclanos.com/album/endless-summer/</guid>
+            <pubDate>Mon, 29 Aug 2022 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[일월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%ED%99%88%ED%94%BC-%EC%9D%BC%EC%9B%94-Endless-Summer-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[100년]]></title>
+            <link>https://poclanos.com/album/100%eb%85%84/</link>
+            <guid>https://poclanos.com/album/100%eb%85%84/</guid>
+            <pubDate>Mon, 29 Aug 2022 10:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%A7%84%EB%8F%99%EC%9A%B1_hp%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rainy Day]]></title>
             <link>https://poclanos.com/album/rainy-day/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 24 Aug 2022 14:11:02 GMT</pubDate>
             <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8_HP_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마음대로]]></title>
-            <link>https://poclanos.com/album/%eb%a7%88%ec%9d%8c%eb%8c%80%eb%a1%9c/</link>
-            <guid>https://poclanos.com/album/%eb%a7%88%ec%9d%8c%eb%8c%80%eb%a1%9c/</guid>
-            <pubDate>Mon, 22 Aug 2022 14:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[hamzzi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/hp%ED%96%84%EC%B0%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스며들어]]></title>
-            <link>https://poclanos.com/album/%ec%8a%a4%eb%a9%b0%eb%93%a4%ec%96%b4-feat-%eb%82%98%ec%9d%80/</link>
-            <guid>https://poclanos.com/album/%ec%8a%a4%eb%a9%b0%eb%93%a4%ec%96%b4-feat-%eb%82%98%ec%9d%80/</guid>
-            <pubDate>Mon, 22 Aug 2022 14:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[Dasoi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우산]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%ec%82%b0-2/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%ec%82%b0-2/</guid>
-            <pubDate>Sun, 21 Aug 2022 19:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[류이수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%97%85%EB%A1%9C%EB%93%9C%EC%9A%A9-3-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
