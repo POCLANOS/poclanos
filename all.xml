@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 13:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 05:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[closetclosetcloset (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/closetclosetcloset-2/</link>
+            <guid>https://poclanos.com/album/closetclosetcloset-2/</guid>
+            <pubDate>Sat, 03 Sep 2022 05:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[허캐(hukke)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%ED%97%88%EC%BA%90hukke_%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%95%EB%B0%A9%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[합 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%95%a9/</link>
+            <guid>https://poclanos.com/album/%ed%95%a9/</guid>
+            <pubDate>Sat, 03 Sep 2022 05:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%ED%95%A9_%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익사 (溺死) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9d%b5%ec%82%ac-%ef%a7%ac%e6%ad%bb/</link>
@@ -152,33 +168,17 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EA%B9%80%EC%88%98%EC%98%81-hp-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Every complicated night (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/every-complicated-night/</link>
-            <guid>https://poclanos.com/album/every-complicated-night/</guid>
-            <pubDate>Sun, 28 Aug 2022 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/hpQ-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자 있는 법을 몰라서 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%ec%9e%88%eb%8a%94-%eb%b2%95%ec%9d%84-%eb%aa%b0%eb%9d%bc%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%ec%9e%88%eb%8a%94-%eb%b2%95%ec%9d%84-%eb%aa%b0%eb%9d%bc%ec%84%9c/</guid>
-            <pubDate>Sun, 28 Aug 2022 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[바미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%B0%94%EB%AF%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
             <link>https://poclanos.com/review/loop_1/</link>
             <guid>https://poclanos.com/review/loop_1/</guid>
             <pubDate>Sat, 16 Jul 2022 12:19:44 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/loop_1/" rel="bookmark">Non Amer [Loop 1]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/loop_1/" rel="bookmark"><time class="entry-date published" datetime="2022-07-16T18:00:00+09:00">2022년 7월 16일</time><time class="updated" datetime="2022-07-15T17:29:59+09:00">2022년 7월 15일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/loop_1/" rel="bookmark" data-pjax-state="">Non Amer [Loop 1]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/loop_1/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-07-16T18:00:00+09:00">2022년 7월 16일</time><time class="updated" datetime="2022-07-15T17:29:59+09:00">2022년 7월 15일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/loop_1/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/loop_1/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Non Amer [Loop 1]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-1024x1024.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-768x768.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-1536x1536.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="2560">			</a>
 
 			
@@ -217,7 +217,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/06/Loop-1_cover-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -226,12 +226,12 @@
             <guid>https://poclanos.com/review/sinderella/</guid>
             <pubDate>Sun, 29 May 2022 16:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/sinderella/" rel="bookmark">Silly Silky [SIN데렐라]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/sinderella/" rel="bookmark"><time class="entry-date published" datetime="2022-05-28T18:00:04+09:00">2022년 5월 28일</time><time class="updated" datetime="2022-05-27T15:39:01+09:00">2022년 5월 27일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/sinderella/" rel="bookmark" data-pjax-state="">Silly Silky [SIN데렐라]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/sinderella/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-05-28T18:00:04+09:00">2022년 5월 28일</time><time class="updated" datetime="2022-05-27T15:39:01+09:00">2022년 5월 27일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/sinderella/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/sinderella/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN데렐라-_COVER.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Silly Silky [SIN데렐라]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN데렐라-_COVER.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN데렐라-_COVER-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN데렐라-_COVER-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN데렐라-_COVER-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -264,7 +264,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/3.-Silly-Silky-SIN%EB%8D%B0%EB%A0%90%EB%9D%BC-_COVER.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -273,12 +273,12 @@
             <guid>https://poclanos.com/review/sweet-violet-flame/</guid>
             <pubDate>Tue, 24 May 2022 03:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/sweet-violet-flame/" rel="bookmark">해서웨이 (hathaw9y) [Sweet Violet Flame]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/sweet-violet-flame/" rel="bookmark"><time class="entry-date published" datetime="2022-05-21T18:20:03+09:00">2022년 5월 21일</time><time class="updated" datetime="2022-05-20T15:48:56+09:00">2022년 5월 20일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/sweet-violet-flame/" rel="bookmark" data-pjax-state="">해서웨이 (hathaw9y) [Sweet Violet Flame]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/sweet-violet-flame/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-05-21T18:20:03+09:00">2022년 5월 21일</time><time class="updated" datetime="2022-05-20T15:48:56+09:00">2022년 5월 20일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/sweet-violet-flame/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/sweet-violet-flame/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="해서웨이 (hathaw9y) [Sweet Violet Flame]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -307,7 +307,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/05/Sweet-Violet-Flame_cover.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -316,12 +316,12 @@
             <guid>https://poclanos.com/review/flower-bloom-as-if-wither/</guid>
             <pubDate>Tue, 24 May 2022 03:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/flower-bloom-as-if-wither/" rel="bookmark">사람12사람 [꽃이 지듯 피지]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/flower-bloom-as-if-wither/" rel="bookmark"><time class="entry-date published" datetime="2022-05-14T18:00:31+09:00">2022년 5월 14일</time><time class="updated" datetime="2022-05-13T16:23:48+09:00">2022년 5월 13일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/flower-bloom-as-if-wither/" rel="bookmark" data-pjax-state="">사람12사람 [꽃이 지듯 피지]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/flower-bloom-as-if-wither/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-05-14T18:00:31+09:00">2022년 5월 14일</time><time class="updated" datetime="2022-05-13T16:23:48+09:00">2022년 5월 13일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/flower-bloom-as-if-wither/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/flower-bloom-as-if-wither/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="사람12사람 [꽃이 지듯 피지]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-1024x1024.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-768x768.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-1536x1536.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover수정-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="2560">			</a>
 
 			
@@ -355,7 +355,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/cover%EC%88%98%EC%A0%95-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -364,12 +364,12 @@
             <guid>https://poclanos.com/review/sonatine/</guid>
             <pubDate>Sat, 07 May 2022 12:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/sonatine/" rel="bookmark">Sojeso [Sonatine]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/sonatine/" rel="bookmark"><time class="entry-date published" datetime="2022-05-07T18:00:34+09:00">2022년 5월 7일</time><time class="updated" datetime="2022-05-06T18:30:19+09:00">2022년 5월 6일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/sonatine/" rel="bookmark" data-pjax-state="">Sojeso [Sonatine]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/sonatine/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-05-07T18:00:34+09:00">2022년 5월 7일</time><time class="updated" datetime="2022-05-06T18:30:19+09:00">2022년 5월 6일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/sonatine/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/sonatine/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-scaled.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Sojeso [Sonatine]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-1024x1024.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-768x768.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-1536x1536.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" width="2560" height="2560">			</a>
 
 			
@@ -397,7 +397,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/COVER-Sojeso_Sonatine_3000x3000-scaled.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -406,12 +406,12 @@
             <guid>https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/</guid>
             <pubDate>Sat, 30 Apr 2022 11:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/" rel="bookmark">남경운 [earth]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/" rel="bookmark"><time class="entry-date published" datetime="2022-04-30T18:00:18+09:00">2022년 4월 30일</time><time class="updated" datetime="2022-04-30T21:59:55+09:00">2022년 4월 30일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/" rel="bookmark" data-pjax-state="">남경운 [earth]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-04-30T18:00:18+09:00">2022년 4월 30일</time><time class="updated" datetime="2022-04-30T21:59:55+09:00">2022년 4월 30일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/%eb%82%a8%ea%b2%bd%ec%9a%b4-earth/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="남경운 [earth]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -450,7 +450,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/earth/" rel="tag">earth</a>, <a href="https://poclanos.com/tag/%eb%82%a8%ea%b2%bd%ec%9a%b4/" rel="tag">남경운</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/earth/" rel="tag" data-pjax-state="">earth</a>, <a href="https://poclanos.com/tag/%eb%82%a8%ea%b2%bd%ec%9a%b4/" rel="tag" data-pjax-state="">남경운</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/04/earth_cover.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -459,12 +459,12 @@
             <guid>https://poclanos.com/review/lullaby/</guid>
             <pubDate>Sat, 23 Apr 2022 12:19:23 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/lullaby/" rel="bookmark">장아름 [Lullaby]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/lullaby/" rel="bookmark"><time class="entry-date published" datetime="2022-04-23T18:00:55+09:00">2022년 4월 23일</time><time class="updated" datetime="2022-04-22T15:45:35+09:00">2022년 4월 22일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/lullaby/" rel="bookmark" data-pjax-state="">장아름 [Lullaby]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/lullaby/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-04-23T18:00:55+09:00">2022년 4월 23일</time><time class="updated" datetime="2022-04-22T15:45:35+09:00">2022년 4월 22일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/lullaby/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/lullaby/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="장아름 [Lullaby]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -493,7 +493,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Lullaby.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -502,12 +502,12 @@
             <guid>https://poclanos.com/review/frankly-i/</guid>
             <pubDate>Sun, 17 Apr 2022 06:14:34 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/frankly-i/" rel="bookmark">FRankly (프랭클리) [Frankly I…]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/frankly-i/" rel="bookmark"><time class="entry-date published" datetime="2022-04-16T18:00:59+09:00">2022년 4월 16일</time><time class="updated" datetime="2022-04-14T15:55:37+09:00">2022년 4월 14일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/frankly-i/" rel="bookmark" data-pjax-state="">FRankly (프랭클리) [Frankly I…]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/frankly-i/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-04-16T18:00:59+09:00">2022년 4월 16일</time><time class="updated" datetime="2022-04-14T15:55:37+09:00">2022년 4월 14일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/frankly-i/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/frankly-i/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="FRankly (프랭클리) [Frankly I…]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -543,7 +543,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/frankly/" rel="tag">frankly</a>, <a href="https://poclanos.com/tag/review/" rel="tag">REVIEW</a>, <a href="https://poclanos.com/tag/%ed%94%8c%eb%9e%ad%ed%81%b4%eb%a6%ac/" rel="tag">플랭클리</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/frankly/" rel="tag" data-pjax-state="">frankly</a>, <a href="https://poclanos.com/tag/review/" rel="tag" data-pjax-state="">REVIEW</a>, <a href="https://poclanos.com/tag/%ed%94%8c%eb%9e%ad%ed%81%b4%eb%a6%ac/" rel="tag" data-pjax-state="">플랭클리</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/Frankly-I.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -552,12 +552,12 @@
             <guid>https://poclanos.com/review/through-the-blurry-window/</guid>
             <pubDate>Sat, 09 Apr 2022 12:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/through-the-blurry-window/" rel="bookmark">진수영 [창문을 통해 어렴풋이]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/through-the-blurry-window/" rel="bookmark"><time class="entry-date published" datetime="2022-04-09T18:00:30+09:00">2022년 4월 9일</time><time class="updated" datetime="2022-04-07T15:19:04+09:00">2022년 4월 7일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/through-the-blurry-window/" rel="bookmark" data-pjax-state="">진수영 [창문을 통해 어렴풋이]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/through-the-blurry-window/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-04-09T18:00:30+09:00">2022년 4월 9일</time><time class="updated" datetime="2022-04-07T15:19:04+09:00">2022년 4월 7일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/through-the-blurry-window/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/through-the-blurry-window/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="진수영 [창문을 통해 어렴풋이]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -586,7 +586,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/review/" rel="tag">REVIEW</a>, <a href="https://poclanos.com/tag/%ec%a7%84%ec%88%98%ec%98%81/" rel="tag">진수영</a>, <a href="https://poclanos.com/tag/%ec%b0%bd%eb%ac%b8%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%96%b4%eb%a0%b4%ed%92%8b%ec%9d%b4/" rel="tag">창문을 통해 어렴풋이</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/review/" rel="tag" data-pjax-state="">REVIEW</a>, <a href="https://poclanos.com/tag/%ec%a7%84%ec%88%98%ec%98%81/" rel="tag" data-pjax-state="">진수영</a>, <a href="https://poclanos.com/tag/%ec%b0%bd%eb%ac%b8%ec%9d%84-%ed%86%b5%ed%95%b4-%ec%96%b4%eb%a0%b4%ed%92%8b%ec%9d%b4/" rel="tag" data-pjax-state="">창문을 통해 어렴풋이</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/jsy_cover.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -595,12 +595,12 @@
             <guid>https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/</guid>
             <pubDate>Sat, 02 Apr 2022 15:11:02 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" rel="bookmark">BrokenTeeth [당신의 사랑이 늘 행복하기를]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" rel="bookmark"><time class="entry-date published" datetime="2022-04-02T18:00:18+09:00">2022년 4월 2일</time><time class="updated" datetime="2022-04-01T18:00:07+09:00">2022년 4월 1일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" rel="bookmark" data-pjax-state="">BrokenTeeth [당신의 사랑이 늘 행복하기를]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-04-02T18:00:18+09:00">2022년 4월 2일</time><time class="updated" datetime="2022-04-01T18:00:07+09:00">2022년 4월 1일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/brokenteeth-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="BrokenTeeth [당신의 사랑이 늘 행복하기를]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -634,7 +634,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/brokenteeth/" rel="tag">BrokenTeeth</a>, <a href="https://poclanos.com/tag/review/" rel="tag">REVIEW</a>, <a href="https://poclanos.com/tag/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" rel="tag">당신의 사랑이 늘 행복하기를</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/brokenteeth/" rel="tag" data-pjax-state="">BrokenTeeth</a>, <a href="https://poclanos.com/tag/review/" rel="tag" data-pjax-state="">REVIEW</a>, <a href="https://poclanos.com/tag/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%82%ac%eb%9e%91%ec%9d%b4-%eb%8a%98-%ed%96%89%eb%b3%b5%ed%95%98%ea%b8%b0%eb%a5%bc/" rel="tag" data-pjax-state="">당신의 사랑이 늘 행복하기를</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/BrokenTeeth.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -643,12 +643,12 @@
             <guid>https://poclanos.com/review/foodcourt/</guid>
             <pubDate>Sat, 19 Mar 2022 12:17:53 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/foodcourt/" rel="bookmark">Soul Delivery [FOODCOURT]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/foodcourt/" rel="bookmark"><time class="entry-date published" datetime="2022-03-19T18:00:28+09:00">2022년 3월 19일</time><time class="updated" datetime="2022-03-18T18:02:14+09:00">2022년 3월 18일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/foodcourt/" rel="bookmark" data-pjax-state="">Soul Delivery [FOODCOURT]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/foodcourt/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-03-19T18:00:28+09:00">2022년 3월 19일</time><time class="updated" datetime="2022-03-18T18:02:14+09:00">2022년 3월 18일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/foodcourt/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/foodcourt/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/FOODCOURT_cover.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Soul Delivery [FOODCOURT]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/FOODCOURT_cover.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/FOODCOURT_cover-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/FOODCOURT_cover-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/03/FOODCOURT_cover-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -677,7 +677,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/foodcourt/" rel="tag">FOODCOURT</a>, <a href="https://poclanos.com/tag/review/" rel="tag">REVIEW</a>, <a href="https://poclanos.com/tag/soul-delivery/" rel="tag">Soul Delivery</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/foodcourt/" rel="tag" data-pjax-state="">FOODCOURT</a>, <a href="https://poclanos.com/tag/review/" rel="tag" data-pjax-state="">REVIEW</a>, <a href="https://poclanos.com/tag/soul-delivery/" rel="tag" data-pjax-state="">Soul Delivery</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/03/FOODCOURT_cover.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -686,12 +686,12 @@
             <guid>https://poclanos.com/review/bad/</guid>
             <pubDate>Sat, 12 Mar 2022 10:13:59 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
-		<h2 class="entry-title"><a href="https://poclanos.com/review/bad/" rel="bookmark">보일 [나쁜 마음]</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/review/bad/" rel="bookmark"><time class="entry-date published" datetime="2022-03-12T18:00:23+09:00">2022년 3월 12일</time><time class="updated" datetime="2022-03-11T16:51:30+09:00">2022년 3월 11일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/">poclanos</a></span></span>			</div><!-- .entry-meta -->
+		<h2 class="entry-title"><a href="https://poclanos.com/review/bad/" rel="bookmark" data-pjax-state="">보일 [나쁜 마음]</a></h2>			<div class="entry-meta">
+				<span class="posted-on">Posted on <a href="https://poclanos.com/review/bad/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2022-03-12T18:00:23+09:00">2022년 3월 12일</time><time class="updated" datetime="2022-03-11T16:51:30+09:00">2022년 3월 11일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
-			<a class="post-thumbnail" href="https://poclanos.com/review/bad/" aria-hidden="true" tabindex="-1">
+			<a class="post-thumbnail" href="https://poclanos.com/review/bad/" aria-hidden="true" tabindex="-1" data-pjax-state="">
 				<img src="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Bad.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="보일 [나쁜 마음]" loading="lazy" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Bad.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Bad-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Bad-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Bad-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" width="1000" height="1000">			</a>
 
 			
@@ -727,7 +727,7 @@
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/review/" rel="tag">REVIEW</a>, <a href="https://poclanos.com/tag/%eb%82%98%ec%81%9c-%eb%a7%88%ec%9d%8c/" rel="tag">나쁜 마음</a>, <a href="https://poclanos.com/tag/%eb%b3%b4%ec%9d%bc/" rel="tag">보일</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
+		<span class="cat-links">Posted in <a href="https://poclanos.com/category/review/" rel="category tag" data-pjax-state="">REVIEW</a></span><span class="tags-links">Tagged <a href="https://poclanos.com/tag/review/" rel="tag" data-pjax-state="">REVIEW</a>, <a href="https://poclanos.com/tag/%eb%82%98%ec%81%9c-%eb%a7%88%ec%9d%8c/" rel="tag" data-pjax-state="">나쁜 마음</a>, <a href="https://poclanos.com/tag/%eb%b3%b4%ec%9d%bc/" rel="tag" data-pjax-state="">보일</a></span>	</footer><!-- .entry-footer -->]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/02/Bad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>

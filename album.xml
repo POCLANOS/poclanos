@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 13:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 05:04:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[closetclosetcloset]]></title>
+            <link>https://poclanos.com/album/closetclosetcloset-2/</link>
+            <guid>https://poclanos.com/album/closetclosetcloset-2/</guid>
+            <pubDate>Sat, 03 Sep 2022 05:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[허캐(hukke)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%ED%97%88%EC%BA%90hukke_%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%95%EB%B0%A9%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[합]]></title>
+            <link>https://poclanos.com/album/%ed%95%a9/</link>
+            <guid>https://poclanos.com/album/%ed%95%a9/</guid>
+            <pubDate>Sat, 03 Sep 2022 05:00:34 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%ED%95%A9_%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[익사 (溺死)]]></title>
             <link>https://poclanos.com/album/%ec%9d%b5%ec%82%ac-%ef%a7%ac%e6%ad%bb/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 28 Aug 2022 19:11:25 GMT</pubDate>
             <content:encoded><![CDATA[김수영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EA%B9%80%EC%88%98%EC%98%81-hp-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Every complicated night]]></title>
-            <link>https://poclanos.com/album/every-complicated-night/</link>
-            <guid>https://poclanos.com/album/every-complicated-night/</guid>
-            <pubDate>Sun, 28 Aug 2022 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/hpQ-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혼자 있는 법을 몰라서]]></title>
-            <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%ec%9e%88%eb%8a%94-%eb%b2%95%ec%9d%84-%eb%aa%b0%eb%9d%bc%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%ec%9e%88%eb%8a%94-%eb%b2%95%ec%9d%84-%eb%aa%b0%eb%9d%bc%ec%84%9c/</guid>
-            <pubDate>Sun, 28 Aug 2022 08:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[바미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%B0%94%EB%AF%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
