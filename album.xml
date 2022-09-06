@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 19:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cast In Heaven (feat. Wonmi Jung)]]></title>
+            <link>https://poclanos.com/album/cast-in-heaven-feat-wonmi-jung/</link>
+            <guid>https://poclanos.com/album/cast-in-heaven-feat-wonmi-jung/</guid>
+            <pubDate>Tue, 06 Sep 2022 06:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-Suwon-Yim-%EC%9E%84%EC%88%98%EC%9B%90-Cast-In-Heaven-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[songbird (feat. kennytheking (케니더킹))]]></title>
+            <link>https://poclanos.com/album/songbird-feat-kennytheking-%ec%bc%80%eb%8b%88%eb%8d%94%ed%82%b9/</link>
+            <guid>https://poclanos.com/album/songbird-feat-kennytheking-%ec%bc%80%eb%8b%88%eb%8d%94%ed%82%b9/</guid>
+            <pubDate>Tue, 06 Sep 2022 06:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[susie]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-susie-songbird-feat.-kennytheking-%EC%BC%80%EB%8B%88%EB%8D%94%ED%82%B9-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구원]]></title>
             <link>https://poclanos.com/album/%ea%b5%ac%ec%9b%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
             <content:encoded><![CDATA[Wastebasket]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/wastebasket%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게만 보여]]></title>
-            <link>https://poclanos.com/album/%eb%b6%84%eb%aa%85/</link>
-            <guid>https://poclanos.com/album/%eb%b6%84%eb%aa%85/</guid>
-            <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[버둥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-%EB%B2%84%EB%91%A5-%EB%84%88%EC%97%90%EA%B2%8C%EB%A7%8C-%EB%B3%B4%EC%97%AC-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름빛]]></title>
-            <link>https://poclanos.com/album/%ec%86%90%ed%98%9c%ec%9d%80/</link>
-            <guid>https://poclanos.com/album/%ec%86%90%ed%98%9c%ec%9d%80/</guid>
-            <pubDate>Mon, 29 Aug 2022 10:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[손혜은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%86%90%ED%98%9C%EC%9D%80_hp%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
