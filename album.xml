@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서교동의 밤]]></title>
+            <link>https://poclanos.com/album/%ec%84%9c%ea%b5%90%eb%8f%99%ec%9d%98-%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%ec%84%9c%ea%b5%90%eb%8f%99%ec%9d%98-%eb%b0%a4/</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%9C%EA%B5%90%EB%8F%99%EC%9D%98-%EB%B0%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고장난 시계]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ec%9e%a5%eb%82%9c-%ec%8b%9c%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ec%9e%a5%eb%82%9c-%ec%8b%9c%ea%b3%84/</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[AJC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_-AJC-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EC%8B%9C%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Make a Move]]></title>
+            <link>https://poclanos.com/album/make-a-move-feat-woshi-suyo/</link>
+            <guid>https://poclanos.com/album/make-a-move-feat-woshi-suyo/</guid>
+            <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[SOQI]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-SOQI-Make-a-Move-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cast In Heaven (feat. Wonmi Jung)]]></title>
             <link>https://poclanos.com/album/cast-in-heaven-feat-wonmi-jung/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
             <content:encoded><![CDATA[마냉]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%A7%88%EB%83%89-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I can’t do this all day …]]></title>
-            <link>https://poclanos.com/album/i-cant-do-this-all-day/</link>
-            <guid>https://poclanos.com/album/i-cant-do-this-all-day/</guid>
-            <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[곽태풍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-%EA%B3%BD%ED%83%9C%ED%92%8D-I-cant-do-this-all-day-...-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[평생을 소년이라면]]></title>
-            <link>https://poclanos.com/album/%ed%8f%89%ec%83%9d%ec%9d%84-%ec%86%8c%eb%85%84%ec%9d%b4%eb%9d%bc%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ed%8f%89%ec%83%9d%ec%9d%84-%ec%86%8c%eb%85%84%ec%9d%b4%eb%9d%bc%eb%a9%b4/</guid>
-            <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%9C%A0%EA%B7%80hp%EC%BB%A4%EB%B2%84%ED%94%84%EB%A1%9C%ED%95%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[the angry vol. 1]]></title>
-            <link>https://poclanos.com/album/the-angry-vol-1/</link>
-            <guid>https://poclanos.com/album/the-angry-vol-1/</guid>
-            <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[Wastebasket]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/wastebasket%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
