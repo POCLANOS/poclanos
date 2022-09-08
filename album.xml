@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 01:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 06:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GOODNESS OF FIT]]></title>
+            <link>https://poclanos.com/album/5-3/</link>
+            <guid>https://poclanos.com/album/5-3/</guid>
+            <pubDate>Thu, 08 Sep 2022 06:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[샘미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-%EC%83%98%EB%AF%B8-GOODNESS-OF-FIT-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서교동의 밤]]></title>
             <link>https://poclanos.com/album/%ec%84%9c%ea%b5%90%eb%8f%99%ec%9d%98-%eb%b0%a4/</link>
@@ -14,14 +22,6 @@
             <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
             <content:encoded><![CDATA[우주히피]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%9C%EA%B5%90%EB%8F%99%EC%9D%98-%EB%B0%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고장난 시계]]></title>
-            <link>https://poclanos.com/album/%ea%b3%a0%ec%9e%a5%eb%82%9c-%ec%8b%9c%ea%b3%84/</link>
-            <guid>https://poclanos.com/album/%ea%b3%a0%ec%9e%a5%eb%82%9c-%ec%8b%9c%ea%b3%84/</guid>
-            <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[AJC]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_-AJC-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EC%8B%9C%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Make a Move]]></title>
