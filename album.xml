@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 18:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[a man and a woman]]></title>
+            <link>https://poclanos.com/album/a-man-and-a-woman-feat-gamma/</link>
+            <guid>https://poclanos.com/album/a-man-and-a-woman-feat-gamma/</guid>
+            <pubDate>Thu, 08 Sep 2022 18:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[unofficialboyy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_unofficialboyy-a-man-and-a-woman-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US]]></title>
+            <link>https://poclanos.com/album/us/</link>
+            <guid>https://poclanos.com/album/us/</guid>
+            <pubDate>Thu, 08 Sep 2022 18:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[박지우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_%EB%B0%95%EC%A7%80%EC%9A%B0-US-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOODNESS OF FIT]]></title>
             <link>https://poclanos.com/album/5-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
             <content:encoded><![CDATA[다린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%8B%A4%EB%A6%B0%ED%99%88%ED%94%BC%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있잖아]]></title>
-            <link>https://poclanos.com/album/%ec%9e%88%ec%9e%96%ec%95%84/</link>
-            <guid>https://poclanos.com/album/%ec%9e%88%ec%9e%96%ec%95%84/</guid>
-            <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[슬릭(SLEEQ)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EC%8A%AC%EB%A6%AD%ED%98%B8%EB%AE%A4%E3%85%A3%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[zzonzzo loves]]></title>
-            <link>https://poclanos.com/album/zzonzzo-loves/</link>
-            <guid>https://poclanos.com/album/zzonzzo-loves/</guid>
-            <pubDate>Fri, 02 Sep 2022 01:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[마냉]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%A7%88%EB%83%89-%ED%81%AC%EA%B8%B0-%EC%A1%B0%EC%A0%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
