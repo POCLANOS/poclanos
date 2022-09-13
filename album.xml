@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 18:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 18:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 안녕]]></title>
+            <link>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%88%eb%85%95/</link>
+            <guid>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%88%eb%85%95/</guid>
+            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[이영훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_%EC%98%81%ED%9B%88-%EC%98%A4%EB%8A%98%EC%9D%98-%EC%95%88%EB%85%95-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새]]></title>
+            <link>https://poclanos.com/album/%ec%83%88-4/</link>
+            <guid>https://poclanos.com/album/%ec%83%88-4/</guid>
+            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[김뽐므]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-%EA%B9%80%EB%BD%90%EB%AF%80-%EC%83%88-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ride]]></title>
+            <link>https://poclanos.com/album/ride-2/</link>
+            <guid>https://poclanos.com/album/ride-2/</guid>
+            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[미루송]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B3%80%EA%B2%BD_%EB%AF%B8%EB%A3%A8%EC%86%A1-Ride-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[kind man]]></title>
+            <link>https://poclanos.com/album/kind-man/</link>
+            <guid>https://poclanos.com/album/kind-man/</guid>
+            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[jeje]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%A0%9C%EC%A0%9C-%EC%B9%B4%EC%9D%B8%EB%93%9C%EB%A7%A8-%ED%99%88%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Denial]]></title>
+            <link>https://poclanos.com/album/denial/</link>
+            <guid>https://poclanos.com/album/denial/</guid>
+            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_%EC%9F%88%EB%93%9C-Jade-Denial-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[pepper]]></title>
             <link>https://poclanos.com/album/pepper/</link>
@@ -126,46 +166,6 @@
             <pubDate>Mon, 05 Sep 2022 08:15:51 GMT</pubDate>
             <content:encoded><![CDATA[한로로]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EB%B9%84%ED%8B%80%EB%B9%84%ED%8B%80-%EC%A7%9D%EC%A7%9C%EA%BF%8D_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[closetclosetcloset]]></title>
-            <link>https://poclanos.com/album/closetclosetcloset-2/</link>
-            <guid>https://poclanos.com/album/closetclosetcloset-2/</guid>
-            <pubDate>Sat, 03 Sep 2022 05:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[허캐(hukke)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%ED%97%88%EC%BA%90hukke_%ED%94%84%EB%A1%9C%ED%95%84-%EC%A0%95%EB%B0%A9%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[합]]></title>
-            <link>https://poclanos.com/album/%ed%95%a9/</link>
-            <guid>https://poclanos.com/album/%ed%95%a9/</guid>
-            <pubDate>Sat, 03 Sep 2022 05:00:34 GMT</pubDate>
-            <content:encoded><![CDATA[구원찬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%ED%95%A9_%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[망각]]></title>
-            <link>https://poclanos.com/album/%eb%a7%9d%ea%b0%81/</link>
-            <guid>https://poclanos.com/album/%eb%a7%9d%ea%b0%81/</guid>
-            <pubDate>Fri, 02 Sep 2022 13:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[pleasepleaseplease]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/3.-pleasepleaseplease-%EB%A7%9D%EA%B0%81-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 그런 말을 해]]></title>
-            <link>https://poclanos.com/album/%ec%99%9c-%ea%b7%b8%eb%9f%b0-%eb%a7%90%ec%9d%84-%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%ec%99%9c-%ea%b7%b8%eb%9f%b0-%eb%a7%90%ec%9d%84-%ed%95%b4/</guid>
-            <pubDate>Fri, 02 Sep 2022 13:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%ED%99%8D%ED%81%AC%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You Don’t Know It Eats you]]></title>
-            <link>https://poclanos.com/album/you-dont-know-it-eats-you/</link>
-            <guid>https://poclanos.com/album/you-dont-know-it-eats-you/</guid>
-            <pubDate>Fri, 02 Sep 2022 13:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[VelvetHeroin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/08/%EB%B2%A8%EB%B2%B3%EB%AE%A4%EB%B9%84%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
