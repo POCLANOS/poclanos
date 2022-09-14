@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 18:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 04:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고장난 시계]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ec%9e%a5%eb%82%9c-%ec%8b%9c%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ec%9e%a5%eb%82%9c-%ec%8b%9c%ea%b3%84/</guid>
+            <pubDate>Wed, 14 Sep 2022 04:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[AJC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_-AJC-%EA%B3%A0%EC%9E%A5%EB%82%9C-%EC%8B%9C%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 안녕]]></title>
             <link>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%95%88%eb%85%95/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Sep 2022 08:15:51 GMT</pubDate>
             <content:encoded><![CDATA[키디비 (KittiB)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-%ED%82%A4%EB%94%94%EB%B9%84-KittiB-Lucky-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비틀비틀 짝짜꿍]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ed%8b%80%eb%b9%84%ed%8b%80-%ec%a7%9d%ec%a7%9c%ea%bf%8d-2/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ed%8b%80%eb%b9%84%ed%8b%80-%ec%a7%9d%ec%a7%9c%ea%bf%8d-2/</guid>
-            <pubDate>Mon, 05 Sep 2022 08:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EB%B9%84%ED%8B%80%EB%B9%84%ED%8B%80-%EC%A7%9D%EC%A7%9C%EA%BF%8D_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
