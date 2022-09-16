@@ -4,16 +4,32 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 21:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 17:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[DANCIN’ IN THE RAIN]]></title>
-            <link>https://poclanos.com/album/dancin-in-the-rain/</link>
-            <guid>https://poclanos.com/album/dancin-in-the-rain/</guid>
-            <pubDate>Thu, 15 Sep 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[BLUE ROOM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%8A%A4-%EC%88%98%EC%A0%95_BLUE-ROOM-DANCIN-IN-THE-RAIN-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[기억의 조각들]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ec%9d%98-%ec%a1%b0%ea%b0%81%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ec%9d%98-%ec%a1%b0%ea%b0%81%eb%93%a4/</guid>
+            <pubDate>Fri, 16 Sep 2022 17:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[손혜은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_-%EC%86%90%ED%98%9C%EC%9D%80-%EA%B8%B0%EC%96%B5%EC%9D%98-%EC%A1%B0%EA%B0%81%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선잠]]></title>
+            <link>https://poclanos.com/album/%ec%84%a0%ec%9e%a0/</link>
+            <guid>https://poclanos.com/album/%ec%84%a0%ec%9e%a0/</guid>
+            <pubDate>Fri, 16 Sep 2022 17:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[코가손(Cogason)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_%EC%BD%94%EA%B0%80%EC%86%90-%EC%84%A0%EC%9E%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Take the boat (feat. 초승)]]></title>
+            <link>https://poclanos.com/album/take-the-boat-feat-%ec%b4%88%ec%8a%b9/</link>
+            <guid>https://poclanos.com/album/take-the-boat-feat-%ec%b4%88%ec%8a%b9/</guid>
+            <pubDate>Fri, 16 Sep 2022 17:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[헤르쯔 아날로그 (Herz Analog)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_%ED%97%A4%EB%A5%B4%EC%AF%94-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8-Herz-Analog-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[낙서]]></title>
@@ -22,6 +38,14 @@
             <pubDate>Thu, 15 Sep 2022 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_Oneianmillion-%EA%B0%95%EC%9D%B4%EC%95%88-%EB%82%99%EC%84%9C-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DANCIN’ IN THE RAIN]]></title>
+            <link>https://poclanos.com/album/dancin-in-the-rain/</link>
+            <guid>https://poclanos.com/album/dancin-in-the-rain/</guid>
+            <pubDate>Thu, 15 Sep 2022 09:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[BLUE ROOM]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%8A%A4-%EC%88%98%EC%A0%95_BLUE-ROOM-DANCIN-IN-THE-RAIN-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알고 있어]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 08 Sep 2022 18:14:41 GMT</pubDate>
             <content:encoded><![CDATA[박지우]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_%EB%B0%95%EC%A7%80%EC%9A%B0-US-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GOODNESS OF FIT]]></title>
-            <link>https://poclanos.com/album/5-3/</link>
-            <guid>https://poclanos.com/album/5-3/</guid>
-            <pubDate>Thu, 08 Sep 2022 06:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[샘미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-%EC%83%98%EB%AF%B8-GOODNESS-OF-FIT-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서교동의 밤]]></title>
-            <link>https://poclanos.com/album/%ec%84%9c%ea%b5%90%eb%8f%99%ec%9d%98-%eb%b0%a4/</link>
-            <guid>https://poclanos.com/album/%ec%84%9c%ea%b5%90%eb%8f%99%ec%9d%98-%eb%b0%a4/</guid>
-            <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[우주히피]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%9C%EA%B5%90%EB%8F%99%EC%9D%98-%EB%B0%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Make a Move]]></title>
-            <link>https://poclanos.com/album/make-a-move-feat-woshi-suyo/</link>
-            <guid>https://poclanos.com/album/make-a-move-feat-woshi-suyo/</guid>
-            <pubDate>Wed, 07 Sep 2022 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[SOQI]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/3.-SOQI-Make-a-Move-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
