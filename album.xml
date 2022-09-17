@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 17:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 23:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DAY 2 NIGHT]]></title>
+            <link>https://poclanos.com/album/dirty-white-vans/</link>
+            <guid>https://poclanos.com/album/dirty-white-vans/</guid>
+            <pubDate>Sat, 17 Sep 2022 23:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[DRENCH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/DAY-2-NIGHT_ARTWORK-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Here to stay]]></title>
+            <link>https://poclanos.com/album/clue/</link>
+            <guid>https://poclanos.com/album/clue/</guid>
+            <pubDate>Sat, 17 Sep 2022 23:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[TRPP]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/5.-%EC%BB%A4%EB%B2%84-TRPP-Here-to-stay-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기억의 조각들]]></title>
             <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ec%9d%98-%ec%a1%b0%ea%b0%81%eb%93%a4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 09 Sep 2022 07:19:48 GMT</pubDate>
             <content:encoded><![CDATA[WOOZE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/wooze-hp-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[a man and a woman]]></title>
-            <link>https://poclanos.com/album/a-man-and-a-woman-feat-gamma/</link>
-            <guid>https://poclanos.com/album/a-man-and-a-woman-feat-gamma/</guid>
-            <pubDate>Thu, 08 Sep 2022 18:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[unofficialboyy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_unofficialboyy-a-man-and-a-woman-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US]]></title>
-            <link>https://poclanos.com/album/us/</link>
-            <guid>https://poclanos.com/album/us/</guid>
-            <pubDate>Thu, 08 Sep 2022 18:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[박지우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A4%84%EC%9E%84_%EB%B0%95%EC%A7%80%EC%9A%B0-US-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
