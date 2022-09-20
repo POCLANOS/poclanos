@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 15:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I think you’re cool]]></title>
+            <link>https://poclanos.com/album/i-think-youre-cool/</link>
+            <guid>https://poclanos.com/album/i-think-youre-cool/</guid>
+            <pubDate>Tue, 20 Sep 2022 06:01:13 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_About-Paul-I-think-youre-cool-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Sing My Blues Away]]></title>
+            <link>https://poclanos.com/album/i-sing-my-blues-away/</link>
+            <guid>https://poclanos.com/album/i-sing-my-blues-away/</guid>
+            <pubDate>Tue, 20 Sep 2022 06:01:13 GMT</pubDate>
+            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88_%EC%86%8C%EC%84%9C-Soseo-I-Sing-My-Blues-Away-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burden]]></title>
+            <link>https://poclanos.com/album/burden/</link>
+            <guid>https://poclanos.com/album/burden/</guid>
+            <pubDate>Tue, 20 Sep 2022 06:01:13 GMT</pubDate>
+            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_Suwon-Yim-%EC%9E%84%EC%88%98%EC%9B%90-Burden-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재개발 블루스 Part 1]]></title>
             <link>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4-part-1/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
             <content:encoded><![CDATA[미루송]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%B3%80%EA%B2%BD_%EB%AF%B8%EB%A3%A8%EC%86%A1-Ride-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kind man]]></title>
-            <link>https://poclanos.com/album/kind-man/</link>
-            <guid>https://poclanos.com/album/kind-man/</guid>
-            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[jeje]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%A0%9C%EC%A0%9C-%EC%B9%B4%EC%9D%B8%EB%93%9C%EB%A7%A8-%ED%99%88%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Denial]]></title>
-            <link>https://poclanos.com/album/denial/</link>
-            <guid>https://poclanos.com/album/denial/</guid>
-            <pubDate>Tue, 13 Sep 2022 18:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%88%98%EC%A0%95_%EC%9F%88%EB%93%9C-Jade-Denial-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[pepper]]></title>
-            <link>https://poclanos.com/album/pepper/</link>
-            <guid>https://poclanos.com/album/pepper/</guid>
-            <pubDate>Sun, 11 Sep 2022 18:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/09/hp-ofc-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
