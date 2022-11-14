@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://poclanos.com/category/featured/</id>
-    <title>POCLANOS ─ Featured</title>
-    <updated>2022-11-14T20:16:37.038Z</updated>
+    <id>https://m.post.naver.com/my.naver?memberNo=24373938</id>
+    <title>네이버 포스트 ─ 포크라노스</title>
+    <updated>2022-11-14T21:15:34.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://poclanos.com/drmvsn/wp-content/uploads/2020/08/Android-Chrome-home_196x196-96x96.png</icon>
+    <icon>https://m.post.naver.com/favicon.ico</icon>
 </feed>

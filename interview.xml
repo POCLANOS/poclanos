@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://poclanos.com/category/interview/</id>
-    <title>POCLANOS ─ Interview</title>
-    <updated>2022-11-14T20:16:37.038Z</updated>
+    <id>https://poclanos.com/category/featured/</id>
+    <title>POCLANOS ─ Featured</title>
+    <updated>2022-11-14T21:15:34.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://poclanos.com/drmvsn/wp-content/uploads/2020/08/Android-Chrome-home_196x196-96x96.png</icon>
 </feed>
