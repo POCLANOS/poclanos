@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://poclanos.com/album-list/</id>
-    <title>POCLANOS ─ Album</title>
-    <updated>2022-11-16T16:21:46.762Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://poclanos.com/drmvsn/wp-content/uploads/2020/08/Android-Chrome-home_196x196-96x96.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>POCLANOS ─ Album</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:34:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cozic Therapy]]></title>
+            <link>https://poclanos.com/album/cozic-therapy/</link>
+            <guid>https://poclanos.com/album/cozic-therapy/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%BD%94%EB%84%9B-Conut-Cozic-Therapy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT’S 3 TIME, 2 GO CRAZY]]></title>
+            <link>https://poclanos.com/album/its-3-time-2-go-crazy/</link>
+            <guid>https://poclanos.com/album/its-3-time-2-go-crazy/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[372]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-372-ITS-3-TIME-2-GO-CRAZY-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재개발 블루스 Part 2]]></title>
+            <link>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4-part-2/</link>
+            <guid>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4-part-2/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-RAINBOW99-%EC%9E%AC%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A3%A8%EC%8A%A4-Part-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기분 세탁]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%eb%b6%84-%ec%84%b8%ed%83%81/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%eb%b6%84-%ec%84%b8%ed%83%81/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[Q the trumpet]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-Q-the-trumpet-%EA%B8%B0%EB%B6%84%EC%84%B8%ED%83%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고칠 수 없는 것]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ec%b9%a0-%ec%88%98-%ec%97%86%eb%8a%94-%ea%b2%83/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ec%b9%a0-%ec%88%98-%ec%97%86%eb%8a%94-%ea%b2%83/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[디에고 (diego)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%94%94%EC%97%90%EA%B3%A0-diego-%EA%B3%A0%EC%B9%A0-%EC%88%98-%EC%97%86%EB%8A%94-%EA%B2%83-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday Beach Club]]></title>
+            <link>https://poclanos.com/album/tuesday-beach-club-2/</link>
+            <guid>https://poclanos.com/album/tuesday-beach-club-2/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-Tuesday-Beach-Club-Tuesday-Beach-Club-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[be overwhelming]]></title>
+            <link>https://poclanos.com/album/be-overwhelming/</link>
+            <guid>https://poclanos.com/album/be-overwhelming/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[류시은 (SIEUN RYU)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%A5%98%EC%8B%9C%EC%9D%80-SIEUN-RYU-be-overwhelming-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부유(Vooyou)/Salty]]></title>
+            <link>https://poclanos.com/album/%eb%b6%80%ec%9c%a0vooyou-salty/</link>
+            <guid>https://poclanos.com/album/%eb%b6%80%ec%9c%a0vooyou-salty/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[BROSTONE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-BROSTONE-%EB%B6%80%EC%9C%A0Vooyou_Salty-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온종일 우리를 생각해 줘]]></title>
+            <link>https://poclanos.com/album/%ec%98%a8%ec%a2%85%ec%9d%bc-%ec%9a%b0%eb%a6%ac%eb%a5%bc-%ec%83%9d%ea%b0%81%ed%95%b4-%ec%a4%98/</link>
+            <guid>https://poclanos.com/album/%ec%98%a8%ec%a2%85%ec%9d%bc-%ec%9a%b0%eb%a6%ac%eb%a5%bc-%ec%83%9d%ea%b0%81%ed%95%b4-%ec%a4%98/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[HIZY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-HIZY-%EC%98%A8%EC%A2%85%EC%9D%BC-%EC%9A%B0%EB%A6%AC%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%B4-%EC%A4%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OVERHAUL 2 JIJI]]></title>
+            <link>https://poclanos.com/album/overhaul-2-jiji/</link>
+            <guid>https://poclanos.com/album/overhaul-2-jiji/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-PERCNT-OVERHAUL-2-JIJI-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희망서]]></title>
+            <link>https://poclanos.com/album/%ed%9d%ac%eb%a7%9d%ec%84%9c/</link>
+            <guid>https://poclanos.com/album/%ed%9d%ac%eb%a7%9d%ec%84%9c/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[신인류]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%8B%A0%EC%9D%B8%EB%A5%98-%ED%9D%AC%EB%A7%9D%EC%84%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이름들]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4%eb%a6%84%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4%eb%a6%84%eb%93%a4/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[요조]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9A%94%EC%A1%B0-%EC%9D%B4%EB%A6%84%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[carefree]]></title>
+            <link>https://poclanos.com/album/carefree/</link>
+            <guid>https://poclanos.com/album/carefree/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-orange-flavored-cigarettes-carefree-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발현 (發顯/apparition)]]></title>
+            <link>https://poclanos.com/album/%eb%b0%9c%ed%98%84-%e7%99%bc%e9%a1%af-apparition/</link>
+            <guid>https://poclanos.com/album/%eb%b0%9c%ed%98%84-%e7%99%bc%e9%a1%af-apparition/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[JAMBINAI (잠비나이)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9E%A0%EB%B9%84%EB%82%98%EC%9D%B4-JAMBINAI-%EB%B0%9C%ED%98%84-%E7%99%BC%E9%A1%AFapparition-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[lines between the doorframe]]></title>
+            <link>https://poclanos.com/album/lines-between-the-doorframe/</link>
+            <guid>https://poclanos.com/album/lines-between-the-doorframe/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[Asian Glow (아시안 글로우)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/10/%EC%82%AC%EC%9D%B4%EC%A6%88-Asian-Glow-lines-between-the-doorframe-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내가 바라보는 세상]]></title>
+            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%ec%83%81/</link>
+            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%ec%83%81/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[주하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A3%BC%ED%95%98%EB%8A%98-%EB%82%B4%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EC%84%B8%EC%83%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAVENDER SKY]]></title>
+            <link>https://poclanos.com/album/51300/</link>
+            <guid>https://poclanos.com/album/51300/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[g1nger]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-g1nger-LAVENDER-SKY-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30 x 99 Pt.1]]></title>
+            <link>https://poclanos.com/album/30-x-99-pt-1/</link>
+            <guid>https://poclanos.com/album/30-x-99-pt-1/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[cwar]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%BF%A4%EB%94%94%ED%8C%90%EB%8B%A4-hp-1000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불면증 (Insomnia)]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%eb%a9%b4%ec%a6%9d-insomnia/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%eb%a9%b4%ec%a6%9d-insomnia/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-hp-cv-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Into U (Feat. Shammah)]]></title>
+            <link>https://poclanos.com/album/into-u-feat-shammah/</link>
+            <guid>https://poclanos.com/album/into-u-feat-shammah/</guid>
+            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/10/%EC%82%AC%EC%9D%B4%EC%A6%88-JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-Into-U-Feat.-Shammah-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
