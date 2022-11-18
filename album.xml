@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 01:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4 Live]]></title>
+            <link>https://poclanos.com/album/4-live/</link>
+            <guid>https://poclanos.com/album/4-live/</guid>
+            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%ED%82%A4%EB%9D%BC%EB%9D%BC-4-Live-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84/</guid>
+            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[성인창]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%84%B1%EC%9D%B8%EC%B0%BD-%EC%82%AC%EB%9E%91%EC%9D%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[편지]]></title>
+            <link>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-4/</link>
+            <guid>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-4/</guid>
+            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/10/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9D%B4%EB%A5%B4%EB%8B%A4-irda-%ED%8E%B8%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈속의 사람]]></title>
+            <link>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%98-%ec%82%ac%eb%9e%8c/</link>
+            <guid>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%98-%ec%82%ac%eb%9e%8c/</guid>
+            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[류이수]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%A5%98%EC%9D%B4%EC%88%98-%EA%BF%88%EC%86%8D%EC%9D%98-%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Happy Trippy Creepy]]></title>
             <link>https://poclanos.com/album/happy-trippy-creepy/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
             <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-orange-flavored-cigarettes-carefree-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[발현 (發顯/apparition)]]></title>
-            <link>https://poclanos.com/album/%eb%b0%9c%ed%98%84-%e7%99%bc%e9%a1%af-apparition/</link>
-            <guid>https://poclanos.com/album/%eb%b0%9c%ed%98%84-%e7%99%bc%e9%a1%af-apparition/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[JAMBINAI (잠비나이)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9E%A0%EB%B9%84%EB%82%98%EC%9D%B4-JAMBINAI-%EB%B0%9C%ED%98%84-%E7%99%BC%E9%A1%AFapparition-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[lines between the doorframe]]></title>
-            <link>https://poclanos.com/album/lines-between-the-doorframe/</link>
-            <guid>https://poclanos.com/album/lines-between-the-doorframe/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[Asian Glow (아시안 글로우)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/10/%EC%82%AC%EC%9D%B4%EC%A6%88-Asian-Glow-lines-between-the-doorframe-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 바라보는 세상]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%ec%83%81/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%b0%94%eb%9d%bc%eb%b3%b4%eb%8a%94-%ec%84%b8%ec%83%81/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[주하늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%A3%BC%ED%95%98%EB%8A%98-%EB%82%B4%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EC%84%B8%EC%83%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LAVENDER SKY]]></title>
-            <link>https://poclanos.com/album/51300/</link>
-            <guid>https://poclanos.com/album/51300/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[g1nger]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-g1nger-LAVENDER-SKY-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
