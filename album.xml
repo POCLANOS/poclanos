@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 01:07:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 03:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먹구름]]></title>
+            <link>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84/</link>
+            <guid>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84/</guid>
+            <pubDate>Sun, 20 Nov 2022 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EB%A8%B9%EA%B5%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[24/7]]></title>
+            <link>https://poclanos.com/album/24-7/</link>
+            <guid>https://poclanos.com/album/24-7/</guid>
+            <pubDate>Sun, 20 Nov 2022 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[ON]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-ON-247-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[두 번째 양화대교]]></title>
             <link>https://poclanos.com/album/%eb%91%90-%eb%b2%88%ec%a7%b8-%ec%96%91%ed%99%94%eb%8c%80%ea%b5%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
             <content:encoded><![CDATA[HIZY]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-HIZY-%EC%98%A8%EC%A2%85%EC%9D%BC-%EC%9A%B0%EB%A6%AC%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%B4-%EC%A4%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OVERHAUL 2 JIJI]]></title>
-            <link>https://poclanos.com/album/overhaul-2-jiji/</link>
-            <guid>https://poclanos.com/album/overhaul-2-jiji/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-PERCNT-OVERHAUL-2-JIJI-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희망서]]></title>
-            <link>https://poclanos.com/album/%ed%9d%ac%eb%a7%9d%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ed%9d%ac%eb%a7%9d%ec%84%9c/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[신인류]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%8B%A0%EC%9D%B8%EB%A5%98-%ED%9D%AC%EB%A7%9D%EC%84%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
