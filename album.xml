@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 02:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 03:50:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soul Entelechy]]></title>
+            <link>https://poclanos.com/album/51395/</link>
+            <guid>https://poclanos.com/album/51395/</guid>
+            <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[Neo Soul Acid Jazz Collective]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-Neo-Soul-Acid-Jazz-Collective-Soul-Entelechy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PRINCESS]]></title>
+            <link>https://poclanos.com/album/princess/</link>
+            <guid>https://poclanos.com/album/princess/</guid>
+            <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[The Crane (鶴)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-The-Crane-%E9%B6%B4-PRINCESS-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daisy/Cobaea]]></title>
+            <link>https://poclanos.com/album/daisy-cobaea/</link>
+            <guid>https://poclanos.com/album/daisy-cobaea/</guid>
+            <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[Elevator pitch]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-Elevator-pitch-DaisyCobaea-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹구름]]></title>
             <link>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
             <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-Tuesday-Beach-Club-Tuesday-Beach-Club-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[be overwhelming]]></title>
-            <link>https://poclanos.com/album/be-overwhelming/</link>
-            <guid>https://poclanos.com/album/be-overwhelming/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[류시은 (SIEUN RYU)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%A5%98%EC%8B%9C%EC%9D%80-SIEUN-RYU-be-overwhelming-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부유(Vooyou)/Salty]]></title>
-            <link>https://poclanos.com/album/%eb%b6%80%ec%9c%a0vooyou-salty/</link>
-            <guid>https://poclanos.com/album/%eb%b6%80%ec%9c%a0vooyou-salty/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[BROSTONE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-BROSTONE-%EB%B6%80%EC%9C%A0Vooyou_Salty-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온종일 우리를 생각해 줘]]></title>
-            <link>https://poclanos.com/album/%ec%98%a8%ec%a2%85%ec%9d%bc-%ec%9a%b0%eb%a6%ac%eb%a5%bc-%ec%83%9d%ea%b0%81%ed%95%b4-%ec%a4%98/</link>
-            <guid>https://poclanos.com/album/%ec%98%a8%ec%a2%85%ec%9d%bc-%ec%9a%b0%eb%a6%ac%eb%a5%bc-%ec%83%9d%ea%b0%81%ed%95%b4-%ec%a4%98/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[HIZY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-HIZY-%EC%98%A8%EC%A2%85%EC%9D%BC-%EC%9A%B0%EB%A6%AC%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%B4-%EC%A4%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
