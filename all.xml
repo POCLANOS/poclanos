@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 02:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:33:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파장 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%8c%8c%ec%9e%a5/</link>
+            <guid>https://poclanos.com/album/%ed%8c%8c%ec%9e%a5/</guid>
+            <pubDate>Wed, 23 Nov 2022 03:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[The ASIANIC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-The-ASIANIC-%ED%8C%8C%EC%9E%A5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깊은 밤하늘의 아름다운 별이 되어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%ed%95%98%eb%8a%98%ec%9d%98-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9a%b4-%eb%b3%84%ec%9d%b4-%eb%90%98%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%ed%95%98%eb%8a%98%ec%9d%98-%ec%95%84%eb%a6%84%eb%8b%a4%ec%9a%b4-%eb%b3%84%ec%9d%b4-%eb%90%98%ec%96%b4/</guid>
+            <pubDate>Wed, 23 Nov 2022 03:30:10 GMT</pubDate>
+            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-Haze-Moon-%EA%B9%8A%EC%9D%80-%EB%B0%A4%ED%95%98%EB%8A%98%EC%9D%98-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4-%EB%B3%84%EC%9D%B4-%EB%90%98%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Get You Off (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/get-you-off/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
             <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%BD%94%EB%84%9B-Conut-Cozic-Therapy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT’S 3 TIME, 2 GO CRAZY (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/its-3-time-2-go-crazy/</link>
-            <guid>https://poclanos.com/album/its-3-time-2-go-crazy/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[372]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-372-ITS-3-TIME-2-GO-CRAZY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재개발 블루스 Part 2 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4-part-2/</link>
-            <guid>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4-part-2/</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-RAINBOW99-%EC%9E%AC%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A3%A8%EC%8A%A4-Part-2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
