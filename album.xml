@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구름곶 여행 : Journey to Utopia]]></title>
+            <link>https://poclanos.com/album/%ea%b5%ac%eb%a6%84%ea%b3%b6-%ec%97%ac%ed%96%89-journey-to-utopia/</link>
+            <guid>https://poclanos.com/album/%ea%b5%ac%eb%a6%84%ea%b3%b6-%ec%97%ac%ed%96%89-journey-to-utopia/</guid>
+            <pubDate>Thu, 24 Nov 2022 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[송소희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%86%A1%EC%86%8C%ED%9D%AC-%EA%B5%AC%EB%A6%84%EA%B3%B6-%EC%97%AC%ED%96%89_Journey-to-Utopia-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도로명주소]]></title>
             <link>https://poclanos.com/album/%eb%8f%84%eb%a1%9c%eb%aa%85%ec%a3%bc%ec%86%8c-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
             <content:encoded><![CDATA[류이수]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%A5%98%EC%9D%B4%EC%88%98-%EA%BF%88%EC%86%8D%EC%9D%98-%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편지]]></title>
-            <link>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-4/</link>
-            <guid>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-4/</guid>
-            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/10/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9D%B4%EB%A5%B4%EB%8B%A4-irda-%ED%8E%B8%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
