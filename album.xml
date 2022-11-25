@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 02:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 03:35:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Detroit EP]]></title>
+            <link>https://poclanos.com/album/the-detroit-ep/</link>
+            <guid>https://poclanos.com/album/the-detroit-ep/</guid>
+            <pubDate>Fri, 25 Nov 2022 03:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[Rob Bass]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-Rob-Bass-The-Detroit-EP-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼 곳 – 드라마 ‘오늘은 좀 매울지도 몰라’ OST]]></title>
+            <link>https://poclanos.com/album/%eb%a8%bc-%ea%b3%b3-%eb%93%9c%eb%9d%bc%eb%a7%88-%ec%98%a4%eb%8a%98%ec%9d%80-%ec%a2%80-%eb%a7%a4%ec%9a%b8%ec%a7%80%eb%8f%84-%eb%aa%b0%eb%9d%bc-ost/</link>
+            <guid>https://poclanos.com/album/%eb%a8%bc-%ea%b3%b3-%eb%93%9c%eb%9d%bc%eb%a7%88-%ec%98%a4%eb%8a%98%ec%9d%80-%ec%a2%80-%eb%a7%a4%ec%9a%b8%ec%a7%80%eb%8f%84-%eb%aa%b0%eb%9d%bc-ost/</guid>
+            <pubDate>Fri, 25 Nov 2022 03:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[정밀아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%80%EC%95%84-%EB%A8%BC-%EA%B3%B3%EC%99%93%EC%B1%A0-%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90-%EC%98%A4%EB%8A%98%EC%9D%80-%EC%A2%80-%EB%A7%A4%EC%9A%B8%EC%A7%80%EB%8F%84-%EB%AA%B0%EB%9D%BCOST-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[how do you feel]]></title>
+            <link>https://poclanos.com/album/how-do-you-feel/</link>
+            <guid>https://poclanos.com/album/how-do-you-feel/</guid>
+            <pubDate>Fri, 25 Nov 2022 03:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-how-do-you-feel-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구름곶 여행 : Journey to Utopia]]></title>
             <link>https://poclanos.com/album/%ea%b5%ac%eb%a6%84%ea%b3%b6-%ec%97%ac%ed%96%89-journey-to-utopia/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 19 Nov 2022 03:37:24 GMT</pubDate>
             <content:encoded><![CDATA[곽태풍]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EA%B3%BD%ED%83%9C%ED%92%8D-%EB%82%98%EB%8A%94%EC%95%BC-%EB%9D%BD%EC%8A%A4%ED%83%80--600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4 Live]]></title>
-            <link>https://poclanos.com/album/4-live/</link>
-            <guid>https://poclanos.com/album/4-live/</guid>
-            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%ED%82%A4%EB%9D%BC%EB%9D%BC-4-Live-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84/</guid>
-            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[성인창]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%84%B1%EC%9D%B8%EC%B0%BD-%EC%82%AC%EB%9E%91%EC%9D%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈속의 사람]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%98-%ec%82%ac%eb%9e%8c/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%98-%ec%82%ac%eb%9e%8c/</guid>
-            <pubDate>Fri, 18 Nov 2022 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[류이수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EB%A5%98%EC%9D%B4%EC%88%98-%EA%BF%88%EC%86%8D%EC%9D%98-%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
