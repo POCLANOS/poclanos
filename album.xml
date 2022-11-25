@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 08:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THIS IS NOT AN ALBUM (pt.1)]]></title>
+            <link>https://poclanos.com/album/this-is-not-an-album-pt-1/</link>
+            <guid>https://poclanos.com/album/this-is-not-an-album-pt-1/</guid>
+            <pubDate>Fri, 25 Nov 2022 09:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[P-TYPE (피타입)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-P-TYPE-THIS-IS-NOT-AN-ALBUM-pt.1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Detroit EP]]></title>
             <link>https://poclanos.com/album/the-detroit-ep/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Nov 2022 03:37:24 GMT</pubDate>
             <content:encoded><![CDATA[유귀]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%9C%A0%EA%B7%80-%EB%91%90-%EB%B2%88%EC%A7%B8-%EC%96%91%ED%99%94%EB%8C%80%EA%B5%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는야 락스타 !]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94%ec%95%bc-%eb%9d%bd%ec%8a%a4%ed%83%80/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94%ec%95%bc-%eb%9d%bd%ec%8a%a4%ed%83%80/</guid>
-            <pubDate>Sat, 19 Nov 2022 03:37:24 GMT</pubDate>
-            <content:encoded><![CDATA[곽태풍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EA%B3%BD%ED%83%9C%ED%92%8D-%EB%82%98%EB%8A%94%EC%95%BC-%EB%9D%BD%EC%8A%A4%ED%83%80--600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
