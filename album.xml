@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 08:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 09:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퇴근 할 때]]></title>
+            <link>https://poclanos.com/album/%ed%87%b4%ea%b7%bc-%ed%95%a0-%eb%95%8c/</link>
+            <guid>https://poclanos.com/album/%ed%87%b4%ea%b7%bc-%ed%95%a0-%eb%95%8c/</guid>
+            <pubDate>Mon, 28 Nov 2022 09:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-GongGongGoo009-%ED%87%B4%EA%B7%BC%ED%95%A0-%EB%95%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Here we are]]></title>
             <link>https://poclanos.com/album/here-we-are/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 22 Nov 2022 03:36:48 GMT</pubDate>
             <content:encoded><![CDATA[코가손(Cogason)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%BD%94%EA%B0%80%EC%86%90-%EB%88%84%EA%B5%AC%EC%9D%98-%EA%B2%83%EB%8F%84-%EC%95%84%EB%8B%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soul Entelechy]]></title>
-            <link>https://poclanos.com/album/51395/</link>
-            <guid>https://poclanos.com/album/51395/</guid>
-            <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[Neo Soul Acid Jazz Collective]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-Neo-Soul-Acid-Jazz-Collective-Soul-Entelechy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
