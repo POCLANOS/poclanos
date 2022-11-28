@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 02:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 03:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Here we are]]></title>
+            <link>https://poclanos.com/album/here-we-are/</link>
+            <guid>https://poclanos.com/album/here-we-are/</guid>
+            <pubDate>Mon, 28 Nov 2022 03:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[BROSTONE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-BROSTONE-Here-we-are-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다 잊은 말]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4-%ec%9e%8a%ec%9d%80-%eb%a7%90/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4-%ec%9e%8a%ec%9d%80-%eb%a7%90/</guid>
+            <pubDate>Mon, 28 Nov 2022 03:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EB%8B%A4-%EC%9E%8A%EC%9D%80-%EB%A7%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Show me your love]]></title>
             <link>https://poclanos.com/album/show-me-your-love/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
             <content:encoded><![CDATA[Neo Soul Acid Jazz Collective]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-Neo-Soul-Acid-Jazz-Collective-Soul-Entelechy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PRINCESS]]></title>
-            <link>https://poclanos.com/album/princess/</link>
-            <guid>https://poclanos.com/album/princess/</guid>
-            <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[The Crane (鶴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-The-Crane-%E9%B6%B4-PRINCESS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daisy/Cobaea]]></title>
-            <link>https://poclanos.com/album/daisy-cobaea/</link>
-            <guid>https://poclanos.com/album/daisy-cobaea/</guid>
-            <pubDate>Mon, 21 Nov 2022 03:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[Elevator pitch]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-Elevator-pitch-DaisyCobaea-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
