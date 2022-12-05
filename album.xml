@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 09:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나너도기]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%84%88%eb%8f%84%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%84%88%eb%8f%84%ea%b8%b0/</guid>
+            <pubDate>Mon, 05 Dec 2022 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-bni-%EB%B9%84%EB%8B%88-%EB%82%98%EB%84%88%EB%8F%84%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spring came little early]]></title>
             <link>https://poclanos.com/album/spring-came-little-early/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 30 Nov 2022 03:19:45 GMT</pubDate>
             <content:encoded><![CDATA[스웨터 (Sweater)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%8A%A4%EC%9B%A8%ED%84%B0-Sleepwalk-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[there.]]></title>
-            <link>https://poclanos.com/album/there/</link>
-            <guid>https://poclanos.com/album/there/</guid>
-            <pubDate>Tue, 29 Nov 2022 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[HNGIN 행인]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-HNGIN-%ED%96%89%EC%9D%B8-there_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
