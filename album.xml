@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 08:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 09:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tonight (Feat. Summer Soul)]]></title>
+            <link>https://poclanos.com/album/tonight-feat-summer-soul/</link>
+            <guid>https://poclanos.com/album/tonight-feat-summer-soul/</guid>
+            <pubDate>Wed, 07 Dec 2022 09:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-Tonight-Feat.-Summer-Soul-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STAR WARS]]></title>
             <link>https://poclanos.com/album/star-wars/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Dec 2022 03:34:35 GMT</pubDate>
             <content:encoded><![CDATA[Jaw (죠)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-Mingginyu-%EB%B0%8D%EA%B8%B0%EB%89%B4-Jaw-%EC%A3%A0-%EC%9A%94%EC%A6%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Memorial of Your Childhood (당신의 유년기억에 대하여)]]></title>
-            <link>https://poclanos.com/album/memorial-of-your-childhood-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%9c%a0%eb%85%84%ea%b8%b0%ec%96%b5%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac/</link>
-            <guid>https://poclanos.com/album/memorial-of-your-childhood-%eb%8b%b9%ec%8b%a0%ec%9d%98-%ec%9c%a0%eb%85%84%ea%b8%b0%ec%96%b5%ec%97%90-%eb%8c%80%ed%95%98%ec%97%ac/</guid>
-            <pubDate>Thu, 01 Dec 2022 03:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[ART PROJECT]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-ART-PROJECT-Memorial-of-Your-Childhood-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9C%A0%EB%85%84%EA%B8%B0%EC%96%B5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
