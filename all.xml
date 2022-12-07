@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STAR WARS (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/star-wars/</link>
+            <guid>https://poclanos.com/album/star-wars/</guid>
+            <pubDate>Wed, 07 Dec 2022 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[D'allant]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-STAR-WARS_COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fade Away (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fade-away-2/</link>
+            <guid>https://poclanos.com/album/fade-away-2/</guid>
+            <pubDate>Wed, 07 Dec 2022 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[BLVN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-BLVN-Fade-Away-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clay Soldiers (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/clay-soldiers/</link>
+            <guid>https://poclanos.com/album/clay-soldiers/</guid>
+            <pubDate>Wed, 07 Dec 2022 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[블루터틀랜드]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%B8%94%EB%A3%A8%ED%84%B0%ED%8B%80%EB%9E%9C%EB%93%9C-Clay-Soldiers-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Love Ain’t Going Anywhere (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/my-love-aint-going-anywhere/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 01 Dec 2022 03:34:35 GMT</pubDate>
             <content:encoded><![CDATA[ART PROJECT]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-ART-PROJECT-Memorial-of-Your-Childhood-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%9C%A0%EB%85%84%EA%B8%B0%EC%96%B5%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소한 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%ed%95%9c/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%ed%95%9c/</guid>
-            <pubDate>Thu, 01 Dec 2022 03:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%98%88%EC%9C%84-yewee-%EC%86%8C%ED%95%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Misty Sphere (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/misty-sphere/</link>
-            <guid>https://poclanos.com/album/misty-sphere/</guid>
-            <pubDate>Thu, 01 Dec 2022 03:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[Band Bower]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-Band-Bower-Misty-Sphere-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황홀한 실종 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%a9%ed%99%80%ed%95%9c-%ec%8b%a4%ec%a2%85/</link>
-            <guid>https://poclanos.com/album/%ed%99%a9%ed%99%80%ed%95%9c-%ec%8b%a4%ec%a2%85/</guid>
-            <pubDate>Wed, 30 Nov 2022 09:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88-cacophony-%ED%99%A9%ED%99%80%ED%95%9C-%EC%8B%A4%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
