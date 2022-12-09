@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구애]]></title>
+            <link>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</link>
+            <guid>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</guid>
+            <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%B5%AC%EC%95%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panema]]></title>
+            <link>https://poclanos.com/album/panema/</link>
+            <guid>https://poclanos.com/album/panema/</guid>
+            <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[Panema]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Panema-Panema-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 곁에]]></title>
             <link>https://poclanos.com/album/%eb%82%b4-%ea%b3%81%ec%97%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 03 Dec 2022 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[unofficialboyy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/unofficial-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[途中]]></title>
-            <link>https://poclanos.com/album/%e9%80%94%e4%b8%ad/</link>
-            <guid>https://poclanos.com/album/%e9%80%94%e4%b8%ad/</guid>
-            <pubDate>Sat, 03 Dec 2022 03:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[I Mean Us]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-I-Mean-Us-UQiYO-%E9%80%94%E4%B8%AD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOW NOW]]></title>
-            <link>https://poclanos.com/album/now-now/</link>
-            <guid>https://poclanos.com/album/now-now/</guid>
-            <pubDate>Fri, 02 Dec 2022 09:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[민수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%88%98-NOW-NOW-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

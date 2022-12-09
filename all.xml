@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구애 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</link>
+            <guid>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</guid>
+            <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%B5%AC%EC%95%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Panema (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/panema/</link>
+            <guid>https://poclanos.com/album/panema/</guid>
+            <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[Panema]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Panema-Panema-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 곁에 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%b4-%ea%b3%81%ec%97%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 03 Dec 2022 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[unofficialboyy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/unofficial-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[途中 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%e9%80%94%e4%b8%ad/</link>
-            <guid>https://poclanos.com/album/%e9%80%94%e4%b8%ad/</guid>
-            <pubDate>Sat, 03 Dec 2022 03:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[I Mean Us]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-I-Mean-Us-UQiYO-%E9%80%94%E4%B8%AD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NOW NOW (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/now-now/</link>
-            <guid>https://poclanos.com/album/now-now/</guid>
-            <pubDate>Fri, 02 Dec 2022 09:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[민수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%88%98-NOW-NOW-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -3304,7 +3304,7 @@ Edit | 월로비</p>
 <p>&nbsp;</p>
 <p>싱글 &lt;closetclosetcloset&gt;과 함께 등장한 허캐의 모습에서 어딘가 익숙함을 느꼈다면 제대로 본 것이 맞다. ‘허캐’는 박문치 유니버스의 든든한 보컬리스트이자 외계인 시스터즈 중 한 명인 ‘루루’의 새로운 활동명이다. 그간의 개성 있는 이미지가 강하게 각인되어있었을 법도 한데, 이런 걱정이 무색할 만큼 본인만의 색깔을 듬뿍 담아 완성된 이번 싱글은 뭉근하면서도 허스키한 허캐의 보컬톤을 매력적으로 녹여내는 데 성공했다. &lt;closetclosetcloset&gt;은 그러한 보컬톤과 대비를 이루는 청량하고 상쾌한 분위기 사이의 균형이 인상적인 곡이다. 그래서일까, 짐으로 느껴질 수 있는 수많은 미련조차 소중히 간직하려는 메시지는 머뭇거림과 새로운 다짐 사이의 미묘한 감정을 절묘하게 담아낸다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] 루루 (RuRu) - closetclosetcloset" src="https://www.youtube.com/embed/ZQaATQuhF9I?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ZQaATQuhF9I" data-gtm-yt-inspected-12796466_15="true" data-gtm-yt-inspected-17="true" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] hukke (허캐) - closetclosetcloset" src="https://www.youtube.com/embed/ZQaATQuhF9I?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ZQaATQuhF9I" data-gtm-yt-inspected-12796466_15="true" data-gtm-yt-inspected-17="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <hr>
 <p>&nbsp;</p>
