@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 02:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 03:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삶과 잠과 언니와 나]]></title>
+            <link>https://poclanos.com/album/%ec%82%b6%ea%b3%bc-%ec%9e%a0%ea%b3%bc-%ec%96%b8%eb%8b%88%ec%99%80-%eb%82%98/</link>
+            <guid>https://poclanos.com/album/%ec%82%b6%ea%b3%bc-%ec%9e%a0%ea%b3%bc-%ec%96%b8%eb%8b%88%ec%99%80-%eb%82%98/</guid>
+            <pubDate>Sat, 10 Dec 2022 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[이랑]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%9E%91-%EC%82%B6%EA%B3%BC-%EC%9E%A0%EA%B3%BC-%EC%96%B8%EB%8B%88%EC%99%80-%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나쁜 꿈]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%ec%81%9c-%ea%bf%88/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%ec%81%9c-%ea%bf%88/</guid>
+            <pubDate>Sat, 10 Dec 2022 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B2%B8-GYE0M-%EB%82%98%EC%81%9C-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구애]]></title>
             <link>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 03:11:32 GMT</pubDate>
             <content:encoded><![CDATA[보이어]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4-Summer-Dawn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슬픈 꿈]]></title>
-            <link>https://poclanos.com/album/%ec%8a%ac%ed%94%88-%ea%bf%88/</link>
-            <guid>https://poclanos.com/album/%ec%8a%ac%ed%94%88-%ea%bf%88/</guid>
-            <pubDate>Sun, 04 Dec 2022 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[이예린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-%EC%8A%AC%ED%94%88-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이 비트 이용권 NOW (feat. BE’O)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%a0%88%ec%9d%b4-%eb%b9%84%ed%8a%b8-%ec%9d%b4%ec%9a%a9%ea%b6%8c-now-feat-beo/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%a0%88%ec%9d%b4-%eb%b9%84%ed%8a%b8-%ec%9d%b4%ec%9a%a9%ea%b6%8c-now-feat-beo/</guid>
-            <pubDate>Sat, 03 Dec 2022 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[unofficialboyy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/unofficial-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
