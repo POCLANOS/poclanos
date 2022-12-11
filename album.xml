@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 02:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 03:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JKC Exhibition : Four Seasons]]></title>
+            <link>https://poclanos.com/album/jkc-exhibition-four-seasons/</link>
+            <guid>https://poclanos.com/album/jkc-exhibition-four-seasons/</guid>
+            <pubDate>Sun, 11 Dec 2022 03:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[잭킹콩(Jackingcong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9E%AD%ED%82%B9%EC%BD%A9JACKINGCONG-JKC-Exhibition_Four-Seasons-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삶과 잠과 언니와 나]]></title>
             <link>https://poclanos.com/album/%ec%82%b6%ea%b3%bc-%ec%9e%a0%ea%b3%bc-%ec%96%b8%eb%8b%88%ec%99%80-%eb%82%98/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 03:11:32 GMT</pubDate>
             <content:encoded><![CDATA[홍비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%ED%99%8D%EB%B9%84-%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%8B%9C%EC%A0%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Dawn]]></title>
-            <link>https://poclanos.com/album/summer-dawn/</link>
-            <guid>https://poclanos.com/album/summer-dawn/</guid>
-            <pubDate>Mon, 05 Dec 2022 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[보이어]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4-Summer-Dawn-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
