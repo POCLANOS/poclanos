@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 08:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 09:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How I Fall in Love]]></title>
+            <link>https://poclanos.com/album/how-i-fall-in-love/</link>
+            <guid>https://poclanos.com/album/how-i-fall-in-love/</guid>
+            <pubDate>Mon, 12 Dec 2022 09:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9F%88%EB%93%9C-Jade-How-I-Fall-in-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Midnight In Seoul]]></title>
             <link>https://poclanos.com/album/midnight-in-seoul/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 06 Dec 2022 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[행성]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-Some-time-s-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나너도기]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%84%88%eb%8f%84%ea%b8%b0/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%84%88%eb%8f%84%ea%b8%b0/</guid>
-            <pubDate>Mon, 05 Dec 2022 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-bni-%EB%B9%84%EB%8B%88-%EB%82%98%EB%84%88%EB%8F%84%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
