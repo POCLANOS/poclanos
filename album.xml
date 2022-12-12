@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 02:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 03:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Midnight In Seoul]]></title>
+            <link>https://poclanos.com/album/midnight-in-seoul/</link>
+            <guid>https://poclanos.com/album/midnight-in-seoul/</guid>
+            <pubDate>Mon, 12 Dec 2022 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-01SYNTH-Midnight-In-Seoul-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vowels]]></title>
+            <link>https://poclanos.com/album/vowels/</link>
+            <guid>https://poclanos.com/album/vowels/</guid>
+            <pubDate>Mon, 12 Dec 2022 03:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Vowels-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JKC Exhibition : Four Seasons]]></title>
             <link>https://poclanos.com/album/jkc-exhibition-four-seasons/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 05 Dec 2022 09:10:54 GMT</pubDate>
             <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-bni-%EB%B9%84%EB%8B%88-%EB%82%98%EB%84%88%EB%8F%84%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spring came little early]]></title>
-            <link>https://poclanos.com/album/spring-came-little-early/</link>
-            <guid>https://poclanos.com/album/spring-came-little-early/</guid>
-            <pubDate>Mon, 05 Dec 2022 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[지재일 트리오]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%EC%A7%80%EC%9E%AC%EC%9D%BC-%ED%8A%B8%EB%A6%AC%EC%98%A4-Spring-came-little-early-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물고기 시점]]></title>
-            <link>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-%ec%8b%9c%ec%a0%90/</link>
-            <guid>https://poclanos.com/album/%eb%ac%bc%ea%b3%a0%ea%b8%b0-%ec%8b%9c%ec%a0%90/</guid>
-            <pubDate>Mon, 05 Dec 2022 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[홍비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/11/5.-%EC%BB%A4%EB%B2%84-%ED%99%8D%EB%B9%84-%EB%AC%BC%EA%B3%A0%EA%B8%B0-%EC%8B%9C%EC%A0%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
