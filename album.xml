@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 02:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리들의 것들을 기억해]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4%ec%9d%98-%ea%b2%83%eb%93%a4%ec%9d%84-%ea%b8%b0%ec%96%b5%ed%95%b4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4%ec%9d%98-%ea%b2%83%eb%93%a4%ec%9d%84-%ea%b8%b0%ec%96%b5%ed%95%b4/</guid>
+            <pubDate>Wed, 14 Dec 2022 03:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[정오월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%98%A4%EC%9B%94-%EC%9A%B0%EB%A6%AC%EB%93%A4%EC%9D%98-%EA%B2%83%EB%93%A4%EC%9D%84-%EA%B8%B0%EC%96%B5%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울에 오는 눈처럼]]></title>
             <link>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%97%90-%ec%98%a4%eb%8a%94-%eb%88%88%ec%b2%98%eb%9f%bc/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Dec 2022 03:16:43 GMT</pubDate>
             <content:encoded><![CDATA[D'allant]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-STAR-WARS_COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fade Away]]></title>
-            <link>https://poclanos.com/album/fade-away-2/</link>
-            <guid>https://poclanos.com/album/fade-away-2/</guid>
-            <pubDate>Wed, 07 Dec 2022 03:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[BLVN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-BLVN-Fade-Away-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
