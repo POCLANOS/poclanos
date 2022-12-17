@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 08:15:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BABEL]]></title>
+            <link>https://poclanos.com/album/babel/</link>
+            <guid>https://poclanos.com/album/babel/</guid>
+            <pubDate>Sat, 17 Dec 2022 09:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[안다영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%95%88%EB%8B%A4%EC%98%81-BABEL-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Very Special Odd Person (特别怪人)]]></title>
             <link>https://poclanos.com/album/very-special-odd-person-%e7%89%b9%e5%88%ab%e6%80%aa%e4%ba%ba/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
             <content:encoded><![CDATA[버둥]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%B5%AC%EC%95%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Panema]]></title>
-            <link>https://poclanos.com/album/panema/</link>
-            <guid>https://poclanos.com/album/panema/</guid>
-            <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[Panema]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Panema-Panema-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
