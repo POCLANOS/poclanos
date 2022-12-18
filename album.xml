@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 02:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 03:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Home Party]]></title>
+            <link>https://poclanos.com/album/51691/</link>
+            <guid>https://poclanos.com/album/51691/</guid>
+            <pubDate>Sun, 18 Dec 2022 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[루루]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EB%A3%A8-Home-Party-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BABEL]]></title>
             <link>https://poclanos.com/album/babel/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 10 Dec 2022 03:10:46 GMT</pubDate>
             <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B2%B8-GYE0M-%EB%82%98%EC%81%9C-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구애]]></title>
-            <link>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</link>
-            <guid>https://poclanos.com/album/%ea%b5%ac%ec%95%a0-3/</guid>
-            <pubDate>Fri, 09 Dec 2022 03:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[버둥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%B5%AC%EC%95%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
