@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beats To The 9yne – Volume 1]]></title>
+            <link>https://poclanos.com/album/beats-to-the-9yne-volume-1/</link>
+            <guid>https://poclanos.com/album/beats-to-the-9yne-volume-1/</guid>
+            <pubDate>Mon, 19 Dec 2022 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[Sol9yne]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Sol9yne-Beats-To-The-9yne-Volume-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Walk!]]></title>
+            <link>https://poclanos.com/album/a-walk/</link>
+            <guid>https://poclanos.com/album/a-walk/</guid>
+            <pubDate>Mon, 19 Dec 2022 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[김한비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%ED%95%9C%EB%B9%84-A-Walk-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울잠]]></title>
+            <link>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%9e%a0/</link>
+            <guid>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%9e%a0/</guid>
+            <pubDate>Mon, 19 Dec 2022 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[장수빈 (Jang Soo Bin)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%88%98%EB%B9%88-%EA%B2%A8%EC%9A%B8%EC%9E%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자꾸]]></title>
             <link>https://poclanos.com/album/%ec%9e%90%ea%be%b8-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 12 Dec 2022 03:16:53 GMT</pubDate>
             <content:encoded><![CDATA[01SYNTH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-01SYNTH-Midnight-In-Seoul-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vowels]]></title>
-            <link>https://poclanos.com/album/vowels/</link>
-            <guid>https://poclanos.com/album/vowels/</guid>
-            <pubDate>Mon, 12 Dec 2022 03:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[진동욱]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Vowels-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JKC Exhibition : Four Seasons]]></title>
-            <link>https://poclanos.com/album/jkc-exhibition-four-seasons/</link>
-            <guid>https://poclanos.com/album/jkc-exhibition-four-seasons/</guid>
-            <pubDate>Sun, 11 Dec 2022 03:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[잭킹콩(Jackingcong)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9E%AD%ED%82%B9%EC%BD%A9JACKINGCONG-JKC-Exhibition_Four-Seasons-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삶과 잠과 언니와 나]]></title>
-            <link>https://poclanos.com/album/%ec%82%b6%ea%b3%bc-%ec%9e%a0%ea%b3%bc-%ec%96%b8%eb%8b%88%ec%99%80-%eb%82%98/</link>
-            <guid>https://poclanos.com/album/%ec%82%b6%ea%b3%bc-%ec%9e%a0%ea%b3%bc-%ec%96%b8%eb%8b%88%ec%99%80-%eb%82%98/</guid>
-            <pubDate>Sat, 10 Dec 2022 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[이랑]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%9E%91-%EC%82%B6%EA%B3%BC-%EC%9E%A0%EA%B3%BC-%EC%96%B8%EB%8B%88%EC%99%80-%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
