@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NANLI]]></title>
+            <link>https://poclanos.com/album/nanli/</link>
+            <guid>https://poclanos.com/album/nanli/</guid>
+            <pubDate>Thu, 22 Dec 2022 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Garzon-Robie-%EA%B0%80%EB%A5%B4%EC%A2%85-%EB%A1%9C%EB%B9%84%EC%97%90-iryo-NANLI-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Decoy song]]></title>
+            <link>https://poclanos.com/album/decoy-song/</link>
+            <guid>https://poclanos.com/album/decoy-song/</guid>
+            <pubDate>Thu, 22 Dec 2022 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[Band Bower]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Band-Bower-Decoy-song-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Killing Me Softly]]></title>
+            <link>https://poclanos.com/album/killing-me-softly/</link>
+            <guid>https://poclanos.com/album/killing-me-softly/</guid>
+            <pubDate>Thu, 22 Dec 2022 03:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[연수]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%97%B0%EC%88%98-Killing-Me-Softly-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[One Day in December]]></title>
             <link>https://poclanos.com/album/one-day-in-december/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 15 Dec 2022 09:10:47 GMT</pubDate>
             <content:encoded><![CDATA[Ash-B (애쉬비)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Ash-B-%EC%95%A0%EC%89%AC%EB%B9%84-My-Name-Is-Money-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sorry For Myself]]></title>
-            <link>https://poclanos.com/album/sorry-for-myself/</link>
-            <guid>https://poclanos.com/album/sorry-for-myself/</guid>
-            <pubDate>Thu, 15 Dec 2022 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[루싸이트 토끼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%8B%B8%EC%9D%B4%ED%8A%B8-%ED%86%A0%EB%81%BC-Sorry-For-Myself-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑도 받아본 사람만 받을 줄 아는 거래요]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%8f%84-%eb%b0%9b%ec%95%84%eb%b3%b8-%ec%82%ac%eb%9e%8c%eb%a7%8c-%eb%b0%9b%ec%9d%84-%ec%a4%84-%ec%95%84%eb%8a%94-%ea%b1%b0%eb%9e%98%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%8f%84-%eb%b0%9b%ec%95%84%eb%b3%b8-%ec%82%ac%eb%9e%8c%eb%a7%8c-%eb%b0%9b%ec%9d%84-%ec%a4%84-%ec%95%84%eb%8a%94-%ea%b1%b0%eb%9e%98%ec%9a%94/</guid>
-            <pubDate>Thu, 15 Dec 2022 03:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-%EC%82%AC%EB%9E%91%EB%8F%84-%EB%B0%9B%EC%95%84%EB%B3%B8-%EC%82%AC%EB%9E%8C%EB%A7%8C-%EB%B0%9B%EC%9D%84-%EC%A4%84-%EC%95%84%EB%8A%94-%EA%B1%B0%EB%9E%98%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 계절]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b3%84%ec%a0%88/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ea%b3%84%ec%a0%88/</guid>
-            <pubDate>Wed, 14 Dec 2022 09:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[손혜은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EA%B3%84%EC%A0%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
