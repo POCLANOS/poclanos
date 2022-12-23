@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 02:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 03:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[greeting]]></title>
+            <link>https://poclanos.com/album/greeting/</link>
+            <guid>https://poclanos.com/album/greeting/</guid>
+            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[DRENCH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-DRENCH-greeting-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love Could Be Here]]></title>
+            <link>https://poclanos.com/album/love-could-be-here/</link>
+            <guid>https://poclanos.com/album/love-could-be-here/</guid>
+            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[SA.IE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-SA.IE-Love-Could-Be-Here-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HYPNOSIS THERAPY REMIX]]></title>
+            <link>https://poclanos.com/album/hypnosis-therapy-remix/</link>
+            <guid>https://poclanos.com/album/hypnosis-therapy-remix/</guid>
+            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[HYPNOSIS THERAPY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Jflow-HYPNOSIS-THERAPY-HYPNOSIS-THERAPY-REMIX-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drinking Lies (feat. Ezra Jordan)]]></title>
+            <link>https://poclanos.com/album/drinking-lies-feat-ezra-jordan/</link>
+            <guid>https://poclanos.com/album/drinking-lies-feat-ezra-jordan/</guid>
+            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[Fully Bold]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Fully-Bold-Drinking-Lies-feat.-Ezra-Jordan-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NANLI]]></title>
             <link>https://poclanos.com/album/nanli/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 17 Dec 2022 03:10:28 GMT</pubDate>
             <content:encoded><![CDATA[Masiwei (马思唯)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Masiwei-%E9%A9%AC%E6%80%9D%E5%94%AF-Very-Special-Odd-Person-%E7%89%B9%E5%88%AB%E6%80%AA%E4%BA%BA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편지]]></title>
-            <link>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-5/</link>
-            <guid>https://poclanos.com/album/%ed%8e%b8%ec%a7%80-5/</guid>
-            <pubDate>Fri, 16 Dec 2022 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-SWRY-%ED%8E%B8%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[융화 (融和)]]></title>
-            <link>https://poclanos.com/album/51709/</link>
-            <guid>https://poclanos.com/album/51709/</guid>
-            <pubDate>Fri, 16 Dec 2022 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[홍재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%99%8D%EC%9E%AC-%EC%9C%B5%ED%99%94-%E8%9E%8D%E5%92%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rainbow]]></title>
-            <link>https://poclanos.com/album/rainbow-3/</link>
-            <guid>https://poclanos.com/album/rainbow-3/</guid>
-            <pubDate>Fri, 16 Dec 2022 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-Rainbow-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Name Is Money]]></title>
-            <link>https://poclanos.com/album/my-name-is-money/</link>
-            <guid>https://poclanos.com/album/my-name-is-money/</guid>
-            <pubDate>Thu, 15 Dec 2022 09:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[Ash-B (애쉬비)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Ash-B-%EC%95%A0%EC%89%AC%EB%B9%84-My-Name-Is-Money-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
