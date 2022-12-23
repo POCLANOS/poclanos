@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 08:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[느림의 미학]]></title>
+            <link>https://poclanos.com/album/%eb%8a%90%eb%a6%bc%ec%9d%98-%eb%af%b8%ed%95%99/</link>
+            <guid>https://poclanos.com/album/%eb%8a%90%eb%a6%bc%ec%9d%98-%eb%af%b8%ed%95%99/</guid>
+            <pubDate>Fri, 23 Dec 2022 09:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[이아람]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%95%84%EB%9E%8C-%EB%8A%90%EB%A6%BC%EC%9D%98-%EB%AF%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[greeting]]></title>
             <link>https://poclanos.com/album/greeting/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 17 Dec 2022 09:09:08 GMT</pubDate>
             <content:encoded><![CDATA[안다영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%95%88%EB%8B%A4%EC%98%81-BABEL-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Very Special Odd Person (特别怪人)]]></title>
-            <link>https://poclanos.com/album/very-special-odd-person-%e7%89%b9%e5%88%ab%e6%80%aa%e4%ba%ba/</link>
-            <guid>https://poclanos.com/album/very-special-odd-person-%e7%89%b9%e5%88%ab%e6%80%aa%e4%ba%ba/</guid>
-            <pubDate>Sat, 17 Dec 2022 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[Masiwei (马思唯)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Masiwei-%E9%A9%AC%E6%80%9D%E5%94%AF-Very-Special-Odd-Person-%E7%89%B9%E5%88%AB%E6%80%AA%E4%BA%BA-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
