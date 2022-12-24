@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 02:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 03:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[계절은 핑계]]></title>
+            <link>https://poclanos.com/album/%ea%b3%84%ec%a0%88%ec%9d%80-%ed%95%91%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%ea%b3%84%ec%a0%88%ec%9d%80-%ed%95%91%ea%b3%84/</guid>
+            <pubDate>Sat, 24 Dec 2022 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B3%84%EC%A0%88%EC%9D%80-%ED%95%91%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[느림의 미학]]></title>
             <link>https://poclanos.com/album/%eb%8a%90%eb%a6%bc%ec%9d%98-%eb%af%b8%ed%95%99/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 18 Dec 2022 03:11:08 GMT</pubDate>
             <content:encoded><![CDATA[루루]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EB%A3%A8-Home-Party-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BABEL]]></title>
-            <link>https://poclanos.com/album/babel/</link>
-            <guid>https://poclanos.com/album/babel/</guid>
-            <pubDate>Sat, 17 Dec 2022 09:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[안다영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%95%88%EB%8B%A4%EC%98%81-BABEL-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
