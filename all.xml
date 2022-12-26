@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 02:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 03:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[carol (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/carol-2/</link>
+            <guid>https://poclanos.com/album/carol-2/</guid>
+            <pubDate>Mon, 26 Dec 2022 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-carol-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 밤에 숨어요 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%97%90-%ec%88%a8%ec%96%b4%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%97%90-%ec%88%a8%ec%96%b4%ec%9a%94/</guid>
+            <pubDate>Mon, 26 Dec 2022 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[나이트오프(Night Off)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%98%A4%ED%94%84-Night-Off-%EC%9D%B4-%EB%B0%A4%EC%97%90-%EC%88%A8%EC%96%B4%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상자 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%83%81%ec%9e%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 19 Dec 2022 03:11:35 GMT</pubDate>
             <content:encoded><![CDATA[Sol9yne]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Sol9yne-Beats-To-The-9yne-Volume-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Walk! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/a-walk/</link>
-            <guid>https://poclanos.com/album/a-walk/</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[김한비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%ED%95%9C%EB%B9%84-A-Walk-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울잠 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%9e%a0/</link>
-            <guid>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%9e%a0/</guid>
-            <pubDate>Mon, 19 Dec 2022 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[장수빈 (Jang Soo Bin)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%88%98%EB%B9%88-%EA%B2%A8%EC%9A%B8%EC%9E%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
