@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 02:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리들 마음에 빛이 있다면]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%b9%9b%ec%9d%b4-%ec%9e%88%eb%8b%a4%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%b9%9b%ec%9d%b4-%ec%9e%88%eb%8b%a4%eb%a9%b4/</guid>
+            <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[최수인]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%88%98%EC%9D%B8-%EC%9A%B0%EB%A6%AC%EB%93%A4-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%B9%9B%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sippin’ Your Love]]></title>
+            <link>https://poclanos.com/album/sippin-your-love/</link>
+            <guid>https://poclanos.com/album/sippin-your-love/</guid>
+            <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[민제 (MINJE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%A0%9C-MINJE-Sippin-Your-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tanqueray]]></title>
+            <link>https://poclanos.com/album/tanqueray/</link>
+            <guid>https://poclanos.com/album/tanqueray/</guid>
+            <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[류시은 (SIEUN RYU)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%A5%98%EC%8B%9C%EC%9D%80-SIEUN-RYU-Tanqueray-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Underwater]]></title>
             <link>https://poclanos.com/album/underwater-4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 21 Dec 2022 03:11:40 GMT</pubDate>
             <content:encoded><![CDATA[에스디 (As D)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-As-D-%EC%97%90%EC%8A%A4%EB%94%94-Ratel-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heaven Express(again)]]></title>
-            <link>https://poclanos.com/album/heaven-expressagain/</link>
-            <guid>https://poclanos.com/album/heaven-expressagain/</guid>
-            <pubDate>Tue, 20 Dec 2022 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-BrokenTeeth-Heaven-Expressagain-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서툰 말]]></title>
-            <link>https://poclanos.com/album/%ec%84%9c%ed%88%b0-%eb%a7%90/</link>
-            <guid>https://poclanos.com/album/%ec%84%9c%ed%88%b0-%eb%a7%90/</guid>
-            <pubDate>Tue, 20 Dec 2022 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[His (히스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-His-%ED%9E%88%EC%8A%A4-%EC%84%9C%ED%88%B0-%EB%A7%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허수아비 (Feat. 원슈타인)]]></title>
-            <link>https://poclanos.com/album/51720/</link>
-            <guid>https://poclanos.com/album/51720/</guid>
-            <pubDate>Tue, 20 Dec 2022 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[구원찬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B5%AC%EC%9B%90%EC%B0%AC-%ED%97%88%EC%88%98%EC%95%84%EB%B9%84-Feat.-%EC%9B%90%EC%8A%88%ED%83%80%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
