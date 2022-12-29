@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[You and I]]></title>
+            <link>https://poclanos.com/album/yon-and-i/</link>
+            <guid>https://poclanos.com/album/yon-and-i/</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-About-Paul-You-and-I-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Band Kids!]]></title>
+            <link>https://poclanos.com/album/band-kids/</link>
+            <guid>https://poclanos.com/album/band-kids/</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[DumbAss]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-DumbAss-Band-Kids-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EX]]></title>
+            <link>https://poclanos.com/album/ex/</link>
+            <guid>https://poclanos.com/album/ex/</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%8C%EC%84%9C-Soseo-EX-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EX]]></title>
+            <link>https://poclanos.com/album/ex-2/</link>
+            <guid>https://poclanos.com/album/ex-2/</guid>
+            <pubDate>Thu, 29 Dec 2022 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%8C%EC%84%9C-Soseo-EX-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리들 마음에 빛이 있다면]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%93%a4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%b9%9b%ec%9d%b4-%ec%9e%88%eb%8b%a4%eb%a9%b4/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 22 Dec 2022 03:11:29 GMT</pubDate>
             <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Garzon-Robie-%EA%B0%80%EB%A5%B4%EC%A2%85-%EB%A1%9C%EB%B9%84%EC%97%90-iryo-NANLI-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Decoy song]]></title>
-            <link>https://poclanos.com/album/decoy-song/</link>
-            <guid>https://poclanos.com/album/decoy-song/</guid>
-            <pubDate>Thu, 22 Dec 2022 03:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[Band Bower]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Band-Bower-Decoy-song-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Killing Me Softly]]></title>
-            <link>https://poclanos.com/album/killing-me-softly/</link>
-            <guid>https://poclanos.com/album/killing-me-softly/</guid>
-            <pubDate>Thu, 22 Dec 2022 03:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[연수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%97%B0%EC%88%98-Killing-Me-Softly-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Day in December]]></title>
-            <link>https://poclanos.com/album/one-day-in-december/</link>
-            <guid>https://poclanos.com/album/one-day-in-december/</guid>
-            <pubDate>Wed, 21 Dec 2022 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[ON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-ON-One-Day-in-December-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ratel]]></title>
-            <link>https://poclanos.com/album/ratel/</link>
-            <guid>https://poclanos.com/album/ratel/</guid>
-            <pubDate>Wed, 21 Dec 2022 03:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[에스디 (As D)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-As-D-%EC%97%90%EC%8A%A4%EB%94%94-Ratel-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
