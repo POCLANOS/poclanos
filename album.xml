@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 08:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 09:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Retrospect]]></title>
+            <link>https://poclanos.com/album/retrospect/</link>
+            <guid>https://poclanos.com/album/retrospect/</guid>
+            <pubDate>Sat, 31 Dec 2022 09:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9F%88%EB%93%9C-Jade-Retrospect-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tic Toc]]></title>
             <link>https://poclanos.com/album/tic-toc/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[SA.IE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-SA.IE-Love-Could-Be-Here-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYPNOSIS THERAPY REMIX]]></title>
-            <link>https://poclanos.com/album/hypnosis-therapy-remix/</link>
-            <guid>https://poclanos.com/album/hypnosis-therapy-remix/</guid>
-            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[HYPNOSIS THERAPY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Jflow-HYPNOSIS-THERAPY-HYPNOSIS-THERAPY-REMIX_221223%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
