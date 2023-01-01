@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 02:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 03:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cold Waves (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cold-waves/</link>
+            <guid>https://poclanos.com/album/cold-waves/</guid>
+            <pubDate>Sun, 01 Jan 2023 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-Cold-Waves-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마네킨 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a7%88%eb%84%a4%ed%82%a8/</link>
+            <guid>https://poclanos.com/album/%eb%a7%88%eb%84%a4%ed%82%a8/</guid>
+            <pubDate>Sun, 01 Jan 2023 03:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[아시아닉]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%8B%9C%EC%95%84%EB%8B%89-%EB%A7%88%EB%84%A4%ED%82%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Retrospect (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/retrospect/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 23 Dec 2022 09:10:06 GMT</pubDate>
             <content:encoded><![CDATA[이아람]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%95%84%EB%9E%8C-%EB%8A%90%EB%A6%BC%EC%9D%98-%EB%AF%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[greeting (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/greeting/</link>
-            <guid>https://poclanos.com/album/greeting/</guid>
-            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[DRENCH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-DRENCH-greeting-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Could Be Here (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/love-could-be-here/</link>
-            <guid>https://poclanos.com/album/love-could-be-here/</guid>
-            <pubDate>Fri, 23 Dec 2022 03:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[SA.IE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-SA.IE-Love-Could-Be-Here-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
