@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 08:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 09:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Year]]></title>
+            <link>https://poclanos.com/album/new-year/</link>
+            <guid>https://poclanos.com/album/new-year/</guid>
+            <pubDate>Sun, 01 Jan 2023 09:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/3.-Dreamus-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EC%98%88%EB%A6%B0_New-Year-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cold Waves]]></title>
             <link>https://poclanos.com/album/cold-waves/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 24 Dec 2022 03:10:52 GMT</pubDate>
             <content:encoded><![CDATA[우주히피]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B3%84%EC%A0%88%EC%9D%80-%ED%95%91%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[느림의 미학]]></title>
-            <link>https://poclanos.com/album/%eb%8a%90%eb%a6%bc%ec%9d%98-%eb%af%b8%ed%95%99/</link>
-            <guid>https://poclanos.com/album/%eb%8a%90%eb%a6%bc%ec%9d%98-%eb%af%b8%ed%95%99/</guid>
-            <pubDate>Fri, 23 Dec 2022 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[이아람]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%95%84%EB%9E%8C-%EB%8A%90%EB%A6%BC%EC%9D%98-%EB%AF%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
