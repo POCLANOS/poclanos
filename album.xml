@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 02:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 03:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Festa]]></title>
+            <link>https://poclanos.com/album/festa/</link>
+            <guid>https://poclanos.com/album/festa/</guid>
+            <pubDate>Mon, 02 Jan 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[이지호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A7%80%ED%98%B8-Festa_221220-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The winter of Chicago (Original Soundtrack for Document 16th Film)]]></title>
+            <link>https://poclanos.com/album/the-winter-of-chicago-original-soundtrack-for-document-16th-film/</link>
+            <guid>https://poclanos.com/album/the-winter-of-chicago-original-soundtrack-for-document-16th-film/</guid>
+            <pubDate>Mon, 02 Jan 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-The-winter-of-Chicago-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Year]]></title>
             <link>https://poclanos.com/album/new-year/</link>
@@ -14,14 +30,6 @@
             <pubDate>Sun, 01 Jan 2023 09:09:29 GMT</pubDate>
             <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/3.-Dreamus-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EC%98%88%EB%A6%B0_New-Year-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cold Waves]]></title>
-            <link>https://poclanos.com/album/cold-waves/</link>
-            <guid>https://poclanos.com/album/cold-waves/</guid>
-            <pubDate>Sun, 01 Jan 2023 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-Cold-Waves-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마네킨]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 29 Dec 2022 03:11:20 GMT</pubDate>
             <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%8C%EC%84%9C-Soseo-EX-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EX]]></title>
-            <link>https://poclanos.com/album/ex-2/</link>
-            <guid>https://poclanos.com/album/ex-2/</guid>
-            <pubDate>Thu, 29 Dec 2022 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%86%8C%EC%84%9C-Soseo-EX-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우리들 마음에 빛이 있다면]]></title>
