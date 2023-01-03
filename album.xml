@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈연인]]></title>
+            <link>https://poclanos.com/album/%ea%bf%88%ec%97%b0%ec%9d%b8/</link>
+            <guid>https://poclanos.com/album/%ea%bf%88%ec%97%b0%ec%9d%b8/</guid>
+            <pubDate>Tue, 03 Jan 2023 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[해변지하]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%95%B4%EB%B3%80%EC%A7%80%ED%95%98-%EA%BF%88%EC%97%B0%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DOPE NATION]]></title>
+            <link>https://poclanos.com/album/dope-nation/</link>
+            <guid>https://poclanos.com/album/dope-nation/</guid>
+            <pubDate>Tue, 03 Jan 2023 03:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[Brian Shin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Brian-Shin-DOPE-NATION-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Festa]]></title>
             <link>https://poclanos.com/album/festa/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 25 Dec 2022 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-%EC%83%81%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파랗게]]></title>
-            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%97%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%97%ea%b2%8c/</guid>
-            <pubDate>Sat, 24 Dec 2022 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-GongGongGoo009-%ED%8C%8C%EB%9E%97%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계절은 핑계]]></title>
-            <link>https://poclanos.com/album/%ea%b3%84%ec%a0%88%ec%9d%80-%ed%95%91%ea%b3%84/</link>
-            <guid>https://poclanos.com/album/%ea%b3%84%ec%a0%88%ec%9d%80-%ed%95%91%ea%b3%84/</guid>
-            <pubDate>Sat, 24 Dec 2022 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[우주히피]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B3%84%EC%A0%88%EC%9D%80-%ED%95%91%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
