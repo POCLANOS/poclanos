@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 02:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정류장]]></title>
+            <link>https://poclanos.com/album/%ec%a0%95%eb%a5%98%ec%9e%a5/</link>
+            <guid>https://poclanos.com/album/%ec%a0%95%eb%a5%98%ec%9e%a5/</guid>
+            <pubDate>Wed, 04 Jan 2023 03:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[한로로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-Dreamsu-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EB%A1%9C%EB%A1%9C_%EC%A0%95%EB%A5%98%EC%9E%A5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자율신경계]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a8%ec%8b%a0%ea%b2%bd%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a8%ec%8b%a0%ea%b2%bd%ea%b3%84/</guid>
+            <pubDate>Wed, 04 Jan 2023 03:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[HIPE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-X-HIPE-%EC%9E%90%EC%9C%A8%EC%8B%A0%EA%B2%BD%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈연인]]></title>
             <link>https://poclanos.com/album/%ea%bf%88%ec%97%b0%ec%9d%b8/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 26 Dec 2022 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-carol-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 밤에 숨어요]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%97%90-%ec%88%a8%ec%96%b4%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%97%90-%ec%88%a8%ec%96%b4%ec%9a%94/</guid>
-            <pubDate>Mon, 26 Dec 2022 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[나이트오프(Night Off)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%98%A4%ED%94%84-Night-Off-%EC%9D%B4-%EB%B0%A4%EC%97%90-%EC%88%A8%EC%96%B4%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상자]]></title>
-            <link>https://poclanos.com/album/%ec%83%81%ec%9e%90/</link>
-            <guid>https://poclanos.com/album/%ec%83%81%ec%9e%90/</guid>
-            <pubDate>Sun, 25 Dec 2022 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-%EC%83%81%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
