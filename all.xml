@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 02:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blu (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/blu/</link>
+            <guid>https://poclanos.com/album/blu/</guid>
+            <pubDate>Fri, 06 Jan 2023 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Sunday-Moon-Blu-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[cold heart.. (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/cold-heart/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
             <content:encoded><![CDATA[류시은 (SIEUN RYU)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%A5%98%EC%8B%9C%EC%9D%80-SIEUN-RYU-Tanqueray-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Underwater (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/underwater-4/</link>
-            <guid>https://poclanos.com/album/underwater-4/</guid>
-            <pubDate>Tue, 27 Dec 2022 09:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[coldnight]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-coldnight-Underwater-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
