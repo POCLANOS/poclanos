@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 02:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 03:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼 길]]></title>
+            <link>https://poclanos.com/album/%eb%a8%bc-%ea%b8%b8/</link>
+            <guid>https://poclanos.com/album/%eb%a8%bc-%ea%b8%b8/</guid>
+            <pubDate>Sat, 07 Jan 2023 03:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[한그린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EA%B7%B8%EB%A6%B0-%EB%A8%BC-%EA%B8%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blu]]></title>
             <link>https://poclanos.com/album/blu/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
             <content:encoded><![CDATA[민제 (MINJE)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%A0%9C-MINJE-Sippin-Your-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tanqueray]]></title>
-            <link>https://poclanos.com/album/tanqueray/</link>
-            <guid>https://poclanos.com/album/tanqueray/</guid>
-            <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[류시은 (SIEUN RYU)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%A5%98%EC%8B%9C%EC%9D%80-SIEUN-RYU-Tanqueray-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
