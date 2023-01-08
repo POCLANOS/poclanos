@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 02:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 03:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽상집]]></title>
+            <link>https://poclanos.com/album/%eb%aa%bd%ec%83%81%ec%a7%91/</link>
+            <guid>https://poclanos.com/album/%eb%aa%bd%ec%83%81%ec%a7%91/</guid>
+            <pubDate>Sun, 08 Jan 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[크르르]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A5%B4%EB%A5%B4-%EB%AA%BD%EC%83%81%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먼 길]]></title>
             <link>https://poclanos.com/album/%eb%a8%bc-%ea%b8%b8/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
             <content:encoded><![CDATA[최수인]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%88%98%EC%9D%B8-%EC%9A%B0%EB%A6%AC%EB%93%A4-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%B9%9B%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sippin’ Your Love]]></title>
-            <link>https://poclanos.com/album/sippin-your-love/</link>
-            <guid>https://poclanos.com/album/sippin-your-love/</guid>
-            <pubDate>Wed, 28 Dec 2022 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[민제 (MINJE)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%A0%9C-MINJE-Sippin-Your-Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
