@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 02:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 03:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[To. (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/to/</link>
+            <guid>https://poclanos.com/album/to/</guid>
+            <pubDate>Thu, 12 Jan 2023 03:11:14 GMT</pubDate>
+            <content:encoded><![CDATA[HIZY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-HIZY-To_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부셔ㅕㅕㅕ (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b6%80%ec%85%94%e3%85%95%e3%85%95%e3%85%95/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 31 Dec 2022 09:09:09 GMT</pubDate>
             <content:encoded><![CDATA[쟈드 (Jade)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9F%88%EB%93%9C-Jade-Retrospect-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tic Toc (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tic-toc/</link>
-            <guid>https://poclanos.com/album/tic-toc/</guid>
-            <pubDate>Sat, 31 Dec 2022 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Jue%EC%A3%BC%EC%95%A0-Tic-Toc-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
