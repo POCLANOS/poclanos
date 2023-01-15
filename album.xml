@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 02:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낮잠]]></title>
+            <link>https://poclanos.com/album/%eb%82%ae%ec%9e%a0-2/</link>
+            <guid>https://poclanos.com/album/%eb%82%ae%ec%9e%a0-2/</guid>
+            <pubDate>Sun, 15 Jan 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-%EB%82%AE%EC%9E%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[with you]]></title>
             <link>https://poclanos.com/album/with-you-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 02 Jan 2023 03:11:25 GMT</pubDate>
             <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-The-winter-of-Chicago-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Year]]></title>
-            <link>https://poclanos.com/album/new-year/</link>
-            <guid>https://poclanos.com/album/new-year/</guid>
-            <pubDate>Sun, 01 Jan 2023 09:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[백예린 (Yerin Baek)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/3.-Dreamus-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EB%B0%B1%EC%98%88%EB%A6%B0_New-Year-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
