@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 02:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 03:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2002년]]></title>
+            <link>https://poclanos.com/album/2002%eb%85%84/</link>
+            <guid>https://poclanos.com/album/2002%eb%85%84/</guid>
+            <pubDate>Wed, 18 Jan 2023 03:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[유귀]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EA%B7%80-2002%EB%85%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oak Park House (Original Soundtrack for Document 16th Film)]]></title>
+            <link>https://poclanos.com/album/oak-park-house-original-soundtrack-for-document-16th-film/</link>
+            <guid>https://poclanos.com/album/oak-park-house-original-soundtrack-for-document-16th-film/</guid>
+            <pubDate>Wed, 18 Jan 2023 03:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8CWINDWAVE_Oak-park-house-Original-Soundtrack-for-Document-16th-Film-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[You]]></title>
             <link>https://poclanos.com/album/you-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 04 Jan 2023 03:11:26 GMT</pubDate>
             <content:encoded><![CDATA[HIPE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-X-HIPE-%EC%9E%90%EC%9C%A8%EC%8B%A0%EA%B2%BD%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈연인]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88%ec%97%b0%ec%9d%b8/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88%ec%97%b0%ec%9d%b8/</guid>
-            <pubDate>Tue, 03 Jan 2023 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[해변지하]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%95%B4%EB%B3%80%EC%A7%80%ED%95%98-%EA%BF%88%EC%97%B0%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DOPE NATION]]></title>
-            <link>https://poclanos.com/album/dope-nation/</link>
-            <guid>https://poclanos.com/album/dope-nation/</guid>
-            <pubDate>Tue, 03 Jan 2023 03:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[Brian Shin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Brian-Shin-DOPE-NATION-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
