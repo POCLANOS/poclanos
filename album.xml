@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 02:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 03:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재개발 블루스]]></title>
+            <link>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4/</guid>
+            <pubDate>Thu, 19 Jan 2023 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-RAINBOW99-%EC%9E%AC%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A3%A8%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Better Alone]]></title>
+            <link>https://poclanos.com/album/better-alone/</link>
+            <guid>https://poclanos.com/album/better-alone/</guid>
+            <pubDate>Thu, 19 Jan 2023 03:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Oneianmillion-%EA%B0%95%EC%9D%B4%EC%95%88-Better-Alone%EA%B0%80%EA%B3%B5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2002년]]></title>
             <link>https://poclanos.com/album/2002%eb%85%84/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 04 Jan 2023 09:10:34 GMT</pubDate>
             <content:encoded><![CDATA[김새녘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EB%B0%95%EC%B0%AC%EC%A3%BC-End-This-New-Year-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정류장]]></title>
-            <link>https://poclanos.com/album/%ec%a0%95%eb%a5%98%ec%9e%a5/</link>
-            <guid>https://poclanos.com/album/%ec%a0%95%eb%a5%98%ec%9e%a5/</guid>
-            <pubDate>Wed, 04 Jan 2023 03:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-Dreamsu-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%ED%95%9C%EB%A1%9C%EB%A1%9C_%EC%A0%95%EB%A5%98%EC%9E%A5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자율신경계]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a8%ec%8b%a0%ea%b2%bd%ea%b3%84/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a8%ec%8b%a0%ea%b2%bd%ea%b3%84/</guid>
-            <pubDate>Wed, 04 Jan 2023 03:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[HIPE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-X-HIPE-%EC%9E%90%EC%9C%A8%EC%8B%A0%EA%B2%BD%EA%B3%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
