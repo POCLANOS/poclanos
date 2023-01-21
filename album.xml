@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 02:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새빛깔 (Sped Up)]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</guid>
+            <pubDate>Sat, 21 Jan 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EC%83%88%EB%B9%9B%EA%B9%94-Sped-Up-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MOVEMENT]]></title>
             <link>https://poclanos.com/album/movement-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Jan 2023 03:12:06 GMT</pubDate>
             <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Sunday-Moon-Blu-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cold heart..]]></title>
-            <link>https://poclanos.com/album/cold-heart/</link>
-            <guid>https://poclanos.com/album/cold-heart/</guid>
-            <pubDate>Thu, 05 Jan 2023 03:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[mcboil (맥보일)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-mcboil-%EB%A7%A5%EB%B3%B4%EC%9D%BC-cold-heart_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
