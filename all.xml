@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 02:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 03:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[requiem#1 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/requiem1/</link>
+            <guid>https://poclanos.com/album/requiem1/</guid>
+            <pubDate>Sun, 22 Jan 2023 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-requiem_1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[生きる者 / Ikirumono (사는 사람) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%e7%94%9f%e3%81%8d%e3%82%8b%e8%80%85-ikirumono-%ec%82%ac%eb%8a%94-%ec%82%ac%eb%9e%8c/</link>
+            <guid>https://poclanos.com/album/%e7%94%9f%e3%81%8d%e3%82%8b%e8%80%85-ikirumono-%ec%82%ac%eb%8a%94-%ec%82%ac%eb%9e%8c/</guid>
+            <pubDate>Sun, 22 Jan 2023 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[ohashiTrio]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-OhashiTrio-%E7%94%9F%E3%81%8D%E3%82%8B%E8%80%85-_-Ikirumono-%EC%82%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새빛깔 (Sped Up) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 17 Jan 2023 17:09:23 GMT</pubDate>
             <content:encoded><![CDATA[크르르]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A5%B4%EB%A5%B4-%EB%AA%BD%EC%83%81%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먼 길 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a8%bc-%ea%b8%b8/</link>
-            <guid>https://poclanos.com/album/%eb%a8%bc-%ea%b8%b8/</guid>
-            <pubDate>Tue, 17 Jan 2023 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[한그린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EA%B7%B8%EB%A6%B0-%EB%A8%BC-%EA%B8%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blu (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/blu/</link>
-            <guid>https://poclanos.com/album/blu/</guid>
-            <pubDate>Tue, 17 Jan 2023 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Sunday-Moon-Blu-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
