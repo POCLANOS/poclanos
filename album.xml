@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 02:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 03:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IT’S 7 TIME, NEED 2 SMOKE]]></title>
+            <link>https://poclanos.com/album/its-7-time-need-2-smoke/</link>
+            <guid>https://poclanos.com/album/its-7-time-need-2-smoke/</guid>
+            <pubDate>Mon, 23 Jan 2023 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[372]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-372-ITS-7-TIME-NEED-2-SMOKE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[requiem#1]]></title>
             <link>https://poclanos.com/album/requiem1/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 09 Jan 2023 03:11:22 GMT</pubDate>
             <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-Cold-Waves-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽상집]]></title>
-            <link>https://poclanos.com/album/%eb%aa%bd%ec%83%81%ec%a7%91/</link>
-            <guid>https://poclanos.com/album/%eb%aa%bd%ec%83%81%ec%a7%91/</guid>
-            <pubDate>Sun, 08 Jan 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A5%B4%EB%A5%B4-%EB%AA%BD%EC%83%81%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
