@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 02:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 03:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 혼자서도 이미 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ed%98%bc%ec%9e%90%ec%84%9c%eb%8f%84-%ec%9d%b4%eb%af%b8/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ed%98%bc%ec%9e%90%ec%84%9c%eb%8f%84-%ec%9d%b4%eb%af%b8/</guid>
+            <pubDate>Thu, 26 Jan 2023 03:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[아사히]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%ED%9E%88-%EB%82%98%EB%8A%94-%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84-%EC%9D%B4%EB%AF%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[daydreaming (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/daydreaming-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 17 Jan 2023 17:09:23 GMT</pubDate>
             <content:encoded><![CDATA[Snake Chicken Soup]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Snake-Chicken-Soup-%EB%B9%84%EC%BC%9C%E3%85%95%E3%85%95%E3%85%95txt-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 밤이 되면 빛난다 (We Shine at Night) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%b0%a4%ec%9d%b4-%eb%90%98%eb%a9%b4-%eb%b9%9b%eb%82%9c%eb%8b%a4-we-shine-at-night/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%b0%a4%ec%9d%b4-%eb%90%98%eb%a9%b4-%eb%b9%9b%eb%82%9c%eb%8b%a4-we-shine-at-night/</guid>
-            <pubDate>Tue, 17 Jan 2023 17:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Parannoul-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EB%B0%A4%EC%9D%B4-%EB%90%98%EB%A9%B4-%EB%B9%9B%EB%82%9C%EB%8B%A4-We-Shine-at-Night-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -3360,7 +3360,7 @@ Edit | 월로비</p>
 <p>&nbsp;</p>
 <p>싱글 &lt;closetclosetcloset&gt;과 함께 등장한 허캐의 모습에서 어딘가 익숙함을 느꼈다면 제대로 본 것이 맞다. ‘허캐’는 박문치 유니버스의 든든한 보컬리스트이자 외계인 시스터즈 중 한 명인 ‘루루’의 새로운 활동명이다. 그간의 개성 있는 이미지가 강하게 각인되어있었을 법도 한데, 이런 걱정이 무색할 만큼 본인만의 색깔을 듬뿍 담아 완성된 이번 싱글은 뭉근하면서도 허스키한 허캐의 보컬톤을 매력적으로 녹여내는 데 성공했다. &lt;closetclosetcloset&gt;은 그러한 보컬톤과 대비를 이루는 청량하고 상쾌한 분위기 사이의 균형이 인상적인 곡이다. 그래서일까, 짐으로 느껴질 수 있는 수많은 미련조차 소중히 간직하려는 메시지는 머뭇거림과 새로운 다짐 사이의 미묘한 감정을 절묘하게 담아낸다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] hukke (허캐) - closetclosetcloset" src="https://www.youtube.com/embed/ZQaATQuhF9I?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ZQaATQuhF9I" data-gtm-yt-inspected-12796466_15="true" data-gtm-yt-inspected-17="true" width="640" height="360" frameborder="0"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] 루루 (RuRu) - closetclosetcloset" src="https://www.youtube.com/embed/ZQaATQuhF9I?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_ZQaATQuhF9I" data-gtm-yt-inspected-12796466_15="true" data-gtm-yt-inspected-17="true" width="640" height="360" frameborder="0"></iframe></p>
 <p>&nbsp;</p>
 <hr>
 <p>&nbsp;</p>
