@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 08:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 09:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CAFE TAPE 02]]></title>
+            <link>https://poclanos.com/album/cafe-tape-02/</link>
+            <guid>https://poclanos.com/album/cafe-tape-02/</guid>
+            <pubDate>Thu, 26 Jan 2023 09:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[Viann]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Viann-CAFE-TAPE-02-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 혼자서도 이미]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ed%98%bc%ec%9e%90%ec%84%9c%eb%8f%84-%ec%9d%b4%eb%af%b8/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Jan 2023 03:11:14 GMT</pubDate>
             <content:encoded><![CDATA[HIZY]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-HIZY-To_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부셔ㅕㅕㅕ]]></title>
-            <link>https://poclanos.com/album/%eb%b6%80%ec%85%94%e3%85%95%e3%85%95%e3%85%95/</link>
-            <guid>https://poclanos.com/album/%eb%b6%80%ec%85%94%e3%85%95%e3%85%95%e3%85%95/</guid>
-            <pubDate>Wed, 11 Jan 2023 09:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[Snake Chicken Soup]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Snake-Chicken-Soup-%EB%B9%84%EC%BC%9C%E3%85%95%E3%85%95%E3%85%95txt-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
