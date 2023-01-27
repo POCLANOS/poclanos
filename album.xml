@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’ve Never Forgotten (我不曾忘记) (게임 ‘원신’ 2023 신춘회 동인곡)]]></title>
+            <link>https://poclanos.com/album/ive-never-forgotten-%e6%88%91%e4%b8%8d%e6%9b%be%e5%bf%98%e8%ae%b0-%ea%b2%8c%ec%9e%84-%ec%9b%90%ec%8b%a0-2023-%ec%8b%a0%ec%b6%98%ed%9a%8c-%eb%8f%99%ec%9d%b8%ea%b3%a1/</link>
+            <guid>https://poclanos.com/album/ive-never-forgotten-%e6%88%91%e4%b8%8d%e6%9b%be%e5%bf%98%e8%ae%b0-%ea%b2%8c%ec%9e%84-%ec%9b%90%ec%8b%a0-2023-%ec%8b%a0%ec%b6%98%ed%9a%8c-%eb%8f%99%ec%9d%b8%ea%b3%a1/</guid>
+            <pubDate>Fri, 27 Jan 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[Hua Ling (花玲)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Ive-Never-Forgotten-%E6%88%91%E4%B8%8D%E6%9B%BE%E5%BF%98%E8%AE%B0-%EA%B2%8C%EC%9E%84-%EC%9B%90%EC%8B%A0-2023-%EC%8B%A0%EC%B6%98%ED%9A%8C-%EB%8F%99%EC%9D%B8%EA%B3%A1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 여읜 사람들]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%97%ac%ec%9d%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%97%ac%ec%9d%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</guid>
+            <pubDate>Fri, 27 Jan 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-%EC%82%AC%EB%9E%91%EC%9D%84-%EC%97%AC%EC%9D%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CAFE TAPE 02]]></title>
             <link>https://poclanos.com/album/cafe-tape-02/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 14 Jan 2023 03:11:11 GMT</pubDate>
             <content:encoded><![CDATA[권그린 (GREENY)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2022/12/5.-%EC%BB%A4%EB%B2%84-%EA%B6%8C%EA%B7%B8%EB%A6%B0-with-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어때]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%95%8c/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%95%8c/</guid>
-            <pubDate>Fri, 13 Jan 2023 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[정바스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%94%EC%8A%A4-%EC%96%B4%EB%95%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[To.]]></title>
-            <link>https://poclanos.com/album/to/</link>
-            <guid>https://poclanos.com/album/to/</guid>
-            <pubDate>Thu, 12 Jan 2023 03:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[HIZY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-HIZY-To_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
