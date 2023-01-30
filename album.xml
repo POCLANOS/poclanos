@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 02:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 03:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YEAR (feat. HESSE, cwar)]]></title>
+            <link>https://poclanos.com/album/year-feat-hesse-cwar/</link>
+            <guid>https://poclanos.com/album/year-feat-hesse-cwar/</guid>
+            <pubDate>Mon, 30 Jan 2023 03:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[사스콰치 (Sasquatch)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.%EC%BB%A4%EB%B2%84-%EC%82%AC%EC%8A%A4%EC%BD%B0%EC%B9%98-Sasquatch-YEAR-feat.-HESSE-cwar-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silhouette, Horizon]]></title>
+            <link>https://poclanos.com/album/silhouette-horizon/</link>
+            <guid>https://poclanos.com/album/silhouette-horizon/</guid>
+            <pubDate>Mon, 30 Jan 2023 03:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[진수하 (Jinsuha)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EC%88%98%ED%95%98-Jinsuha-Silhouette-Horizon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[farewell]]></title>
             <link>https://poclanos.com/album/farewell-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 18 Jan 2023 03:12:22 GMT</pubDate>
             <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8CWINDWAVE_Oak-park-house-Original-Soundtrack-for-Document-16th-Film-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You]]></title>
-            <link>https://poclanos.com/album/you-3/</link>
-            <guid>https://poclanos.com/album/you-3/</guid>
-            <pubDate>Tue, 17 Jan 2023 03:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[민준기(minzunki)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%A4%80%EA%B8%B0-You%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[家に帰ろう(집으로)]]></title>
-            <link>https://poclanos.com/album/%e5%ae%b6%e3%81%ab%e5%b8%b0%e3%82%8d%e3%81%86%ec%a7%91%ec%9c%bc%eb%a1%9c/</link>
-            <guid>https://poclanos.com/album/%e5%ae%b6%e3%81%ab%e5%b8%b0%e3%82%8d%e3%81%86%ec%a7%91%ec%9c%bc%eb%a1%9c/</guid>
-            <pubDate>Mon, 16 Jan 2023 03:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[주윤하]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%A3%BC%EC%9C%A4%ED%95%98-%E5%AE%B6%E3%81%AB%E5%B8%B0%E3%82%8D%E3%81%86%EC%A7%91%EC%9C%BC%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
