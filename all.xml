@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 06:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Object (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/object/</link>
-            <guid>https://poclanos.com/album/object/</guid>
-            <pubDate>Mon, 30 Jan 2023 04:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[구원찬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B5%AC%EC%9B%90%EC%B0%AC-Object-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[YEAR (feat. HESSE, cwar) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/year-feat-hesse-cwar/</link>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 18 Jan 2023 03:12:22 GMT</pubDate>
             <content:encoded><![CDATA[유귀]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EA%B7%80-2002%EB%85%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oak Park House (Original Soundtrack for Document 16th Film) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/oak-park-house-original-soundtrack-for-document-16th-film/</link>
+            <guid>https://poclanos.com/album/oak-park-house-original-soundtrack-for-document-16th-film/</guid>
+            <pubDate>Mon, 30 Jan 2023 06:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8CWINDWAVE_Oak-park-house-Original-Soundtrack-for-Document-16th-Film-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
