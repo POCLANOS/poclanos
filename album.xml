@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 02:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 03:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Object]]></title>
+            <link>https://poclanos.com/album/object/</link>
+            <guid>https://poclanos.com/album/object/</guid>
+            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B5%AC%EC%9B%90%EC%B0%AC-Object-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겁이나]]></title>
+            <link>https://poclanos.com/album/%ea%b2%81%ec%9d%b4%eb%82%98/</link>
+            <guid>https://poclanos.com/album/%ea%b2%81%ec%9d%b4%eb%82%98/</guid>
+            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[Fin Fior]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Fin-Fior-%EA%B2%81%EC%9D%B4%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잔영]]></title>
+            <link>https://poclanos.com/album/%ec%9e%94%ec%98%81/</link>
+            <guid>https://poclanos.com/album/%ec%9e%94%ec%98%81/</guid>
+            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[공중그늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B3%B5%EC%A4%91%EA%B7%B8%EB%8A%98-%EC%9E%94%EC%98%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼켜낸 파란 은유]]></title>
+            <link>https://poclanos.com/album/%ec%82%bc%ec%bc%9c%eb%82%b8-%ed%8c%8c%eb%9e%80-%ec%9d%80%ec%9c%a0/</link>
+            <guid>https://poclanos.com/album/%ec%82%bc%ec%bc%9c%eb%82%b8-%ed%8c%8c%eb%9e%80-%ec%9d%80%ec%9c%a0/</guid>
+            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[겸 (GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B2%B8GYE0M-%EC%82%BC%EC%BC%9C%EB%82%B8-%ED%8C%8C%EB%9E%80-%EC%9D%80%EC%9C%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[COLOR PAPER HOTEL]]></title>
             <link>https://poclanos.com/album/color-paper-hotel/</link>
@@ -112,14 +144,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-372-ITS-7-TIME-NEED-2-SMOKE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[requiem#1]]></title>
-            <link>https://poclanos.com/album/requiem1/</link>
-            <guid>https://poclanos.com/album/requiem1/</guid>
-            <pubDate>Sun, 22 Jan 2023 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-requiem_1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[生きる者 / Ikirumono (사는 사람)]]></title>
             <link>https://poclanos.com/album/%e7%94%9f%e3%81%8d%e3%82%8b%e8%80%85-ikirumono-%ec%82%ac%eb%8a%94-%ec%82%ac%eb%9e%8c/</link>
             <guid>https://poclanos.com/album/%e7%94%9f%e3%81%8d%e3%82%8b%e8%80%85-ikirumono-%ec%82%ac%eb%8a%94-%ec%82%ac%eb%9e%8c/</guid>
@@ -128,44 +152,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-OhashiTrio-%E7%94%9F%E3%81%8D%E3%82%8B%E8%80%85-_-Ikirumono-%EC%82%AC%EB%8A%94-%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[requiem#1]]></title>
+            <link>https://poclanos.com/album/requiem1/</link>
+            <guid>https://poclanos.com/album/requiem1/</guid>
+            <pubDate>Sun, 22 Jan 2023 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-requiem_1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새빛깔 (Sped Up)]]></title>
             <link>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</link>
             <guid>https://poclanos.com/album/%ec%83%88%eb%b9%9b%ea%b9%94-sped-up/</guid>
             <pubDate>Sat, 21 Jan 2023 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[김새녘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EC%83%88%EB%B9%9B%EA%B9%94-Sped-Up-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MOVEMENT]]></title>
-            <link>https://poclanos.com/album/movement-2/</link>
-            <guid>https://poclanos.com/album/movement-2/</guid>
-            <pubDate>Fri, 20 Jan 2023 03:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[오헬렌]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%98%A4%ED%97%AC%EB%A0%8C-MOVEMENT-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재개발 블루스]]></title>
-            <link>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4/</link>
-            <guid>https://poclanos.com/album/%ec%9e%ac%ea%b0%9c%eb%b0%9c-%eb%b8%94%eb%a3%a8%ec%8a%a4/</guid>
-            <pubDate>Thu, 19 Jan 2023 03:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-RAINBOW99-%EC%9E%AC%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A3%A8%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Better Alone]]></title>
-            <link>https://poclanos.com/album/better-alone/</link>
-            <guid>https://poclanos.com/album/better-alone/</guid>
-            <pubDate>Thu, 19 Jan 2023 03:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Oneianmillion-%EA%B0%95%EC%9D%B4%EC%95%88-Better-Alone%EA%B0%80%EA%B3%B5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2002년]]></title>
-            <link>https://poclanos.com/album/2002%eb%85%84/</link>
-            <guid>https://poclanos.com/album/2002%eb%85%84/</guid>
-            <pubDate>Wed, 18 Jan 2023 03:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EA%B7%80-2002%EB%85%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
