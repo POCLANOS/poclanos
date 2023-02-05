@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 08:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 09:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Remake 1.0]]></title>
+            <link>https://poclanos.com/album/remake-1-0/</link>
+            <guid>https://poclanos.com/album/remake-1-0/</guid>
+            <pubDate>Sun, 05 Feb 2023 09:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[10cm]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5-10CM-Remake-1.0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vanish]]></title>
             <link>https://poclanos.com/album/vanish/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Jan 2023 09:10:09 GMT</pubDate>
             <content:encoded><![CDATA[Viann]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Viann-CAFE-TAPE-02-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 혼자서도 이미]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ed%98%bc%ec%9e%90%ec%84%9c%eb%8f%84-%ec%9d%b4%eb%af%b8/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ed%98%bc%ec%9e%90%ec%84%9c%eb%8f%84-%ec%9d%b4%eb%af%b8/</guid>
-            <pubDate>Thu, 26 Jan 2023 03:11:26 GMT</pubDate>
-            <content:encoded><![CDATA[아사히]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%ED%9E%88-%EB%82%98%EB%8A%94-%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84-%EC%9D%B4%EB%AF%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
