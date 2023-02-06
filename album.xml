@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 03:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No Bless (Feat. Khundi Panda, Chillin Homie, OSUN, DAMINI, A-Chess)]]></title>
+            <link>https://poclanos.com/album/no-bless-feat-khundi-panda-chillin-homie-osun-%eb%8b%a4%eb%af%bc%ec%9d%b4-a-chess/</link>
+            <guid>https://poclanos.com/album/no-bless-feat-khundi-panda-chillin-homie-osun-%eb%8b%a4%eb%af%bc%ec%9d%b4-a-chess/</guid>
+            <pubDate>Mon, 06 Feb 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[Kirim]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Kirim-No-Bless-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holiday]]></title>
+            <link>https://poclanos.com/album/holiday-2/</link>
+            <guid>https://poclanos.com/album/holiday-2/</guid>
+            <pubDate>Mon, 06 Feb 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[Eumin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Holiday-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Remake 1.0]]></title>
             <link>https://poclanos.com/album/remake-1-0/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 27 Jan 2023 03:11:25 GMT</pubDate>
             <content:encoded><![CDATA[Hua Ling (花玲)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Ive-Never-Forgotten-%E6%88%91%E4%B8%8D%E6%9B%BE%E5%BF%98%E8%AE%B0-%EA%B2%8C%EC%9E%84-%EC%9B%90%EC%8B%A0-2023-%EC%8B%A0%EC%B6%98%ED%9A%8C-%EB%8F%99%EC%9D%B8%EA%B3%A1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 여읜 사람들]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%97%ac%ec%9d%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%97%ac%ec%9d%9c-%ec%82%ac%eb%9e%8c%eb%93%a4/</guid>
-            <pubDate>Fri, 27 Jan 2023 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-%EC%82%AC%EB%9E%91%EC%9D%84-%EC%97%AC%EC%9D%9C-%EC%82%AC%EB%9E%8C%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CAFE TAPE 02]]></title>
-            <link>https://poclanos.com/album/cafe-tape-02/</link>
-            <guid>https://poclanos.com/album/cafe-tape-02/</guid>
-            <pubDate>Thu, 26 Jan 2023 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[Viann]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Viann-CAFE-TAPE-02-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
