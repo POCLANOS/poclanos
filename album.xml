@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 02:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Archer]]></title>
+            <link>https://poclanos.com/album/archer/</link>
+            <guid>https://poclanos.com/album/archer/</guid>
+            <pubDate>Thu, 09 Feb 2023 03:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[보이어]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4-Archer-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 (Feat. nov)]]></title>
+            <link>https://poclanos.com/album/%eb%88%88-feat-nov/</link>
+            <guid>https://poclanos.com/album/%eb%88%88-feat-nov/</guid>
+            <pubDate>Thu, 09 Feb 2023 03:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-%EB%88%88-Feat.-nov-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Come Thru]]></title>
             <link>https://poclanos.com/album/come-thru/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 30 Jan 2023 09:11:28 GMT</pubDate>
             <content:encoded><![CDATA[팔칠댄스 (87dance)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%8C%94%EC%B9%A0%EB%8C%84%EC%8A%A4-87dance_COLOR-PAPER-HOTEL-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YEAR (feat. HESSE, cwar)]]></title>
-            <link>https://poclanos.com/album/year-feat-hesse-cwar/</link>
-            <guid>https://poclanos.com/album/year-feat-hesse-cwar/</guid>
-            <pubDate>Mon, 30 Jan 2023 03:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[사스콰치 (Sasquatch)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.%EC%BB%A4%EB%B2%84-%EC%82%AC%EC%8A%A4%EC%BD%B0%EC%B9%98-Sasquatch-YEAR-feat.-HESSE-cwar-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silhouette, Horizon]]></title>
-            <link>https://poclanos.com/album/silhouette-horizon/</link>
-            <guid>https://poclanos.com/album/silhouette-horizon/</guid>
-            <pubDate>Mon, 30 Jan 2023 03:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[진수하 (Jinsuha)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EC%88%98%ED%95%98-Jinsuha-Silhouette-Horizon-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
