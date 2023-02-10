@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 03:23:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바람이 들려줄게 (Let the Wind Tell You) (Korean ver.) (게임 ‘원신’ Fansong)]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%eb%9e%8c%ec%9d%b4-%eb%93%a4%eb%a0%a4%ec%a4%84%ea%b2%8c-let-the-wind-tell-you-korean-ver-%ea%b2%8c%ec%9e%84-%ec%9b%90%ec%8b%a0-fansong/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%eb%9e%8c%ec%9d%b4-%eb%93%a4%eb%a0%a4%ec%a4%84%ea%b2%8c-let-the-wind-tell-you-korean-ver-%ea%b2%8c%ec%9e%84-%ec%9b%90%ec%8b%a0-fansong/</guid>
+            <pubDate>Fri, 10 Feb 2023 03:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[방연지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%8B%AC%EA%B7%9C%ED%98%81-%EC%A0%95%EC%9C%A0%EC%A0%95-%EB%B0%A9%EC%97%B0%EC%A7%80-%EC%9D%B4%EC%8A%AC-%EB%B0%94%EB%9E%8C%EC%9D%B4-%EB%93%A4%EB%A0%A4%EC%A4%84%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<3]]></title>
+            <link>https://poclanos.com/album/52141/</link>
+            <guid>https://poclanos.com/album/52141/</guid>
+            <pubDate>Fri, 10 Feb 2023 03:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[1300]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-1300-3-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Archer]]></title>
             <link>https://poclanos.com/album/archer/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[공중그늘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B3%B5%EC%A4%91%EA%B7%B8%EB%8A%98-%EC%9E%94%EC%98%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼켜낸 파란 은유]]></title>
-            <link>https://poclanos.com/album/%ec%82%bc%ec%bc%9c%eb%82%b8-%ed%8c%8c%eb%9e%80-%ec%9d%80%ec%9c%a0/</link>
-            <guid>https://poclanos.com/album/%ec%82%bc%ec%bc%9c%eb%82%b8-%ed%8c%8c%eb%9e%80-%ec%9d%80%ec%9c%a0/</guid>
-            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[겸 (GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B2%B8GYE0M-%EC%82%BC%EC%BC%9C%EB%82%B8-%ED%8C%8C%EB%9E%80-%EC%9D%80%EC%9C%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COLOR PAPER HOTEL]]></title>
-            <link>https://poclanos.com/album/color-paper-hotel/</link>
-            <guid>https://poclanos.com/album/color-paper-hotel/</guid>
-            <pubDate>Mon, 30 Jan 2023 09:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[팔칠댄스 (87dance)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%8C%94%EC%B9%A0%EB%8C%84%EC%8A%A4-87dance_COLOR-PAPER-HOTEL-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
