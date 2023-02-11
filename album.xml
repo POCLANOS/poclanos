@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 02:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 03:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[INSTANT]]></title>
+            <link>https://poclanos.com/album/instant/</link>
+            <guid>https://poclanos.com/album/instant/</guid>
+            <pubDate>Sat, 11 Feb 2023 03:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[a 9uy(어 가이)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-a-9uy-INSTANT-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바람이 들려줄게 (Let the Wind Tell You) (Korean ver.) (게임 ‘원신’ Fansong)]]></title>
             <link>https://poclanos.com/album/%eb%b0%94%eb%9e%8c%ec%9d%b4-%eb%93%a4%eb%a0%a4%ec%a4%84%ea%b2%8c-let-the-wind-tell-you-korean-ver-%ea%b2%8c%ec%9e%84-%ec%9b%90%ec%8b%a0-fansong/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[Fin Fior]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Fin-Fior-%EA%B2%81%EC%9D%B4%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔영]]></title>
-            <link>https://poclanos.com/album/%ec%9e%94%ec%98%81/</link>
-            <guid>https://poclanos.com/album/%ec%9e%94%ec%98%81/</guid>
-            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[공중그늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B3%B5%EC%A4%91%EA%B7%B8%EB%8A%98-%EC%9E%94%EC%98%81-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
