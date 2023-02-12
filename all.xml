@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 08:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 09:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cue Sign (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cue-sign/</link>
+            <guid>https://poclanos.com/album/cue-sign/</guid>
+            <pubDate>Sun, 12 Feb 2023 09:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[참솜 (Chamsom)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/%EC%B0%B8%EC%86%9C-Chamsom-Cue-Sign-hp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INSTANT (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/instant/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[구원찬]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B5%AC%EC%9B%90%EC%B0%AC-Object-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겁이나 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b2%81%ec%9d%b4%eb%82%98/</link>
-            <guid>https://poclanos.com/album/%ea%b2%81%ec%9d%b4%eb%82%98/</guid>
-            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[Fin Fior]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Fin-Fior-%EA%B2%81%EC%9D%B4%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
