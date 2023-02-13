@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 02:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옛날이야기 해주세요]]></title>
+            <link>https://poclanos.com/album/%ec%98%9b%eb%82%a0%ec%9d%b4%ec%95%bc%ea%b8%b0-%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%98%9b%eb%82%a0%ec%9d%b4%ec%95%bc%ea%b8%b0-%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</guid>
+            <pubDate>Mon, 13 Feb 2023 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[정우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-%EC%98%9B%EB%82%A0%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리가 생각한 것보다]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%83%9d%ea%b0%81%ed%95%9c-%ea%b2%83%eb%b3%b4%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%83%9d%ea%b0%81%ed%95%9c-%ea%b2%83%eb%b3%b4%eb%8b%a4/</guid>
+            <pubDate>Mon, 13 Feb 2023 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[Artinb]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/Our-Thoughts_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YUMA]]></title>
+            <link>https://poclanos.com/album/yuma/</link>
+            <guid>https://poclanos.com/album/yuma/</guid>
+            <pubDate>Mon, 13 Feb 2023 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[ohsol]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ohsol-YUMA-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cue Sign]]></title>
             <link>https://poclanos.com/album/cue-sign/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 02 Feb 2023 03:12:10 GMT</pubDate>
             <content:encoded><![CDATA[GOTCHA !]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-GOTCHA-%EC%96%B4%EC%A7%80%EB%9F%AC%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[96]]></title>
-            <link>https://poclanos.com/album/96/</link>
-            <guid>https://poclanos.com/album/96/</guid>
-            <pubDate>Wed, 01 Feb 2023 09:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-96-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guitar Pick]]></title>
-            <link>https://poclanos.com/album/guitar-pick/</link>
-            <guid>https://poclanos.com/album/guitar-pick/</guid>
-            <pubDate>Wed, 01 Feb 2023 03:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-Guitar-Pick-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Object]]></title>
-            <link>https://poclanos.com/album/object/</link>
-            <guid>https://poclanos.com/album/object/</guid>
-            <pubDate>Tue, 31 Jan 2023 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[구원찬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EA%B5%AC%EC%9B%90%EC%B0%AC-Object-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
