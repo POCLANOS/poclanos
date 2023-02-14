@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 02:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 03:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brownie]]></title>
+            <link>https://poclanos.com/album/brownie/</link>
+            <guid>https://poclanos.com/album/brownie/</guid>
+            <pubDate>Tue, 14 Feb 2023 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Monday-Off-With-Bluesy-Brownie-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고민 (demo)]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%eb%af%bc-demo/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%eb%af%bc-demo/</guid>
+            <pubDate>Tue, 14 Feb 2023 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EA%B3%A0%EB%AF%BC-demo-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Playlist]]></title>
+            <link>https://poclanos.com/album/playlist/</link>
+            <guid>https://poclanos.com/album/playlist/</guid>
+            <pubDate>Tue, 14 Feb 2023 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[Mandark]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Mandark-Playlist-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옛날이야기 해주세요]]></title>
             <link>https://poclanos.com/album/%ec%98%9b%eb%82%a0%ec%9d%b4%ec%95%bc%ea%b8%b0-%ed%95%b4%ec%a3%bc%ec%84%b8%ec%9a%94/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 04 Feb 2023 03:11:50 GMT</pubDate>
             <content:encoded><![CDATA[GLOWCEAN]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-GLOWCEAN-Way-of-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOWEVER]]></title>
-            <link>https://poclanos.com/album/however/</link>
-            <guid>https://poclanos.com/album/however/</guid>
-            <pubDate>Fri, 03 Feb 2023 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[이희상]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-HOWEVER-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소년]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%eb%85%84/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%eb%85%84/</guid>
-            <pubDate>Fri, 03 Feb 2023 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[초월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%9B%94-%EC%86%8C%EB%85%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어지러워]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%ec%a7%80%eb%9f%ac%ec%9b%8c/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%ec%a7%80%eb%9f%ac%ec%9b%8c/</guid>
-            <pubDate>Thu, 02 Feb 2023 03:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[GOTCHA !]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-GOTCHA-%EC%96%B4%EC%A7%80%EB%9F%AC%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
