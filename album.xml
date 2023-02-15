@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 02:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Baby Love]]></title>
+            <link>https://poclanos.com/album/baby-love/</link>
+            <guid>https://poclanos.com/album/baby-love/</guid>
+            <pubDate>Wed, 15 Feb 2023 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[이형은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/%EC%9D%B4%ED%98%95%EC%9D%80-Baby-Love-hp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I’m crazy about you]]></title>
+            <link>https://poclanos.com/album/im-crazy-about-you/</link>
+            <guid>https://poclanos.com/album/im-crazy-about-you/</guid>
+            <pubDate>Wed, 15 Feb 2023 03:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SAMOEDO-Im-crazy-about-you-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Brownie]]></title>
             <link>https://poclanos.com/album/brownie/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 05 Feb 2023 09:09:42 GMT</pubDate>
             <content:encoded><![CDATA[10cm]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5-10CM-Remake-1.0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vanish]]></title>
-            <link>https://poclanos.com/album/vanish/</link>
-            <guid>https://poclanos.com/album/vanish/</guid>
-            <pubDate>Sun, 05 Feb 2023 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[Juno Oh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Juno-Oh-Vanish-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Way of Love]]></title>
-            <link>https://poclanos.com/album/way-of-love/</link>
-            <guid>https://poclanos.com/album/way-of-love/</guid>
-            <pubDate>Sat, 04 Feb 2023 03:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[GLOWCEAN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-GLOWCEAN-Way-of-Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
