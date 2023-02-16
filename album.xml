@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 08:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 09:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bridal Shower]]></title>
+            <link>https://poclanos.com/album/bridal-shower/</link>
+            <guid>https://poclanos.com/album/bridal-shower/</guid>
+            <pubDate>Thu, 16 Feb 2023 09:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-jerd-%EC%A0%80%EB%93%9C-Bridal-Shower-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Time]]></title>
             <link>https://poclanos.com/album/time-4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Feb 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[Kirim]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Kirim-No-Bless-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Holiday]]></title>
-            <link>https://poclanos.com/album/holiday-2/</link>
-            <guid>https://poclanos.com/album/holiday-2/</guid>
-            <pubDate>Mon, 06 Feb 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[Eumin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Holiday-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
