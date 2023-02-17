@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 02:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 03:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Express]]></title>
+            <link>https://poclanos.com/album/express/</link>
+            <guid>https://poclanos.com/album/express/</guid>
+            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Definitional]]></title>
+            <link>https://poclanos.com/album/definitional/</link>
+            <guid>https://poclanos.com/album/definitional/</guid>
+            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[Graffitifilm]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Graffitifilm-Definitional-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bridal Shower]]></title>
             <link>https://poclanos.com/album/bridal-shower/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 08 Feb 2023 03:14:05 GMT</pubDate>
             <content:encoded><![CDATA[ØZI]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-OZI-ADICA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애브륄레어드바이져리]]></title>
-            <link>https://poclanos.com/album/%ec%95%a0%eb%b8%8c%eb%a5%84%eb%a0%88%ec%96%b4%eb%93%9c%eb%b0%94%ec%9d%b4%ec%a0%b8%eb%a6%ac/</link>
-            <guid>https://poclanos.com/album/%ec%95%a0%eb%b8%8c%eb%a5%84%eb%a0%88%ec%96%b4%eb%93%9c%eb%b0%94%ec%9d%b4%ec%a0%b8%eb%a6%ac/</guid>
-            <pubDate>Tue, 07 Feb 2023 09:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[EDDY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-unofficialboyy-EDDY-%EC%95%A0%EB%B8%8C%EB%A5%84%EB%A0%88%EC%96%B4%EB%93%9C%EB%B0%94%EC%9D%B4%EC%A0%B8%EB%A6%AC-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[No Bless (Feat. Khundi Panda, Chillin Homie, OSUN, DAMINI, A-Chess)]]></title>
-            <link>https://poclanos.com/album/no-bless-feat-khundi-panda-chillin-homie-osun-%eb%8b%a4%eb%af%bc%ec%9d%b4-a-chess/</link>
-            <guid>https://poclanos.com/album/no-bless-feat-khundi-panda-chillin-homie-osun-%eb%8b%a4%eb%af%bc%ec%9d%b4-a-chess/</guid>
-            <pubDate>Mon, 06 Feb 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[Kirim]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Kirim-No-Bless-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
