@@ -4,16 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Express (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/express/</link>
-            <guid>https://poclanos.com/album/express/</guid>
-            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Prologue : Love (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/prologue-love/</link>
+            <guid>https://poclanos.com/album/prologue-love/</guid>
+            <pubDate>Fri, 17 Feb 2023 09:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Prologue_Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Definitional (POCLANOS ─ Album)]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
             <content:encoded><![CDATA[Graffitifilm]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Graffitifilm-Definitional-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Express (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/express/</link>
+            <guid>https://poclanos.com/album/express/</guid>
+            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bridal Shower (POCLANOS ─ Album)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Feb 2023 09:11:32 GMT</pubDate>
             <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Come-Thru-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADICA (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/adica/</link>
-            <guid>https://poclanos.com/album/adica/</guid>
-            <pubDate>Wed, 08 Feb 2023 03:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[ØZI]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-OZI-ADICA-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
