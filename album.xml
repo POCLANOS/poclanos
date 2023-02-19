@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 09:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE FROST ON YOUR EDGE]]></title>
+            <link>https://poclanos.com/album/the-frost-on-your-edge/</link>
+            <guid>https://poclanos.com/album/the-frost-on-your-edge/</guid>
+            <pubDate>Sun, 19 Feb 2023 09:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[서리 (30)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%AC-30-THE-FROST-ON-YOUR-EDGE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TOO MUCH]]></title>
             <link>https://poclanos.com/album/too-much-2/</link>
@@ -32,20 +40,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Prologue_Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Express]]></title>
-            <link>https://poclanos.com/album/express/</link>
-            <guid>https://poclanos.com/album/express/</guid>
-            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Definitional]]></title>
             <link>https://poclanos.com/album/definitional/</link>
             <guid>https://poclanos.com/album/definitional/</guid>
             <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
             <content:encoded><![CDATA[Graffitifilm]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Graffitifilm-Definitional-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Express]]></title>
+            <link>https://poclanos.com/album/express/</link>
+            <guid>https://poclanos.com/album/express/</guid>
+            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bridal Shower]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Feb 2023 03:19:28 GMT</pubDate>
             <content:encoded><![CDATA[1300]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-1300-3-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Archer]]></title>
-            <link>https://poclanos.com/album/archer/</link>
-            <guid>https://poclanos.com/album/archer/</guid>
-            <pubDate>Thu, 09 Feb 2023 03:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[보이어]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4-Archer-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
