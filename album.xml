@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 02:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 03:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TOO MUCH]]></title>
+            <link>https://poclanos.com/album/too-much-2/</link>
+            <guid>https://poclanos.com/album/too-much-2/</guid>
+            <pubDate>Sun, 19 Feb 2023 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SWRY-%EC%88%98%EB%A6%AC-TOO-MUCH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[By my side]]></title>
             <link>https://poclanos.com/album/by-my-side/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Feb 2023 03:14:43 GMT</pubDate>
             <content:encoded><![CDATA[보이어]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4-Archer-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 (Feat. nov)]]></title>
-            <link>https://poclanos.com/album/%eb%88%88-feat-nov/</link>
-            <guid>https://poclanos.com/album/%eb%88%88-feat-nov/</guid>
-            <pubDate>Thu, 09 Feb 2023 03:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-%EB%88%88-Feat.-nov-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
