@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 02:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 03:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연인 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%97%b0%ec%9d%b8-2/</link>
+            <guid>https://poclanos.com/album/%ec%97%b0%ec%9d%b8-2/</guid>
+            <pubDate>Tue, 21 Feb 2023 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[송하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%86%A1%ED%95%98%EB%8A%98-%EC%97%B0%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뻔한엔딩 (Feat. Judy Choi) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%bb%94%ed%95%9c%ec%97%94%eb%94%a9-feat-judy-choi/</link>
+            <guid>https://poclanos.com/album/%eb%bb%94%ed%95%9c%ec%97%94%eb%94%a9-feat-judy-choi/</guid>
+            <pubDate>Tue, 21 Feb 2023 03:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[ON]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ON-%EB%BB%94%ED%95%9C%EC%97%94%EB%94%A9-Feat.-Judy-Choi-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 가자 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%8b%a4%ec%8b%9c-%ea%b0%80%ec%9e%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 13 Feb 2023 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[ohsol]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ohsol-YUMA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cue Sign (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/cue-sign/</link>
-            <guid>https://poclanos.com/album/cue-sign/</guid>
-            <pubDate>Sun, 12 Feb 2023 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[참솜 (Chamsom)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/%EC%B0%B8%EC%86%9C-Chamsom-Cue-Sign-hp-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[INSTANT (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/instant/</link>
-            <guid>https://poclanos.com/album/instant/</guid>
-            <pubDate>Sat, 11 Feb 2023 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[a 9uy(어 가이)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-a-9uy-INSTANT-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
