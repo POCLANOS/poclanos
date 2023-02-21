@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 09:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Round and Round]]></title>
+            <link>https://poclanos.com/album/round-and-round/</link>
+            <guid>https://poclanos.com/album/round-and-round/</guid>
+            <pubDate>Tue, 21 Feb 2023 09:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[김수영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%88%98%EC%98%81-Round-and-Round-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연인]]></title>
             <link>https://poclanos.com/album/%ec%97%b0%ec%9d%b8-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Feb 2023 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[Artinb]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/Our-Thoughts_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YUMA]]></title>
-            <link>https://poclanos.com/album/yuma/</link>
-            <guid>https://poclanos.com/album/yuma/</guid>
-            <pubDate>Mon, 13 Feb 2023 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[ohsol]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ohsol-YUMA-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
