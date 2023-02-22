@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 08:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[tales]]></title>
+            <link>https://poclanos.com/album/tales/</link>
+            <guid>https://poclanos.com/album/tales/</guid>
+            <pubDate>Wed, 22 Feb 2023 09:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[kennytheking (케니더킹)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-kennytheking-tales-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭우]]></title>
             <link>https://poclanos.com/album/%ed%8f%ad%ec%9a%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 14 Feb 2023 03:15:06 GMT</pubDate>
             <content:encoded><![CDATA[김새녘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EA%B3%A0%EB%AF%BC-demo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Playlist]]></title>
-            <link>https://poclanos.com/album/playlist/</link>
-            <guid>https://poclanos.com/album/playlist/</guid>
-            <pubDate>Tue, 14 Feb 2023 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[Mandark]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Mandark-Playlist-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
