@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 04:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 05:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SWRY-%EC%88%98%EB%A6%AC-TOO-MUCH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sometimes (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sometimes-2/</link>
-            <guid>https://poclanos.com/album/sometimes-2/</guid>
-            <pubDate>Thu, 23 Feb 2023 04:14:44 GMT</pubDate>
-            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-KnowKnow-Sometimes-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[By my side (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/by-my-side/</link>
             <guid>https://poclanos.com/album/by-my-side/</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 15 Feb 2023 03:16:43 GMT</pubDate>
             <content:encoded><![CDATA[이형은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/%EC%9D%B4%ED%98%95%EC%9D%80-Baby-Love-hp-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I’m crazy about you (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/im-crazy-about-you/</link>
+            <guid>https://poclanos.com/album/im-crazy-about-you/</guid>
+            <pubDate>Thu, 23 Feb 2023 05:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[SAMOEDO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SAMOEDO-Im-crazy-about-you-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
