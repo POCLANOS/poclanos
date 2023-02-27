@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sparkling Moments]]></title>
+            <link>https://poclanos.com/album/sparkling-moments/</link>
+            <guid>https://poclanos.com/album/sparkling-moments/</guid>
+            <pubDate>Mon, 27 Feb 2023 03:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-About-Paul-Sparkling-Moments-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lovely Misery]]></title>
             <link>https://poclanos.com/album/lovely-misery/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
             <content:encoded><![CDATA[Graffitifilm]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Graffitifilm-Definitional-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Express]]></title>
-            <link>https://poclanos.com/album/express/</link>
-            <guid>https://poclanos.com/album/express/</guid>
-            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[제이슨문 (Jason Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B4%EC%8A%A8%EB%AC%B8-Jason-Moon-Express-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
