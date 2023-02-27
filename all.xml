@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 08:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 09:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어른 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-4/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-4/</guid>
+            <pubDate>Mon, 27 Feb 2023 09:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%96%B4%EB%A5%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sparkling Moments (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/sparkling-moments/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Feb 2023 09:11:24 GMT</pubDate>
             <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Prologue_Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Definitional (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/definitional/</link>
-            <guid>https://poclanos.com/album/definitional/</guid>
-            <pubDate>Fri, 17 Feb 2023 03:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[Graffitifilm]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/01/5.-%EC%BB%A4%EB%B2%84-Graffitifilm-Definitional-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
