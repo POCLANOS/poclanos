@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%88%88/</link>
+            <guid>https://poclanos.com/album/%eb%88%88/</guid>
+            <pubDate>Tue, 28 Feb 2023 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[김윤주]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9C%A4%EC%A3%BC-%EC%9E%A5%EB%93%A4%EB%A0%88-%EB%88%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Golden Bridge (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/golden-bridge/</link>
+            <guid>https://poclanos.com/album/golden-bridge/</guid>
+            <pubDate>Tue, 28 Feb 2023 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ANDOR-Golden-Bridge-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어른 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 19 Feb 2023 03:15:11 GMT</pubDate>
             <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SWRY-%EC%88%98%EB%A6%AC-TOO-MUCH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[By my side (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/by-my-side/</link>
-            <guid>https://poclanos.com/album/by-my-side/</guid>
-            <pubDate>Sat, 18 Feb 2023 03:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Gila-%EA%B8%B8%EB%9D%BC-By-my-side-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prologue : Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/prologue-love/</link>
-            <guid>https://poclanos.com/album/prologue-love/</guid>
-            <pubDate>Fri, 17 Feb 2023 09:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Prologue_Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
