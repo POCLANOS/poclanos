@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 08:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 09:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠꼬대 아닌 잠꼬대 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%a0%ea%bc%ac%eb%8c%80-%ec%95%84%eb%8b%8c-%ec%9e%a0%ea%bc%ac%eb%8c%80/</link>
+            <guid>https://poclanos.com/album/%ec%9e%a0%ea%bc%ac%eb%8c%80-%ec%95%84%eb%8b%8c-%ec%9e%a0%ea%bc%ac%eb%8c%80/</guid>
+            <pubDate>Wed, 01 Mar 2023 09:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-%EC%9E%A0%EA%BC%AC%EB%8C%80-%EC%95%84%EB%8B%8C-%EC%9E%A0%EA%BC%AC%EB%8C%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리가 다시 만나면 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%8b%a4%ec%8b%9c-%eb%a7%8c%eb%82%98%eb%a9%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Feb 2023 03:17:21 GMT</pubDate>
             <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-%EA%B1%B8%EC%96%B4%EC%84%9C-%EB%8B%AC%EA%B9%8C%EC%A7%80-feat.-%EA%B9%80%EC%8A%B9%EC%9C%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE FROST ON YOUR EDGE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/the-frost-on-your-edge/</link>
-            <guid>https://poclanos.com/album/the-frost-on-your-edge/</guid>
-            <pubDate>Sun, 19 Feb 2023 09:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[서리 (30)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%AC-30-THE-FROST-ON-YOUR-EDGE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
