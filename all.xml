@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 02:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 03:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리가 다시 만나면 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%8b%a4%ec%8b%9c-%eb%a7%8c%eb%82%98%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%8b%a4%ec%8b%9c-%eb%a7%8c%eb%82%98%eb%a9%b4/</guid>
+            <pubDate>Wed, 01 Mar 2023 03:25:47 GMT</pubDate>
+            <content:encoded><![CDATA[김일두]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%EC%9C%A0%EB%9E%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%88%88/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 19 Feb 2023 09:10:46 GMT</pubDate>
             <content:encoded><![CDATA[서리 (30)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%AC-30-THE-FROST-ON-YOUR-EDGE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TOO MUCH (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/too-much-2/</link>
-            <guid>https://poclanos.com/album/too-much-2/</guid>
-            <pubDate>Sun, 19 Feb 2023 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-SWRY-%EC%88%98%EB%A6%AC-TOO-MUCH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
