@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Ticket (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/a-ticket/</link>
+            <guid>https://poclanos.com/album/a-ticket/</guid>
+            <pubDate>Thu, 02 Mar 2023 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[최정윤]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A0%95%EC%9C%A4-What-Do-You-Want-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PERSONA (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/persona-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Feb 2023 03:17:02 GMT</pubDate>
             <content:encoded><![CDATA[송하늘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%86%A1%ED%95%98%EB%8A%98-%EC%97%B0%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뻔한엔딩 (Feat. Judy Choi) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%bb%94%ed%95%9c%ec%97%94%eb%94%a9-feat-judy-choi/</link>
-            <guid>https://poclanos.com/album/%eb%bb%94%ed%95%9c%ec%97%94%eb%94%a9-feat-judy-choi/</guid>
-            <pubDate>Tue, 21 Feb 2023 03:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[ON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ON-%EB%BB%94%ED%95%9C%EC%97%94%EB%94%A9-Feat.-Judy-Choi-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
