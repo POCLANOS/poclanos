@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 02:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 만든다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b4%84%ec%9d%84-%eb%a7%8c%eb%93%a0%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%eb%b4%84%ec%9d%84-%eb%a7%8c%eb%93%a0%eb%8b%a4/</guid>
+            <pubDate>Mon, 06 Mar 2023 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[시와]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%8B%9C%EC%99%80-%EB%B4%84%EC%9D%84-%EB%A7%8C%EB%93%A0%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[sow (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/sow/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Feb 2023 03:13:08 GMT</pubDate>
             <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-BrokenTeeth-%EC%B6%94%EB%9D%BD%EC%9D%80-%EC%B2%9C%EC%B2%9C%ED%9E%88-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tales (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tales/</link>
-            <guid>https://poclanos.com/album/tales/</guid>
-            <pubDate>Wed, 22 Feb 2023 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[kennytheking (케니더킹)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-kennytheking-tales-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
