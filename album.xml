@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DARKTEMPLAR]]></title>
+            <link>https://poclanos.com/album/darktemplar/</link>
+            <guid>https://poclanos.com/album/darktemplar/</guid>
+            <pubDate>Wed, 08 Mar 2023 09:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-M3CHVNIC-DARKTEMPLAR-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리집 강아지 귀여워 (Sped Up)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%a7%91-%ea%b0%95%ec%95%84%ec%a7%80-%ea%b7%80%ec%97%ac%ec%9b%8c-sped-up/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 25 Feb 2023 03:15:11 GMT</pubDate>
             <content:encoded><![CDATA[이예린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-%EC%8B%B8%EA%B5%AC%EB%A0%A4-%EC%9C%84%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dreamer]]></title>
-            <link>https://poclanos.com/album/dreamer-2/</link>
-            <guid>https://poclanos.com/album/dreamer-2/</guid>
-            <pubDate>Fri, 24 Feb 2023 03:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[금이다 (I’m Gold)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B8%88%EC%9D%B4%EB%8B%A4-Im-Gold-Dreamer-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
