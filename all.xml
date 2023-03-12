@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 02:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 03:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 찾을 때 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%9d%84-%eb%95%8c/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%9d%84-%eb%95%8c/</guid>
+            <pubDate>Sun, 12 Mar 2023 03:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[김전기]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A0%84%EA%B8%B0-%EC%82%AC%EB%9E%91%EC%9D%84-%EC%B0%BE%EC%9D%84-%EB%95%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Just Dance (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/just-dance/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 Feb 2023 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ANDOR-Golden-Bridge-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-4/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-4/</guid>
-            <pubDate>Mon, 27 Feb 2023 09:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[우주히피]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%96%B4%EB%A5%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
