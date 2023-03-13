@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거울]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-3/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-3/</guid>
+            <pubDate>Mon, 13 Mar 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[Alive Funk]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Alive-Funk-%EA%B1%B0%EC%9A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신바람]]></title>
+            <link>https://poclanos.com/album/%ec%8b%a0%eb%b0%94%eb%9e%8c/</link>
+            <guid>https://poclanos.com/album/%ec%8b%a0%eb%b0%94%eb%9e%8c/</guid>
+            <pubDate>Mon, 13 Mar 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[등]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%93%B1-%EC%8B%A0%EB%B0%94%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 찾을 때]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%9d%84-%eb%95%8c/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 01 Mar 2023 03:25:47 GMT</pubDate>
             <content:encoded><![CDATA[김일두]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%EC%9C%A0%EB%9E%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈]]></title>
-            <link>https://poclanos.com/album/%eb%88%88/</link>
-            <guid>https://poclanos.com/album/%eb%88%88/</guid>
-            <pubDate>Tue, 28 Feb 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[김윤주]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9C%A4%EC%A3%BC-%EC%9E%A5%EB%93%A4%EB%A0%88-%EB%88%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Golden Bridge]]></title>
-            <link>https://poclanos.com/album/golden-bridge/</link>
-            <guid>https://poclanos.com/album/golden-bridge/</guid>
-            <pubDate>Tue, 28 Feb 2023 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-ANDOR-Golden-Bridge-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
