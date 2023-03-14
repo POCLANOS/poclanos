@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 08:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 09:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blondie]]></title>
+            <link>https://poclanos.com/album/bridal-shower/</link>
+            <guid>https://poclanos.com/album/bridal-shower/</guid>
+            <pubDate>Tue, 14 Mar 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%80%EB%93%9C-jerd-Blondie-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Episode1 : Love]]></title>
+            <link>https://poclanos.com/album/episode1_love/</link>
+            <guid>https://poclanos.com/album/episode1_love/</guid>
+            <pubDate>Tue, 14 Mar 2023 09:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[So!YoON!(황소윤)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Episode1_Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거울]]></title>
             <link>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 02 Mar 2023 03:20:40 GMT</pubDate>
             <content:encoded><![CDATA[김새벽]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%B2%BD-%EB%B2%88%EC%95%84%EC%9B%83-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠꼬대 아닌 잠꼬대]]></title>
-            <link>https://poclanos.com/album/%ec%9e%a0%ea%bc%ac%eb%8c%80-%ec%95%84%eb%8b%8c-%ec%9e%a0%ea%bc%ac%eb%8c%80/</link>
-            <guid>https://poclanos.com/album/%ec%9e%a0%ea%bc%ac%eb%8c%80-%ec%95%84%eb%8b%8c-%ec%9e%a0%ea%bc%ac%eb%8c%80/</guid>
-            <pubDate>Wed, 01 Mar 2023 09:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-%EC%9E%A0%EA%BC%AC%EB%8C%80-%EC%95%84%EB%8B%8C-%EC%9E%A0%EA%BC%AC%EB%8C%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리가 다시 만나면]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%8b%a4%ec%8b%9c-%eb%a7%8c%eb%82%98%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ea%b0%80-%eb%8b%a4%ec%8b%9c-%eb%a7%8c%eb%82%98%eb%a9%b4/</guid>
-            <pubDate>Wed, 01 Mar 2023 03:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[김일두]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%EC%9C%A0%EB%9E%80-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EB%8B%A4%EC%8B%9C-%EB%A7%8C%EB%82%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
