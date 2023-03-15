@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 02:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 03:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mercurial]]></title>
+            <link>https://poclanos.com/album/mercurial/</link>
+            <guid>https://poclanos.com/album/mercurial/</guid>
+            <pubDate>Wed, 15 Mar 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[실리카겔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Mercurial-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뒤늦은 초대]]></title>
+            <link>https://poclanos.com/album/%eb%92%a4%eb%8a%a6%ec%9d%80-%ec%b4%88%eb%8c%80/</link>
+            <guid>https://poclanos.com/album/%eb%92%a4%eb%8a%a6%ec%9d%80-%ec%b4%88%eb%8c%80/</guid>
+            <pubDate>Wed, 15 Mar 2023 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EB%92%A4%EB%8A%A6%EC%9D%80-%EC%B4%88%EB%8C%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Blondie]]></title>
             <link>https://poclanos.com/album/bridal-shower/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 02 Mar 2023 09:12:23 GMT</pubDate>
             <content:encoded><![CDATA[최정윤]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A0%95%EC%9C%A4-What-Do-You-Want-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PERSONA]]></title>
-            <link>https://poclanos.com/album/persona-2/</link>
-            <guid>https://poclanos.com/album/persona-2/</guid>
-            <pubDate>Thu, 02 Mar 2023 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[THE LWNR (더 라우너)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-THE-LWNR-%EB%8D%94-%EB%9D%BC%EC%9A%B0%EB%84%88-PERSONA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[번아웃]]></title>
-            <link>https://poclanos.com/album/%eb%b2%88%ec%95%84%ec%9b%83/</link>
-            <guid>https://poclanos.com/album/%eb%b2%88%ec%95%84%ec%9b%83/</guid>
-            <pubDate>Thu, 02 Mar 2023 03:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[김새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%B2%BD-%EB%B2%88%EC%95%84%EC%9B%83-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
