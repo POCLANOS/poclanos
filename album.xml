@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나는 너의 증거가 되고 싶어]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%a6%9d%ea%b1%b0%ea%b0%80-%eb%90%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%a6%9d%ea%b1%b0%ea%b0%80-%eb%90%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
+            <pubDate>Thu, 16 Mar 2023 03:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[서림]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%BC-%EB%82%98%EB%8A%94-%EB%84%88%EC%9D%98-%EC%A6%9D%EA%B1%B0%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Summer]]></title>
+            <link>https://poclanos.com/album/summer-4/</link>
+            <guid>https://poclanos.com/album/summer-4/</guid>
+            <pubDate>Thu, 16 Mar 2023 03:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[92914]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-92914-Summer-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mercurial]]></title>
             <link>https://poclanos.com/album/mercurial/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 04 Mar 2023 03:12:44 GMT</pubDate>
             <content:encoded><![CDATA[DANIEL]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-DANIEL-Another-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파랑새]]></title>
-            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%91%ec%83%88/</link>
-            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%91%ec%83%88/</guid>
-            <pubDate>Fri, 03 Mar 2023 04:29:01 GMT</pubDate>
-            <content:encoded><![CDATA[곽태풍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EA%B3%BD%ED%83%9C%ED%92%8D-%ED%8C%8C%EB%9E%91%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Ticket]]></title>
-            <link>https://poclanos.com/album/a-ticket/</link>
-            <guid>https://poclanos.com/album/a-ticket/</guid>
-            <pubDate>Thu, 02 Mar 2023 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[최정윤]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A0%95%EC%9C%A4-What-Do-You-Want-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
