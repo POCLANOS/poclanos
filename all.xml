@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 02:12:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 03:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꽃 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%bd%83-4/</link>
+            <guid>https://poclanos.com/album/%ea%bd%83-4/</guid>
+            <pubDate>Fri, 17 Mar 2023 03:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[이주영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A3%BC%EC%98%81-%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신의 꽃 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ea%bd%83/</link>
+            <guid>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ea%bd%83/</guid>
+            <pubDate>Fri, 17 Mar 2023 03:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[주윤하]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%A3%BC%EC%9C%A4%ED%95%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나는 너의 증거가 되고 싶어 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%a6%9d%ea%b1%b0%ea%b0%80-%eb%90%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 05 Mar 2023 03:23:58 GMT</pubDate>
             <content:encoded><![CDATA[사스콰치 (SASQTCH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%82%AC%EC%8A%A4%EC%BD%B0%EC%B9%98-Sasquatch-sow-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Circulation (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/circulation/</link>
-            <guid>https://poclanos.com/album/circulation/</guid>
-            <pubDate>Sat, 04 Mar 2023 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[Marrakech]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Marrakech-Circlulaton-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/another-love/</link>
-            <guid>https://poclanos.com/album/another-love/</guid>
-            <pubDate>Sat, 04 Mar 2023 03:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[DANIEL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-DANIEL-Another-Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
