@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 02:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 03:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멍]]></title>
+            <link>https://poclanos.com/album/%eb%a9%8d/</link>
+            <guid>https://poclanos.com/album/%eb%a9%8d/</guid>
+            <pubDate>Mon, 20 Mar 2023 03:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[아사히]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%ED%9E%88-%EB%A9%8D-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요, 까치산입니다.]]></title>
+            <link>https://poclanos.com/album/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94-%ea%b9%8c%ec%b9%98%ec%82%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94-%ea%b9%8c%ec%b9%98%ec%82%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</guid>
+            <pubDate>Mon, 20 Mar 2023 03:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[까치산]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EA%B9%8C%EC%B9%98%EC%82%B0%EC%9E%85%EB%8B%88%EB%8B%A4_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5분만]]></title>
             <link>https://poclanos.com/album/5%eb%b6%84%eb%a7%8c/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 08 Mar 2023 03:19:22 GMT</pubDate>
             <content:encoded><![CDATA[Otis Lim]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Otis-Lim-%EC%9A%B0%EB%A6%AC%EC%A7%91-%EA%B0%95%EC%95%84%EC%A7%80-%EA%B7%80%EC%97%AC%EC%9B%8C-Sped-Up-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hug me for No Reason]]></title>
-            <link>https://poclanos.com/album/hug-me-for-no-reason/</link>
-            <guid>https://poclanos.com/album/hug-me-for-no-reason/</guid>
-            <pubDate>Tue, 07 Mar 2023 03:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[송하늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%86%A1%ED%95%98%EB%8A%98-Hug-me-for-No-Reason-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sometimes]]></title>
-            <link>https://poclanos.com/album/sometimes-2/</link>
-            <guid>https://poclanos.com/album/sometimes-2/</guid>
-            <pubDate>Tue, 07 Mar 2023 03:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-KnowKnow-Sometimes-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
