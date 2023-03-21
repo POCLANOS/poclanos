@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 02:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 03:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Clocking]]></title>
+            <link>https://poclanos.com/album/clocking/</link>
+            <guid>https://poclanos.com/album/clocking/</guid>
+            <pubDate>Tue, 21 Mar 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[Hyung]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Hyung-Clocking-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In the yard]]></title>
+            <link>https://poclanos.com/album/in-the-yard/</link>
+            <guid>https://poclanos.com/album/in-the-yard/</guid>
+            <pubDate>Tue, 21 Mar 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[Mesani]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Mesani-In-the-yard-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멍]]></title>
             <link>https://poclanos.com/album/%eb%a9%8d/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 09 Mar 2023 03:19:32 GMT</pubDate>
             <content:encoded><![CDATA[아시아닉]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%8B%9C%EC%95%84%EB%8B%89-%EB%8F%84%EC%8B%9C%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DARKTEMPLAR]]></title>
-            <link>https://poclanos.com/album/darktemplar/</link>
-            <guid>https://poclanos.com/album/darktemplar/</guid>
-            <pubDate>Wed, 08 Mar 2023 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-M3CHVNIC-DARKTEMPLAR-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리집 강아지 귀여워 (Sped Up)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%a7%91-%ea%b0%95%ec%95%84%ec%a7%80-%ea%b7%80%ec%97%ac%ec%9b%8c-sped-up/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%a7%91-%ea%b0%95%ec%95%84%ec%a7%80-%ea%b7%80%ec%97%ac%ec%9b%8c-sped-up/</guid>
-            <pubDate>Wed, 08 Mar 2023 03:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[Otis Lim]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Otis-Lim-%EC%9A%B0%EB%A6%AC%EC%A7%91-%EA%B0%95%EC%95%84%EC%A7%80-%EA%B7%80%EC%97%AC%EC%9B%8C-Sped-Up-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
