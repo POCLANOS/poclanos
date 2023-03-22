@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Happy Ending]]></title>
+            <link>https://poclanos.com/album/happy-ending-2/</link>
+            <guid>https://poclanos.com/album/happy-ending-2/</guid>
+            <pubDate>Wed, 22 Mar 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Snozern-Happy-Ending-Feat.-bni-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Clocking]]></title>
             <link>https://poclanos.com/album/clocking/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Mar 2023 03:22:52 GMT</pubDate>
             <content:encoded><![CDATA[His (히스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-His-%ED%9E%88%EC%8A%A4-Stay-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도시화]]></title>
-            <link>https://poclanos.com/album/%eb%8f%84%ec%8b%9c%ed%99%94/</link>
-            <guid>https://poclanos.com/album/%eb%8f%84%ec%8b%9c%ed%99%94/</guid>
-            <pubDate>Thu, 09 Mar 2023 03:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[아시아닉]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%8B%9C%EC%95%84%EB%8B%89-%EB%8F%84%EC%8B%9C%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
