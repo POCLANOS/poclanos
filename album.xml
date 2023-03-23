@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 02:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 03:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유채]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%ec%b1%84/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%ec%b1%84/</guid>
+            <pubDate>Thu, 23 Mar 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[담담구구 (DamDamGuGu)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%8B%B4%EB%8B%B4%EA%B5%AC%EA%B5%AC-%EC%9C%A0%EC%B1%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Audiosfrom Part 1]]></title>
+            <link>https://poclanos.com/album/audiosfrom-part-1/</link>
+            <guid>https://poclanos.com/album/audiosfrom-part-1/</guid>
+            <pubDate>Thu, 23 Mar 2023 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Audiosfrom-Audiosfrom-Part-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Salt]]></title>
             <link>https://poclanos.com/album/salt/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 13 Mar 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[등]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%93%B1-%EC%8B%A0%EB%B0%94%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 찾을 때]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%9d%84-%eb%95%8c/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%9d%84-%eb%95%8c/</guid>
-            <pubDate>Sun, 12 Mar 2023 03:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[김전기]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A0%84%EA%B8%B0-%EC%82%AC%EB%9E%91%EC%9D%84-%EC%B0%BE%EC%9D%84-%EB%95%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Just Dance]]></title>
-            <link>https://poclanos.com/album/just-dance/</link>
-            <guid>https://poclanos.com/album/just-dance/</guid>
-            <pubDate>Sat, 11 Mar 2023 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-Audiosfrom-%EC%98%A4%EB%94%94%EC%98%A4%EC%8A%A4%ED%94%84%EB%A1%AC-Just-Dance-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
