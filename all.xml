@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 02:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 03:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[입맞춤 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%85%eb%a7%9e%ec%b6%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9e%85%eb%a7%9e%ec%b6%a4/</guid>
+            <pubDate>Fri, 24 Mar 2023 03:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[도정민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-%EC%9E%85%EB%A7%9E%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼마든지 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%96%bc%eb%a7%88%eb%93%a0%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ec%96%bc%eb%a7%88%eb%93%a0%ec%a7%80/</guid>
+            <pubDate>Fri, 24 Mar 2023 03:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[김나은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EC%96%BC%EB%A7%88%EB%93%A0%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유채 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9c%a0%ec%b1%84/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 14 Mar 2023 09:12:19 GMT</pubDate>
             <content:encoded><![CDATA[So!YoON!(황소윤)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Episode1_Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거울 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-3/</link>
-            <guid>https://poclanos.com/album/%ea%b1%b0%ec%9a%b8-3/</guid>
-            <pubDate>Mon, 13 Mar 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[Alive Funk]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Alive-Funk-%EA%B1%B0%EC%9A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신바람 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%8b%a0%eb%b0%94%eb%9e%8c/</link>
-            <guid>https://poclanos.com/album/%ec%8b%a0%eb%b0%94%eb%9e%8c/</guid>
-            <pubDate>Mon, 13 Mar 2023 03:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[등]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%93%B1-%EC%8B%A0%EB%B0%94%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
