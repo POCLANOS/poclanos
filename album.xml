@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 02:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 03:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문명]]></title>
+            <link>https://poclanos.com/album/%eb%ac%b8%eb%aa%85/</link>
+            <guid>https://poclanos.com/album/%eb%ac%b8%eb%aa%85/</guid>
+            <pubDate>Sun, 26 Mar 2023 03:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[만동 (Mandong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%A7%8C%EB%8F%99-Mandong-%EB%AC%B8%EB%AA%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그저 가만히 (with bo)]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%ec%a0%80-%ea%b0%80%eb%a7%8c%ed%9e%88-with-bo/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 Mar 2023 03:11:25 GMT</pubDate>
             <content:encoded><![CDATA[버둥]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EB%92%A4%EB%8A%A6%EC%9D%80-%EC%B4%88%EB%8C%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blondie]]></title>
-            <link>https://poclanos.com/album/bridal-shower/</link>
-            <guid>https://poclanos.com/album/bridal-shower/</guid>
-            <pubDate>Tue, 14 Mar 2023 09:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-%EC%A0%80%EB%93%9C-jerd-Blondie-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
