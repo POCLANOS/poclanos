@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 09:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[O, Pruned! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/o-pruned/</link>
+            <guid>https://poclanos.com/album/o-pruned/</guid>
+            <pubDate>Mon, 27 Mar 2023 09:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[Jclef]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Jclef-O-Pruned-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Two Little Tunes (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/two-little-tunes/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Mar 2023 03:11:58 GMT</pubDate>
             <content:encoded><![CDATA[92914]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-92914-Summer-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mercurial (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/mercurial/</link>
-            <guid>https://poclanos.com/album/mercurial/</guid>
-            <pubDate>Wed, 15 Mar 2023 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[실리카겔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Mercurial-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
