@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 02:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 03:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨의 요정 X 바이킹]]></title>
+            <link>https://poclanos.com/album/%eb%82%a0%ec%94%a8%ec%9d%98-%ec%9a%94%ec%a0%95-x-%eb%b0%94%ec%9d%b4%ed%82%b9/</link>
+            <guid>https://poclanos.com/album/%eb%82%a0%ec%94%a8%ec%9d%98-%ec%9a%94%ec%a0%95-x-%eb%b0%94%ec%9d%b4%ed%82%b9/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[신인류]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9D%B8%EB%A5%98-%EB%82%A0%EC%94%A8%EC%9D%98-%EC%9A%94%EC%A0%95-X-%EB%B0%94%EC%9D%B4%ED%82%B9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래서 다행인 나를]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%9e%98%ec%84%9c-%eb%8b%a4%ed%96%89%ec%9d%b8-%eb%82%98%eb%a5%bc/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9e%98%ec%84%9c-%eb%8b%a4%ed%96%89%ec%9d%b8-%eb%82%98%eb%a5%bc/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[윤지영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%A7%80%EC%98%81-%EA%B7%B8%EB%9E%98%EC%84%9C-%EB%8B%A4%ED%96%89%EC%9D%B8-%EB%82%98%EB%A5%BC%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lies]]></title>
+            <link>https://poclanos.com/album/lies/</link>
+            <guid>https://poclanos.com/album/lies/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[Iwamizu]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-iwamizu-Lies-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Transit]]></title>
+            <link>https://poclanos.com/album/transit-2/</link>
+            <guid>https://poclanos.com/album/transit-2/</guid>
+            <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[HIGA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-HIGA-Transit-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[O, Pruned!]]></title>
             <link>https://poclanos.com/album/o-pruned/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 18 Mar 2023 03:11:50 GMT</pubDate>
             <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Somebody-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꽃]]></title>
-            <link>https://poclanos.com/album/%ea%bd%83-4/</link>
-            <guid>https://poclanos.com/album/%ea%bd%83-4/</guid>
-            <pubDate>Fri, 17 Mar 2023 03:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[이주영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A3%BC%EC%98%81-%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당신의 꽃]]></title>
-            <link>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ea%bd%83/</link>
-            <guid>https://poclanos.com/album/%eb%8b%b9%ec%8b%a0%ec%9d%98-%ea%bd%83/</guid>
-            <pubDate>Fri, 17 Mar 2023 03:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[주윤하]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%A3%BC%EC%9C%A4%ED%95%98-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 너의 증거가 되고 싶어]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%a6%9d%ea%b1%b0%ea%b0%80-%eb%90%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88%ec%9d%98-%ec%a6%9d%ea%b1%b0%ea%b0%80-%eb%90%98%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
-            <pubDate>Thu, 16 Mar 2023 03:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[서림]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%BC-%EB%82%98%EB%8A%94-%EB%84%88%EC%9D%98-%EC%A6%9D%EA%B1%B0%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer]]></title>
-            <link>https://poclanos.com/album/summer-4/</link>
-            <guid>https://poclanos.com/album/summer-4/</guid>
-            <pubDate>Thu, 16 Mar 2023 03:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[92914]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-92914-Summer-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
