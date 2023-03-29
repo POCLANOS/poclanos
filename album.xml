@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 02:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무기징역]]></title>
+            <link>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%ec%a7%95%ec%97%ad/</link>
+            <guid>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%ec%a7%95%ec%97%ad/</guid>
+            <pubDate>Wed, 29 Mar 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Vanillare (바닐레어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Vanillare-%EB%B0%94%EB%8B%90%EB%A0%88%EC%96%B4-%EB%AC%B4%EA%B8%B0%EC%A7%95%EC%97%AD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날씨의 요정 X 바이킹]]></title>
             <link>https://poclanos.com/album/%eb%82%a0%ec%94%a8%ec%9d%98-%ec%9a%94%ec%a0%95-x-%eb%b0%94%ec%9d%b4%ed%82%b9/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 19 Mar 2023 03:13:30 GMT</pubDate>
             <content:encoded><![CDATA[헤르쯔 아날로그 (Herz Analog)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%ED%97%A4%EB%A5%B4%EC%AF%94-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8-Herz-Analog-5%EB%B6%84%EB%A7%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Somebody]]></title>
-            <link>https://poclanos.com/album/somebody/</link>
-            <guid>https://poclanos.com/album/somebody/</guid>
-            <pubDate>Sat, 18 Mar 2023 03:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/02/5.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Somebody-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
