@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 02:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Boy Inside]]></title>
+            <link>https://poclanos.com/album/the-boy-inside/</link>
+            <guid>https://poclanos.com/album/the-boy-inside/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[초월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%9B%94-The-Boy-Inside-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장들레입니다]]></title>
+            <link>https://poclanos.com/album/%ec%9e%a5%eb%93%a4%eb%a0%88%ec%9e%85%eb%8b%88%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9e%a5%eb%93%a4%eb%a0%88%ec%9e%85%eb%8b%88%eb%8b%a4/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[장들레]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EB%93%A4%EB%A0%88-%EC%9E%A5%EB%93%A4%EB%A0%88%EC%9E%85%EB%8B%88%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What’s wrong?]]></title>
+            <link>https://poclanos.com/album/whats-wrong/</link>
+            <guid>https://poclanos.com/album/whats-wrong/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[OURTAPES]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-OURTAPES-Whats-wrong-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[T]]></title>
+            <link>https://poclanos.com/album/t/</link>
+            <guid>https://poclanos.com/album/t/</guid>
+            <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-T-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소시민(小市民)]]></title>
             <link>https://poclanos.com/album/%ec%86%8c%ec%8b%9c%eb%af%bc%e5%b0%8f%e5%b8%82%e6%b0%91/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 22 Mar 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Snozern-Happy-Ending-Feat.-bni-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Clocking]]></title>
-            <link>https://poclanos.com/album/clocking/</link>
-            <guid>https://poclanos.com/album/clocking/</guid>
-            <pubDate>Tue, 21 Mar 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[Hyung]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Hyung-Clocking-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In the yard]]></title>
-            <link>https://poclanos.com/album/in-the-yard/</link>
-            <guid>https://poclanos.com/album/in-the-yard/</guid>
-            <pubDate>Tue, 21 Mar 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[Mesani]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Mesani-In-the-yard-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멍]]></title>
-            <link>https://poclanos.com/album/%eb%a9%8d/</link>
-            <guid>https://poclanos.com/album/%eb%a9%8d/</guid>
-            <pubDate>Mon, 20 Mar 2023 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[아사히]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%ED%9E%88-%EB%A9%8D-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요, 까치산입니다.]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94-%ea%b9%8c%ec%b9%98%ec%82%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95%ed%95%98%ec%84%b8%ec%9a%94-%ea%b9%8c%ec%b9%98%ec%82%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Mon, 20 Mar 2023 03:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[까치산]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94-%EA%B9%8C%EC%B9%98%EC%82%B0%EC%9E%85%EB%8B%88%EB%8B%A4_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
