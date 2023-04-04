@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 02:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 03:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦은 생각]]></title>
+            <link>https://poclanos.com/album/%eb%8a%a6%ec%9d%80-%ec%83%9d%ea%b0%81/</link>
+            <guid>https://poclanos.com/album/%eb%8a%a6%ec%9d%80-%ec%83%9d%ea%b0%81/</guid>
+            <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EB%8A%A6%EC%9D%80-%EC%83%9D%EA%B0%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Magnolia (ft. Rodrigo Bucketbranch)]]></title>
+            <link>https://poclanos.com/album/magnolia-ft-rodrigo-bucketbranch/</link>
+            <guid>https://poclanos.com/album/magnolia-ft-rodrigo-bucketbranch/</guid>
+            <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[Sergeant Jay]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Sergeant-Jay-Magnolia-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[updown (feat. GUKU)]]></title>
+            <link>https://poclanos.com/album/updown-feat-guku/</link>
+            <guid>https://poclanos.com/album/updown-feat-guku/</guid>
+            <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[sh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sh-updown-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Windy]]></title>
             <link>https://poclanos.com/album/windy/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[Iwamizu]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-iwamizu-Lies-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Transit]]></title>
-            <link>https://poclanos.com/album/transit-2/</link>
-            <guid>https://poclanos.com/album/transit-2/</guid>
-            <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[HIGA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-HIGA-Transit-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O, Pruned!]]></title>
-            <link>https://poclanos.com/album/o-pruned/</link>
-            <guid>https://poclanos.com/album/o-pruned/</guid>
-            <pubDate>Mon, 27 Mar 2023 09:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[Jclef]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Jclef-O-Pruned-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two Little Tunes]]></title>
-            <link>https://poclanos.com/album/two-little-tunes/</link>
-            <guid>https://poclanos.com/album/two-little-tunes/</guid>
-            <pubDate>Mon, 27 Mar 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[Ned Darlington]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Ned-Darlington-Two-Little-Tunes-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
