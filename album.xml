@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 02:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연인]]></title>
+            <link>https://poclanos.com/album/%ec%97%b0%ec%9d%b8-3/</link>
+            <guid>https://poclanos.com/album/%ec%97%b0%ec%9d%b8-3/</guid>
+            <pubDate>Thu, 06 Apr 2023 03:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[김민성]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%AF%BC%EC%84%B1-%EC%97%B0%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자동응답]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%eb%8f%99%ec%9d%91%eb%8b%b5/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%eb%8f%99%ec%9d%91%eb%8b%b5/</guid>
+            <pubDate>Thu, 06 Apr 2023 03:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[문소낙 (Sonak Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EB%AC%B8%EC%86%8C%EB%82%99-Sonak-Moon-%EC%9E%90%EB%8F%99%EC%9D%91%EB%8B%B5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[듬뿍]]></title>
             <link>https://poclanos.com/album/%eb%93%ac%eb%bf%8d/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 29 Mar 2023 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[해은(Hae Eun)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%9D%80Hae-Eun-%EC%86%8C%EC%8B%9C%EB%AF%BC%E5%B0%8F%E5%B8%82%E6%B0%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무기징역]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%ec%a7%95%ec%97%ad/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b4%ea%b8%b0%ec%a7%95%ec%97%ad/</guid>
-            <pubDate>Wed, 29 Mar 2023 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[Vanillare (바닐레어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Vanillare-%EB%B0%94%EB%8B%90%EB%A0%88%EC%96%B4-%EB%AC%B4%EA%B8%B0%EC%A7%95%EC%97%AD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[날씨의 요정 X 바이킹]]></title>
-            <link>https://poclanos.com/album/%eb%82%a0%ec%94%a8%ec%9d%98-%ec%9a%94%ec%a0%95-x-%eb%b0%94%ec%9d%b4%ed%82%b9/</link>
-            <guid>https://poclanos.com/album/%eb%82%a0%ec%94%a8%ec%9d%98-%ec%9a%94%ec%a0%95-x-%eb%b0%94%ec%9d%b4%ed%82%b9/</guid>
-            <pubDate>Tue, 28 Mar 2023 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[신인류]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9D%B8%EB%A5%98-%EB%82%A0%EC%94%A8%EC%9D%98-%EC%9A%94%EC%A0%95-X-%EB%B0%94%EC%9D%B4%ED%82%B9-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
