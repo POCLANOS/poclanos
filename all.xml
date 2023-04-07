@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 02:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 03:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[only u (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/only-u/</link>
+            <guid>https://poclanos.com/album/only-u/</guid>
+            <pubDate>Fri, 07 Apr 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-only-u-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Allium/Heath (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/allium-heath/</link>
+            <guid>https://poclanos.com/album/allium-heath/</guid>
+            <pubDate>Fri, 07 Apr 2023 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[Elevator pitch]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-Elevator-Pitch-AlliumHeath-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연인 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%97%b0%ec%9d%b8-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
             <content:encoded><![CDATA[OURTAPES]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-OURTAPES-Whats-wrong-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/t/</link>
-            <guid>https://poclanos.com/album/t/</guid>
-            <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-T-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소시민(小市民) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%ec%8b%9c%eb%af%bc%e5%b0%8f%e5%b8%82%e6%b0%91/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%ec%8b%9c%eb%af%bc%e5%b0%8f%e5%b8%82%e6%b0%91/</guid>
-            <pubDate>Wed, 29 Mar 2023 09:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[해은(Hae Eun)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%9D%80Hae-Eun-%EC%86%8C%EC%8B%9C%EB%AF%BC%E5%B0%8F%E5%B8%82%E6%B0%91-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
