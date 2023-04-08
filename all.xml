@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 02:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다섯 번째 봄 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4%ec%84%af-%eb%b2%88%ec%a7%b8-%eb%b4%84/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4%ec%84%af-%eb%b2%88%ec%a7%b8-%eb%b4%84/</guid>
+            <pubDate>Sat, 08 Apr 2023 03:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[김뜻돌]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%9C%BB%EB%8F%8C-%EB%8B%A4%EC%84%AF-%EB%B2%88%EC%A7%B8-%EB%B4%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[only u (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/only-u/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
             <content:encoded><![CDATA[장들레]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/%EC%9E%A5%EB%93%A4%EB%A0%88%EC%9E%85%EB%8B%88%EB%8B%A4-%EC%BB%A4%EB%B2%84_230330%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What’s wrong? (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/whats-wrong/</link>
-            <guid>https://poclanos.com/album/whats-wrong/</guid>
-            <pubDate>Thu, 30 Mar 2023 03:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[OURTAPES]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-OURTAPES-Whats-wrong-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
