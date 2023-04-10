@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 08:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 09:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NOT REALLY NOW NOT ANYMORE]]></title>
+            <link>https://poclanos.com/album/not-really-now-not-anymore/</link>
+            <guid>https://poclanos.com/album/not-really-now-not-anymore/</guid>
+            <pubDate>Mon, 10 Apr 2023 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[NUCK (넋업샨)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/5.-%EC%BB%A4%EB%B2%84-NUCK-NOT-REALLY-NOW-NOT-ANYMORE-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Champion Love Songs (冠军情歌) – EP]]></title>
             <link>https://poclanos.com/album/champion-love-songs-%e5%86%a0%e5%86%9b%e6%83%85%e6%ad%8c-ep/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Apr 2023 03:10:33 GMT</pubDate>
             <content:encoded><![CDATA[다린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-bud-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤]]></title>
-            <link>https://poclanos.com/album/%eb%b0%a4-3/</link>
-            <guid>https://poclanos.com/album/%eb%b0%a4-3/</guid>
-            <pubDate>Fri, 31 Mar 2023 03:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-ANDOR-%EC%95%A4%EB%93%9C%EC%98%A4%EC%96%B4-%EB%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
