@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 02:36:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FREIECK]]></title>
+            <link>https://poclanos.com/album/freieck/</link>
+            <guid>https://poclanos.com/album/freieck/</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-FREIECK-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그럼에도 불구하고]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%bc%ec%97%90%eb%8f%84-%eb%b6%88%ea%b5%ac%ed%95%98%ea%b3%a0-2/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%bc%ec%97%90%eb%8f%84-%eb%b6%88%ea%b5%ac%ed%95%98%ea%b3%a0-2/</guid>
+            <pubDate>Tue, 11 Apr 2023 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[밍기뉴 (Mingginyu)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EB%B0%8D%EA%B8%B0%EB%89%B4-%EA%B7%B8%EB%9F%BC%EC%97%90%EB%8F%84-%EB%B6%88%EA%B5%AC%ED%95%98%EA%B3%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NOT REALLY NOW NOT ANYMORE]]></title>
             <link>https://poclanos.com/album/not-really-now-not-anymore/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 02 Apr 2023 03:10:09 GMT</pubDate>
             <content:encoded><![CDATA[종연]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%A2%85%EC%97%B0-%EC%8B%A0%EA%B8%B0%EB%A3%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소설]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%ec%84%a4/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%ec%84%a4/</guid>
-            <pubDate>Sat, 01 Apr 2023 03:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-FRankly-%EC%86%8C%EC%84%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bud]]></title>
-            <link>https://poclanos.com/album/bud-2/</link>
-            <guid>https://poclanos.com/album/bud-2/</guid>
-            <pubDate>Sat, 01 Apr 2023 03:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[다린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-bud-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
