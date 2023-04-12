@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 08:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 09:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We gon tour (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/we-gon-tour/</link>
+            <guid>https://poclanos.com/album/we-gon-tour/</guid>
+            <pubDate>Wed, 12 Apr 2023 09:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-We-gon-tour-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 정원 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%95%ec%9b%90/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Apr 2023 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[12BH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-12BH-Windy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Signal (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/signal/</link>
-            <guid>https://poclanos.com/album/signal/</guid>
-            <pubDate>Mon, 03 Apr 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[Plant]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Plant-Signal-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
