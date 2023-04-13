@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 08:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 09:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Album Commentary: [Episode1 : Love]]]></title>
+            <link>https://poclanos.com/album/album-commentary-episode1-love/</link>
+            <guid>https://poclanos.com/album/album-commentary-episode1-love/</guid>
+            <pubDate>Thu, 13 Apr 2023 09:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Album-Commentary-Episode1-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠을 깨자]]></title>
             <link>https://poclanos.com/album/%ec%9e%a0%ec%9d%84-%ea%b9%a8%ec%9e%90/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
             <content:encoded><![CDATA[Sergeant Jay]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Sergeant-Jay-Magnolia-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[updown (feat. GUKU)]]></title>
-            <link>https://poclanos.com/album/updown-feat-guku/</link>
-            <guid>https://poclanos.com/album/updown-feat-guku/</guid>
-            <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sh-updown-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
