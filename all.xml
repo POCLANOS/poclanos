@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 02:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낮잠 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%ae%ec%9e%a0-3/</link>
+            <guid>https://poclanos.com/album/%eb%82%ae%ec%9e%a0-3/</guid>
+            <pubDate>Fri, 14 Apr 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[HIZY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-HIZY-%EB%82%AE%EC%9E%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이리저리루 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4%eb%a6%ac%ec%a0%80%eb%a6%ac%eb%a3%a8/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4%eb%a6%ac%ec%a0%80%eb%a6%ac%eb%a3%a8/</guid>
+            <pubDate>Fri, 14 Apr 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[372]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-372-%EC%95%88%EA%B2%BD%EC%9E%BD%EC%9D%B4-Sipseonbee-%EC%9D%B4%EB%A6%AC%EC%A0%80%EB%A6%AC%EB%A3%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Album Commentary: [Episode1 : Love] (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/album-commentary-episode1-love/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 05 Apr 2023 03:10:39 GMT</pubDate>
             <content:encoded><![CDATA[은종]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%9D%80%EC%A2%85-%EB%B4%84%EC%9D%B4%EC%95%BC-%EB%B4%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늦은 생각 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8a%a6%ec%9d%80-%ec%83%9d%ea%b0%81/</link>
-            <guid>https://poclanos.com/album/%eb%8a%a6%ec%9d%80-%ec%83%9d%ea%b0%81/</guid>
-            <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[김새녘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%83%88%EB%85%98-%EB%8A%A6%EC%9D%80-%EC%83%9D%EA%B0%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Magnolia (ft. Rodrigo Bucketbranch) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/magnolia-ft-rodrigo-bucketbranch/</link>
-            <guid>https://poclanos.com/album/magnolia-ft-rodrigo-bucketbranch/</guid>
-            <pubDate>Tue, 04 Apr 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[Sergeant Jay]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%BB%A4%EB%B2%84-Sergeant-Jay-Magnolia-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
