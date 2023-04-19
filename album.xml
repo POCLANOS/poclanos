@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 00:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 03:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Comrades, Almost a Love Story (信號無法傳送)]]></title>
+            <link>https://poclanos.com/album/comrades-almost-a-love-story-%e4%bf%a1%e8%99%9f%e7%84%a1%e6%b3%95%e5%82%b3%e9%80%81/</link>
+            <guid>https://poclanos.com/album/comrades-almost-a-love-story-%e4%bf%a1%e8%99%9f%e7%84%a1%e6%b3%95%e5%82%b3%e9%80%81/</guid>
+            <pubDate>Wed, 19 Apr 2023 03:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[Theseus]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Theseus-%E5%BF%92%E4%BF%AE%E6%96%AF-Comrades-Almost-a-Love-Story-%E4%BF%A1%E8%99%9F%E7%84%A1%E6%B3%95%E5%82%B3%E9%80%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안구벌레]]></title>
+            <link>https://poclanos.com/album/%ec%95%88%ea%b5%ac%eb%b2%8c%eb%a0%88/</link>
+            <guid>https://poclanos.com/album/%ec%95%88%ea%b5%ac%eb%b2%8c%eb%a0%88/</guid>
+            <pubDate>Wed, 19 Apr 2023 03:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[quinn_ (쿠인)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-quinn_-%EC%BF%A0%EC%9D%B8-%EC%95%88%EA%B5%AC%EB%B2%8C%EB%A0%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OFF THE RECORD]]></title>
             <link>https://poclanos.com/album/off-the-record/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 10 Apr 2023 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[Masiwei (马思唯)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/3.-%EC%BB%A4%EB%B2%84-Masiwei-%E9%A9%AC%E6%80%9D%E5%94%AF-Champion-Love-Songs-%E5%86%A0%E5%86%9B%E6%83%85%E6%AD%8C-EP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기차]]></title>
-            <link>https://poclanos.com/album/%ea%b8%b0%ec%b0%a8/</link>
-            <guid>https://poclanos.com/album/%ea%b8%b0%ec%b0%a8/</guid>
-            <pubDate>Mon, 10 Apr 2023 03:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[ddbb]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-%EA%B8%B0%EC%B0%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Void]]></title>
-            <link>https://poclanos.com/album/the-void/</link>
-            <guid>https://poclanos.com/album/the-void/</guid>
-            <pubDate>Sun, 09 Apr 2023 03:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-off-the-menu-%EC%98%A4%ED%94%84%EB%8D%94%EB%A9%94%EB%89%B4-The-Void-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
