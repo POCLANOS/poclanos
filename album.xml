@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 02:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 03:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CYNICAL]]></title>
+            <link>https://poclanos.com/album/cynical/</link>
+            <guid>https://poclanos.com/album/cynical/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-CYNICAL-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Time]]></title>
+            <link>https://poclanos.com/album/time-5/</link>
+            <guid>https://poclanos.com/album/time-5/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[pigfrog]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-pigfrog-Time-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자처]]></title>
+            <link>https://poclanos.com/album/52690/</link>
+            <guid>https://poclanos.com/album/52690/</guid>
+            <pubDate>Fri, 21 Apr 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[한로로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%9E%90%EC%B2%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나란히]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%9e%80%ed%9e%88/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 13 Apr 2023 09:11:12 GMT</pubDate>
             <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Album-Commentary-Episode1-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠을 깨자]]></title>
-            <link>https://poclanos.com/album/%ec%9e%a0%ec%9d%84-%ea%b9%a8%ec%9e%90/</link>
-            <guid>https://poclanos.com/album/%ec%9e%a0%ec%9d%84-%ea%b9%a8%ec%9e%90/</guid>
-            <pubDate>Thu, 13 Apr 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-uju%EC%9A%B0%EC%A3%BC-%EC%9E%A0%EC%9D%84-%EA%B9%A8%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We gon tour]]></title>
-            <link>https://poclanos.com/album/we-gon-tour/</link>
-            <guid>https://poclanos.com/album/we-gon-tour/</guid>
-            <pubDate>Wed, 12 Apr 2023 09:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[leanon(리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-We-gon-tour-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 정원]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%95%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%a0%95%ec%9b%90/</guid>
-            <pubDate>Wed, 12 Apr 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[정오월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%98%A4%EC%9B%94-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%A0%95%EC%9B%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
