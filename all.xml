@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 08:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 09:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나의 정원에서 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/52697/</link>
+            <guid>https://poclanos.com/album/52697/</guid>
+            <pubDate>Sat, 22 Apr 2023 09:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[윤지영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/%EC%9C%A4%EC%A7%80%EC%98%81-%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CYNICAL (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/cynical/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Apr 2023 03:10:44 GMT</pubDate>
             <content:encoded><![CDATA[372]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-372-%EC%95%88%EA%B2%BD%EC%9E%BD%EC%9D%B4-Sipseonbee-%EC%9D%B4%EB%A6%AC%EC%A0%80%EB%A6%AC%EB%A3%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Album Commentary: [Episode1 : Love] (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/album-commentary-episode1-love/</link>
-            <guid>https://poclanos.com/album/album-commentary-episode1-love/</guid>
-            <pubDate>Thu, 13 Apr 2023 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[So!YoON! (황소윤)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-SoYoON-%ED%99%A9%EC%86%8C%EC%9C%A4-Album-Commentary-Episode1-Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
