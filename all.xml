@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 02:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백아절현 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b0%b1%ec%95%84%ec%a0%88%ed%98%84/</link>
+            <guid>https://poclanos.com/album/%eb%b0%b1%ec%95%84%ec%a0%88%ed%98%84/</guid>
+            <pubDate>Mon, 24 Apr 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[도정민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-%EC%B0%AC%EB%AF%BC-CHANMIN-%EB%B0%B1%EC%95%84%EC%A0%88%ED%98%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Feel at Home (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/feel-at-home/</link>
+            <guid>https://poclanos.com/album/feel-at-home/</guid>
+            <pubDate>Mon, 24 Apr 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Snozern-%EC%8A%A4%EB%85%B8%EC%A0%84-Feel-at-Home-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alive (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/alive-2/</link>
+            <guid>https://poclanos.com/album/alive-2/</guid>
+            <pubDate>Mon, 24 Apr 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-SYNTH-Alive-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PORNO CHANNEL (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/porno-channel/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 16 Apr 2023 03:10:57 GMT</pubDate>
             <content:encoded><![CDATA[숨비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94-%EB%84%88%EC%97%90%EA%B2%8C-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그래서! 모? (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%9e%98%ec%84%9c-%eb%aa%a8/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9e%98%ec%84%9c-%eb%aa%a8/</guid>
-            <pubDate>Sat, 15 Apr 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[임세모]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%9E%84%EC%84%B8%EB%AA%A8-%EA%B7%B8%EB%9E%98%EC%84%9C-%EB%AA%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[두류공원 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%91%90%eb%a5%98%ea%b3%b5%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%eb%91%90%eb%a5%98%ea%b3%b5%ec%9b%90/</guid>
-            <pubDate>Fri, 14 Apr 2023 09:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[이강승]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EA%B0%95%EC%8A%B9-%EB%91%90%EB%A5%98%EA%B3%B5%EC%9B%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낮잠 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%ae%ec%9e%a0-3/</link>
-            <guid>https://poclanos.com/album/%eb%82%ae%ec%9e%a0-3/</guid>
-            <pubDate>Fri, 14 Apr 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[HIZY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-HIZY-%EB%82%AE%EC%9E%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
