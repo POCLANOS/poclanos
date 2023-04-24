@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 05:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 06:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sat, 22 Apr 2023 09:09:08 GMT</pubDate>
             <content:encoded><![CDATA[윤지영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/%EC%9C%A4%EC%A7%80%EC%98%81-%EB%82%98%EC%9D%98-%EC%A0%95%EC%9B%90%EC%97%90%EC%84%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[After the Night (Live)]]></title>
+            <link>https://poclanos.com/album/after-the-night-live/</link>
+            <guid>https://poclanos.com/album/after-the-night-live/</guid>
+            <pubDate>Mon, 24 Apr 2023 06:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Parannoul-After-the-Night-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CYNICAL]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 16 Apr 2023 03:10:57 GMT</pubDate>
             <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-SWRY-SUGAR-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑하는 너에게]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%98%eb%8a%94-%eb%84%88%ec%97%90%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%98%eb%8a%94-%eb%84%88%ec%97%90%ea%b2%8c/</guid>
-            <pubDate>Sun, 16 Apr 2023 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[숨비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94-%EB%84%88%EC%97%90%EA%B2%8C-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
