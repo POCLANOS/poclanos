@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 02:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 03:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놀이동산 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%86%80%ec%9d%b4%eb%8f%99%ec%82%b0/</link>
+            <guid>https://poclanos.com/album/%eb%86%80%ec%9d%b4%eb%8f%99%ec%82%b0/</guid>
+            <pubDate>Wed, 26 Apr 2023 03:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-%EB%86%80%EC%9D%B4%EB%8F%99%EC%82%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%83%88-5/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Apr 2023 03:18:50 GMT</pubDate>
             <content:encoded><![CDATA[Theseus]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Theseus-%E5%BF%92%E4%BF%AE%E6%96%AF-Comrades-Almost-a-Love-Story-%E4%BF%A1%E8%99%9F%E7%84%A1%E6%B3%95%E5%82%B3%E9%80%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안구벌레 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%ea%b5%ac%eb%b2%8c%eb%a0%88/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%ea%b5%ac%eb%b2%8c%eb%a0%88/</guid>
-            <pubDate>Wed, 19 Apr 2023 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[quinn_ (쿠인)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-quinn_-%EC%BF%A0%EC%9D%B8-%EC%95%88%EA%B5%AC%EB%B2%8C%EB%A0%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
