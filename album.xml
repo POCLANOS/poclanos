@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 02:05:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 03:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[향기]]></title>
+            <link>https://poclanos.com/album/%ed%96%a5%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%ed%96%a5%ea%b8%b0/</guid>
+            <pubDate>Thu, 27 Apr 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[백아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%95%84_-%ED%96%A5%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[놀이동산]]></title>
             <link>https://poclanos.com/album/%eb%86%80%ec%9d%b4%eb%8f%99%ec%82%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Apr 2023 09:13:07 GMT</pubDate>
             <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-bni-%EB%B9%84%EB%8B%88-%ED%8C%A8%EC%8A%A4%ED%8A%B8%ED%91%B8%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Comrades, Almost a Love Story (信號無法傳送)]]></title>
-            <link>https://poclanos.com/album/comrades-almost-a-love-story-%e4%bf%a1%e8%99%9f%e7%84%a1%e6%b3%95%e5%82%b3%e9%80%81/</link>
-            <guid>https://poclanos.com/album/comrades-almost-a-love-story-%e4%bf%a1%e8%99%9f%e7%84%a1%e6%b3%95%e5%82%b3%e9%80%81/</guid>
-            <pubDate>Wed, 19 Apr 2023 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[Theseus]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Theseus-%E5%BF%92%E4%BF%AE%E6%96%AF-Comrades-Almost-a-Love-Story-%E4%BF%A1%E8%99%9F%E7%84%A1%E6%B3%95%E5%82%B3%E9%80%81-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
