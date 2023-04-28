@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 08:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변화 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b3%80%ed%99%94/</link>
+            <guid>https://poclanos.com/album/%eb%b3%80%ed%99%94/</guid>
+            <pubDate>Fri, 28 Apr 2023 09:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/5.-%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88-%EB%B3%80%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Opaque Yet Shining (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/opaque-yet-shining/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Apr 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[WINee (위니)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-WINee%EC%9C%84%EB%8B%88-asap-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cave (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/cave/</link>
-            <guid>https://poclanos.com/album/cave/</guid>
-            <pubDate>Thu, 20 Apr 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[a 9uy(어 가이)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-a-9uy-cave-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
