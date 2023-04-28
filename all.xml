@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 02:05:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Opaque Yet Shining (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/opaque-yet-shining/</link>
+            <guid>https://poclanos.com/album/opaque-yet-shining/</guid>
+            <pubDate>Fri, 28 Apr 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[Mi Mang]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Mi-Mang-Opaque-Yet-Shining-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[향기 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%96%a5%ea%b8%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Apr 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[a 9uy(어 가이)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-a-9uy-cave-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패스트푸드 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%8c%a8%ec%8a%a4%ed%8a%b8%ed%91%b8%eb%93%9c/</link>
-            <guid>https://poclanos.com/album/%ed%8c%a8%ec%8a%a4%ed%8a%b8%ed%91%b8%eb%93%9c/</guid>
-            <pubDate>Wed, 19 Apr 2023 09:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[b!ni (비니!)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-bni-%EB%B9%84%EB%8B%88-%ED%8C%A8%EC%8A%A4%ED%8A%B8%ED%91%B8%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
