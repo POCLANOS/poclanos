@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 02:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bye Bye That’s All (今天就到这)]]></title>
+            <link>https://poclanos.com/album/bye-bye-thats-all-%e4%bb%8a%e5%a4%a9%e5%b0%b1%e5%88%b0%e8%bf%99/</link>
+            <guid>https://poclanos.com/album/bye-bye-thats-all-%e4%bb%8a%e5%a4%a9%e5%b0%b1%e5%88%b0%e8%bf%99/</guid>
+            <pubDate>Mon, 01 May 2023 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[Bad Sweetheart]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/5.-%EC%BB%A4%EB%B2%84-Bad-Sweetheart-Bye-Bye-Thats-All-%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%88%B0%E8%BF%99-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 안의 폭주족]]></title>
+            <link>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%9d%98-%ed%8f%ad%ec%a3%bc%ec%a1%b1/</link>
+            <guid>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%9d%98-%ed%8f%ad%ec%a3%bc%ec%a1%b1/</guid>
+            <pubDate>Mon, 01 May 2023 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[신승은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%82%B4-%EC%95%88%EC%9D%98-%ED%8F%AD%EC%A3%BC%EC%A1%B1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비슷한 노래]]></title>
             <link>https://poclanos.com/album/%eb%b9%84%ec%8a%b7%ed%95%9c-%eb%85%b8%eb%9e%98/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 21 Apr 2023 03:10:28 GMT</pubDate>
             <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-CYNICAL-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time]]></title>
-            <link>https://poclanos.com/album/time-5/</link>
-            <guid>https://poclanos.com/album/time-5/</guid>
-            <pubDate>Fri, 21 Apr 2023 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[pigfrog]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-pigfrog-Time-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자처]]></title>
-            <link>https://poclanos.com/album/52690/</link>
-            <guid>https://poclanos.com/album/52690/</guid>
-            <pubDate>Fri, 21 Apr 2023 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%9E%90%EC%B2%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
