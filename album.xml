@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 02:35:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Inner]]></title>
+            <link>https://poclanos.com/album/inner/</link>
+            <guid>https://poclanos.com/album/inner/</guid>
+            <pubDate>Thu, 04 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[ART PROJECT]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-ART-PROJECT-Inner-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Feel Hungry Every Night (每到夜里我就很饿)]]></title>
+            <link>https://poclanos.com/album/i-feel-hungry-every-night-%e6%af%8f%e5%88%b0%e5%a4%9c%e9%87%8c%e6%88%91%e5%b0%b1%e5%be%88%e9%a5%bf/</link>
+            <guid>https://poclanos.com/album/i-feel-hungry-every-night-%e6%af%8f%e5%88%b0%e5%a4%9c%e9%87%8c%e6%88%91%e5%b0%b1%e5%be%88%e9%a5%bf/</guid>
+            <pubDate>Thu, 04 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[ChiliChill]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-ChiliChill-I-Feel-Hungry-Every-Night-%E6%AF%8F%E5%88%B0%E5%A4%9C%E9%87%8C%E6%88%91%E5%B0%B1%E5%BE%88%E9%A5%BF-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Headache]]></title>
+            <link>https://poclanos.com/album/headache-2/</link>
+            <guid>https://poclanos.com/album/headache-2/</guid>
+            <pubDate>Thu, 04 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/Gila-%EA%B8%B8%EB%9D%BC-Headache-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cruel Winter]]></title>
             <link>https://poclanos.com/album/cruel-winter/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
             <content:encoded><![CDATA[실리카겔]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Machine-Boy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brilliance]]></title>
-            <link>https://poclanos.com/album/brilliance/</link>
-            <guid>https://poclanos.com/album/brilliance/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[Hwi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Hwi-Brilliance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백아절현]]></title>
-            <link>https://poclanos.com/album/%eb%b0%b1%ec%95%84%ec%a0%88%ed%98%84/</link>
-            <guid>https://poclanos.com/album/%eb%b0%b1%ec%95%84%ec%a0%88%ed%98%84/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[도정민]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-%EC%B0%AC%EB%AF%BC-CHANMIN-%EB%B0%B1%EC%95%84%EC%A0%88%ED%98%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Feel at Home]]></title>
-            <link>https://poclanos.com/album/feel-at-home/</link>
-            <guid>https://poclanos.com/album/feel-at-home/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Snozern-%EC%8A%A4%EB%85%B8%EC%A0%84-Feel-at-Home-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
