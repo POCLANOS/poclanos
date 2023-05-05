@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 02:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 03:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Scent of Summer (Original Soundtrack for Document 17th Film)]]></title>
+            <link>https://poclanos.com/album/scent-of-summer-original-soundtrack-for-document-17th-film/</link>
+            <guid>https://poclanos.com/album/scent-of-summer-original-soundtrack-for-document-17th-film/</guid>
+            <pubDate>Fri, 05 May 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[Wind&amp;Wave]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/3.-%EC%BB%A4%EB%B2%84-WindWave-Scent-of-SummerOriginal-Soundtrack-for-Document-17t-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five Lines]]></title>
+            <link>https://poclanos.com/album/five-lines/</link>
+            <guid>https://poclanos.com/album/five-lines/</guid>
+            <pubDate>Fri, 05 May 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-Cover-Low-Hanging-Fruits-Five-Lines-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Inner]]></title>
             <link>https://poclanos.com/album/inner/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
             <content:encoded><![CDATA[토스터즈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%86%A0%EC%8A%A4%ED%84%B0%EC%A6%88-%EC%96%B4%EC%A9%94-%EC%88%98-%EC%97%86%EA%B3%A0-%EB%81%9D%EB%82%A0-%EC%88%98-%EC%97%86%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[nuance]]></title>
-            <link>https://poclanos.com/album/nuance/</link>
-            <guid>https://poclanos.com/album/nuance/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[Luca minor]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Luca-minor-nuance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Machine Boy]]></title>
-            <link>https://poclanos.com/album/machine-boy/</link>
-            <guid>https://poclanos.com/album/machine-boy/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[실리카겔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Machine-Boy_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
