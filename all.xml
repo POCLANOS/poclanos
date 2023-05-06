@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 08:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 09:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOMM (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/bomm/</link>
+            <guid>https://poclanos.com/album/bomm/</guid>
+            <pubDate>Sat, 06 May 2023 09:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/BOMM-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Breakfast Club_조찬 클럽 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/52796/</link>
+            <guid>https://poclanos.com/album/52796/</guid>
+            <pubDate>Sat, 06 May 2023 09:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[세진(Sejin)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/The-Breakfast-Club_%EC%A1%B0%EC%B0%AC-%ED%81%B4%EB%9F%BD-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Swirl (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/swirl/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
             <content:encoded><![CDATA[백아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%95%84_-%ED%96%A5%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀이동산 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%86%80%ec%9d%b4%eb%8f%99%ec%82%b0/</link>
-            <guid>https://poclanos.com/album/%eb%86%80%ec%9d%b4%eb%8f%99%ec%82%b0/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/03/4.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-%EB%86%80%EC%9D%B4%EB%8F%99%EC%82%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%88-5/</link>
-            <guid>https://poclanos.com/album/%ec%83%88-5/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[공중그늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EA%B3%B5%EC%A4%91%EA%B7%B8%EB%8A%98-%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
