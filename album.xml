@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 02:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 03:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤어짐의 순간(예예)]]></title>
+            <link>https://poclanos.com/album/%ed%97%a4%ec%96%b4%ec%a7%90%ec%9d%98-%ec%88%9c%ea%b0%84%ec%98%88%ec%98%88/</link>
+            <guid>https://poclanos.com/album/%ed%97%a4%ec%96%b4%ec%a7%90%ec%9d%98-%ec%88%9c%ea%b0%84%ec%98%88%ec%98%88/</guid>
+            <pubDate>Sun, 07 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[잠(zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0zzzaam-%ED%97%A4%EC%96%B4%EC%A7%90%EC%9D%98-%EC%88%9C%EA%B0%84%EC%98%88%EC%98%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BOMM]]></title>
             <link>https://poclanos.com/album/bomm/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
             <content:encoded><![CDATA[Mi Mang]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Mi-Mang-Opaque-Yet-Shining-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[향기]]></title>
-            <link>https://poclanos.com/album/%ed%96%a5%ea%b8%b0/</link>
-            <guid>https://poclanos.com/album/%ed%96%a5%ea%b8%b0/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[백아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%95%84_-%ED%96%A5%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
