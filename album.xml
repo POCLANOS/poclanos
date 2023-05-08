@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 04:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 05:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Sat, 06 May 2023 09:08:39 GMT</pubDate>
             <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/BOMM-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Breakfast Club_조찬 클럽]]></title>
-            <link>https://poclanos.com/album/52796/</link>
-            <guid>https://poclanos.com/album/52796/</guid>
-            <pubDate>Sat, 06 May 2023 09:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[세진(Sejin)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/The-Breakfast-Club_%EC%A1%B0%EC%B0%AC-%ED%81%B4%EB%9F%BD-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Swirl]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
             <content:encoded><![CDATA[신승은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%82%B4-%EC%95%88%EC%9D%98-%ED%8F%AD%EC%A3%BC%EC%A1%B1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비슷한 노래]]></title>
+            <link>https://poclanos.com/album/%eb%b9%84%ec%8a%b7%ed%95%9c-%eb%85%b8%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%eb%b9%84%ec%8a%b7%ed%95%9c-%eb%85%b8%eb%9e%98/</guid>
+            <pubDate>Mon, 08 May 2023 05:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A5%B4%EB%8B%A4-irda-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%85%B8%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
