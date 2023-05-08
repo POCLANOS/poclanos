@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 02:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 03:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Still (相對性靜止)]]></title>
+            <link>https://poclanos.com/album/still-%e7%9b%b8%e5%b0%8d%e6%80%a7%e9%9d%9c%e6%ad%a2/</link>
+            <guid>https://poclanos.com/album/still-%e7%9b%b8%e5%b0%8d%e6%80%a7%e9%9d%9c%e6%ad%a2/</guid>
+            <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[Codie]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Codie-Still-%E7%9B%B8%E5%B0%8D%E6%80%A7%E9%9D%9C%E6%AD%A2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eclipse]]></title>
+            <link>https://poclanos.com/album/eclipse/</link>
+            <guid>https://poclanos.com/album/eclipse/</guid>
+            <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%ED%9D%98-%EC%9C%A4-Sahl-Yoon-Eclipse-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cars (小汽车) (feat. NARCHY WOFF (那奇沃夫))]]></title>
+            <link>https://poclanos.com/album/cars-%e5%b0%8f%e6%b1%bd%e8%bd%a6-feat-narchy-woff-%e9%82%a3%e5%a5%87%e6%b2%83%e5%a4%ab/</link>
+            <guid>https://poclanos.com/album/cars-%e5%b0%8f%e6%b1%bd%e8%bd%a6-feat-narchy-woff-%e9%82%a3%e5%a5%87%e6%b2%83%e5%a4%ab/</guid>
+            <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-KnowKnow-Cars-%E5%B0%8F%E6%B1%BD%E8%BD%A6-feat.-NARCHY-WOFF-%E9%82%A3%E5%A5%87%E6%B2%83%E5%A4%AB-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haribo]]></title>
+            <link>https://poclanos.com/album/haribo/</link>
+            <guid>https://poclanos.com/album/haribo/</guid>
+            <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4-%EC%BB%A4%EB%B2%84-Monday-Off-With-Bluesy-Haribo-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헤어짐의 순간(예예)]]></title>
             <link>https://poclanos.com/album/%ed%97%a4%ec%96%b4%ec%a7%90%ec%9d%98-%ec%88%9c%ea%b0%84%ec%98%88%ec%98%88/</link>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
             <content:encoded><![CDATA[신승은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%82%B4-%EC%95%88%EC%9D%98-%ED%8F%AD%EC%A3%BC%EC%A1%B1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비슷한 노래]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ec%8a%b7%ed%95%9c-%eb%85%b8%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ec%8a%b7%ed%95%9c-%eb%85%b8%eb%9e%98/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A5%B4%EB%8B%A4-irda-%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%85%B8%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보양 (補陽)]]></title>
-            <link>https://poclanos.com/album/%eb%b3%b4%ec%96%91-%e8%a3%9c%e9%99%bd/</link>
-            <guid>https://poclanos.com/album/%eb%b3%b4%ec%96%91-%e8%a3%9c%e9%99%bd/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[Snake Chicken Soup]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Snake-Chicken-Soup-%EB%B3%B4%EC%96%91-%E8%A3%9C%E9%99%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변화]]></title>
-            <link>https://poclanos.com/album/%eb%b3%80%ed%99%94/</link>
-            <guid>https://poclanos.com/album/%eb%b3%80%ed%99%94/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/5.-%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88-%EB%B3%80%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Opaque Yet Shining]]></title>
-            <link>https://poclanos.com/album/opaque-yet-shining/</link>
-            <guid>https://poclanos.com/album/opaque-yet-shining/</guid>
-            <pubDate>Mon, 01 May 2023 12:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[Mi Mang]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Mi-Mang-Opaque-Yet-Shining-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
