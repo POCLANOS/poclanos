@@ -4,9 +4,49 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 02:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Building]]></title>
+            <link>https://poclanos.com/album/building/</link>
+            <guid>https://poclanos.com/album/building/</guid>
+            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[애리 (AIRY)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%95%A0%EB%A6%ACAIRY-Building-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LONG TIME KNOW SEE]]></title>
+            <link>https://poclanos.com/album/long-time-know-see/</link>
+            <guid>https://poclanos.com/album/long-time-know-see/</guid>
+            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-KnowKnow-LONG-TIME-KNOW-SEE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에루화]]></title>
+            <link>https://poclanos.com/album/%ec%97%90%eb%a3%a8%ed%99%94/</link>
+            <guid>https://poclanos.com/album/%ec%97%90%eb%a3%a8%ed%99%94/</guid>
+            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[양반들 (Yangbans)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%96%91%EB%B0%98%EB%93%A4-Yangbans-%EC%97%90%EB%A3%A8%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말해주라]]></title>
+            <link>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%a3%bc%eb%9d%bc/</link>
+            <guid>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%a3%bc%eb%9d%bc/</guid>
+            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[소수빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%86%8C%EC%88%98%EB%B9%88-%EB%A7%90%ED%95%B4%EC%A3%BC%EB%9D%BC_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[0001000]]></title>
+            <link>https://poclanos.com/album/0001000/</link>
+            <guid>https://poclanos.com/album/0001000/</guid>
+            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[Minimalism Garbage (极简主义垃圾)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Minimalism-Garbage-%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%9E%83%E5%9C%BE-0001000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RocK N RoLL]]></title>
             <link>https://poclanos.com/album/rock-n-roll/</link>
@@ -126,46 +166,6 @@
             <pubDate>Thu, 04 May 2023 03:10:29 GMT</pubDate>
             <content:encoded><![CDATA[ChiliChill]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-ChiliChill-I-Feel-Hungry-Every-Night-%E6%AF%8F%E5%88%B0%E5%A4%9C%E9%87%8C%E6%88%91%E5%B0%B1%E5%BE%88%E9%A5%BF-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Headache]]></title>
-            <link>https://poclanos.com/album/headache-2/</link>
-            <guid>https://poclanos.com/album/headache-2/</guid>
-            <pubDate>Thu, 04 May 2023 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/Gila-%EA%B8%B8%EB%9D%BC-Headache-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cruel Winter]]></title>
-            <link>https://poclanos.com/album/cruel-winter/</link>
-            <guid>https://poclanos.com/album/cruel-winter/</guid>
-            <pubDate>Wed, 03 May 2023 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[Navi99 (나비99)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Navi99-%EB%82%98%EB%B9%8499-Cruel-Winter-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[call me 90]]></title>
-            <link>https://poclanos.com/album/call-me-90/</link>
-            <guid>https://poclanos.com/album/call-me-90/</guid>
-            <pubDate>Wed, 03 May 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[Chick en Chicks]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/5.-%EC%BB%A4%EB%B2%84-Chick-en-Chicks-call-me-90-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드디어 너와]]></title>
-            <link>https://poclanos.com/album/%eb%93%9c%eb%94%94%ec%96%b4-%eb%84%88%ec%99%80/</link>
-            <guid>https://poclanos.com/album/%eb%93%9c%eb%94%94%ec%96%b4-%eb%84%88%ec%99%80/</guid>
-            <pubDate>Tue, 02 May 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[SSW]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-SSW-%EB%93%9C%EB%94%94%EC%96%B4-%EB%84%88%EC%99%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[same same same]]></title>
-            <link>https://poclanos.com/album/same-same-same/</link>
-            <guid>https://poclanos.com/album/same-same-same/</guid>
-            <pubDate>Tue, 02 May 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[oait]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-oait-same-same-same-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
