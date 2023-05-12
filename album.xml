@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 02:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bad Babe]]></title>
+            <link>https://poclanos.com/album/bad-babe/</link>
+            <guid>https://poclanos.com/album/bad-babe/</guid>
+            <pubDate>Fri, 12 May 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[Limi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Limi-Bad-Babe-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hail Mary]]></title>
+            <link>https://poclanos.com/album/hail-mary/</link>
+            <guid>https://poclanos.com/album/hail-mary/</guid>
+            <pubDate>Fri, 12 May 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[우수진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%88%98%EC%A7%84-Hail-Mary-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[On Your Side]]></title>
             <link>https://poclanos.com/album/on-your-side/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
             <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4-%EC%BB%A4%EB%B2%84-Monday-Off-With-Bluesy-Haribo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어짐의 순간(예예)]]></title>
-            <link>https://poclanos.com/album/%ed%97%a4%ec%96%b4%ec%a7%90%ec%9d%98-%ec%88%9c%ea%b0%84%ec%98%88%ec%98%88/</link>
-            <guid>https://poclanos.com/album/%ed%97%a4%ec%96%b4%ec%a7%90%ec%9d%98-%ec%88%9c%ea%b0%84%ec%98%88%ec%98%88/</guid>
-            <pubDate>Sun, 07 May 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[잠(zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0zzzaam-%ED%97%A4%EC%96%B4%EC%A7%90%EC%9D%98-%EC%88%9C%EA%B0%84%EC%98%88%EC%98%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BOMM]]></title>
-            <link>https://poclanos.com/album/bomm/</link>
-            <guid>https://poclanos.com/album/bomm/</guid>
-            <pubDate>Sat, 06 May 2023 09:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[저드 (jerd)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/BOMM-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
