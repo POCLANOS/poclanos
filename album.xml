@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 May 2023 02:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 03:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너를 만나 행복을 느끼고]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%a7%8c%eb%82%98-%ed%96%89%eb%b3%b5%ec%9d%84-%eb%8a%90%eb%81%bc%ea%b3%a0/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%a7%8c%eb%82%98-%ed%96%89%eb%b3%b5%ec%9d%84-%eb%8a%90%eb%81%bc%ea%b3%a0/</guid>
+            <pubDate>Sat, 13 May 2023 03:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-PERCNT-%EB%84%88%EB%A5%BC-%EB%A7%8C%EB%82%98-%ED%96%89%EB%B3%B5%EC%9D%84-%EB%8A%90%EB%81%BC%EA%B3%A0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Comfort Zone Horizon]]></title>
             <link>https://poclanos.com/album/comfort-zone-horizon/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
             <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%ED%9D%98-%EC%9C%A4-Sahl-Yoon-Eclipse-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cars (小汽车) (feat. NARCHY WOFF (那奇沃夫))]]></title>
-            <link>https://poclanos.com/album/cars-%e5%b0%8f%e6%b1%bd%e8%bd%a6-feat-narchy-woff-%e9%82%a3%e5%a5%87%e6%b2%83%e5%a4%ab/</link>
-            <guid>https://poclanos.com/album/cars-%e5%b0%8f%e6%b1%bd%e8%bd%a6-feat-narchy-woff-%e9%82%a3%e5%a5%87%e6%b2%83%e5%a4%ab/</guid>
-            <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-KnowKnow-Cars-%E5%B0%8F%E6%B1%BD%E8%BD%A6-feat.-NARCHY-WOFF-%E9%82%A3%E5%A5%87%E6%B2%83%E5%A4%AB-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
