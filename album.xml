@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 02:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NEW TEETH]]></title>
+            <link>https://poclanos.com/album/new-teeth/</link>
+            <guid>https://poclanos.com/album/new-teeth/</guid>
+            <pubDate>Mon, 15 May 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[형선 (HYNGSN)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%BB%A4%EB%B2%84-%ED%98%95%EC%84%A0-HYNGSN-NEW-TEETH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LÜCY]]></title>
+            <link>https://poclanos.com/album/lucy/</link>
+            <guid>https://poclanos.com/album/lucy/</guid>
+            <pubDate>Mon, 15 May 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[LÜCY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-LUCY-LUCY-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Levi’s Girl]]></title>
+            <link>https://poclanos.com/album/levis-girl/</link>
+            <guid>https://poclanos.com/album/levis-girl/</guid>
+            <pubDate>Mon, 15 May 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[12BH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-12BH-Levis-Girl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billy Song]]></title>
             <link>https://poclanos.com/album/billy-song/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 09 May 2023 03:10:47 GMT</pubDate>
             <content:encoded><![CDATA[372]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-372-%EC%95%88%EA%B2%BD%EC%9E%BD%EC%9D%B4-Sipseonbee-@SILLIM-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wherever]]></title>
-            <link>https://poclanos.com/album/wherever/</link>
-            <guid>https://poclanos.com/album/wherever/</guid>
-            <pubDate>Tue, 09 May 2023 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[Wherever]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%BB%A4%EB%B2%84-Wherever-Wherever-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LINE (线)]]></title>
-            <link>https://poclanos.com/album/line-%e7%ba%bf-2/</link>
-            <guid>https://poclanos.com/album/line-%e7%ba%bf-2/</guid>
-            <pubDate>Tue, 09 May 2023 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[JelloRio (李佳隆)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-JelloRio-%E6%9D%8E%E4%BD%B3%E9%9A%86-LINE-%E7%BA%BF-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Still (相對性靜止)]]></title>
-            <link>https://poclanos.com/album/still-%e7%9b%b8%e5%b0%8d%e6%80%a7%e9%9d%9c%e6%ad%a2/</link>
-            <guid>https://poclanos.com/album/still-%e7%9b%b8%e5%b0%8d%e6%80%a7%e9%9d%9c%e6%ad%a2/</guid>
-            <pubDate>Mon, 08 May 2023 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[Codie]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Codie-Still-%E7%9B%B8%E5%B0%8D%E6%80%A7%E9%9D%9C%E6%AD%A2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
