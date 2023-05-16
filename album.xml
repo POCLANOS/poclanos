@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 02:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 03:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Humble Swag GT Mixtape]]></title>
+            <link>https://poclanos.com/album/humble-swag-gt-mixtape/</link>
+            <guid>https://poclanos.com/album/humble-swag-gt-mixtape/</guid>
+            <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[Masiwei (马思唯)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Masiwei-%E9%A9%AC%E6%80%9D%E5%94%AF-Humble-Swag-GT-Mixtape-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영원회귀]]></title>
+            <link>https://poclanos.com/album/%ec%98%81%ec%9b%90%ed%9a%8c%ea%b7%80/</link>
+            <guid>https://poclanos.com/album/%ec%98%81%ec%9b%90%ed%9a%8c%ea%b7%80/</guid>
+            <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EA%B2%B8GYE0M-%EC%98%81%EC%9B%90%ED%9A%8C%EA%B7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MBA said 1:1]]></title>
+            <link>https://poclanos.com/album/mba-said-11/</link>
+            <guid>https://poclanos.com/album/mba-said-11/</guid>
+            <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[허찬조]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%ED%97%88%EC%B0%AC%EC%A1%B0-MBA-said-1-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NEW TEETH]]></title>
             <link>https://poclanos.com/album/new-teeth/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
             <content:encoded><![CDATA[소수빈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%86%8C%EC%88%98%EB%B9%88-%EB%A7%90%ED%95%B4%EC%A3%BC%EB%9D%BC_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[0001000]]></title>
-            <link>https://poclanos.com/album/0001000/</link>
-            <guid>https://poclanos.com/album/0001000/</guid>
-            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[Minimalism Garbage (极简主义垃圾)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Minimalism-Garbage-%E6%9E%81%E7%AE%80%E4%B8%BB%E4%B9%89%E5%9E%83%E5%9C%BE-0001000-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RocK N RoLL]]></title>
-            <link>https://poclanos.com/album/rock-n-roll/</link>
-            <guid>https://poclanos.com/album/rock-n-roll/</guid>
-            <pubDate>Tue, 09 May 2023 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EB%A7%A4%EB%AF%B8MEMI-RocK-N-RoLL-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[@SILLIM]]></title>
-            <link>https://poclanos.com/album/sillim/</link>
-            <guid>https://poclanos.com/album/sillim/</guid>
-            <pubDate>Tue, 09 May 2023 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[372]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-372-%EC%95%88%EA%B2%BD%EC%9E%BD%EC%9D%B4-Sipseonbee-@SILLIM-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
