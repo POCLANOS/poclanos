@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 08:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gypsy]]></title>
+            <link>https://poclanos.com/album/gypsy/</link>
+            <guid>https://poclanos.com/album/gypsy/</guid>
+            <pubDate>Wed, 17 May 2023 09:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[creespy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-creespy_gypsy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Book of Life (生命之书)]]></title>
             <link>https://poclanos.com/album/the-book-of-life-%e7%94%9f%e5%91%bd%e4%b9%8b%e4%b9%a6/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 10 May 2023 09:10:31 GMT</pubDate>
             <content:encoded><![CDATA[Otis Lim]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Otis-Lim-FEELING-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Building]]></title>
-            <link>https://poclanos.com/album/building/</link>
-            <guid>https://poclanos.com/album/building/</guid>
-            <pubDate>Wed, 10 May 2023 03:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[애리 (AIRY)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%95%A0%EB%A6%ACAIRY-Building-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
