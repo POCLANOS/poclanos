@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 02:07:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[lovedream (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lovedream/</link>
+            <guid>https://poclanos.com/album/lovedream/</guid>
+            <pubDate>Thu, 18 May 2023 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[Mabinc]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Mabinc-lovedream-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[氛围器 (Ambience Generator) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%e6%b0%9b%e5%9b%b4%e5%99%a8-ambience-generator/</link>
+            <guid>https://poclanos.com/album/%e6%b0%9b%e5%9b%b4%e5%99%a8-ambience-generator/</guid>
+            <pubDate>Thu, 18 May 2023 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[Thermostat (恒温人员)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Thermostat-%E6%81%92%E6%B8%A9%E4%BA%BA%E5%91%98-%E6%B0%9B%E5%9B%B4%E5%99%A8-Ambience-Generator-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Legend (传奇) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/legend-%e4%bc%a0%e5%a5%87/</link>
+            <guid>https://poclanos.com/album/legend-%e4%bc%a0%e5%a5%87/</guid>
+            <pubDate>Thu, 18 May 2023 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[JelloRio (李佳隆)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-JelloRio-%E6%9D%8E%E4%BD%B3%E9%9A%86-Legend-%E4%BC%A0%E5%A5%87-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gypsy (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/gypsy/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 11 May 2023 03:09:56 GMT</pubDate>
             <content:encoded><![CDATA[버둥]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%BF%88-%EC%95%9E%EC%97%90-%EC%8A%A4%EB%9F%AC%EC%A7%84-%EB%82%98%EB%AC%B4-%EA%B0%99%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월의 어느 날 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/5%ec%9b%94%ec%9d%98-%ec%96%b4%eb%8a%90-%eb%82%a0/</link>
-            <guid>https://poclanos.com/album/5%ec%9b%94%ec%9d%98-%ec%96%b4%eb%8a%90-%eb%82%a0/</guid>
-            <pubDate>Thu, 11 May 2023 03:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[Hersh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%BB%A4%EB%B2%84-taeone-Hersh-5%EC%9B%94%EC%9D%98-%EC%96%B4%EB%8A%90-%EB%82%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[上线了 (GONE GOLD) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%e4%b8%8a%e7%ba%bf%e4%ba%86-gone-gold/</link>
-            <guid>https://poclanos.com/album/%e4%b8%8a%e7%ba%bf%e4%ba%86-gone-gold/</guid>
-            <pubDate>Thu, 11 May 2023 03:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[Lexie Liu (刘柏辛)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Lexie-Liu-%E5%88%98%E6%9F%8F%E8%BE%9B-%E4%B8%8A%E7%BA%BF%E4%BA%86-GONE-GOLD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FEELING! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/feeling-2/</link>
-            <guid>https://poclanos.com/album/feeling-2/</guid>
-            <pubDate>Wed, 10 May 2023 09:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[Otis Lim]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Otis-Lim-FEELING-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
