@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 02:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 03:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자유]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</guid>
+            <pubDate>Sat, 20 May 2023 03:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[까데호]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-%EC%9E%90%EC%9C%A0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Buddy]]></title>
             <link>https://poclanos.com/album/buddy/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 12 May 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[Offing]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-Cover-Art-Comfort-Zone-Horizon-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Babe]]></title>
-            <link>https://poclanos.com/album/bad-babe/</link>
-            <guid>https://poclanos.com/album/bad-babe/</guid>
-            <pubDate>Fri, 12 May 2023 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[Limi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Limi-Bad-Babe-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
