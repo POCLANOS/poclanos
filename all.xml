@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 02:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fall In Love With Such Madness (爱上这样的疯狂) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fall-in-love-with-such-madness-%e7%88%b1%e4%b8%8a%e8%bf%99%e6%a0%b7%e7%9a%84%e7%96%af%e7%8b%82/</link>
+            <guid>https://poclanos.com/album/fall-in-love-with-such-madness-%e7%88%b1%e4%b8%8a%e8%bf%99%e6%a0%b7%e7%9a%84%e7%96%af%e7%8b%82/</guid>
+            <pubDate>Tue, 23 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[The Life Journey (旅行团乐队)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4%EC%BB%A4%EB%B2%841The-Life-Journey-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home is… (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/home-is/</link>
+            <guid>https://poclanos.com/album/home-is/</guid>
+            <pubDate>Tue, 23 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[Yoyo Sham (岑寧兒)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Yoyo-Sham-%E5%B2%91%E5%AF%A7%E5%85%92-Home-is...-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자화상 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ed%99%94%ec%83%81-2/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ed%99%94%ec%83%81-2/</guid>
+            <pubDate>Tue, 23 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[정우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-%EC%9E%90%ED%99%94%EC%83%81-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[불가사리에게 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%ea%b0%80%ec%82%ac%eb%a6%ac%ec%97%90%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%ea%b0%80%ec%82%ac%eb%a6%ac%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Tue, 23 May 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EB%B6%88%EA%B0%80%EC%82%AC%EB%A6%AC%EC%97%90%EA%B2%8C_%EC%BB%A4%EB%B2%84_%EC%9E%84%EC%88%98%EC%9B%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I Will Always Love You (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/i-will-always-love-you/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[Masiwei (马思唯)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Masiwei-%E9%A9%AC%E6%80%9D%E5%94%AF-Humble-Swag-GT-Mixtape-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원회귀 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%98%81%ec%9b%90%ed%9a%8c%ea%b7%80/</link>
-            <guid>https://poclanos.com/album/%ec%98%81%ec%9b%90%ed%9a%8c%ea%b7%80/</guid>
-            <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EA%B2%B8GYE0M-%EC%98%81%EC%9B%90%ED%9A%8C%EA%B7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBA said 1:1 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/mba-said-11/</link>
-            <guid>https://poclanos.com/album/mba-said-11/</guid>
-            <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[허찬조]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%ED%97%88%EC%B0%AC%EC%A1%B0-MBA-said-1-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW TEETH (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/new-teeth/</link>
-            <guid>https://poclanos.com/album/new-teeth/</guid>
-            <pubDate>Mon, 15 May 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[형선 (HYNGSN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%BB%A4%EB%B2%84-%ED%98%95%EC%84%A0-HYNGSN-NEW-TEETH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LÜCY (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/lucy/</link>
-            <guid>https://poclanos.com/album/lucy/</guid>
-            <pubDate>Mon, 15 May 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[LÜCY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-LUCY-LUCY-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
