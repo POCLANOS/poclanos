@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 02:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 03:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Emotional Train (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/emotional-train/</link>
+            <guid>https://poclanos.com/album/emotional-train/</guid>
+            <pubDate>Wed, 24 May 2023 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[최정윤]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%B5%9C%EC%A0%95%EC%9C%A4-Emotional-Train_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사과향 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%ea%b3%bc%ed%96%a5/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%ea%b3%bc%ed%96%a5/</guid>
+            <pubDate>Wed, 24 May 2023 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%82%AC%EA%B3%BC%ED%96%A5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BEANSTALK (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/beanstalk/</link>
+            <guid>https://poclanos.com/album/beanstalk/</guid>
+            <pubDate>Wed, 24 May 2023 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[YELLOW黃宣]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-YELLOW-YELLOW%E9%BB%83%E5%AE%A3-BEANSTALK-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하얀 밤 붉은 사랑 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%95%98%ec%96%80-%eb%b0%a4-%eb%b6%89%ec%9d%80-%ec%82%ac%eb%9e%91/</link>
+            <guid>https://poclanos.com/album/%ed%95%98%ec%96%80-%eb%b0%a4-%eb%b6%89%ec%9d%80-%ec%82%ac%eb%9e%91/</guid>
+            <pubDate>Wed, 24 May 2023 03:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[공토끼]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EA%B3%B5%ED%86%A0%EB%81%BC-%ED%95%98%EC%96%80-%EB%B0%A4-%EB%B6%89%EC%9D%80-%EC%82%AC%EB%9E%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fall In Love With Such Madness (爱上这样的疯狂) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/fall-in-love-with-such-madness-%e7%88%b1%e4%b8%8a%e8%bf%99%e6%a0%b7%e7%9a%84%e7%96%af%e7%8b%82/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 17 May 2023 09:10:48 GMT</pubDate>
             <content:encoded><![CDATA[creespy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-creespy_gypsy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Book of Life (生命之书) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/the-book-of-life-%e7%94%9f%e5%91%bd%e4%b9%8b%e4%b9%a6/</link>
-            <guid>https://poclanos.com/album/the-book-of-life-%e7%94%9f%e5%91%bd%e4%b9%8b%e4%b9%a6/</guid>
-            <pubDate>Wed, 17 May 2023 03:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[TASHI DELÄK]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-TASHI-DELAK-The-Book-of-Life-%E7%94%9F%E5%91%BD%E4%B9%8B%E4%B9%A6-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Summer Mirage (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/summer-mirage/</link>
-            <guid>https://poclanos.com/album/summer-mirage/</guid>
-            <pubDate>Wed, 17 May 2023 03:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[최첨단맨 (ultramodernista)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%B2%A8%EB%8B%A8%EB%A7%A8-Summer-Mirage-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Groovin (Feat. Jue) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/groovin-feat-jue/</link>
-            <guid>https://poclanos.com/album/groovin-feat-jue/</guid>
-            <pubDate>Wed, 17 May 2023 03:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-Groovin-Feat.-Jue-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Humble Swag GT Mixtape (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/humble-swag-gt-mixtape/</link>
-            <guid>https://poclanos.com/album/humble-swag-gt-mixtape/</guid>
-            <pubDate>Tue, 16 May 2023 03:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[Masiwei (马思唯)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-Masiwei-%E9%A9%AC%E6%80%9D%E5%94%AF-Humble-Swag-GT-Mixtape-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
