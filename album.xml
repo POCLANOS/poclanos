@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 08:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 09:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Period]]></title>
+            <link>https://poclanos.com/album/period/</link>
+            <guid>https://poclanos.com/album/period/</guid>
+            <pubDate>Wed, 24 May 2023 09:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Period-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Emotional Train]]></title>
             <link>https://poclanos.com/album/emotional-train/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 May 2023 03:10:47 GMT</pubDate>
             <content:encoded><![CDATA[JelloRio (李佳隆)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-JelloRio-%E6%9D%8E%E4%BD%B3%E9%9A%86-Legend-%E4%BC%A0%E5%A5%87-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gypsy]]></title>
-            <link>https://poclanos.com/album/gypsy/</link>
-            <guid>https://poclanos.com/album/gypsy/</guid>
-            <pubDate>Wed, 17 May 2023 09:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[creespy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-creespy_gypsy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
