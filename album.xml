@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 02:05:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 03:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[cts7]]></title>
+            <link>https://poclanos.com/album/cts7/</link>
+            <guid>https://poclanos.com/album/cts7/</guid>
+            <pubDate>Fri, 26 May 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%9D%BC%EB%9D%BC-cts7-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Festival]]></title>
+            <link>https://poclanos.com/album/festival/</link>
+            <guid>https://poclanos.com/album/festival/</guid>
+            <pubDate>Fri, 26 May 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[석지민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%9D%EC%A7%80%EB%AF%BC-Festival-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing is Under Control]]></title>
+            <link>https://poclanos.com/album/nothing-is-under-control-2/</link>
+            <guid>https://poclanos.com/album/nothing-is-under-control-2/</guid>
+            <pubDate>Fri, 26 May 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Yoyo Sham (岑寧兒)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-%E5%B2%91%E5%AF%A7%E5%85%92-Yoyo-Sham-Nothing-is-Under-Control-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈]]></title>
+            <link>https://poclanos.com/album/%eb%b9%88/</link>
+            <guid>https://poclanos.com/album/%eb%b9%88/</guid>
+            <pubDate>Fri, 26 May 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[전아인 (JEONAIN)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%95%84%EC%9D%B8-JEONAIN-%EB%B9%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스물일곱]]></title>
             <link>https://poclanos.com/album/%ec%8a%a4%eb%ac%bc%ec%9d%bc%ea%b3%b1/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sun, 21 May 2023 03:10:40 GMT</pubDate>
             <content:encoded><![CDATA[Deepshower (딥샤워)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/FEELiNGs-New-Love_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자유]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%ec%9c%a0-3/</guid>
-            <pubDate>Sat, 20 May 2023 03:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[까데호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-%EC%9E%90%EC%9C%A0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buddy]]></title>
-            <link>https://poclanos.com/album/buddy/</link>
-            <guid>https://poclanos.com/album/buddy/</guid>
-            <pubDate>Fri, 19 May 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[민수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EB%AF%BC%EC%88%98_Buddy-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robot]]></title>
-            <link>https://poclanos.com/album/robot/</link>
-            <guid>https://poclanos.com/album/robot/</guid>
-            <pubDate>Fri, 19 May 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[잭킹콩 (JKC)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%AD%ED%82%B9%EC%BD%A9-JKC-Robot-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SI JIN SI YUAN (似近似远)]]></title>
-            <link>https://poclanos.com/album/si-jin-si-yuan-%e4%bc%bc%e8%bf%91%e4%bc%bc%e8%bf%9c/</link>
-            <guid>https://poclanos.com/album/si-jin-si-yuan-%e4%bc%bc%e8%bf%91%e4%bc%bc%e8%bf%9c/</guid>
-            <pubDate>Fri, 19 May 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[The Life Journey (旅行团乐队)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-The-Life-Journey-%E6%97%85%E8%A1%8C%E5%9B%A2%E4%B9%90%E9%98%9F-SI-JIN-SI-YUAN-%E4%BC%BC%E8%BF%91%E4%BC%BC%E8%BF%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
