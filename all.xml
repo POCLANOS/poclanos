@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 02:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 03:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모조 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%ec%a1%b0/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%ec%a1%b0/</guid>
+            <pubDate>Wed, 31 May 2023 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[메타]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-%EB%AA%A8%EC%A1%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canopy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/canopy/</link>
+            <guid>https://poclanos.com/album/canopy/</guid>
+            <pubDate>Wed, 31 May 2023 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[MODO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/MODO-Canopy-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fluffy Puffy (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/fluffy-puffy/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 25 May 2023 03:10:35 GMT</pubDate>
             <content:encoded><![CDATA[마누 (MANU)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%88%EB%88%84-HOMEMADE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Examine Myself Three Times a Day (吾日三省吾身) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/i-examine-myself-three-times-a-day-%e5%90%be%e6%97%a5%e4%b8%89%e7%9c%81%e5%90%be%e8%ba%ab/</link>
-            <guid>https://poclanos.com/album/i-examine-myself-three-times-a-day-%e5%90%be%e6%97%a5%e4%b8%89%e7%9c%81%e5%90%be%e8%ba%ab/</guid>
-            <pubDate>Thu, 25 May 2023 03:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[Your Woman Sleep With Others (老王樂隊)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-cover-%E5%92%AC%ED%9C%91%ED%9E%9B%E4%BC%BD%E5%92%AC%EE%81%8C_album_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Period (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/period/</link>
-            <guid>https://poclanos.com/album/period/</guid>
-            <pubDate>Wed, 24 May 2023 09:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Period-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
