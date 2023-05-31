@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 09:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설명할 수 없지만 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%84%a4%eb%aa%85%ed%95%a0-%ec%88%98-%ec%97%86%ec%a7%80%eb%a7%8c/</link>
+            <guid>https://poclanos.com/album/%ec%84%a4%eb%aa%85%ed%95%a0-%ec%88%98-%ec%97%86%ec%a7%80%eb%a7%8c/</guid>
+            <pubDate>Wed, 31 May 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%A4%EB%AA%85%ED%95%A0-%EC%88%98-%EC%97%86%EC%A7%80%EB%A7%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모조 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%aa%a8%ec%a1%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 25 May 2023 03:10:35 GMT</pubDate>
             <content:encoded><![CDATA[유지희 (Yujihi)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EC%A7%80%ED%9D%AC-%EC%8A%A4%EB%AC%BC%EC%9D%BC%EA%B3%B1-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOMEMADE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/homemade/</link>
-            <guid>https://poclanos.com/album/homemade/</guid>
-            <pubDate>Thu, 25 May 2023 03:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[마누 (MANU)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%88%EB%88%84-HOMEMADE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
