@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 02:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 03:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LERGRYN]]></title>
+            <link>https://poclanos.com/album/lergryn/</link>
+            <guid>https://poclanos.com/album/lergryn/</guid>
+            <pubDate>Sat, 03 Jun 2023 03:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[이예린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%9D%B4%EC%98%88%EB%A6%B0_LERGRYN_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Completely Blown Me Away]]></title>
             <link>https://poclanos.com/album/completely-blown-me-away/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 28 May 2023 09:10:35 GMT</pubDate>
             <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EB%A9%94%EC%B9%B4%EB%8B%89-FENDI_%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Infodemics]]></title>
-            <link>https://poclanos.com/album/infodemics/</link>
-            <guid>https://poclanos.com/album/infodemics/</guid>
-            <pubDate>Sat, 27 May 2023 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[송소희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/%EC%86%A1%EC%86%8C%ED%9D%AC-Infodemics_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
