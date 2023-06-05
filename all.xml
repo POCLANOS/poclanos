@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 02:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 03:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brian Shin & the Swing Makers Vol.2 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/brian-shin-the-swing-makers-vol-2/</link>
+            <guid>https://poclanos.com/album/brian-shin-the-swing-makers-vol-2/</guid>
+            <pubDate>Mon, 05 Jun 2023 03:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[Brian Shin &amp; the Swing Makers]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Brian-Shin-the-Swing-Makers-Vol.2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[으악! 나는 내던져졌다! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9c%bc%ec%95%85-%eb%82%98%eb%8a%94-%eb%82%b4%eb%8d%98%ec%a0%b8%ec%a1%8c%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9c%bc%ec%95%85-%eb%82%98%eb%8a%94-%eb%82%b4%eb%8d%98%ec%a0%b8%ec%a1%8c%eb%8b%a4/</guid>
+            <pubDate>Mon, 05 Jun 2023 03:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[왑띠]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%99%91%EB%9D%A0-%EC%9C%BC%EC%95%85-%EB%82%98%EB%8A%94-%EB%82%B4%EB%8D%98%EC%A0%B8%EC%A1%8C%EB%8B%A4%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간이 어지러울 만큼 빠르게 지나가 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8b%9c%ea%b0%84%ec%9d%b4-%ec%96%b4%ec%a7%80%eb%9f%ac%ec%9a%b8-%eb%a7%8c%ed%81%bc-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%ec%a7%80%eb%82%98%ea%b0%80/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 29 May 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[Radio Mars (火星電台)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Radio-Mars-%E7%81%AB%E6%98%9F%E9%9B%BB%E5%8F%B0-Radio-Mars-III-%E7%81%AB%E6%98%9F%E9%9B%BB%E5%8F%B0III-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Continuation of Rhymes (押韻的繼續) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/the-continuation-of-rhymes-%e6%8a%bc%e9%9f%bb%e7%9a%84%e7%b9%bc%e7%ba%8c/</link>
-            <guid>https://poclanos.com/album/the-continuation-of-rhymes-%e6%8a%bc%e9%9f%bb%e7%9a%84%e7%b9%bc%e7%ba%8c/</guid>
-            <pubDate>Mon, 29 May 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[TriPoets (參劈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-TriPoets-%E5%8F%83%E5%8A%88-The-Continuation-of-Rhymes-%E6%8A%BC%E9%9F%BB%E7%9A%84%E7%B9%BC%E7%BA%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Did You Go (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/why-did-you-go/</link>
-            <guid>https://poclanos.com/album/why-did-you-go/</guid>
-            <pubDate>Mon, 29 May 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[유용재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EC%9A%A9%EC%9E%AC-Why-Did-You-Go_%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
