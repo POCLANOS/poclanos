@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 02:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 03:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hi, You]]></title>
+            <link>https://poclanos.com/album/hi-you/</link>
+            <guid>https://poclanos.com/album/hi-you/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[도정민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-Hi-You-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우표]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%ed%91%9c/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%ed%91%9c/</guid>
+            <pubDate>Fri, 09 Jun 2023 03:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%9A%B0%ED%91%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Run]]></title>
             <link>https://poclanos.com/album/run-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
             <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-%EB%B0%A4%EC%9D%98-%ED%95%B4%EB%B3%80%EC%97%90%EC%84%9COn-the-Beach-at-Night-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설명할 수 없지만]]></title>
-            <link>https://poclanos.com/album/%ec%84%a4%eb%aa%85%ed%95%a0-%ec%88%98-%ec%97%86%ec%a7%80%eb%a7%8c/</link>
-            <guid>https://poclanos.com/album/%ec%84%a4%eb%aa%85%ed%95%a0-%ec%88%98-%ec%97%86%ec%a7%80%eb%a7%8c/</guid>
-            <pubDate>Wed, 31 May 2023 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[우주히피]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%84%A4%EB%AA%85%ED%95%A0-%EC%88%98-%EC%97%86%EC%A7%80%EB%A7%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모조]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%ec%a1%b0/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%ec%a1%b0/</guid>
-            <pubDate>Wed, 31 May 2023 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[메타]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-%EB%AA%A8%EC%A1%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
