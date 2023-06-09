@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동심원]]></title>
+            <link>https://poclanos.com/album/%eb%8f%99%ec%8b%ac%ec%9b%90/</link>
+            <guid>https://poclanos.com/album/%eb%8f%99%ec%8b%ac%ec%9b%90/</guid>
+            <pubDate>Fri, 09 Jun 2023 09:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[전기뱀장어]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%A0%84%EA%B8%B0%EB%B1%80%EC%9E%A5%EC%96%B4-%EB%8F%99%EC%8B%AC%EC%9B%90_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hi, You]]></title>
             <link>https://poclanos.com/album/hi-you/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
             <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-pylat-%EC%82%AC%EB%9D%BC%EC%A7%88-%EA%B1%B0%EB%A9%B4-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤의 해변에서(On the Beach at Night)]]></title>
-            <link>https://poclanos.com/album/%eb%b0%a4%ec%9d%98-%ed%95%b4%eb%b3%80%ec%97%90%ec%84%9con-the-beach-at-night/</link>
-            <guid>https://poclanos.com/album/%eb%b0%a4%ec%9d%98-%ed%95%b4%eb%b3%80%ec%97%90%ec%84%9con-the-beach-at-night/</guid>
-            <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[Soop(숲)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soop%EC%88%B2-%EB%B0%A4%EC%9D%98-%ED%95%B4%EB%B3%80%EC%97%90%EC%84%9COn-the-Beach-at-Night-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
