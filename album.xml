@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 02:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 03:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하필이면 사랑이 왜 거기에 있었을까?]]></title>
+            <link>https://poclanos.com/album/%ed%95%98%ed%95%84%ec%9d%b4%eb%a9%b4-%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%99%9c-%ea%b1%b0%ea%b8%b0%ec%97%90-%ec%9e%88%ec%97%88%ec%9d%84%ea%b9%8c/</link>
+            <guid>https://poclanos.com/album/%ed%95%98%ed%95%84%ec%9d%b4%eb%a9%b4-%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%99%9c-%ea%b1%b0%ea%b8%b0%ec%97%90-%ec%9e%88%ec%97%88%ec%9d%84%ea%b9%8c/</guid>
+            <pubDate>Sat, 10 Jun 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[위수 (WISUE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%9C%84%EC%88%98-%ED%95%98%ED%95%84%EC%9D%B4%EB%A9%B4-%EC%82%AC%EB%9E%91%EC%9D%B4-%EC%99%9C-%EA%B1%B0%EA%B8%B0%EC%97%90-%EC%9E%88%EC%97%88%EC%9D%84%EA%B9%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동심원]]></title>
             <link>https://poclanos.com/album/%eb%8f%99%ec%8b%ac%ec%9b%90/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
             <content:encoded><![CDATA[APNEA (애프니어)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-APNEA-%EC%95%A0%ED%94%84%EB%8B%88%EC%96%B4-ANA-043-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라질 거면]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9d%bc%ec%a7%88-%ea%b1%b0%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9d%bc%ec%a7%88-%ea%b1%b0%eb%a9%b4/</guid>
-            <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-pylat-%EC%82%AC%EB%9D%BC%EC%A7%88-%EA%B1%B0%EB%A9%B4-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
