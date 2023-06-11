@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Jun 2023 02:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jun 2023 03:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Numb]]></title>
+            <link>https://poclanos.com/album/numb-2/</link>
+            <guid>https://poclanos.com/album/numb-2/</guid>
+            <pubDate>Sun, 11 Jun 2023 03:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[pigfrog]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/Numb_Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하필이면 사랑이 왜 거기에 있었을까?]]></title>
             <link>https://poclanos.com/album/%ed%95%98%ed%95%84%ec%9d%b4%eb%a9%b4-%ec%82%ac%eb%9e%91%ec%9d%b4-%ec%99%9c-%ea%b1%b0%ea%b8%b0%ec%97%90-%ec%9e%88%ec%97%88%ec%9d%84%ea%b9%8c/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
             <content:encoded><![CDATA[Room306]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Room306-Dinner-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ANA-043]]></title>
-            <link>https://poclanos.com/album/ana-043/</link>
-            <guid>https://poclanos.com/album/ana-043/</guid>
-            <pubDate>Thu, 01 Jun 2023 03:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[APNEA (애프니어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/5.-%EC%BB%A4%EB%B2%84-APNEA-%EC%95%A0%ED%94%84%EB%8B%88%EC%96%B4-ANA-043-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
