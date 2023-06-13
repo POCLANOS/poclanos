@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 02:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[One and Only (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/one-and-only/</link>
+            <guid>https://poclanos.com/album/one-and-only/</guid>
+            <pubDate>Tue, 13 Jun 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%A2%85%EC%86%8C%EC%84%9C-One-and-Only-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미지의 마음 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%ec%a7%80%ec%9d%98-%eb%a7%88%ec%9d%8c/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%ec%a7%80%ec%9d%98-%eb%a7%88%ec%9d%8c/</guid>
+            <pubDate>Tue, 13 Jun 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-%EB%AF%B8%EC%A7%80%EC%9D%98-%EB%A7%88%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[곱슬 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/53130/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 04 Jun 2023 09:10:09 GMT</pubDate>
             <content:encoded><![CDATA[박소은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%8B%9C%EA%B0%84%EC%9D%B4-%EC%96%B4%EC%A7%80%EB%9F%AC%EC%9A%B8-%EB%A7%8C%ED%81%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%A7%80%EB%82%98%EA%B0%80_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LERGRYN (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/lergryn/</link>
-            <guid>https://poclanos.com/album/lergryn/</guid>
-            <pubDate>Sat, 03 Jun 2023 03:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[이예린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%9D%B4%EC%98%88%EB%A6%B0_LERGRYN_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Completely Blown Me Away (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/completely-blown-me-away/</link>
-            <guid>https://poclanos.com/album/completely-blown-me-away/</guid>
-            <pubDate>Fri, 02 Jun 2023 03:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/05/4.-%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-Completely-Blown-Me-Away-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
