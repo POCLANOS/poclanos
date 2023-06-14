@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 08:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Essential]]></title>
+            <link>https://poclanos.com/album/essential/</link>
+            <guid>https://poclanos.com/album/essential/</guid>
+            <pubDate>Wed, 14 Jun 2023 09:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[해서웨이 (Hathaw9y)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4Hathaw9y-Essential-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STAY]]></title>
             <link>https://poclanos.com/album/stay-5/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 05 Jun 2023 03:12:50 GMT</pubDate>
             <content:encoded><![CDATA[Brian Shin &amp; the Swing Makers]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Brian-Shin-the-Swing-Makers-Vol.2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[으악! 나는 내던져졌다!]]></title>
-            <link>https://poclanos.com/album/%ec%9c%bc%ec%95%85-%eb%82%98%eb%8a%94-%eb%82%b4%eb%8d%98%ec%a0%b8%ec%a1%8c%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%9c%bc%ec%95%85-%eb%82%98%eb%8a%94-%eb%82%b4%eb%8d%98%ec%a0%b8%ec%a1%8c%eb%8b%a4/</guid>
-            <pubDate>Mon, 05 Jun 2023 03:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[왑띠]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%99%91%EB%9D%A0-%EC%9C%BC%EC%95%85-%EB%82%98%EB%8A%94-%EB%82%B4%EB%8D%98%EC%A0%B8%EC%A1%8C%EB%8B%A4%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
