@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 02:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monkey Bowl]]></title>
+            <link>https://poclanos.com/album/monkey-bowl/</link>
+            <guid>https://poclanos.com/album/monkey-bowl/</guid>
+            <pubDate>Thu, 15 Jun 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Garzon-Robie-Monkey-Bowl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고요]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ec%9a%94-2/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ec%9a%94-2/</guid>
+            <pubDate>Thu, 15 Jun 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[Artinb]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%95%8C%ED%8B%B4%EB%B9%84Artinb-%EA%B3%A0%EC%9A%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈에]]></title>
+            <link>https://poclanos.com/album/%ea%bf%88%ec%97%90/</link>
+            <guid>https://poclanos.com/album/%ea%bf%88%ec%97%90/</guid>
+            <pubDate>Thu, 15 Jun 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EB%B2%84%EB%91%A5-%EA%BF%88%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Essential]]></title>
             <link>https://poclanos.com/album/essential/</link>
@@ -40,20 +64,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-%EB%AF%B8%EC%A7%80%EC%9D%98-%EB%A7%88%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[곱슬]]></title>
-            <link>https://poclanos.com/album/53130/</link>
-            <guid>https://poclanos.com/album/53130/</guid>
-            <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-%EA%B3%B1%EC%8A%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[How about ♥?]]></title>
             <link>https://poclanos.com/album/how-about-%e2%99%a5/</link>
             <guid>https://poclanos.com/album/how-about-%e2%99%a5/</guid>
             <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
             <content:encoded><![CDATA[행성]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-How-about-%E2%99%A5-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곱슬]]></title>
+            <link>https://poclanos.com/album/53130/</link>
+            <guid>https://poclanos.com/album/53130/</guid>
+            <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-%EA%B3%B1%EC%8A%AC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Numb]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 06 Jun 2023 03:16:47 GMT</pubDate>
             <content:encoded><![CDATA[Theseus]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Theseus-Love-Letter-Feat.-Neci-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일흔비행(feat.박현진)]]></title>
-            <link>https://poclanos.com/album/%ec%9d%bc%ed%9d%94%eb%b9%84%ed%96%89feat-%eb%b0%95%ed%98%84%ec%a7%84/</link>
-            <guid>https://poclanos.com/album/%ec%9d%bc%ed%9d%94%eb%b9%84%ed%96%89feat-%eb%b0%95%ed%98%84%ec%a7%84/</guid>
-            <pubDate>Tue, 06 Jun 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EA%B7%80-%EC%9D%BC%ED%9D%94%EB%B9%84%ED%96%89feat.%EB%B0%95%ED%98%84%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Devil’s Dance]]></title>
-            <link>https://poclanos.com/album/devils-dance/</link>
-            <guid>https://poclanos.com/album/devils-dance/</guid>
-            <pubDate>Tue, 06 Jun 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[THE LWNR (더 라우너)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-THE-LWNR%EB%8D%94-%EB%9D%BC%EC%9A%B0%EB%84%88-Devils-Dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brian Shin & the Swing Makers Vol.2]]></title>
-            <link>https://poclanos.com/album/brian-shin-the-swing-makers-vol-2/</link>
-            <guid>https://poclanos.com/album/brian-shin-the-swing-makers-vol-2/</guid>
-            <pubDate>Mon, 05 Jun 2023 03:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[Brian Shin &amp; the Swing Makers]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Brian-Shin-the-Swing-Makers-Vol.2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
