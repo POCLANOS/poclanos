@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 02:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 03:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Listen to Me]]></title>
+            <link>https://poclanos.com/album/listen-to-me/</link>
+            <guid>https://poclanos.com/album/listen-to-me/</guid>
+            <pubDate>Fri, 16 Jun 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[LINION]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Listen-to-Me_album_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Burgundy Love]]></title>
+            <link>https://poclanos.com/album/burgundy-love/</link>
+            <guid>https://poclanos.com/album/burgundy-love/</guid>
+            <pubDate>Fri, 16 Jun 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[송하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/3.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Burgundy-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hajodae]]></title>
+            <link>https://poclanos.com/album/hajodae/</link>
+            <guid>https://poclanos.com/album/hajodae/</guid>
+            <pubDate>Fri, 16 Jun 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[조제 (Josee)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%A1%B0%EC%A0%9CJosee-hajodae-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Monkey Bowl]]></title>
             <link>https://poclanos.com/album/monkey-bowl/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 07 Jun 2023 03:15:19 GMT</pubDate>
             <content:encoded><![CDATA[블루터틀랜드]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/3.-%EC%BB%A4%EB%B2%84-%EB%B8%94%EB%A3%A8%ED%84%B0%ED%8B%80%EB%9E%9C%EB%93%9C-Sun-Through-My-Eyes-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[To. My Lover]]></title>
-            <link>https://poclanos.com/album/to-my-lover/</link>
-            <guid>https://poclanos.com/album/to-my-lover/</guid>
-            <pubDate>Wed, 07 Jun 2023 03:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[숨비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-To.-My-Lover%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불타올라 불사르라]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc-%eb%b6%88%ec%82%ac%eb%a5%b4%eb%9d%bc/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ed%83%80%ec%98%ac%eb%9d%bc-%eb%b6%88%ec%82%ac%eb%a5%b4%eb%9d%bc/</guid>
-            <pubDate>Tue, 06 Jun 2023 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[잠(zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-%EB%B6%88%ED%83%80%EC%98%AC%EB%9D%BC-%EB%B6%88%EC%82%AC%EB%A5%B4%EB%9D%BC%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Letter (Feat. Neci)]]></title>
-            <link>https://poclanos.com/album/love-letter-feat-neci/</link>
-            <guid>https://poclanos.com/album/love-letter-feat-neci/</guid>
-            <pubDate>Tue, 06 Jun 2023 03:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[Theseus]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Theseus-Love-Letter-Feat.-Neci-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
