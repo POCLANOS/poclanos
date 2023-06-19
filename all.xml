@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 02:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 03:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alive (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/alive-3/</link>
+            <guid>https://poclanos.com/album/alive-3/</guid>
+            <pubDate>Mon, 19 Jun 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Vanillare (바닐레어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Vanillare-%EB%B0%94%EB%8B%90%EB%A0%88%EC%96%B4-Alive%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[P.S. (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/p-s/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 09 Jun 2023 03:17:39 GMT</pubDate>
             <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%9A%B0%ED%91%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/run-2/</link>
-            <guid>https://poclanos.com/album/run-2/</guid>
-            <pubDate>Thu, 08 Jun 2023 03:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[jayvito]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-jayvito-Run-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
