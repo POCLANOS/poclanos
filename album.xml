@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 02:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누워]]></title>
+            <link>https://poclanos.com/album/%eb%88%84%ec%9b%8c/</link>
+            <guid>https://poclanos.com/album/%eb%88%84%ec%9b%8c/</guid>
+            <pubDate>Tue, 20 Jun 2023 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Audiosfrom-%EB%88%84%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[i hate you]]></title>
+            <link>https://poclanos.com/album/i-hate-you/</link>
+            <guid>https://poclanos.com/album/i-hate-you/</guid>
+            <pubDate>Tue, 20 Jun 2023 03:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[jANE (재인)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jANE-i-hate-you%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alive]]></title>
             <link>https://poclanos.com/album/alive-3/</link>
@@ -112,20 +128,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-%EB%AF%B8%EC%A7%80%EC%9D%98-%EB%A7%88%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[How about ♥?]]></title>
-            <link>https://poclanos.com/album/how-about-%e2%99%a5/</link>
-            <guid>https://poclanos.com/album/how-about-%e2%99%a5/</guid>
-            <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[행성]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-How-about-%E2%99%A5-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[곱슬]]></title>
             <link>https://poclanos.com/album/53130/</link>
             <guid>https://poclanos.com/album/53130/</guid>
             <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
             <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-%EA%B3%B1%EC%8A%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How about ♥?]]></title>
+            <link>https://poclanos.com/album/how-about-%e2%99%a5/</link>
+            <guid>https://poclanos.com/album/how-about-%e2%99%a5/</guid>
+            <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[행성]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-How-about-%E2%99%A5-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Numb]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 09 Jun 2023 09:10:12 GMT</pubDate>
             <content:encoded><![CDATA[전기뱀장어]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%A0%84%EA%B8%B0%EB%B1%80%EC%9E%A5%EC%96%B4-%EB%8F%99%EC%8B%AC%EC%9B%90_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hi, You]]></title>
-            <link>https://poclanos.com/album/hi-you/</link>
-            <guid>https://poclanos.com/album/hi-you/</guid>
-            <pubDate>Fri, 09 Jun 2023 03:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[도정민]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-Hi-You-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우표]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%ed%91%9c/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%ed%91%9c/</guid>
-            <pubDate>Fri, 09 Jun 2023 03:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%9A%B0%ED%91%9C_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
