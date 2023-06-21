@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 08:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 09:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름이 오면]]></title>
+            <link>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%98%a4%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%98%a4%eb%a9%b4/</guid>
+            <pubDate>Wed, 21 Jun 2023 09:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[손혜은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EC%97%AC%EB%A6%84%EC%9D%B4-%EC%98%A4%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LOVELY]]></title>
             <link>https://poclanos.com/album/lovely/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
             <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-%EA%B3%B1%EC%8A%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Numb]]></title>
-            <link>https://poclanos.com/album/numb-2/</link>
-            <guid>https://poclanos.com/album/numb-2/</guid>
-            <pubDate>Sun, 11 Jun 2023 03:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[pigfrog]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/Numb_Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
