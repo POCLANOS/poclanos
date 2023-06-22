@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 02:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 03:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Acid Wasp (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/acid-wasp/</link>
+            <guid>https://poclanos.com/album/acid-wasp/</guid>
+            <pubDate>Thu, 22 Jun 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Mount XLR]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Mount-XLR-Acid-Wasp-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jump (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/jump/</link>
+            <guid>https://poclanos.com/album/jump/</guid>
+            <pubDate>Thu, 22 Jun 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Sunday-Moon-Jump%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여름이 오면 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%98%a4%eb%a9%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 13 Jun 2023 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-%EB%AF%B8%EC%A7%80%EC%9D%98-%EB%A7%88%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How about ♥? (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/how-about-%e2%99%a5/</link>
-            <guid>https://poclanos.com/album/how-about-%e2%99%a5/</guid>
-            <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[행성]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-How-about-%E2%99%A5-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곱슬 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/53130/</link>
-            <guid>https://poclanos.com/album/53130/</guid>
-            <pubDate>Mon, 12 Jun 2023 03:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[홍크 (HONK)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%BB%A4%EB%B2%84-%ED%99%8D%ED%81%AC-%EA%B3%B1%EC%8A%AC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김도언 (POCLANOS ─ Interview)]]></title>
