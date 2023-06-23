@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 02:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 03:28:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑=생존]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%83%9d%ec%a1%b4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%83%9d%ec%a1%b4/</guid>
+            <pubDate>Fri, 23 Jun 2023 03:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[김나은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EC%82%AC%EB%9E%91%EC%83%9D%EC%A1%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Acid Wasp]]></title>
             <link>https://poclanos.com/album/acid-wasp/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 13 Jun 2023 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%A2%85%EC%86%8C%EC%84%9C-One-and-Only-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미지의 마음]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%ec%a7%80%ec%9d%98-%eb%a7%88%ec%9d%8c/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%ec%a7%80%ec%9d%98-%eb%a7%88%ec%9d%8c/</guid>
-            <pubDate>Tue, 13 Jun 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-%EB%AF%B8%EC%A7%80%EC%9D%98-%EB%A7%88%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
