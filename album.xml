@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Jun 2023 02:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 03:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그러나 우리가 사랑으로]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%b0%eb%a6%ac%ea%b0%80-%ec%82%ac%eb%9e%91%ec%9c%bc%eb%a1%9c/</guid>
+            <pubDate>Sat, 24 Jun 2023 03:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[나이트오프 (Night Off)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%82%98%EC%9D%B4%ED%8A%B8%EC%98%A4%ED%94%84-%EA%B7%B8%EB%9F%AC%EB%82%98-%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%82%AC%EB%9E%91%EC%9C%BC%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑=생존]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%83%9d%ec%a1%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Jun 2023 03:11:00 GMT</pubDate>
             <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-MRSHLL-%EB%A7%88%EC%83%AC-STAY%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One and Only]]></title>
-            <link>https://poclanos.com/album/one-and-only/</link>
-            <guid>https://poclanos.com/album/one-and-only/</guid>
-            <pubDate>Tue, 13 Jun 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EC%B5%9C%EC%A2%85%EC%86%8C%EC%84%9C-One-and-Only-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
