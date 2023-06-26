@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 08:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 09:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타임라인]]></title>
+            <link>https://poclanos.com/album/%ed%83%80%ec%9e%84%eb%9d%bc%ec%9d%b8/</link>
+            <guid>https://poclanos.com/album/%ed%83%80%ec%9e%84%eb%9d%bc%ec%9d%b8/</guid>
+            <pubDate>Mon, 26 Jun 2023 09:11:55 GMT</pubDate>
+            <content:encoded><![CDATA[박소은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9D%80-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Whisper of Memories]]></title>
             <link>https://poclanos.com/album/whisper-of-memories/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Jun 2023 03:10:50 GMT</pubDate>
             <content:encoded><![CDATA[Artinb]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%95%8C%ED%8B%B4%EB%B9%84Artinb-%EA%B3%A0%EC%9A%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈에]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88%ec%97%90/</guid>
-            <pubDate>Thu, 15 Jun 2023 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[버둥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EB%B2%84%EB%91%A5-%EA%BF%88%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
