@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 02:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 03:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/53332/</link>
+            <guid>https://poclanos.com/album/53332/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[Mandark]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-cover-Mandark-BADA88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heartbreak Season (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/heartbreak-season/</link>
+            <guid>https://poclanos.com/album/heartbreak-season/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Oneianmillion-%EA%B0%95%EC%9D%B4%EC%95%88-Heartbreak-Season-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nighty Night (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/nighty-night/</link>
+            <guid>https://poclanos.com/album/nighty-night/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Nighty-Night-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DoggyDoggy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/doggydoggy/</link>
+            <guid>https://poclanos.com/album/doggydoggy/</guid>
+            <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[Offing]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Offing-DoggyDoggy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fluid (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/fluid/</link>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 19 Jun 2023 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[Vanillare (바닐레어)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Vanillare-%EB%B0%94%EB%8B%90%EB%A0%88%EC%96%B4-Alive%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P.S. (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/p-s/</link>
-            <guid>https://poclanos.com/album/p-s/</guid>
-            <pubDate>Sun, 18 Jun 2023 03:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[TNDR]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-TNDR-P.S_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHAM (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sham-2/</link>
-            <guid>https://poclanos.com/album/sham-2/</guid>
-            <pubDate>Sat, 17 Jun 2023 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[Alive Funk]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Alive-Funk-SHAM-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Listen to Me (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/listen-to-me/</link>
-            <guid>https://poclanos.com/album/listen-to-me/</guid>
-            <pubDate>Fri, 16 Jun 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[LINION]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Listen-to-Me_album_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burgundy Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/burgundy-love/</link>
-            <guid>https://poclanos.com/album/burgundy-love/</guid>
-            <pubDate>Fri, 16 Jun 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[송하늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/3.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Burgundy-Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
