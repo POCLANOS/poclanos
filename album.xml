@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 01:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 03:05:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈집]]></title>
+            <link>https://poclanos.com/album/%eb%b9%88%ec%a7%91/</link>
+            <guid>https://poclanos.com/album/%eb%b9%88%ec%a7%91/</guid>
+            <pubDate>Sat, 01 Jul 2023 03:02:30 GMT</pubDate>
+            <content:encoded><![CDATA[서림]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/3000px-album-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <link>https://poclanos.com/album/53332/</link>
             <guid>https://poclanos.com/album/53332/</guid>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 20 Jun 2023 03:11:35 GMT</pubDate>
             <content:encoded><![CDATA[jANE (재인)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jANE-i-hate-you%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alive]]></title>
-            <link>https://poclanos.com/album/alive-3/</link>
-            <guid>https://poclanos.com/album/alive-3/</guid>
-            <pubDate>Mon, 19 Jun 2023 03:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[Vanillare (바닐레어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Vanillare-%EB%B0%94%EB%8B%90%EB%A0%88%EC%96%B4-Alive%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
