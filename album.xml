@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 03:02:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 03:29:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈동자]]></title>
+            <link>https://poclanos.com/album/%eb%88%88%eb%8f%99%ec%9e%90-2/</link>
+            <guid>https://poclanos.com/album/%eb%88%88%eb%8f%99%ec%9e%90-2/</guid>
+            <pubDate>Sun, 02 Jul 2023 03:26:52 GMT</pubDate>
+            <content:encoded><![CDATA[함병선 (9z)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%A8%EB%B3%91%EC%84%A09z-%EB%88%88%EB%8F%99%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈집]]></title>
             <link>https://poclanos.com/album/%eb%b9%88%ec%a7%91/</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 20 Jun 2023 03:11:35 GMT</pubDate>
             <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Audiosfrom-%EB%88%84%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[i hate you]]></title>
-            <link>https://poclanos.com/album/i-hate-you/</link>
-            <guid>https://poclanos.com/album/i-hate-you/</guid>
-            <pubDate>Tue, 20 Jun 2023 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[jANE (재인)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jANE-i-hate-you%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
