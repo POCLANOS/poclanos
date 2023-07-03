@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 02:39:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Orbit (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/orbit-3/</link>
+            <guid>https://poclanos.com/album/orbit-3/</guid>
+            <pubDate>Mon, 03 Jul 2023 03:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/Orbit_Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막을 아는 사이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a7%88%ec%a7%80%eb%a7%89%ec%9d%84-%ec%95%84%eb%8a%94-%ec%82%ac%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%eb%a7%88%ec%a7%80%eb%a7%89%ec%9d%84-%ec%95%84%eb%8a%94-%ec%82%ac%ec%9d%b4/</guid>
+            <pubDate>Mon, 03 Jul 2023 03:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[김새녘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-Cover-%EA%B9%80%EC%83%88%EB%85%98-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%84-%EC%95%84%EB%8A%94-%EC%82%AC%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈동자 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%88%88%eb%8f%99%ec%9e%90-2/</link>
             <guid>https://poclanos.com/album/%eb%88%88%eb%8f%99%ec%9e%90-2/</guid>
             <pubDate>Sun, 02 Jul 2023 03:26:52 GMT</pubDate>
             <content:encoded><![CDATA[함병선 (9z)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%A8%EB%B3%91%EC%84%A09z-%EB%88%88%EB%8F%99%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EC%88%98%EC%A0%95_%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8_%ED%95%A8%EB%B3%91%EC%84%A0_%EB%88%88%EB%8F%99%EC%9E%90Eyes-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈집 (POCLANOS ─ Album)]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 21 Jun 2023 03:11:06 GMT</pubDate>
             <content:encoded><![CDATA[도나 (DONNA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EB%8F%84%EB%82%98-DONNA-LOVELY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아프지마 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ed%94%84%ec%a7%80%eb%a7%88/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ed%94%84%ec%a7%80%eb%a7%88/</guid>
-            <pubDate>Tue, 20 Jun 2023 09:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[까데호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-%EC%95%84%ED%94%84%EC%A7%80%EB%A7%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누워 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%88%84%ec%9b%8c/</link>
-            <guid>https://poclanos.com/album/%eb%88%84%ec%9b%8c/</guid>
-            <pubDate>Tue, 20 Jun 2023 03:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-Audiosfrom-%EB%88%84%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
