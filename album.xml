@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 02:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑하자]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%98%ec%9e%90/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[퍼플웨일 (Purple Whale)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8D%BC%ED%94%8C%EC%9B%A8%EC%9D%BC-Purple-Whale-%EC%82%AC%EB%9E%91%ED%95%98%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[탕후루]]></title>
+            <link>https://poclanos.com/album/%ed%83%95%ed%9b%84%eb%a3%a8/</link>
+            <guid>https://poclanos.com/album/%ed%83%95%ed%9b%84%eb%a3%a8/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%83%95%ED%9B%84%EB%A3%A8-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초록달]]></title>
+            <link>https://poclanos.com/album/%ec%b4%88%eb%a1%9d%eb%8b%ac/</link>
+            <guid>https://poclanos.com/album/%ec%b4%88%eb%a1%9d%eb%8b%ac/</guid>
+            <pubDate>Fri, 07 Jul 2023 03:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BrokenTeeth-%EC%B4%88%EB%A1%9D%EB%8B%AC%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sixteen]]></title>
             <link>https://poclanos.com/album/sixteen/</link>
@@ -141,30 +165,6 @@
             <pubDate>Wed, 28 Jun 2023 09:11:22 GMT</pubDate>
             <content:encoded><![CDATA[coldnight]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-her-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[反骨]]></title>
-            <link>https://poclanos.com/album/%e5%8f%8d%e9%aa%a8/</link>
-            <guid>https://poclanos.com/album/%e5%8f%8d%e9%aa%a8/</guid>
-            <pubDate>Tue, 27 Jun 2023 03:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[럼킥스 (RUMKICKS)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%9F%BC%ED%82%A5%EC%8A%A4-RUMKICKS-%E5%8F%8D%E9%AA%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타임라인]]></title>
-            <link>https://poclanos.com/album/%ed%83%80%ec%9e%84%eb%9d%bc%ec%9d%b8/</link>
-            <guid>https://poclanos.com/album/%ed%83%80%ec%9e%84%eb%9d%bc%ec%9d%b8/</guid>
-            <pubDate>Mon, 26 Jun 2023 09:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[박소은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9D%80-%ED%83%80%EC%9E%84%EB%9D%BC%EC%9D%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whisper of Memories]]></title>
-            <link>https://poclanos.com/album/whisper-of-memories/</link>
-            <guid>https://poclanos.com/album/whisper-of-memories/</guid>
-            <pubDate>Mon, 26 Jun 2023 03:01:09 GMT</pubDate>
-            <content:encoded><![CDATA[석지민]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%9D%EC%A7%80%EB%AF%BC-Whisper-of-Memories-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
