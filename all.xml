@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 01:08:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 03:05:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ANGLE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/angle/</link>
+            <guid>https://poclanos.com/album/angle/</guid>
+            <pubDate>Sun, 09 Jul 2023 03:02:50 GMT</pubDate>
+            <content:encoded><![CDATA[신인류]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9D%B8%EB%A5%98-ANGLE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FREEVERSE (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/freeverse/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
             <content:encoded><![CDATA[진동욱]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Nighty-Night-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DoggyDoggy (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/doggydoggy/</link>
-            <guid>https://poclanos.com/album/doggydoggy/</guid>
-            <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[Offing]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Offing-DoggyDoggy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
