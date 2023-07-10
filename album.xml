@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 08:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 09:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hapae]]></title>
+            <link>https://poclanos.com/album/hapae/</link>
+            <guid>https://poclanos.com/album/hapae/</guid>
+            <pubDate>Mon, 10 Jul 2023 09:11:53 GMT</pubDate>
+            <content:encoded><![CDATA[cwar]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-cwar-Hapae-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕, 나의 이름은 (feat. 숨비)]]></title>
             <link>https://poclanos.com/album/%ec%95%88%eb%85%95-%eb%82%98%ec%9d%98-%ec%9d%b4%eb%a6%84%ec%9d%80-feat-%ec%88%a8%eb%b9%84/</link>
@@ -157,14 +165,6 @@
             <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
             <content:encoded><![CDATA[Mandark]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-cover-Mandark-BADA88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heartbreak Season]]></title>
-            <link>https://poclanos.com/album/heartbreak-season/</link>
-            <guid>https://poclanos.com/album/heartbreak-season/</guid>
-            <pubDate>Fri, 30 Jun 2023 03:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Oneianmillion-%EA%B0%95%EC%9D%B4%EC%95%88-Heartbreak-Season-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
