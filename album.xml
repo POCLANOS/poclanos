@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 02:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 03:24:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황새]]></title>
+            <link>https://poclanos.com/album/%ed%99%a9%ec%83%88/</link>
+            <guid>https://poclanos.com/album/%ed%99%a9%ec%83%88/</guid>
+            <pubDate>Wed, 12 Jul 2023 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[깃임]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%ED%99%A9%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이젠]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4%ec%a0%a0/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4%ec%a0%a0/</guid>
+            <pubDate>Wed, 12 Jul 2023 03:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[SOQI (쏘키)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%8F%98%ED%82%A4-%EC%9D%B4%EC%A0%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[달라]]></title>
             <link>https://poclanos.com/album/%eb%8b%ac%eb%9d%bc-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 03 Jul 2023 03:21:48 GMT</pubDate>
             <content:encoded><![CDATA[김새녘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-Cover-%EA%B9%80%EC%83%88%EB%85%98-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%84-%EC%95%84%EB%8A%94-%EC%82%AC%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈동자]]></title>
-            <link>https://poclanos.com/album/%eb%88%88%eb%8f%99%ec%9e%90-2/</link>
-            <guid>https://poclanos.com/album/%eb%88%88%eb%8f%99%ec%9e%90-2/</guid>
-            <pubDate>Sun, 02 Jul 2023 03:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[함병선 (9z)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EC%88%98%EC%A0%95_%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8_%ED%95%A8%EB%B3%91%EC%84%A0_%EB%88%88%EB%8F%99%EC%9E%90Eyes-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈집]]></title>
-            <link>https://poclanos.com/album/%eb%b9%88%ec%a7%91/</link>
-            <guid>https://poclanos.com/album/%eb%b9%88%ec%a7%91/</guid>
-            <pubDate>Sat, 01 Jul 2023 03:02:30 GMT</pubDate>
-            <content:encoded><![CDATA[서림]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/3000px-album-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
