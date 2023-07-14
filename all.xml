@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 02:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 03:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shy Dog (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/shy-dog/</link>
+            <guid>https://poclanos.com/album/shy-dog/</guid>
+            <pubDate>Fri, 14 Jul 2023 03:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[윤숭]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%88%AD-shydog-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dog Bite Dog (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dog-bite-dog/</link>
+            <guid>https://poclanos.com/album/dog-bite-dog/</guid>
+            <pubDate>Fri, 14 Jul 2023 03:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[Asen]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-Masiwei-Asen-Dog-Bite-Dog-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canvas, Brush & Knife (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/canvas-brush-knife/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 06 Jul 2023 03:26:31 GMT</pubDate>
             <content:encoded><![CDATA[신승은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%8A%B9%EC%9D%80-%ED%85%80%EB%B8%94%EB%9F%AC%EB%A5%BC-%EB%8B%A6%EC%95%84%EC%A4%84%EA%B2%8C%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mind is Light (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/mind-is-light/</link>
-            <guid>https://poclanos.com/album/mind-is-light/</guid>
-            <pubDate>Wed, 05 Jul 2023 09:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[세이수미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%B8%EC%9D%B4%EC%88%98%EB%AF%B8-Mind-is-Light-%EA%B0%80%EA%B3%B5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Panther (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/black-panther/</link>
-            <guid>https://poclanos.com/album/black-panther/</guid>
-            <pubDate>Wed, 05 Jul 2023 03:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[LINION]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-Black-Panther_album_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
