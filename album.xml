@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 08:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 09:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Silhouette]]></title>
+            <link>https://poclanos.com/album/silhouette/</link>
+            <guid>https://poclanos.com/album/silhouette/</guid>
+            <pubDate>Sun, 16 Jul 2023 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-off-the-menu-Silhouette-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나쁜 아이]]></title>
             <link>https://poclanos.com/album/%eb%82%98%ec%81%9c-%ec%95%84%ec%9d%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jul 2023 03:26:31 GMT</pubDate>
             <content:encoded><![CDATA[About Paul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-About-Paul-Sixteen-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stage Dive]]></title>
-            <link>https://poclanos.com/album/stage-dive/</link>
-            <guid>https://poclanos.com/album/stage-dive/</guid>
-            <pubDate>Thu, 06 Jul 2023 03:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[Fin Fior]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84Stage-dive-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
