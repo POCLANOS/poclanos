@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 03:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 03:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[melting tides]]></title>
+            <link>https://poclanos.com/album/melting-tides/</link>
+            <guid>https://poclanos.com/album/melting-tides/</guid>
+            <pubDate>Mon, 17 Jul 2023 03:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-melting-tides-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은하호수육교]]></title>
+            <link>https://poclanos.com/album/%ec%9d%80%ed%95%98%ed%98%b8%ec%88%98%ec%9c%a1%ea%b5%90/</link>
+            <guid>https://poclanos.com/album/%ec%9d%80%ed%95%98%ed%98%b8%ec%88%98%ec%9c%a1%ea%b5%90/</guid>
+            <pubDate>Mon, 17 Jul 2023 03:29:59 GMT</pubDate>
+            <content:encoded><![CDATA[공토끼]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/5.-Dreamus-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%ED%86%A0%EB%81%BC-%EC%9D%80%ED%95%98%ED%98%B8%EC%88%98%EC%9C%A1%EA%B5%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Silhouette]]></title>
             <link>https://poclanos.com/album/silhouette/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 07 Jul 2023 03:22:43 GMT</pubDate>
             <content:encoded><![CDATA[소서 (Soseo)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%83%95%ED%9B%84%EB%A3%A8-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초록달]]></title>
-            <link>https://poclanos.com/album/%ec%b4%88%eb%a1%9d%eb%8b%ac/</link>
-            <guid>https://poclanos.com/album/%ec%b4%88%eb%a1%9d%eb%8b%ac/</guid>
-            <pubDate>Fri, 07 Jul 2023 03:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BrokenTeeth-%EC%B4%88%EB%A1%9D%EB%8B%AC%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sixteen]]></title>
-            <link>https://poclanos.com/album/sixteen/</link>
-            <guid>https://poclanos.com/album/sixteen/</guid>
-            <pubDate>Thu, 06 Jul 2023 03:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[About Paul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-About-Paul-Sixteen-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
