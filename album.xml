@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 01:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 03:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HIDEOUT]]></title>
+            <link>https://poclanos.com/album/hideout/</link>
+            <guid>https://poclanos.com/album/hideout/</guid>
+            <pubDate>Wed, 19 Jul 2023 03:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[LINION]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-HIDEOUT_album_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Danny and Amy]]></title>
+            <link>https://poclanos.com/album/danny-and-amy/</link>
+            <guid>https://poclanos.com/album/danny-and-amy/</guid>
+            <pubDate>Wed, 19 Jul 2023 03:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[박소유]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9C%A0-Danny-and-Amy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광원]]></title>
             <link>https://poclanos.com/album/%ea%b4%91%ec%9b%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 10 Jul 2023 03:25:42 GMT</pubDate>
             <content:encoded><![CDATA[정오월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%98%A4%EC%9B%94-%EC%95%88%EB%85%95-%EB%82%98%EC%9D%98-%EC%9D%B4%EB%A6%84%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ANGLE]]></title>
-            <link>https://poclanos.com/album/angle/</link>
-            <guid>https://poclanos.com/album/angle/</guid>
-            <pubDate>Sun, 09 Jul 2023 03:02:50 GMT</pubDate>
-            <content:encoded><![CDATA[신인류]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9D%B8%EB%A5%98-ANGLE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FREEVERSE]]></title>
-            <link>https://poclanos.com/album/freeverse/</link>
-            <guid>https://poclanos.com/album/freeverse/</guid>
-            <pubDate>Sat, 08 Jul 2023 09:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[까데호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-FREEVERSE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
