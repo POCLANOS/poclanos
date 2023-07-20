@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 08:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 09:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싸움]]></title>
+            <link>https://poclanos.com/album/%ec%8b%b8%ec%9b%80/</link>
+            <guid>https://poclanos.com/album/%ec%8b%b8%ec%9b%80/</guid>
+            <pubDate>Thu, 20 Jul 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[선우정아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EC%8B%B8%EC%9B%80-Love-War_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dawn Chorus]]></title>
             <link>https://poclanos.com/album/dawn-chorus/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jul 2023 03:20:22 GMT</pubDate>
             <content:encoded><![CDATA[깃임]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%ED%99%A9%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4%ec%a0%a0/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4%ec%a0%a0/</guid>
-            <pubDate>Wed, 12 Jul 2023 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[SOQI (쏘키)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%8F%98%ED%82%A4-%EC%9D%B4%EC%A0%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
