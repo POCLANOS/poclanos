@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 02:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 03:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love Piercing (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-piercing/</link>
+            <guid>https://poclanos.com/album/love-piercing/</guid>
+            <pubDate>Fri, 21 Jul 2023 03:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[Charming Lips]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/3.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Charming-Lips-%EC%B0%A8%EB%B0%8D%EB%A6%BD%EC%8A%A4-Love-Piercing-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[싸움 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8b%b8%ec%9b%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Jul 2023 09:11:00 GMT</pubDate>
             <content:encoded><![CDATA[Lym en]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Lym-en-Wild-Thoughts-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황새 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%a9%ec%83%88/</link>
-            <guid>https://poclanos.com/album/%ed%99%a9%ec%83%88/</guid>
-            <pubDate>Wed, 12 Jul 2023 03:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[깃임]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%ED%99%A9%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
