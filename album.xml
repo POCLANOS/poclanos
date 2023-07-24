@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 02:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BB New Attitude]]></title>
+            <link>https://poclanos.com/album/53521/</link>
+            <guid>https://poclanos.com/album/53521/</guid>
+            <pubDate>Mon, 24 Jul 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-BB-New-Attitude-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여우]]></title>
+            <link>https://poclanos.com/album/%ec%97%ac%ec%9a%b0/</link>
+            <guid>https://poclanos.com/album/%ec%97%ac%ec%9a%b0/</guid>
+            <pubDate>Mon, 24 Jul 2023 03:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[Leem]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leem-%EC%9D%B4%EB%8F%84%EC%97%B4-%EC%97%AC%EC%9A%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추 (Yours Truly)]]></title>
             <link>https://poclanos.com/album/%ec%b6%94-yours-truly/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 14 Jul 2023 03:22:47 GMT</pubDate>
             <content:encoded><![CDATA[윤숭]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%88%AD-shydog-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dog Bite Dog]]></title>
-            <link>https://poclanos.com/album/dog-bite-dog/</link>
-            <guid>https://poclanos.com/album/dog-bite-dog/</guid>
-            <pubDate>Fri, 14 Jul 2023 03:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[Asen]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-Masiwei-Asen-Dog-Bite-Dog-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Forest Ends at the Sea]]></title>
-            <link>https://poclanos.com/album/the-forest-ends-at-the-sea/</link>
-            <guid>https://poclanos.com/album/the-forest-ends-at-the-sea/</guid>
-            <pubDate>Thu, 13 Jul 2023 03:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[Theseus]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-%E6%A3%AE%E6%9E%97%E7%9A%84%E7%B5%82%E9%BB%9E%E6%98%AF%E6%B5%B7_album_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
