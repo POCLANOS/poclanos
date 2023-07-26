@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 09:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Schizophrenia]]></title>
+            <link>https://poclanos.com/album/schizophrenia/</link>
+            <guid>https://poclanos.com/album/schizophrenia/</guid>
+            <pubDate>Wed, 26 Jul 2023 09:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[시너가렛 (SynerGarette)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-SynerGarette-Schizophrenia-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어른]]></title>
             <link>https://poclanos.com/album/%ec%96%b4%eb%a5%b8-5/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 18 Jul 2023 03:20:26 GMT</pubDate>
             <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Lean-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[melting tides]]></title>
-            <link>https://poclanos.com/album/melting-tides/</link>
-            <guid>https://poclanos.com/album/melting-tides/</guid>
-            <pubDate>Mon, 17 Jul 2023 03:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-melting-tides-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
