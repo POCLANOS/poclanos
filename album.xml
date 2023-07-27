@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 02:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 03:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Heat stress]]></title>
+            <link>https://poclanos.com/album/heat-stress/</link>
+            <guid>https://poclanos.com/album/heat-stress/</guid>
+            <pubDate>Thu, 27 Jul 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[a 9uy(어 가이)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/6.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-a-9uy-Heat-stress-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run!]]></title>
+            <link>https://poclanos.com/album/run-3/</link>
+            <guid>https://poclanos.com/album/run-3/</guid>
+            <pubDate>Thu, 27 Jul 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[백승환]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%8A%B9%ED%99%98-Run-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLESSED]]></title>
+            <link>https://poclanos.com/album/blessed/</link>
+            <guid>https://poclanos.com/album/blessed/</guid>
+            <pubDate>Thu, 27 Jul 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[372]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-372-BLESSED-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Schizophrenia]]></title>
             <link>https://poclanos.com/album/schizophrenia/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 19 Jul 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[박소유]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9C%A0-Danny-and-Amy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광원]]></title>
-            <link>https://poclanos.com/album/%ea%b4%91%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%ea%b4%91%ec%9b%90/</guid>
-            <pubDate>Tue, 18 Jul 2023 09:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[공중그늘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%B5%EC%A4%91%EA%B7%B8%EB%8A%98_%EA%B4%91%EC%9B%90_3500px-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tidal Wave]]></title>
-            <link>https://poclanos.com/album/tidal-wave/</link>
-            <guid>https://poclanos.com/album/tidal-wave/</guid>
-            <pubDate>Tue, 18 Jul 2023 03:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[이새]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%83%88-Tidal-Wave-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lean]]></title>
-            <link>https://poclanos.com/album/lean/</link>
-            <guid>https://poclanos.com/album/lean/</guid>
-            <pubDate>Tue, 18 Jul 2023 03:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Lean-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
