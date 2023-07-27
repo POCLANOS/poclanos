@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 08:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kidd (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/kidd/</link>
+            <guid>https://poclanos.com/album/kidd/</guid>
+            <pubDate>Thu, 27 Jul 2023 09:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[새소년]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EC%83%88%EC%86%8C%EB%85%84-Kidd_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Heat stress (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/heat-stress/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 19 Jul 2023 03:41:54 GMT</pubDate>
             <content:encoded><![CDATA[LINION]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-HIDEOUT_album_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Danny and Amy (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/danny-and-amy/</link>
-            <guid>https://poclanos.com/album/danny-and-amy/</guid>
-            <pubDate>Wed, 19 Jul 2023 03:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[박소유]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9C%A0-Danny-and-Amy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
