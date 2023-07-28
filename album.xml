@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 02:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 03:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베티]]></title>
+            <link>https://poclanos.com/album/%eb%b2%a0%ed%8b%b0/</link>
+            <guid>https://poclanos.com/album/%eb%b2%a0%ed%8b%b0/</guid>
+            <pubDate>Fri, 28 Jul 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[보수동쿨러]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Betty%EB%B3%B4%EC%88%98%EB%8F%99%EC%BF%A8%EB%9F%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그대로일까]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%8c%80%eb%a1%9c%ec%9d%bc%ea%b9%8c/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%8c%80%eb%a1%9c%ec%9d%bc%ea%b9%8c/</guid>
+            <pubDate>Fri, 28 Jul 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[도정민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-%EA%B7%B8%EB%8C%80%EB%A1%9C%EC%9D%BC%EA%B9%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kidd]]></title>
             <link>https://poclanos.com/album/kidd/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 20 Jul 2023 03:10:25 GMT</pubDate>
             <content:encoded><![CDATA[곽태풍]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%BD%ED%83%9C%ED%92%8D-Lisa-^^-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ouroboros: head]]></title>
-            <link>https://poclanos.com/album/ouroboros-head/</link>
-            <guid>https://poclanos.com/album/ouroboros-head/</guid>
-            <pubDate>Thu, 20 Jul 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[블루터틀랜드]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%B8%94%EB%A3%A8%ED%84%B0%ED%8B%80%EB%9E%9C%EB%93%9C-Ouroboros-head-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HIDEOUT]]></title>
-            <link>https://poclanos.com/album/hideout/</link>
-            <guid>https://poclanos.com/album/hideout/</guid>
-            <pubDate>Wed, 19 Jul 2023 03:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[LINION]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-cover-HIDEOUT_album_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
