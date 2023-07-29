@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 02:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 03:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Think I Like You (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/i-think-i-like-you/</link>
+            <guid>https://poclanos.com/album/i-think-i-like-you/</guid>
+            <pubDate>Sat, 29 Jul 2023 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-I-Think-I-Like-You-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베티 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b2%a0%ed%8b%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Jul 2023 03:10:25 GMT</pubDate>
             <content:encoded><![CDATA[blurrin' (블러린)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-blurrin-%EB%B8%94%EB%9F%AC%EB%A6%B0-Dawn-Chorus-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lisa ^^ (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/lisa/</link>
-            <guid>https://poclanos.com/album/lisa/</guid>
-            <pubDate>Thu, 20 Jul 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[곽태풍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%BD%ED%83%9C%ED%92%8D-Lisa-^^-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
