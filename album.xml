@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 02:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 03:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Same Dream]]></title>
+            <link>https://poclanos.com/album/same-dream/</link>
+            <guid>https://poclanos.com/album/same-dream/</guid>
+            <pubDate>Thu, 03 Aug 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[보이어]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%9D%B4%EC%96%B4_%EA%B0%99%EC%9D%80-%EA%BF%88-Same-Dream_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%843000_3000_%EC%9E%AC%EC%88%98%EA%B8%89.jpg-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술 마시러 가는 길]]></title>
             <link>https://poclanos.com/album/%ec%88%a0-%eb%a7%88%ec%8b%9c%eb%9f%ac-%ea%b0%80%eb%8a%94-%ea%b8%b8/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Jul 2023 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FRankly%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%AC-Rainy-Day-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈이 닻 끝에 걸려있네]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88%ec%9d%b4-%eb%8b%bb-%eb%81%9d%ec%97%90-%ea%b1%b8%eb%a0%a4%ec%9e%88%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88%ec%9d%b4-%eb%8b%bb-%eb%81%9d%ec%97%90-%ea%b1%b8%eb%a0%a4%ec%9e%88%eb%84%a4/</guid>
-            <pubDate>Tue, 25 Jul 2023 09:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[유용호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A0%EC%9A%A9%ED%98%B8-%EA%BF%88%EC%9D%B4-%EB%8B%BB-%EB%81%9D%EC%97%90-%EA%B1%B8%EB%A0%A4%EC%9E%88%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
