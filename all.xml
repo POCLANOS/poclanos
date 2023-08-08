@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 02:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 03:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양과꽃들의사이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%96%91%ea%b3%bc%ea%bd%83%eb%93%a4%ec%9d%98%ec%82%ac%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%ec%96%91%ea%b3%bc%ea%bd%83%eb%93%a4%ec%9d%98%ec%82%ac%ec%9d%b4/</guid>
+            <pubDate>Tue, 08 Aug 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[강진아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%84%EC%95%84-%EC%96%91%EA%B3%BC%EA%BD%83%EB%93%A4%EC%9D%98%EC%82%AC%EC%9D%B4-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[and Forevermore (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/and-forevermore/</link>
+            <guid>https://poclanos.com/album/and-forevermore/</guid>
+            <pubDate>Tue, 08 Aug 2023 03:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[DANIEL]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-DANIEL-and-Forevermore-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청색동경 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%b2%ad%ec%83%89%eb%8f%99%ea%b2%bd/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 31 Jul 2023 03:10:09 GMT</pubDate>
             <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-Thin-Lips-Club-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Together (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/together/</link>
-            <guid>https://poclanos.com/album/together/</guid>
-            <pubDate>Sun, 30 Jul 2023 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Low-Hanging-Fruits-Together-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Think I Like You (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/i-think-i-like-you/</link>
-            <guid>https://poclanos.com/album/i-think-i-like-you/</guid>
-            <pubDate>Sat, 29 Jul 2023 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-I-Think-I-Like-You-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
