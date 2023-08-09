@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 08:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 09:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[What I Need (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/what-i-need/</link>
+            <guid>https://poclanos.com/album/what-i-need/</guid>
+            <pubDate>Wed, 09 Aug 2023 09:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-What-I-Need-Feat.-Suyo-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양과꽃들의사이 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%96%91%ea%b3%bc%ea%bd%83%eb%93%a4%ec%9d%98%ec%82%ac%ec%9d%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 31 Jul 2023 03:10:09 GMT</pubDate>
             <content:encoded><![CDATA[Josh Tu]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Limi-Josh-Tu-Natural-Phenomenon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thin Lips Club (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/thin-lips-club/</link>
-            <guid>https://poclanos.com/album/thin-lips-club/</guid>
-            <pubDate>Mon, 31 Jul 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-Thin-Lips-Club-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
