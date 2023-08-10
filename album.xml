@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 02:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 03:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cesspool]]></title>
+            <link>https://poclanos.com/album/cesspool/</link>
+            <guid>https://poclanos.com/album/cesspool/</guid>
+            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Suwon-Yim%EC%9E%84%EC%88%98%EC%9B%90-Cesspool-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Great Day]]></title>
+            <link>https://poclanos.com/album/great-day/</link>
+            <guid>https://poclanos.com/album/great-day/</guid>
+            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[Vulgar Savior]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Vulgar-Savior-Great-Day-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈치도 없게]]></title>
+            <link>https://poclanos.com/album/%eb%88%88%ec%b9%98%eb%8f%84-%ec%97%86%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%eb%88%88%ec%b9%98%eb%8f%84-%ec%97%86%ea%b2%8c/</guid>
+            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[김세준]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%88%88%EC%B9%98%EB%8F%84-%EC%97%86%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50]]></title>
+            <link>https://poclanos.com/album/50-2/</link>
+            <guid>https://poclanos.com/album/50-2/</guid>
+            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[메타]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-50-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[What I Need]]></title>
             <link>https://poclanos.com/album/what-i-need/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 02 Aug 2023 03:10:07 GMT</pubDate>
             <content:encoded><![CDATA[BAU]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-The-Beach-Voice-BAU-MELANGE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더폴락 10주년 기념 앨범 「작은 책방을 위한 노래」]]></title>
-            <link>https://poclanos.com/album/%eb%8d%94%ed%8f%b4%eb%9d%bd-10%ec%a3%bc%eb%85%84-%ea%b8%b0%eb%85%90-%ec%95%a8%eb%b2%94-%e3%80%8c%ec%9e%91%ec%9d%80-%ec%b1%85%eb%b0%a9%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%85%b8%eb%9e%98%e3%80%8d/</link>
-            <guid>https://poclanos.com/album/%eb%8d%94%ed%8f%b4%eb%9d%bd-10%ec%a3%bc%eb%85%84-%ea%b8%b0%eb%85%90-%ec%95%a8%eb%b2%94-%e3%80%8c%ec%9e%91%ec%9d%80-%ec%b1%85%eb%b0%a9%ec%9d%84-%ec%9c%84%ed%95%9c-%eb%85%b8%eb%9e%98%e3%80%8d/</guid>
-            <pubDate>Tue, 01 Aug 2023 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/%EB%8D%94%ED%8F%B4%EB%9D%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shy]]></title>
-            <link>https://poclanos.com/album/shy/</link>
-            <guid>https://poclanos.com/album/shy/</guid>
-            <pubDate>Tue, 01 Aug 2023 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[도정민]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%8F%84%EC%A0%95%EB%AF%BC-Shy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love my youth]]></title>
-            <link>https://poclanos.com/album/love-my-youth/</link>
-            <guid>https://poclanos.com/album/love-my-youth/</guid>
-            <pubDate>Tue, 01 Aug 2023 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[12BH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-12BH-Love-my-youth-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural Phenomenon]]></title>
-            <link>https://poclanos.com/album/natural-phenomenon/</link>
-            <guid>https://poclanos.com/album/natural-phenomenon/</guid>
-            <pubDate>Mon, 31 Jul 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[Josh Tu]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Limi-Josh-Tu-Natural-Phenomenon-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
