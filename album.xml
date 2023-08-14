@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 02:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ping pong]]></title>
+            <link>https://poclanos.com/album/ping-pong/</link>
+            <guid>https://poclanos.com/album/ping-pong/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[Formal]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Formal-ping-pong-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joy]]></title>
+            <link>https://poclanos.com/album/joy/</link>
+            <guid>https://poclanos.com/album/joy/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[THE LWNR (더 라우너)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-THE-LWNR-%EB%8D%94-%EB%9D%BC%EC%9A%B0%EB%84%88-Joy-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛나]]></title>
+            <link>https://poclanos.com/album/%eb%b9%9b%eb%82%98-2/</link>
+            <guid>https://poclanos.com/album/%eb%b9%9b%eb%82%98-2/</guid>
+            <pubDate>Mon, 14 Aug 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-zzzaam-%EB%B9%9B%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[투정]]></title>
             <link>https://poclanos.com/album/%ed%88%ac%ec%a0%95-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 05 Aug 2023 03:09:58 GMT</pubDate>
             <content:encoded><![CDATA[pigfrog]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-pigfrog-Pancake-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pacific Land]]></title>
-            <link>https://poclanos.com/album/pacific-land/</link>
-            <guid>https://poclanos.com/album/pacific-land/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-uju-%EC%9A%B0%EC%A3%BC-Pacific-Land-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Holiday]]></title>
-            <link>https://poclanos.com/album/holiday-3/</link>
-            <guid>https://poclanos.com/album/holiday-3/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Oneianmillion-%EA%B0%95%EC%9D%B4%EC%95%88-Holiday-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사소함]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%ec%86%8c%ed%95%a8/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%ec%86%8c%ed%95%a8/</guid>
-            <pubDate>Fri, 04 Aug 2023 03:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[민수홍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EB%AF%BC%EC%88%98%ED%99%8D-%EC%82%AC%EC%84%9C%ED%95%A8_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
