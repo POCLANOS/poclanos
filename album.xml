@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tilted]]></title>
+            <link>https://poclanos.com/album/tilted/</link>
+            <guid>https://poclanos.com/album/tilted/</guid>
+            <pubDate>Wed, 16 Aug 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[Offing]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Offing-Tilted-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야즈드의 불빛]]></title>
             <link>https://poclanos.com/album/%ec%95%bc%ec%a6%88%eb%93%9c%ec%9d%98-%eb%b6%88%eb%b9%9b/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Aug 2023 03:10:41 GMT</pubDate>
             <content:encoded><![CDATA[Hukky Shibaseki]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Hukky-Shibaseki-%EC%A7%B1%EC%9C%A0-%EC%8B%9C%EB%B0%94%EC%84%B8%ED%82%A4-DOGSORI-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지나는 마음에게]]></title>
-            <link>https://poclanos.com/album/%ec%a7%80%eb%82%98%eb%8a%94-%eb%a7%88%ec%9d%8c%ec%97%90%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%ec%a7%80%eb%82%98%eb%8a%94-%eb%a7%88%ec%9d%8c%ec%97%90%ea%b2%8c/</guid>
-            <pubDate>Sun, 06 Aug 2023 03:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A5%B4%EB%A5%B4-%EC%A7%80%EB%82%98%EB%8A%94-%EB%A7%88%EC%9D%8C%EC%97%90%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
