@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 02:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[easier]]></title>
+            <link>https://poclanos.com/album/easier/</link>
+            <guid>https://poclanos.com/album/easier/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[sunwashere]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sunwashere%EC%8D%AC%EC%9B%8C%EC%A6%88%ED%9E%88%EC%96%B4-easier-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이를 찾습니다]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%ec%9d%b4%eb%a5%bc-%ec%b0%be%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%ec%9d%b4%eb%a5%bc-%ec%b0%be%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[심아일 (SIMILE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC-SIMILE-%EC%95%84%EC%9D%B4%EB%A5%BC-%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[OVERTHINKING]]></title>
+            <link>https://poclanos.com/album/overthinking/</link>
+            <guid>https://poclanos.com/album/overthinking/</guid>
+            <pubDate>Thu, 17 Aug 2023 03:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[SASQTCH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-SASQTCH-OVERTHINKING-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tilted]]></title>
             <link>https://poclanos.com/album/tilted/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 08 Aug 2023 03:10:13 GMT</pubDate>
             <content:encoded><![CDATA[DANIEL]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-DANIEL-and-Forevermore-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청색동경]]></title>
-            <link>https://poclanos.com/album/%ec%b2%ad%ec%83%89%eb%8f%99%ea%b2%bd/</link>
-            <guid>https://poclanos.com/album/%ec%b2%ad%ec%83%89%eb%8f%99%ea%b2%bd/</guid>
-            <pubDate>Mon, 07 Aug 2023 09:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[팔칠댄스 (87dance)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%94%EC%B9%A0%EB%8C%84%EC%8A%A4-%EC%B2%AD%EC%83%89%EB%8F%99%EA%B2%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농담이라면]]></title>
-            <link>https://poclanos.com/album/%eb%86%8d%eb%8b%b4%ec%9d%b4%eb%9d%bc%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%eb%86%8d%eb%8b%b4%ec%9d%b4%eb%9d%bc%eb%a9%b4/</guid>
-            <pubDate>Mon, 07 Aug 2023 03:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[김전기]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EA%B9%80%EC%A0%84%EA%B8%B0-%EB%86%8D%EB%8B%B4%EC%9D%B4%EB%9D%BC%EB%A9%B4-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DOGSORI]]></title>
-            <link>https://poclanos.com/album/dogsori/</link>
-            <guid>https://poclanos.com/album/dogsori/</guid>
-            <pubDate>Mon, 07 Aug 2023 03:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[Hukky Shibaseki]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Hukky-Shibaseki-%EC%A7%B1%EC%9C%A0-%EC%8B%9C%EB%B0%94%EC%84%B8%ED%82%A4-DOGSORI-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
