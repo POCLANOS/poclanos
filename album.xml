@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 02:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 03:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성실하여 다정하고 때로는]]></title>
+            <link>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</link>
+            <guid>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84yewee-%EC%84%B1%EC%8B%A4%ED%95%98%EC%97%AC-%EB%8B%A4%EC%A0%95%ED%95%98%EA%B3%A0-%EB%95%8C%EB%A1%9C%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[happybirthdaytoyou!]]></title>
+            <link>https://poclanos.com/album/happybirthdaytoyou/</link>
+            <guid>https://poclanos.com/album/happybirthdaytoyou/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-happybirthdaytoyou-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[easier]]></title>
             <link>https://poclanos.com/album/easier/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 09 Aug 2023 09:10:29 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-What-I-Need-Feat.-Suyo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양과꽃들의사이]]></title>
-            <link>https://poclanos.com/album/%ec%96%91%ea%b3%bc%ea%bd%83%eb%93%a4%ec%9d%98%ec%82%ac%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%ec%96%91%ea%b3%bc%ea%bd%83%eb%93%a4%ec%9d%98%ec%82%ac%ec%9d%b4/</guid>
-            <pubDate>Tue, 08 Aug 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[강진아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%84%EC%95%84-%EC%96%91%EA%B3%BC%EA%BD%83%EB%93%A4%EC%9D%98%EC%82%AC%EC%9D%B4-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[and Forevermore]]></title>
-            <link>https://poclanos.com/album/and-forevermore/</link>
-            <guid>https://poclanos.com/album/and-forevermore/</guid>
-            <pubDate>Tue, 08 Aug 2023 03:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[DANIEL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-DANIEL-and-Forevermore-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
