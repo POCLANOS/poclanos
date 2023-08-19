@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 08:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tik Tak Tok]]></title>
+            <link>https://poclanos.com/album/tik-tak-tok/</link>
+            <guid>https://poclanos.com/album/tik-tak-tok/</guid>
+            <pubDate>Sat, 19 Aug 2023 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[실리카겔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EC%BB%A4%EB%B2%84_%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Tik-Tak-Tok-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pack the All Harms Up]]></title>
             <link>https://poclanos.com/album/pack-the-all-harms-up/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[김세준]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%88%88%EC%B9%98%EB%8F%84-%EC%97%86%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50]]></title>
-            <link>https://poclanos.com/album/50-2/</link>
-            <guid>https://poclanos.com/album/50-2/</guid>
-            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[메타]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-50-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
