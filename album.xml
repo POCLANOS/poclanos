@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 02:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 03:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[To summer didn’t shine for us]]></title>
+            <link>https://poclanos.com/album/to-summer-didnt-shine-for-us/</link>
+            <guid>https://poclanos.com/album/to-summer-didnt-shine-for-us/</guid>
+            <pubDate>Mon, 21 Aug 2023 03:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-To-summer-didnt-shine-for-us-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Inventory]]></title>
+            <link>https://poclanos.com/album/inventory/</link>
+            <guid>https://poclanos.com/album/inventory/</guid>
+            <pubDate>Mon, 21 Aug 2023 03:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[이리(eeri)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/Coverart3000x3000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바이바이]]></title>
             <link>https://poclanos.com/album/%eb%b0%94%ec%9d%b4%eb%b0%94%ec%9d%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 11 Aug 2023 03:09:31 GMT</pubDate>
             <content:encoded><![CDATA[JUSTIN S]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%BB%A4%EB%B2%84-JUSTIN-S-SOMEDAY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cesspool]]></title>
-            <link>https://poclanos.com/album/cesspool/</link>
-            <guid>https://poclanos.com/album/cesspool/</guid>
-            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[Suwon Yim (임수원)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Suwon-Yim%EC%9E%84%EC%88%98%EC%9B%90-Cesspool-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Great Day]]></title>
-            <link>https://poclanos.com/album/great-day/</link>
-            <guid>https://poclanos.com/album/great-day/</guid>
-            <pubDate>Thu, 10 Aug 2023 03:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[Vulgar Savior]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Vulgar-Savior-Great-Day-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
