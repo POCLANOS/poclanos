@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 07:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 08:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I Want You]]></title>
+            <link>https://poclanos.com/album/i-want-you/</link>
+            <guid>https://poclanos.com/album/i-want-you/</guid>
+            <pubDate>Tue, 22 Aug 2023 08:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[이루리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A3%A8%EB%A6%AC-I-Want-You-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점]]></title>
             <link>https://poclanos.com/album/%ec%a0%90/</link>
@@ -64,20 +72,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Pack-the-All-Harms-Up_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[happybirthdaytoyou!]]></title>
-            <link>https://poclanos.com/album/happybirthdaytoyou/</link>
-            <guid>https://poclanos.com/album/happybirthdaytoyou/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[버둥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-happybirthdaytoyou-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성실하여 다정하고 때로는]]></title>
             <link>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</link>
             <guid>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</guid>
             <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84yewee-%EC%84%B1%EC%8B%A4%ED%95%98%EC%97%AC-%EB%8B%A4%EC%A0%95%ED%95%98%EA%B3%A0-%EB%95%8C%EB%A1%9C%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[happybirthdaytoyou!]]></title>
+            <link>https://poclanos.com/album/happybirthdaytoyou/</link>
+            <guid>https://poclanos.com/album/happybirthdaytoyou/</guid>
+            <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-happybirthdaytoyou-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[easier]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 12 Aug 2023 03:09:14 GMT</pubDate>
             <content:encoded><![CDATA[NOAH1LUV]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/NOAH1LUV-Surprize-Show_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love and Gravity]]></title>
-            <link>https://poclanos.com/album/love-and-gravity/</link>
-            <guid>https://poclanos.com/album/love-and-gravity/</guid>
-            <pubDate>Fri, 11 Aug 2023 03:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[About Paul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Samantha-Gang-About-Paul-Love-and-Gravity-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
