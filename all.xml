@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 02:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 03:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[만화같은 이야기 OST_Part.1 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a7%8c%ed%99%94%ea%b0%99%ec%9d%80-%ec%9d%b4%ec%95%bc%ea%b8%b0-ost_part-1/</link>
+            <guid>https://poclanos.com/album/%eb%a7%8c%ed%99%94%ea%b0%99%ec%9d%80-%ec%9d%b4%ec%95%bc%ea%b8%b0-ost_part-1/</guid>
+            <pubDate>Wed, 23 Aug 2023 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/MOWB-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I Want You (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/i-want-you/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 13 Aug 2023 09:08:20 GMT</pubDate>
             <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-%ED%88%AC%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Surprize Show (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/surprize-show/</link>
-            <guid>https://poclanos.com/album/surprize-show/</guid>
-            <pubDate>Sat, 12 Aug 2023 03:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[NOAH1LUV]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/NOAH1LUV-Surprize-Show_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
