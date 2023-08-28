@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 02:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prototype]]></title>
+            <link>https://poclanos.com/album/prototype-2/</link>
+            <guid>https://poclanos.com/album/prototype-2/</guid>
+            <pubDate>Mon, 28 Aug 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[J E L L V A K O]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/Jellvako-Prototype_%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Small Town Madness!]]></title>
+            <link>https://poclanos.com/album/small-town-madness/</link>
+            <guid>https://poclanos.com/album/small-town-madness/</guid>
+            <pubDate>Mon, 28 Aug 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[키위허그]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-kiwihug-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buzok]]></title>
+            <link>https://poclanos.com/album/buzok/</link>
+            <guid>https://poclanos.com/album/buzok/</guid>
+            <pubDate>Mon, 28 Aug 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[jayvito]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-jayvito-Buzok-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Youth Hostel vol.2 Black&Orange]]></title>
             <link>https://poclanos.com/album/youth-hostel-vol-2-blackorange/</link>
@@ -136,36 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Pack-the-All-Harms-Up_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성실하여 다정하고 때로는]]></title>
-            <link>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</link>
-            <guid>https://poclanos.com/album/%ec%84%b1%ec%8b%a4%ed%95%98%ec%97%ac-%eb%8b%a4%ec%a0%95%ed%95%98%ea%b3%a0-%eb%95%8c%eb%a1%9c%eb%8a%94/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84yewee-%EC%84%B1%EC%8B%A4%ED%95%98%EC%97%AC-%EB%8B%A4%EC%A0%95%ED%95%98%EA%B3%A0-%EB%95%8C%EB%A1%9C%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[happybirthdaytoyou!]]></title>
             <link>https://poclanos.com/album/happybirthdaytoyou/</link>
             <guid>https://poclanos.com/album/happybirthdaytoyou/</guid>
             <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
             <content:encoded><![CDATA[버둥]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-happybirthdaytoyou-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[easier]]></title>
-            <link>https://poclanos.com/album/easier/</link>
-            <guid>https://poclanos.com/album/easier/</guid>
-            <pubDate>Thu, 17 Aug 2023 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[sunwashere]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sunwashere%EC%8D%AC%EC%9B%8C%EC%A6%88%ED%9E%88%EC%96%B4-easier-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이를 찾습니다]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%9d%b4%eb%a5%bc-%ec%b0%be%ec%8a%b5%eb%8b%88%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%9d%b4%eb%a5%bc-%ec%b0%be%ec%8a%b5%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Thu, 17 Aug 2023 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[심아일 (SIMILE)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC-SIMILE-%EC%95%84%EC%9D%B4%EB%A5%BC-%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
