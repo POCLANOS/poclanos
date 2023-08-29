@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 02:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[she might be (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/she-might-be/</link>
+            <guid>https://poclanos.com/album/she-might-be/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[HAYASI CAKE HOUSE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAYASI-CAKE-HOUSE-she-might-be-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Finish Line (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/finish-line/</link>
+            <guid>https://poclanos.com/album/finish-line/</guid>
+            <pubDate>Tue, 29 Aug 2023 03:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Finish-Line-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prototype (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/prototype-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 19 Aug 2023 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[실리카겔]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EC%BB%A4%EB%B2%84_%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-Tik-Tak-Tok-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pack the All Harms Up (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/pack-the-all-harms-up/</link>
-            <guid>https://poclanos.com/album/pack-the-all-harms-up/</guid>
-            <pubDate>Sat, 19 Aug 2023 03:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[테종]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Pack-the-All-Harms-Up_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[happybirthdaytoyou! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/happybirthdaytoyou/</link>
-            <guid>https://poclanos.com/album/happybirthdaytoyou/</guid>
-            <pubDate>Fri, 18 Aug 2023 03:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[버둥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-happybirthdaytoyou-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
