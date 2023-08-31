@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 02:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 이래]]></title>
+            <link>https://poclanos.com/album/%ec%99%9c-%ec%9d%b4%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%ec%99%9c-%ec%9d%b4%eb%9e%98/</guid>
+            <pubDate>Thu, 31 Aug 2023 03:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[예빛]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EC%98%88%EB%B9%9B-%EC%99%9C-%EC%9D%B4%EB%9E%98_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초월]]></title>
+            <link>https://poclanos.com/album/%ec%b4%88%ec%9b%94/</link>
+            <guid>https://poclanos.com/album/%ec%b4%88%ec%9b%94/</guid>
+            <pubDate>Thu, 31 Aug 2023 03:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[깃임]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%EC%B4%88%EC%9B%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2단지]]></title>
             <link>https://poclanos.com/album/2%eb%8b%a8%ec%a7%80/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 23 Aug 2023 03:09:56 GMT</pubDate>
             <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/MOWB-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Want You]]></title>
-            <link>https://poclanos.com/album/i-want-you/</link>
-            <guid>https://poclanos.com/album/i-want-you/</guid>
-            <pubDate>Tue, 22 Aug 2023 08:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[이루리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A3%A8%EB%A6%AC-I-Want-You-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점]]></title>
-            <link>https://poclanos.com/album/%ec%a0%90/</link>
-            <guid>https://poclanos.com/album/%ec%a0%90/</guid>
-            <pubDate>Tue, 22 Aug 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[표표]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-mcboil-%EB%A7%A5%EB%B3%B4%EC%9D%BC-Dark-Nebula-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
