@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 02:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[E-RIDING]]></title>
+            <link>https://poclanos.com/album/e-riding/</link>
+            <guid>https://poclanos.com/album/e-riding/</guid>
+            <pubDate>Sun, 03 Sep 2023 03:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Gila-%EA%B8%B8%EB%9D%BC-E-RIDING%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Audiosfrom Part 2]]></title>
             <link>https://poclanos.com/album/audiosfrom-part-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 24 Aug 2023 03:10:14 GMT</pubDate>
             <content:encoded><![CDATA[J-Path]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%88%EC%83%AC-MRSHLL-album-cover-5050%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 바라봤던 건]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%b0%94%eb%9d%bc%eb%b4%a4%eb%8d%98-%ea%b1%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%b0%94%eb%9d%bc%eb%b4%a4%eb%8d%98-%ea%b1%b4/</guid>
-            <pubDate>Thu, 24 Aug 2023 03:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[초월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EB%82%B4%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B4%A4%EB%8D%98-%EA%B1%B4_cover-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
