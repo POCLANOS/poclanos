@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 02:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인형극]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9/</guid>
+            <pubDate>Mon, 04 Sep 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[ANYO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ANYO-%EC%9D%B8%ED%98%95%EA%B7%B9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이 고양이]]></title>
+            <link>https://poclanos.com/album/53852/</link>
+            <guid>https://poclanos.com/album/53852/</guid>
+            <pubDate>Mon, 04 Sep 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[캣츠파다]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EA%B3%A0%EC%96%91%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[E-RIDING]]></title>
             <link>https://poclanos.com/album/e-riding/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 26 Aug 2023 03:09:13 GMT</pubDate>
             <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Jue%EC%A3%BC%EC%95%A0-NO-TRAGEDY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓸쓸한 꿈]]></title>
-            <link>https://poclanos.com/album/%ec%93%b8%ec%93%b8%ed%95%9c-%ea%bf%88/</link>
-            <guid>https://poclanos.com/album/%ec%93%b8%ec%93%b8%ed%95%9c-%ea%bf%88/</guid>
-            <pubDate>Fri, 25 Aug 2023 03:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[oait]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-oait-%EC%93%B8%EC%93%B8%ED%95%9C-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50/50]]></title>
-            <link>https://poclanos.com/album/50-50/</link>
-            <guid>https://poclanos.com/album/50-50/</guid>
-            <pubDate>Thu, 24 Aug 2023 03:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[J-Path]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%88%EC%83%AC-MRSHLL-album-cover-5050%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
