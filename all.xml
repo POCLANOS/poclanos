@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 03:13:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 05:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 04 Sep 2023 09:10:45 GMT</pubDate>
             <content:encoded><![CDATA[Woshi]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Woshi-relaxation-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배웅 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</guid>
-            <pubDate>Mon, 04 Sep 2023 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[이설아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%9D%B4%EC%84%A4%EC%95%84-%EB%B0%B0%EC%9B%85-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다소 씁쓸했던 이야기 (POCLANOS ─ Album)]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 29 Aug 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[한로로]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%9D%B4%EC%83%81%EB%B9%84%ED%96%89-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[she might be (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/she-might-be/</link>
+            <guid>https://poclanos.com/album/she-might-be/</guid>
+            <pubDate>Tue, 05 Sep 2023 05:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[HAYASI CAKE HOUSE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAYASI-CAKE-HOUSE-she-might-be-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
