@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 02:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 03:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Epilogue]]></title>
+            <link>https://poclanos.com/album/epilogue/</link>
+            <guid>https://poclanos.com/album/epilogue/</guid>
+            <pubDate>Tue, 05 Sep 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EA%B5%AC%EC%9B%90%EC%B0%AC-Epilogue_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남향 南向 (Sailing South)]]></title>
+            <link>https://poclanos.com/album/%eb%82%a8%ed%96%a5-%e5%8d%97%e5%90%91-sailing-south/</link>
+            <guid>https://poclanos.com/album/%eb%82%a8%ed%96%a5-%e5%8d%97%e5%90%91-sailing-south/</guid>
+            <pubDate>Tue, 05 Sep 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[CHS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-%EB%82%A8%ED%96%A5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dark Nebula]]></title>
+            <link>https://poclanos.com/album/dark-nebula/</link>
+            <guid>https://poclanos.com/album/dark-nebula/</guid>
+            <pubDate>Tue, 05 Sep 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[mcboil (맥보일)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-mcboil-%EB%A7%A5%EB%B3%B4%EC%9D%BC-Dark-Nebula-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweet thing]]></title>
+            <link>https://poclanos.com/album/sweet-thing/</link>
+            <guid>https://poclanos.com/album/sweet-thing/</guid>
+            <pubDate>Tue, 05 Sep 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[HAYASI CAKE HOUSE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAYASI-CAKE-HOUSE-Sweet-thing-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[relaxation]]></title>
             <link>https://poclanos.com/album/relaxation-2/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 29 Aug 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[한로로]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%9D%B4%EC%83%81%EB%B9%84%ED%96%89-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[she might be]]></title>
-            <link>https://poclanos.com/album/she-might-be/</link>
-            <guid>https://poclanos.com/album/she-might-be/</guid>
-            <pubDate>Tue, 29 Aug 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[HAYASI CAKE HOUSE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAYASI-CAKE-HOUSE-she-might-be-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finish Line]]></title>
-            <link>https://poclanos.com/album/finish-line/</link>
-            <guid>https://poclanos.com/album/finish-line/</guid>
-            <pubDate>Tue, 29 Aug 2023 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Finish-Line-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prototype]]></title>
-            <link>https://poclanos.com/album/prototype-2/</link>
-            <guid>https://poclanos.com/album/prototype-2/</guid>
-            <pubDate>Mon, 28 Aug 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[J E L L V A K O]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/Jellvako-Prototype_%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Small Town Madness!]]></title>
-            <link>https://poclanos.com/album/small-town-madness/</link>
-            <guid>https://poclanos.com/album/small-town-madness/</guid>
-            <pubDate>Mon, 28 Aug 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[키위허그]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-kiwihug-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
