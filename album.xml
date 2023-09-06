@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 08:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Sep 2023 09:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배웅]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</guid>
+            <pubDate>Wed, 06 Sep 2023 09:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[이설아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%9D%B4%EC%84%A4%EC%95%84-%EB%B0%B0%EC%9B%85-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이어 (feat. 안예은)]]></title>
             <link>https://poclanos.com/album/%ec%9d%b4%ec%96%b4-feat-%ec%95%88%ec%98%88%ec%9d%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Aug 2023 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[시와]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8B%9C%EC%99%80-%EA%BF%88%EC%86%8D%EC%9D%98-%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상비행]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4%ec%83%81%eb%b9%84%ed%96%89/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4%ec%83%81%eb%b9%84%ed%96%89/</guid>
-            <pubDate>Tue, 29 Aug 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%9D%B4%EC%83%81%EB%B9%84%ED%96%89-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
