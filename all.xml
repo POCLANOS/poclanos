@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 02:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 03:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남은 것들은 짙은 향기와 마지막 사랑 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%a8%ec%9d%80-%ea%b2%83%eb%93%a4%ec%9d%80-%ec%a7%99%ec%9d%80-%ed%96%a5%ea%b8%b0%ec%99%80-%eb%a7%88%ec%a7%80%eb%a7%89-%ec%82%ac%eb%9e%91/</link>
+            <guid>https://poclanos.com/album/%eb%82%a8%ec%9d%80-%ea%b2%83%eb%93%a4%ec%9d%80-%ec%a7%99%ec%9d%80-%ed%96%a5%ea%b8%b0%ec%99%80-%eb%a7%88%ec%a7%80%eb%a7%89-%ec%82%ac%eb%9e%91/</guid>
+            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[겸 (GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B8-GYE0M-%EB%82%A8%EC%9D%80-%EA%B2%83%EB%93%A4%EC%9D%80-%EC%A7%99%EC%9D%80-%ED%96%A5%EA%B8%B0%EC%99%80-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%82%AC%EB%9E%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sincerely, me (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sincerely-me/</link>
+            <guid>https://poclanos.com/album/sincerely-me/</guid>
+            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Wayne's so sad]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-cover-Waynes-so-sad-Sincerely-me-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can You Feel The Sun? (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/can-you-feel-the-sun/</link>
+            <guid>https://poclanos.com/album/can-you-feel-the-sun/</guid>
+            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[JIEON]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JIEON-Can-You-Feel-The-Sun-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dogs Eat Dogs (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dogs-eat-dogs/</link>
+            <guid>https://poclanos.com/album/dogs-eat-dogs/</guid>
+            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[Mamiya]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Mamiya-Dogs-Eat-Dogs-Album-Cover-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배웅 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 31 Aug 2023 03:10:30 GMT</pubDate>
             <content:encoded><![CDATA[깃임]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%EC%B4%88%EC%9B%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2단지 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/2%eb%8b%a8%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/2%eb%8b%a8%ec%a7%80/</guid>
-            <pubDate>Wed, 30 Aug 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[2단지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2%EB%8B%A8%EC%A7%80-%EB%9F%AC%EB%B8%8C%ED%83%9D%EC%8B%9C%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환상의 틀 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%98%ec%83%81%ec%9d%98-%ed%8b%80/</link>
-            <guid>https://poclanos.com/album/%ed%99%98%ec%83%81%ec%9d%98-%ed%8b%80/</guid>
-            <pubDate>Wed, 30 Aug 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[원니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%ED%99%98%EC%83%81%EC%9D%98-%ED%8B%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[finaldemo (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/finaldemo/</link>
-            <guid>https://poclanos.com/album/finaldemo/</guid>
-            <pubDate>Wed, 30 Aug 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-finaldemo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈속의 새 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%98-%ec%83%88/</link>
-            <guid>https://poclanos.com/album/%ea%bf%88%ec%86%8d%ec%9d%98-%ec%83%88/</guid>
-            <pubDate>Tue, 29 Aug 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[시와]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8B%9C%EC%99%80-%EA%BF%88%EC%86%8D%EC%9D%98-%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
