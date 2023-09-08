@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 02:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 03:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introspection (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/introspection/</link>
+            <guid>https://poclanos.com/album/introspection/</guid>
+            <pubDate>Fri, 08 Sep 2023 03:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[이은미]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/3.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9D%80%EB%AF%B8-Introspection-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의여름은 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%ec%9d%98%ec%97%ac%eb%a6%84%ec%9d%80/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98%ec%97%ac%eb%a6%84%ec%9d%80/</guid>
+            <pubDate>Fri, 08 Sep 2023 03:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[강진아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.%EA%B0%95%EC%A7%84%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[훼이보릿 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%9b%bc%ec%9d%b4%eb%b3%b4%eb%a6%bf/</link>
+            <guid>https://poclanos.com/album/%ed%9b%bc%ec%9d%b4%eb%b3%b4%eb%a6%bf/</guid>
+            <pubDate>Fri, 08 Sep 2023 03:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[biskit!]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%A3%BC%EC%9C%A4%ED%95%98biskit-%ED%9B%BC%EC%9D%B4%EB%B3%B4%EB%A6%BF-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자성 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ec%84%b1/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ec%84%b1/</guid>
+            <pubDate>Fri, 08 Sep 2023 03:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[정수민 (Sumin Jung)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%88%98%EB%AF%BC-%EC%9E%90%EC%84%B1%EC%9A%A9%EB%9F%89%EC%A1%B0%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남은 것들은 짙은 향기와 마지막 사랑 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%a8%ec%9d%80-%ea%b2%83%eb%93%a4%ec%9d%80-%ec%a7%99%ec%9d%80-%ed%96%a5%ea%b8%b0%ec%99%80-%eb%a7%88%ec%a7%80%eb%a7%89-%ec%82%ac%eb%9e%91/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 02 Sep 2023 03:09:58 GMT</pubDate>
             <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/audiosfrom-part2-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AROMA (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/aroma/</link>
-            <guid>https://poclanos.com/album/aroma/</guid>
-            <pubDate>Fri, 01 Sep 2023 03:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[Silly Silky (실리실키)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Silly-Silky-%EC%8B%A4%EB%A6%AC%EC%8B%A4%ED%82%A4-AROMA%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요새 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%94%ec%83%88/</link>
-            <guid>https://poclanos.com/album/%ec%9a%94%ec%83%88/</guid>
-            <pubDate>Fri, 01 Sep 2023 03:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[cott (콧)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-cott-onthedal-%EC%9A%94%EC%83%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왜 이래 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%99%9c-%ec%9d%b4%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%ec%99%9c-%ec%9d%b4%eb%9e%98/</guid>
-            <pubDate>Thu, 31 Aug 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[예빛]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/%EC%98%88%EB%B9%9B-%EC%99%9C-%EC%9D%B4%EB%9E%98_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초월 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b4%88%ec%9b%94/</link>
-            <guid>https://poclanos.com/album/%ec%b4%88%ec%9b%94/</guid>
-            <pubDate>Thu, 31 Aug 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[깃임]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%EC%B4%88%EC%9B%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
