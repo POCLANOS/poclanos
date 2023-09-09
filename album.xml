@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 08:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㄴㅂㄱㄱ]]></title>
+            <link>https://poclanos.com/album/%e3%84%b4%e3%85%82%e3%84%b1%e3%84%b1/</link>
+            <guid>https://poclanos.com/album/%e3%84%b4%e3%85%82%e3%84%b1%e3%84%b1/</guid>
+            <pubDate>Sat, 09 Sep 2023 09:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[Navi99 (나비99)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-Navi99-%EB%82%98%EB%B9%8499-%E3%84%B4%E3%85%82%E3%84%B1%E3%84%B1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Introspection]]></title>
             <link>https://poclanos.com/album/introspection/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 03 Sep 2023 03:09:43 GMT</pubDate>
             <content:encoded><![CDATA[Gila (길라)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/4.-%EC%BB%A4%EB%B2%84-Gila-%EA%B8%B8%EB%9D%BC-E-RIDING%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Audiosfrom Part 2]]></title>
-            <link>https://poclanos.com/album/audiosfrom-part-2/</link>
-            <guid>https://poclanos.com/album/audiosfrom-part-2/</guid>
-            <pubDate>Sat, 02 Sep 2023 03:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[Audiosfrom (오디오스프롬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/08/audiosfrom-part2-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
