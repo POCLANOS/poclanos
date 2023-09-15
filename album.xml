@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 02:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 03:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YAWN]]></title>
+            <link>https://poclanos.com/album/yawn/</link>
+            <guid>https://poclanos.com/album/yawn/</guid>
+            <pubDate>Fri, 15 Sep 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[Easymind]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-Easymind-oddeen-YAWN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lucy]]></title>
+            <link>https://poclanos.com/album/lucy-2/</link>
+            <guid>https://poclanos.com/album/lucy-2/</guid>
+            <pubDate>Fri, 15 Sep 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[Min Kang]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/MinKang_Lucy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수수께끼]]></title>
+            <link>https://poclanos.com/album/%ec%88%98%ec%88%98%ea%bb%98%eb%81%bc/</link>
+            <guid>https://poclanos.com/album/%ec%88%98%ec%88%98%ea%bb%98%eb%81%bc/</guid>
+            <pubDate>Fri, 15 Sep 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flows #1]]></title>
             <link>https://poclanos.com/album/flows-1/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
             <content:encoded><![CDATA[Wayne's so sad]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-cover-Waynes-so-sad-Sincerely-me-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can You Feel The Sun?]]></title>
-            <link>https://poclanos.com/album/can-you-feel-the-sun/</link>
-            <guid>https://poclanos.com/album/can-you-feel-the-sun/</guid>
-            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[JIEON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JIEON-Can-You-Feel-The-Sun-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dogs Eat Dogs]]></title>
-            <link>https://poclanos.com/album/dogs-eat-dogs/</link>
-            <guid>https://poclanos.com/album/dogs-eat-dogs/</guid>
-            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Mamiya]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Mamiya-Dogs-Eat-Dogs-Album-Cover-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[배웅]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b8%ed%98%95%ea%b7%b9-2/</guid>
-            <pubDate>Wed, 06 Sep 2023 09:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[이설아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%9D%B4%EC%84%A4%EC%95%84-%EB%B0%B0%EC%9B%85-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
