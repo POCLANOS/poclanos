@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 02:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 03:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아지랑이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%ec%a7%80%eb%9e%91%ec%9d%b4-2/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%ec%a7%80%eb%9e%91%ec%9d%b4-2/</guid>
+            <pubDate>Sun, 17 Sep 2023 03:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[참솜 (Chamsom)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%B0%B8%EC%86%9C-Chamsom-%EC%95%84%EC%A7%80%EB%9E%91%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YAWN (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/yawn/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
             <content:encoded><![CDATA[겸 (GYE0M)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B8-GYE0M-%EB%82%A8%EC%9D%80-%EA%B2%83%EB%93%A4%EC%9D%80-%EC%A7%99%EC%9D%80-%ED%96%A5%EA%B8%B0%EC%99%80-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%82%AC%EB%9E%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sincerely, me (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sincerely-me/</link>
-            <guid>https://poclanos.com/album/sincerely-me/</guid>
-            <pubDate>Thu, 07 Sep 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[Wayne's so sad]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-cover-Waynes-so-sad-Sincerely-me-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
