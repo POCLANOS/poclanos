@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 02:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Untitled]]></title>
+            <link>https://poclanos.com/album/untitled/</link>
+            <guid>https://poclanos.com/album/untitled/</guid>
+            <pubDate>Wed, 20 Sep 2023 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[Hukky Shibaseki]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Hukky-Shibaseki-%EC%A7%B1%EC%9C%A0-%EC%8B%9C%EB%B0%94%EC%84%B8%ED%82%A4-Untitled-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[illusory]]></title>
             <link>https://poclanos.com/album/illusory/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Sep 2023 03:10:09 GMT</pubDate>
             <content:encoded><![CDATA[Alive Funk]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/04.-%EC%BB%A4%EB%B2%84-Alive-Funk-Show-me-what-I-like-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cherokee]]></title>
-            <link>https://poclanos.com/album/cherokee/</link>
-            <guid>https://poclanos.com/album/cherokee/</guid>
-            <pubDate>Sun, 10 Sep 2023 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-off-the-memu-%EC%98%A4%ED%94%84%EB%8D%94%EB%A9%94%EB%89%B4-Cherokee-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
