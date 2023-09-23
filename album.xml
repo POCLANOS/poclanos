@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 02:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 03:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[망설임의 우리]]></title>
+            <link>https://poclanos.com/album/%eb%a7%9d%ec%84%a4%ec%9e%84%ec%9d%98-%ec%9a%b0%eb%a6%ac/</link>
+            <guid>https://poclanos.com/album/%eb%a7%9d%ec%84%a4%ec%9e%84%ec%9d%98-%ec%9a%b0%eb%a6%ac/</guid>
+            <pubDate>Sat, 23 Sep 2023 03:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[정오월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%A0%95%EC%98%A4%EC%9B%94-%EB%A7%9D%EC%84%A4%EC%9E%84%EC%9D%98-%EC%9A%B0%EB%A6%AC-%EC%BB%A4%EB%B2%84%EC%82%AC%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Phoenix]]></title>
             <link>https://poclanos.com/album/phoenix/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Sep 2023 03:10:04 GMT</pubDate>
             <content:encoded><![CDATA[하가 (HAGA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EA%B0%80-HAGA-Pale-Blue-HAGA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finding Treasure]]></title>
-            <link>https://poclanos.com/album/finding-treasure/</link>
-            <guid>https://poclanos.com/album/finding-treasure/</guid>
-            <pubDate>Wed, 13 Sep 2023 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[캣츠파다]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-Finding-Treasure%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
