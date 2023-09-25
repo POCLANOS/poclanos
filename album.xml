@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Summer Scent]]></title>
+            <link>https://poclanos.com/album/summer-scent/</link>
+            <guid>https://poclanos.com/album/summer-scent/</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[송하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%86%A1%ED%95%98%EB%8A%98-Summer-Scent-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Forte / 900 Wasps]]></title>
+            <link>https://poclanos.com/album/forte-900-wasps/</link>
+            <guid>https://poclanos.com/album/forte-900-wasps/</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[Mount XLR]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-Mount-XLR-Forte-900-Wasps-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sightseeing]]></title>
+            <link>https://poclanos.com/album/sightseeing/</link>
+            <guid>https://poclanos.com/album/sightseeing/</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Sightseeing-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나에게 맺힌 수만 가지의 당신에게]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%ec%97%90%ea%b2%8c-%eb%a7%ba%ed%9e%8c-%ec%88%98%eb%a7%8c-%ea%b0%80%ec%a7%80%ec%9d%98-%eb%8b%b9%ec%8b%a0%ec%97%90%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%ec%97%90%ea%b2%8c-%eb%a7%ba%ed%9e%8c-%ec%88%98%eb%a7%8c-%ea%b0%80%ec%a7%80%ec%9d%98-%eb%8b%b9%ec%8b%a0%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Mon, 25 Sep 2023 03:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[행간소음]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EA%B0%84%EC%86%8C%EC%9D%8C-%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%BA%ED%9E%8C-%EC%88%98%EB%A7%8C-%EA%B0%80%EC%A7%80%EC%9D%98-%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C-jpg-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Call me back]]></title>
             <link>https://poclanos.com/album/call-me-back-4/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 19 Sep 2023 03:10:40 GMT</pubDate>
             <content:encoded><![CDATA[까치산]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-%EA%B0%80%EC%9C%84-%EB%B0%94%EC%9C%84-%EB%B3%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YAWN]]></title>
-            <link>https://poclanos.com/album/yawn/</link>
-            <guid>https://poclanos.com/album/yawn/</guid>
-            <pubDate>Fri, 15 Sep 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[Easymind]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-Easymind-oddeen-YAWN-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lucy]]></title>
-            <link>https://poclanos.com/album/lucy-2/</link>
-            <guid>https://poclanos.com/album/lucy-2/</guid>
-            <pubDate>Fri, 15 Sep 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[Min Kang]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/MinKang_Lucy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수수께끼]]></title>
-            <link>https://poclanos.com/album/%ec%88%98%ec%88%98%ea%bb%98%eb%81%bc/</link>
-            <guid>https://poclanos.com/album/%ec%88%98%ec%88%98%ea%bb%98%eb%81%bc/</guid>
-            <pubDate>Fri, 15 Sep 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%88%98%EC%88%98%EA%BB%98%EB%81%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flows #1]]></title>
-            <link>https://poclanos.com/album/flows-1/</link>
-            <guid>https://poclanos.com/album/flows-1/</guid>
-            <pubDate>Thu, 14 Sep 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[AshBro]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-flows_cover_2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
