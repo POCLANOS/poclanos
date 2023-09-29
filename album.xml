@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 03:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[More Love]]></title>
+            <link>https://poclanos.com/album/more-love/</link>
+            <guid>https://poclanos.com/album/more-love/</guid>
+            <pubDate>Fri, 29 Sep 2023 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[노아원러브 (NOAH1LUV)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/1.-NOAH1LUV-MORE-LOVE-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beyond]]></title>
             <link>https://poclanos.com/album/beyond-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Sep 2023 09:09:59 GMT</pubDate>
             <content:encoded><![CDATA[SEHWI]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SEHWI-illusory-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Man, The Woman, The Story]]></title>
-            <link>https://poclanos.com/album/the-man-the-woman-the-story/</link>
-            <guid>https://poclanos.com/album/the-man-the-woman-the-story/</guid>
-            <pubDate>Tue, 19 Sep 2023 03:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[Jay Lee]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/Jay-Lee-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
