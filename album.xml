@@ -4,16 +4,16 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 08:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 09:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[moment: now (Live Session)]]></title>
-            <link>https://poclanos.com/album/moment-now-live-session/</link>
-            <guid>https://poclanos.com/album/moment-now-live-session/</guid>
-            <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[It's Your Fault]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/3.-Its-your-fault-moment-now-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[J U S T F U N (with 죠지)]]></title>
+            <link>https://poclanos.com/album/j-u-s-t-f-u-n-with-%ec%a3%a0%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/j-u-s-t-f-u-n-with-%ec%a3%a0%ec%a7%80/</guid>
+            <pubDate>Mon, 02 Oct 2023 09:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[박문치]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EB%B0%95%EB%AC%B8%EC%B9%98-JUSTFUN_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NullPointerException]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
             <content:encoded><![CDATA[WYXX]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-WYXX-NullPointerException-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[moment: now (Live Session)]]></title>
+            <link>https://poclanos.com/album/moment-now-live-session/</link>
+            <guid>https://poclanos.com/album/moment-now-live-session/</guid>
+            <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[It's Your Fault]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/3.-Its-your-fault-moment-now-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[활동]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Sep 2023 09:10:29 GMT</pubDate>
             <content:encoded><![CDATA[quinn_ (쿠인)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%BF%A0%EC%9D%B8-%EB%AC%B4%ED%98%B8%ED%9D%A1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hatch]]></title>
-            <link>https://poclanos.com/album/54042/</link>
-            <guid>https://poclanos.com/album/54042/</guid>
-            <pubDate>Thu, 21 Sep 2023 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[비공정]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EB%B9%84%EA%B3%B5%EC%A0%95-Hatch-artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
