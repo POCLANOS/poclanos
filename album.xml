@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 02:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 03:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[moment: now (Live Session)]]></title>
+            <link>https://poclanos.com/album/moment-now-live-session/</link>
+            <guid>https://poclanos.com/album/moment-now-live-session/</guid>
+            <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[It's Your Fault]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/3.-Its-your-fault-moment-now-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NullPointerException]]></title>
+            <link>https://poclanos.com/album/nullpointerexception/</link>
+            <guid>https://poclanos.com/album/nullpointerexception/</guid>
+            <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[WYXX]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-WYXX-NullPointerException-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[활동]]></title>
             <link>https://poclanos.com/album/%ed%99%9c%eb%8f%99/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 21 Sep 2023 03:09:49 GMT</pubDate>
             <content:encoded><![CDATA[비공정]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EB%B9%84%EA%B3%B5%EC%A0%95-Hatch-artwork-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wheel]]></title>
-            <link>https://poclanos.com/album/wheel/</link>
-            <guid>https://poclanos.com/album/wheel/</guid>
-            <pubDate>Thu, 21 Sep 2023 03:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[등]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EB%93%B1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Untitled]]></title>
-            <link>https://poclanos.com/album/untitled/</link>
-            <guid>https://poclanos.com/album/untitled/</guid>
-            <pubDate>Wed, 20 Sep 2023 03:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[Hukky Shibaseki]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-%EC%A7%B1%EC%9C%A0-Hukky-Shibaseki-%EC%A7%B1%EC%9C%A0-%EC%8B%9C%EB%B0%94%EC%84%B8%ED%82%A4-Untitled-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
