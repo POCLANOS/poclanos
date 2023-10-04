@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Oct 2023 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Oct 2023 09:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RealTalk]]></title>
+            <link>https://poclanos.com/album/realtalk/</link>
+            <guid>https://poclanos.com/album/realtalk/</guid>
+            <pubDate>Wed, 04 Oct 2023 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Real-Talk-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childhood]]></title>
+            <link>https://poclanos.com/album/childhood-3/</link>
+            <guid>https://poclanos.com/album/childhood-3/</guid>
+            <pubDate>Wed, 04 Oct 2023 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[이희상]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-Childhood-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STEP]]></title>
+            <link>https://poclanos.com/album/step/</link>
+            <guid>https://poclanos.com/album/step/</guid>
+            <pubDate>Wed, 04 Oct 2023 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[김준서]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A4%80%EC%84%9C-STEP-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SHOW ME YOUR LOVE]]></title>
             <link>https://poclanos.com/album/show-me-your-love-2/</link>
@@ -40,20 +64,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EB%B0%95%EB%AC%B8%EC%B9%98-JUSTFUN_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[moment: now (Live Session)]]></title>
-            <link>https://poclanos.com/album/moment-now-live-session/</link>
-            <guid>https://poclanos.com/album/moment-now-live-session/</guid>
-            <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[It's Your Fault]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/3.-Its-your-fault-moment-now-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NullPointerException]]></title>
             <link>https://poclanos.com/album/nullpointerexception/</link>
             <guid>https://poclanos.com/album/nullpointerexception/</guid>
             <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
             <content:encoded><![CDATA[WYXX]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-WYXX-NullPointerException-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[moment: now (Live Session)]]></title>
+            <link>https://poclanos.com/album/moment-now-live-session/</link>
+            <guid>https://poclanos.com/album/moment-now-live-session/</guid>
+            <pubDate>Mon, 02 Oct 2023 03:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[It's Your Fault]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/3.-Its-your-fault-moment-now-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[활동]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 25 Sep 2023 03:10:06 GMT</pubDate>
             <content:encoded><![CDATA[행간소음]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EA%B0%84%EC%86%8C%EC%9D%8C-%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%BA%ED%9E%8C-%EC%88%98%EB%A7%8C-%EA%B0%80%EC%A7%80%EC%9D%98-%EB%8B%B9%EC%8B%A0%EC%97%90%EA%B2%8C-jpg-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Call me back]]></title>
-            <link>https://poclanos.com/album/call-me-back-4/</link>
-            <guid>https://poclanos.com/album/call-me-back-4/</guid>
-            <pubDate>Sun, 24 Sep 2023 03:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-Call-me-back-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[망설임의 우리]]></title>
-            <link>https://poclanos.com/album/%eb%a7%9d%ec%84%a4%ec%9e%84%ec%9d%98-%ec%9a%b0%eb%a6%ac/</link>
-            <guid>https://poclanos.com/album/%eb%a7%9d%ec%84%a4%ec%9e%84%ec%9d%98-%ec%9a%b0%eb%a6%ac/</guid>
-            <pubDate>Sat, 23 Sep 2023 03:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[정오월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%A0%95%EC%98%A4%EC%9B%94-%EB%A7%9D%EC%84%A4%EC%9E%84%EC%9D%98-%EC%9A%B0%EB%A6%AC-%EC%BB%A4%EB%B2%84%EC%82%AC%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Phoenix]]></title>
-            <link>https://poclanos.com/album/phoenix/</link>
-            <guid>https://poclanos.com/album/phoenix/</guid>
-            <pubDate>Fri, 22 Sep 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[이루리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A3%A8%EB%A6%AC-Phoenix-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
