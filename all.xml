@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 02:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 03:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[This Is The Way (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/this-is-the-way/</link>
+            <guid>https://poclanos.com/album/this-is-the-way/</guid>
+            <pubDate>Sat, 07 Oct 2023 03:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[24아워즈 (24Hours)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-24%EC%95%84%EC%9B%8C%EC%A6%88-This-Is-The-Way-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vibe 2 You (Feat. Dvckii) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/vibe-2-you-feat-dvckii/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 30 Sep 2023 03:09:40 GMT</pubDate>
             <content:encoded><![CDATA[동찬 (Dongchan)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/2.-%EB%8F%99%EC%B0%AC-%ED%99%9C%EB%8F%99-Moving-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[More Love (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/more-love/</link>
-            <guid>https://poclanos.com/album/more-love/</guid>
-            <pubDate>Fri, 29 Sep 2023 03:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[노아원러브 (NOAH1LUV)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/1.-NOAH1LUV-MORE-LOVE-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
