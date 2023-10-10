@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 02:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 03:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심판]]></title>
+            <link>https://poclanos.com/album/%ec%8b%ac%ed%8c%90/</link>
+            <guid>https://poclanos.com/album/%ec%8b%ac%ed%8c%90/</guid>
+            <pubDate>Tue, 10 Oct 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[Mingginyu (밍기뉴)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/%EC%8B%AC%ED%8C%90-cover-art-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬(Island)]]></title>
+            <link>https://poclanos.com/album/%ec%84%acisland/</link>
+            <guid>https://poclanos.com/album/%ec%84%acisland/</guid>
+            <pubDate>Tue, 10 Oct 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[표표]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98_%ED%91%9C%ED%91%9C%EC%BB%A4%EB%B2%84_rgb-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[COSMOS]]></title>
+            <link>https://poclanos.com/album/2-%ec%86%8c%ea%b0%9c%ec%9e%90%eb%a3%8c-01synth-cosmos/</link>
+            <guid>https://poclanos.com/album/2-%ec%86%8c%ea%b0%9c%ec%9e%90%eb%a3%8c-01synth-cosmos/</guid>
+            <pubDate>Tue, 10 Oct 2023 03:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/Cover_01SYNTH_COSMOS-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박쥐]]></title>
             <link>https://poclanos.com/album/%eb%b0%95%ec%a5%90/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 04 Oct 2023 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[이희상]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-Childhood-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STEP]]></title>
-            <link>https://poclanos.com/album/step/</link>
-            <guid>https://poclanos.com/album/step/</guid>
-            <pubDate>Wed, 04 Oct 2023 09:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[김준서]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A4%80%EC%84%9C-STEP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHOW ME YOUR LOVE]]></title>
-            <link>https://poclanos.com/album/show-me-your-love-2/</link>
-            <guid>https://poclanos.com/album/show-me-your-love-2/</guid>
-            <pubDate>Wed, 04 Oct 2023 03:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[sh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/5.-sh-SHOW-ME-YOUR-LOVE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shell (Feat. oceanfromtheblue)]]></title>
-            <link>https://poclanos.com/album/shell-feat-oceanfromtheblue/</link>
-            <guid>https://poclanos.com/album/shell-feat-oceanfromtheblue/</guid>
-            <pubDate>Wed, 04 Oct 2023 03:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu(오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-off-the-memu-%EC%98%A4%ED%94%84%EB%8D%94%EB%A9%94%EB%89%B4-Cherokee-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
