@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 02:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 03:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파란 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%80/</link>
+            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%80/</guid>
+            <pubDate>Fri, 13 Oct 2023 03:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[정비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%A0%95%EB%B9%84-%ED%8C%8C%EB%9E%80-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[新世界 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%e6%96%b0%e4%b8%96%e7%95%8c/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Oct 2023 03:10:07 GMT</pubDate>
             <content:encoded><![CDATA[최원석]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/6.-%EC%B5%9C%EC%9B%90%EC%84%9D-%EA%B7%B8-%EC%95%84%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dickies, White Tee, Nike (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dickies-white-tee-nike/</link>
-            <guid>https://poclanos.com/album/dickies-white-tee-nike/</guid>
-            <pubDate>Thu, 05 Oct 2023 03:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[민수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EB%AF%BC%EC%88%98_Dickies-White-Tee-Nike_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
