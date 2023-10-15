@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 02:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 04:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EARTHING]]></title>
+            <link>https://poclanos.com/album/earthing/</link>
+            <guid>https://poclanos.com/album/earthing/</guid>
+            <pubDate>Sun, 15 Oct 2023 04:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[TENGGER]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-EARTHING-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dress]]></title>
             <link>https://poclanos.com/album/dress/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Oct 2023 03:09:59 GMT</pubDate>
             <content:encoded><![CDATA[Closet Yi]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-Closet-Yi-Point-of-Hue-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cells Impact]]></title>
-            <link>https://poclanos.com/album/cells-impact/</link>
-            <guid>https://poclanos.com/album/cells-impact/</guid>
-            <pubDate>Fri, 06 Oct 2023 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[Easymind]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-Easymind-oddeen-Cells-Impact-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
