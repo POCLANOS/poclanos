@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 02:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 03:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ontology (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ontology/</link>
+            <guid>https://poclanos.com/album/ontology/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[김강빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EA%B0%95%EB%B9%88-Ontology-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고양이 윤이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4-%ec%9c%a4%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4-%ec%9c%a4%ec%9d%b4/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[캣츠파다]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%9C%A4%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Roller coaster (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/roller-coaster/</link>
+            <guid>https://poclanos.com/album/roller-coaster/</guid>
+            <pubDate>Mon, 16 Oct 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PERCNT-Roller-coaster-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EARTHING (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/earthing/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 08 Oct 2023 03:09:39 GMT</pubDate>
             <content:encoded><![CDATA[로쿠 (roku)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[This Is The Way (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/this-is-the-way/</link>
-            <guid>https://poclanos.com/album/this-is-the-way/</guid>
-            <pubDate>Sat, 07 Oct 2023 03:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[24아워즈 (24Hours)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/4.-%EC%BB%A4%EB%B2%84-24%EC%95%84%EC%9B%8C%EC%A6%88-This-Is-The-Way-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vibe 2 You (Feat. Dvckii) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/vibe-2-you-feat-dvckii/</link>
-            <guid>https://poclanos.com/album/vibe-2-you-feat-dvckii/</guid>
-            <pubDate>Fri, 06 Oct 2023 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[Uigeadail Trace]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/09/Uigeadail-Trace-Vibe-2-You-Feat.-Dvckii-%EC%BB%A4%EB%B2%84%EC%82%AC%EC%A7%84-6000x6000-1-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Point of Hue (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/point-of-hue/</link>
-            <guid>https://poclanos.com/album/point-of-hue/</guid>
-            <pubDate>Fri, 06 Oct 2023 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[Closet Yi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-Closet-Yi-Point-of-Hue-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
