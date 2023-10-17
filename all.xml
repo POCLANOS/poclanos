@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 02:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 03:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Heavy Going (Single Ver.) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/heavy-going-single-ver/</link>
+            <guid>https://poclanos.com/album/heavy-going-single-ver/</guid>
+            <pubDate>Tue, 17 Oct 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Low-Hanging-Fruits-Heavy-Going-Single-Ver.-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숭배구름 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%88%ad%eb%b0%b0%ea%b5%ac%eb%a6%84/</link>
+            <guid>https://poclanos.com/album/%ec%88%ad%eb%b0%b0%ea%b5%ac%eb%a6%84/</guid>
+            <pubDate>Tue, 17 Oct 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[정온 (Jungon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%88%AD%EB%B0%B0%EA%B5%AC%EB%A6%84-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95ver-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NUSHROOM project #1 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/nushroom-project-1/</link>
+            <guid>https://poclanos.com/album/nushroom-project-1/</guid>
+            <pubDate>Tue, 17 Oct 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[NUSHROOM]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NUSHROOM-NUSHROOM-project-_1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사나워? (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%82%98%ec%9b%8c/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%82%98%ec%9b%8c/</guid>
+            <pubDate>Tue, 17 Oct 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[ddbb]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-%EC%82%AC%EB%82%98%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ontology (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/ontology/</link>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 09 Oct 2023 09:10:47 GMT</pubDate>
             <content:encoded><![CDATA[만동 (Mandong)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%8C%EB%8F%99-Mandong-%EB%B0%95%EC%A5%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TENGGER (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tengger/</link>
-            <guid>https://poclanos.com/album/tengger/</guid>
-            <pubDate>Mon, 09 Oct 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[TENGGER]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-TENGGER2023cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상은 요지경 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%84%b8%ec%83%81%ec%9d%80-%ec%9a%94%ec%a7%80%ea%b2%bd/</link>
-            <guid>https://poclanos.com/album/%ec%84%b8%ec%83%81%ec%9d%80-%ec%9a%94%ec%a7%80%ea%b2%bd/</guid>
-            <pubDate>Mon, 09 Oct 2023 03:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[송소희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%86%A1%EC%86%8C%ED%9D%AC-%EC%84%B8%EC%83%81%EC%9D%80-%EC%9A%94%EC%A7%80%EA%B2%BD_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 마을 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%eb%a7%88%ec%9d%84/</link>
-            <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%eb%a7%88%ec%9d%84/</guid>
-            <pubDate>Sun, 08 Oct 2023 09:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[이설아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%A4%EC%95%84-%EC%9E%91%EC%9D%80-%EB%A7%88%EC%9D%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처음 울던 날 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b2%98%ec%9d%8c-%ec%9a%b8%eb%8d%98-%eb%82%a0/</link>
-            <guid>https://poclanos.com/album/%ec%b2%98%ec%9d%8c-%ec%9a%b8%eb%8d%98-%eb%82%a0/</guid>
-            <pubDate>Sun, 08 Oct 2023 03:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[로쿠 (roku)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
