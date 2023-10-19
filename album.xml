@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 08:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 09:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을은 흐릿한 오후]]></title>
+            <link>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%80-%ed%9d%90%eb%a6%bf%ed%95%9c-%ec%98%a4%ed%9b%84/</link>
+            <guid>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%80-%ed%9d%90%eb%a6%bf%ed%95%9c-%ec%98%a4%ed%9b%84/</guid>
+            <pubDate>Thu, 19 Oct 2023 09:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%82%AC%EB%AE%88Samui_Autumn_Cover_230930-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[alright]]></title>
             <link>https://poclanos.com/album/alright-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Oct 2023 03:10:34 GMT</pubDate>
             <content:encoded><![CDATA[iamyouriut]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-iamyouriut-kume-naom_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Every Point of View]]></title>
-            <link>https://poclanos.com/album/every-point-of-view/</link>
-            <guid>https://poclanos.com/album/every-point-of-view/</guid>
-            <pubDate>Wed, 11 Oct 2023 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu (오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-off-the-memu-%EC%98%A4%ED%94%84%EB%8D%94%EB%A9%94%EB%89%B4-Cherokee-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
