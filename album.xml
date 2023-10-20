@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 08:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 09:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21st century electronic duo]]></title>
+            <link>https://poclanos.com/album/21st-century-electronic-duo/</link>
+            <guid>https://poclanos.com/album/21st-century-electronic-duo/</guid>
+            <pubDate>Fri, 20 Oct 2023 09:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[옷옷(OTOT)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%B7%EC%98%B7OTOT-21st-century-electronic-duo-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[papa]]></title>
             <link>https://poclanos.com/album/papa/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 13 Oct 2023 03:10:34 GMT</pubDate>
             <content:encoded><![CDATA[정비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%A0%95%EB%B9%84-%ED%8C%8C%EB%9E%80-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[新世界]]></title>
-            <link>https://poclanos.com/album/%e6%96%b0%e4%b8%96%e7%95%8c/</link>
-            <guid>https://poclanos.com/album/%e6%96%b0%e4%b8%96%e7%95%8c/</guid>
-            <pubDate>Thu, 12 Oct 2023 03:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[서울매직클럽 (Seoul Magic Club)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%84%9C%EC%9A%B8%EB%A7%A4%EC%A7%81%ED%81%B4%EB%9F%BD-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
