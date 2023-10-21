@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 02:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 03:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mirrored Life]]></title>
+            <link>https://poclanos.com/album/mirrored-life/</link>
+            <guid>https://poclanos.com/album/mirrored-life/</guid>
+            <pubDate>Sat, 21 Oct 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[deadpaints]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-deadpaints-Mirrored-Life-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이아몬드]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%95%84%eb%aa%ac%eb%93%9c/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%95%84%eb%aa%ac%eb%93%9c/</guid>
+            <pubDate>Sat, 21 Oct 2023 03:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[숨비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[21st century electronic duo]]></title>
             <link>https://poclanos.com/album/21st-century-electronic-duo/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 14 Oct 2023 03:09:46 GMT</pubDate>
             <content:encoded><![CDATA[테종]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Dress-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼]]></title>
-            <link>https://poclanos.com/album/%ec%b9%bc/</link>
-            <guid>https://poclanos.com/album/%ec%b9%bc/</guid>
-            <pubDate>Fri, 13 Oct 2023 09:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[김사월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%82%AC%EC%9B%94-%EC%B9%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란]]></title>
-            <link>https://poclanos.com/album/%ed%8c%8c%eb%9e%80/</link>
-            <guid>https://poclanos.com/album/%ed%8c%8c%eb%9e%80/</guid>
-            <pubDate>Fri, 13 Oct 2023 03:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[정비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%A0%95%EB%B9%84-%ED%8C%8C%EB%9E%80-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
