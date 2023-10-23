@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 02:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 03:14:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blood Hunter (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/blood-hunter/</link>
+            <guid>https://poclanos.com/album/blood-hunter/</guid>
+            <pubDate>Mon, 23 Oct 2023 03:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[Cold Gun Chamber]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/Cold-Gun-Chamber-Blood-Hunter-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기 울 인 체 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0-%ec%9a%b8-%ec%9d%b8-%ec%b2%b4/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0-%ec%9a%b8-%ec%9d%b8-%ec%b2%b4/</guid>
+            <pubDate>Mon, 23 Oct 2023 03:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[남메아리밴드]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%82%A8%EB%A9%94%EC%95%84%EB%A6%AC%EB%B0%B4%EB%93%9C-%EA%B8%B0-%EC%9A%B8-%EC%9D%B8-%EC%B2%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[말하지 않아도 괜찮아 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a7%90%ed%95%98%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%95%84/</link>
+            <guid>https://poclanos.com/album/%eb%a7%90%ed%95%98%ec%a7%80-%ec%95%8a%ec%95%84%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%95%84/</guid>
+            <pubDate>Mon, 23 Oct 2023 03:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[아륜]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EB%A5%9C-%EB%A7%90%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낡은 괴담 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%a1%ec%9d%80-%ea%b4%b4%eb%8b%b4/</link>
@@ -136,36 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-%EC%82%AC%EB%82%98%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고양이 윤이 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4-%ec%9c%a4%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4-%ec%9c%a4%ec%9d%b4/</guid>
-            <pubDate>Mon, 16 Oct 2023 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[캣츠파다]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%9C%A4%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ontology (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/ontology/</link>
             <guid>https://poclanos.com/album/ontology/</guid>
             <pubDate>Mon, 16 Oct 2023 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[김강빈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EA%B0%95%EB%B9%88-Ontology-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roller coaster (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/roller-coaster/</link>
-            <guid>https://poclanos.com/album/roller-coaster/</guid>
-            <pubDate>Mon, 16 Oct 2023 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[퍼센트 (PERC%NT)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PERCNT-Roller-coaster-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EARTHING (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/earthing/</link>
-            <guid>https://poclanos.com/album/earthing/</guid>
-            <pubDate>Sun, 15 Oct 2023 04:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[TENGGER]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-EARTHING-cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
