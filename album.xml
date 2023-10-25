@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 02:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 03:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kitty Baby]]></title>
+            <link>https://poclanos.com/album/kitty-baby/</link>
+            <guid>https://poclanos.com/album/kitty-baby/</guid>
+            <pubDate>Wed, 25 Oct 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[캣츠파다]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-%EC%BA%A3%EC%B8%A0%ED%8C%8C%EB%8B%A4-Kitty-Baby-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Psycho]]></title>
+            <link>https://poclanos.com/album/psycho/</link>
+            <guid>https://poclanos.com/album/psycho/</guid>
+            <pubDate>Wed, 25 Oct 2023 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Nube]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-Nube-Psycho-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Goodbye]]></title>
             <link>https://poclanos.com/album/goodbye-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 18 Oct 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[원니]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EB%85%B8%EC%8A%A4%ED%85%94%EC%A7%80%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love, hope and youth]]></title>
-            <link>https://poclanos.com/album/love-hope-and-youth/</link>
-            <guid>https://poclanos.com/album/love-hope-and-youth/</guid>
-            <pubDate>Wed, 18 Oct 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-Love-hope-and-youth-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Heavy Going (Single Ver.)]]></title>
-            <link>https://poclanos.com/album/heavy-going-single-ver/</link>
-            <guid>https://poclanos.com/album/heavy-going-single-ver/</guid>
-            <pubDate>Tue, 17 Oct 2023 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Low-Hanging-Fruits-Heavy-Going-Single-Ver.-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
