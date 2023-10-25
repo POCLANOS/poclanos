@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 08:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 09:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THERE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/there-2/</link>
+            <guid>https://poclanos.com/album/there-2/</guid>
+            <pubDate>Wed, 25 Oct 2023 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[PATZ]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-PATZ-THERE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kitty Baby (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/kitty-baby/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 18 Oct 2023 03:10:42 GMT</pubDate>
             <content:encoded><![CDATA[정새벽]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-Love-hope-and-youth-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노스텔지아 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%85%b8%ec%8a%a4%ed%85%94%ec%a7%80%ec%95%84/</link>
-            <guid>https://poclanos.com/album/%eb%85%b8%ec%8a%a4%ed%85%94%ec%a7%80%ec%95%84/</guid>
-            <pubDate>Wed, 18 Oct 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[원니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EB%85%B8%EC%8A%A4%ED%85%94%EC%A7%80%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
