@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 09:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Never Ending]]></title>
+            <link>https://poclanos.com/album/never-ending/</link>
+            <guid>https://poclanos.com/album/never-ending/</guid>
+            <pubDate>Thu, 26 Oct 2023 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[이스트워터 (Eastwater)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Eastwater-Never-Ending-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dream  Inter (Remixed)]]></title>
             <link>https://poclanos.com/album/dream-inter-remixed/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 19 Oct 2023 09:10:55 GMT</pubDate>
             <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%82%AC%EB%AE%88Samui_Autumn_Cover_230930-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[alright]]></title>
-            <link>https://poclanos.com/album/alright-2/</link>
-            <guid>https://poclanos.com/album/alright-2/</guid>
-            <pubDate>Thu, 19 Oct 2023 03:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[biskit!]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-biskit-alright-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
