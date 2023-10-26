@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 02:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 03:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dream  Inter (Remixed)]]></title>
+            <link>https://poclanos.com/album/dream-inter-remixed/</link>
+            <guid>https://poclanos.com/album/dream-inter-remixed/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[Wona]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-Wona-Dream-Inter-Remixed-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여인숙]]></title>
+            <link>https://poclanos.com/album/%ec%97%ac%ec%9d%b8%ec%88%99/</link>
+            <guid>https://poclanos.com/album/%ec%97%ac%ec%9d%b8%ec%88%99/</guid>
+            <pubDate>Thu, 26 Oct 2023 03:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[깃임]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%EC%97%AC%EC%9D%B8%EC%88%99-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[THERE]]></title>
             <link>https://poclanos.com/album/there-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 19 Oct 2023 03:10:17 GMT</pubDate>
             <content:encoded><![CDATA[biskit!]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-biskit-alright-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4am]]></title>
-            <link>https://poclanos.com/album/4am-2/</link>
-            <guid>https://poclanos.com/album/4am-2/</guid>
-            <pubDate>Wed, 18 Oct 2023 09:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[세이수미]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%B8%EC%9D%B4%EC%88%98%EB%AF%B8-4am-%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love, hope and youth]]></title>
-            <link>https://poclanos.com/album/love-hope-and-youth-2/</link>
-            <guid>https://poclanos.com/album/love-hope-and-youth-2/</guid>
-            <pubDate>Wed, 18 Oct 2023 03:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-Love-hope-and-youth-%ED%81%AC%EA%B8%B0-%EB%B3%80%EA%B2%BD-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
