@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Oct 2023 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Oct 2023 03:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[All That You Wanted]]></title>
+            <link>https://poclanos.com/album/all-that-you-wanted/</link>
+            <guid>https://poclanos.com/album/all-that-you-wanted/</guid>
+            <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[Hersh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4-%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-All-That-You-Wanted-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애도반응]]></title>
+            <link>https://poclanos.com/album/%ec%95%a0%eb%8f%84%eb%b0%98%ec%9d%91/</link>
+            <guid>https://poclanos.com/album/%ec%95%a0%eb%8f%84%eb%b0%98%ec%9d%91/</guid>
+            <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[심아일 (SIMILE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC-SIMILE-%EC%95%A0%EB%8F%84%EB%B0%98%EC%9D%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해]]></title>
+            <link>https://poclanos.com/album/%ed%95%b4/</link>
+            <guid>https://poclanos.com/album/%ed%95%b4/</guid>
+            <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[혼닙(honnip)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%98%BC%EB%8B%99-%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Never Ending]]></title>
             <link>https://poclanos.com/album/never-ending/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 20 Oct 2023 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[옷옷(OTOT)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%B7%EC%98%B7OTOT-21st-century-electronic-duo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[papa]]></title>
-            <link>https://poclanos.com/album/papa/</link>
-            <guid>https://poclanos.com/album/papa/</guid>
-            <pubDate>Fri, 20 Oct 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-pylat-papa-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍운아/사랑을 찾아서]]></title>
-            <link>https://poclanos.com/album/%ed%92%8d%ec%9a%b4%ec%95%84-%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%95%84%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ed%92%8d%ec%9a%b4%ec%95%84-%ec%82%ac%eb%9e%91%ec%9d%84-%ec%b0%be%ec%95%84%ec%84%9c/</guid>
-            <pubDate>Fri, 20 Oct 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[묵묵]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B5%EB%AC%B5-%ED%92%8D%EC%9A%B4%EC%95%84-%EC%82%AC%EB%9E%91%EC%9D%84-%EC%B0%BE%EC%95%84%EC%84%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가을은 흐릿한 오후]]></title>
-            <link>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%80-%ed%9d%90%eb%a6%bf%ed%95%9c-%ec%98%a4%ed%9b%84/</link>
-            <guid>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%80-%ed%9d%90%eb%a6%bf%ed%95%9c-%ec%98%a4%ed%9b%84/</guid>
-            <pubDate>Thu, 19 Oct 2023 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EC%82%AC%EB%AE%88Samui_Autumn_Cover_230930-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
