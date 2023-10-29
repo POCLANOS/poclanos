@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 02:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 03:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[칫챗 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b9%ab%ec%b1%97/</link>
+            <guid>https://poclanos.com/album/%ec%b9%ab%ec%b1%97/</guid>
+            <pubDate>Sun, 29 Oct 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%B9%AB%EC%B1%97-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[New Moon (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/new-moon/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 21 Oct 2023 03:09:52 GMT</pubDate>
             <content:encoded><![CDATA[deadpaints]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-deadpaints-Mirrored-Life-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이아몬드 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%95%84%eb%aa%ac%eb%93%9c/</link>
-            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%95%84%eb%aa%ac%eb%93%9c/</guid>
-            <pubDate>Sat, 21 Oct 2023 03:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[숨비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EB%8B%A4%EC%9D%B4%EC%95%84%EB%AA%AC%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
