@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:26:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희극]]></title>
+            <link>https://poclanos.com/album/%ed%9d%ac%ea%b7%b9/</link>
+            <guid>https://poclanos.com/album/%ed%9d%ac%ea%b7%b9/</guid>
+            <pubDate>Wed, 01 Nov 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[여유와 설빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-%EC%97%AC%EC%9C%A0%EC%99%80-%EC%84%A4%EB%B9%88-%ED%9D%AC%EA%B7%B9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SPITTA (Single Version) (Feat. 우탄, 오디)]]></title>
             <link>https://poclanos.com/album/spitta-single-version-feat-%ec%9a%b0%ed%83%84-%ec%98%a4%eb%94%94/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 24 Oct 2023 09:10:27 GMT</pubDate>
             <content:encoded><![CDATA[김수영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%EA%B9%80%EC%88%98%EC%98%81-Goodbye_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EETL]]></title>
-            <link>https://poclanos.com/album/eetl-2/</link>
-            <guid>https://poclanos.com/album/eetl-2/</guid>
-            <pubDate>Tue, 24 Oct 2023 03:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%ED%9D%98-%EC%9C%A4Sahl-Yoon-EETL-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
