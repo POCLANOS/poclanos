@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 08:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 09:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[End]]></title>
+            <link>https://poclanos.com/album/end/</link>
+            <guid>https://poclanos.com/album/end/</guid>
+            <pubDate>Thu, 02 Nov 2023 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88-End%EC%97%86%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cutt the Demon]]></title>
             <link>https://poclanos.com/album/cutt-the-demon/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Oct 2023 03:10:21 GMT</pubDate>
             <content:encoded><![CDATA[Wona]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-Wona-Dream-Inter-Remixed-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여인숙]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%ec%9d%b8%ec%88%99/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%ec%9d%b8%ec%88%99/</guid>
-            <pubDate>Thu, 26 Oct 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[깃임]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%83%EC%9E%84-%EC%97%AC%EC%9D%B8%EC%88%99-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
