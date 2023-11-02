@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 05:13:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 06:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36816894&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36816894&amp;memberNo=24373938</guid>
+            <pubDate>Thu, 02 Nov 2023 06:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;사뮈가 새로운 EP &lt;가을은 흐릿한 오후&gt;로 돌아왔다. 싱글 &lt;본&gt;을 발매한 지 약 2년의 세월이 흐른 뒤의 첫 EP다. 밴드 사운드 위주의 전작과는 사뭇 다른 담백한 여백이 느껴지는 앨범이기도 하다. &nbsp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU0/MDAxNjk4ODIxNzkxNDk4.nHbr5lDfj8r94lRIz8FiRzEzrwT4X23HA4AQ1al0TDIg.IkjMV0Ia_z5cLni168m0lTAXXy8Aex5IpSDHifBoSkgg.JPEG/IbHkEx7m48Ua141MkCmbhuFoUjyQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이스트워터의 데뷔 싱글 [Never Ending] 발매 기념. 인생의 타이밍에 대한 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36767411&amp;memberNo=24373938</link>
@@ -154,15 +162,6 @@
             <pubDate>Thu, 02 Nov 2023 03:14:07 GMT</pubDate>
             <content:encoded><![CDATA[INTRO / 가장 아름다운 형태의 사랑, 영화 [담쟁이 OST]영화 &lt;담쟁이&gt;는 누구보다 행복했던 ‘은수’(우미화)와 ‘예원’(이연) 커플이 ‘은수’의 갑작스러운···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjJfMTE1/MDAxNjAzMzU0ODQ3MTQ3.FS-jIhPbmrLu3pJtKU_aNxJtHZ_lajxK0h6zncpciUog.1mVoZmkFVwb6Sb8sdGVs__QTyT9jv4g-Y3DLFgAwst0g.JPEG/IlTpVU9RS85PZTQJm79gkJXAob6c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] onthedal 새 싱글 [HYE] &
-M/V 비하인드 스토리]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29630041&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29630041&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 02 Nov 2023 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL/ onthedal 새 싱글 [HYE] &amp; M/V 비하인드 스토리Artist | onthedal싱어송라이터 'onthedal'은 노래와 연주뿐만 아니라 직접 작사와 작곡, 편곡 등 셀프 프로듀싱을 하는 뮤지션이다. 우주 속을 유영하는···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDZfMjI3/MDAxNjAxOTY1NjY3MTA5.2-kLQM7jWUR0YpOijerNv-vRI_V8kFOjM4SLF_9IuNAg.Rj4_Id_x0t02ST0H9hKjYRNF887LSUhIvkVvcz4pSgQg.JPEG/I43SNvxnfdv2wklEip_LYjNBSLpA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
