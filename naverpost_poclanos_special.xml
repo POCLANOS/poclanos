@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 02:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬주(parkchanzoo) 더블싱글 [Untitled03/1Year] 미니 인터뷰&트랙]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 03 Nov 2023 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfNDYg/MDAxNjk4ODMwNzA5MzY2.CMy13ksZX-BwqMhyG8tfkO6rrG2gAcu7xmVpgHurf68g.S0kOMDfP0dI4DyDkD-ltGGKjiZCM0HxGt5bVHWKKc-Mg.JPEG/IQ_Pv4Swz6flldqoPHGwmGkIaBF8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이스트워터의 데뷔 싱글 [Never Ending] 발매 기념. 인생의 타이밍에 대한 인터뷰]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36767411&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -159,14 +167,6 @@ M/V 비하인드 스토리]]></title>
             <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMThfMjQz/MDAxNTg0NTE2NjMzMzI3.DKLsAo9JKx6gU10ZWaDuIX78Jqc0IT9Vqj-V3bbDHYIg.qt5kcoUMMRtA6CgTK1D55vKoIQCFzTmmmfseEUdb2xYg.PNG/I1H-qeUG7NWKp_YMzczS2JxBL4Uk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 뮤지션 18인, 코로나19 국민응원송 '슈퍼스타 함께 부르기']]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27727298&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27727298&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMTNfMjA5/MDAxNTg0MDk1MDM1MDI2.t4NUCirQpNxkLwxM6sesiYPACiB1wLllnehbNBdLpPsg.7_Qi3998CfCCEb4GcPEJnRQ6UaOulLv8obegZrXuBDAg.JPEG/Iwk0joLm8Kxonhc2ZBehiAQQyJx8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

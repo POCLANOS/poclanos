@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 02:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼티지 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b3%bc%ed%8b%b0%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%eb%b3%bc%ed%8b%b0%ec%a7%80/</guid>
+            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[메타]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-%EB%B3%BC%ED%8B%B0%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foolish (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/foolish/</link>
+            <guid>https://poclanos.com/album/foolish/</guid>
+            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Foolish-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 집 댕댕이 베리 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%a7%91-%eb%8c%95%eb%8c%95%ec%9d%b4-%eb%b2%a0%eb%a6%ac/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%a7%91-%eb%8c%95%eb%8c%95%ec%9d%b4-%eb%b2%a0%eb%a6%ac/</guid>
+            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[우노(Uno)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/04.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EB%85%B8Uno-%EC%9A%B0%EB%A6%AC-%EC%A7%91-%EB%8C%95%EB%8C%95%EC%9D%B4-%EB%B2%A0%EB%A6%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[End (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/end/</link>
@@ -16,20 +40,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88-End%EC%97%86%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cutt the Demon (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/cutt-the-demon/</link>
-            <guid>https://poclanos.com/album/cutt-the-demon/</guid>
-            <pubDate>Thu, 02 Nov 2023 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[CUTT DEEP]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUOXINI-Cutt-the-Demon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cmud7 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/cmud7/</link>
             <guid>https://poclanos.com/album/cmud7/</guid>
             <pubDate>Thu, 02 Nov 2023 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[mudmud]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-mudmud-Cmud7-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cutt the Demon (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cutt-the-demon/</link>
+            <guid>https://poclanos.com/album/cutt-the-demon/</guid>
+            <pubDate>Thu, 02 Nov 2023 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[CUTT DEEP]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUOXINI-Cutt-the-Demon-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아나토미 (POCLANOS ─ Album)]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[심아일 (SIMILE)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC-SIMILE-%EC%95%A0%EB%8F%84%EB%B0%98%EC%9D%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%ed%95%b4/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[혼닙(honnip)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%98%BC%EB%8B%99-%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Never Ending (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/never-ending/</link>
-            <guid>https://poclanos.com/album/never-ending/</guid>
-            <pubDate>Thu, 26 Oct 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[이스트워터 (Eastwater)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Eastwater-Never-Ending-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream  Inter (Remixed) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dream-inter-remixed/</link>
-            <guid>https://poclanos.com/album/dream-inter-remixed/</guid>
-            <pubDate>Thu, 26 Oct 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[Wona]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-Wona-Dream-Inter-Remixed-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4167,6 +4167,14 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[박찬주(parkchanzoo) 더블싱글 [Untitled03/1Year] 미니 인터뷰&트랙 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938</guid>
+            <pubDate>Fri, 03 Nov 2023 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/박찬주(parkchanzoo)&nbsp;더블싱글&nbsp;[Untitled03/1Year]&nbsp;미니&nbsp;인터뷰&amp;트랙별&nbsp;코멘터리 INTRO&nbsp;| 아티스트 소개&nbsp;’박찬주 (parkchanzoo)’ 는 연주 및 작사, 작곡, 편곡 등 직접 프로듀싱을 하며 음악을 만들고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfNDYg/MDAxNjk4ODMwNzA5MzY2.CMy13ksZX-BwqMhyG8tfkO6rrG2gAcu7xmVpgHurf68g.S0kOMDfP0dI4DyDkD-ltGGKjiZCM0HxGt5bVHWKKc-Mg.JPEG/IQ_Pv4Swz6flldqoPHGwmGkIaBF8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36816894&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36816894&amp;memberNo=24373938</guid>
@@ -4313,14 +4321,6 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <pubDate>Thu, 02 Nov 2023 15:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Q&amp;A INTERVIEW/ ask the artist: 신해경 Shin Hae Gyeong 좋아하는 뮤지션의 모든 이야기가 궁금하곤 합니다. 직접 물어볼 수도, 흘러와 들을 수도 없는 질문들을 모아보고 싶었습니다. 음악을 하는 이와 듣는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjNfMjY2/MDAxNjAzNDMwMjE3MzQ2.UdhHcWV0Izrap9zz6DAeP6eBANovlvfa5G0UhIl8fk0g.aqc40OlQOdJYDNC7aMJMVyQ4SonTHGw-i3k6rygVTtQg.JPEG/IkSiiKTuPlxPvU-mK7S4v1JY2VmY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 김사월의 영화 [담쟁이 OST] 작업기 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29771792&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29771792&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 02 Nov 2023 15:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[INTRO / 가장 아름다운 형태의 사랑, 영화 [담쟁이 OST]영화 &lt;담쟁이&gt;는 누구보다 행복했던 ‘은수’(우미화)와 ‘예원’(이연) 커플이 ‘은수’의 갑작스러운···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjJfMTE1/MDAxNjAzMzU0ODQ3MTQ3.FS-jIhPbmrLu3pJtKU_aNxJtHZ_lajxK0h6zncpciUog.1mVoZmkFVwb6Sb8sdGVs__QTyT9jv4g-Y3DLFgAwst0g.JPEG/IlTpVU9RS85PZTQJm79gkJXAob6c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4483,6 +4483,14 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMjNfOTkg/MDAxNTc3MDYyOTY3ODU1.KU3vB57HF2jo6O0TzJmHSeBmgvZqBkjtJjHcLmBiu0Eg.Nwjy3prO73l-h5o0DM-Ky5TY7fJw8nUItSX8d0kf59Ig.JPEG/IJmI8jiHN0i3z0D68WWe95Es43KM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[박찬주(parkchanzoo) 더블싱글 [Untitled03/1Year] 미니 인터뷰&트랙 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 03 Nov 2023 03:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfNDYg/MDAxNjk4ODMwNzA5MzY2.CMy13ksZX-BwqMhyG8tfkO6rrG2gAcu7xmVpgHurf68g.S0kOMDfP0dI4DyDkD-ltGGKjiZCM0HxGt5bVHWKKc-Mg.JPEG/IQ_Pv4Swz6flldqoPHGwmGkIaBF8.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이스트워터의 데뷔 싱글 [Never Ending] 발매 기념. 인생의 타이밍에 대한 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36767411&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36767411&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -4634,14 +4642,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMThfMjQz/MDAxNTg0NTE2NjMzMzI3.DKLsAo9JKx6gU10ZWaDuIX78Jqc0IT9Vqj-V3bbDHYIg.qt5kcoUMMRtA6CgTK1D55vKoIQCFzTmmmfseEUdb2xYg.PNG/I1H-qeUG7NWKp_YMzczS2JxBL4Uk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 뮤지션 18인, 코로나19 국민응원송 '슈퍼스타 함께 부르기' (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27727298&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27727298&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMTNfMjA5/MDAxNTg0MDk1MDM1MDI2.t4NUCirQpNxkLwxM6sesiYPACiB1wLllnehbNBdLpPsg.7_Qi3998CfCCEb4GcPEJnRQ6UaOulLv8obegZrXuBDAg.JPEG/Iwk0joLm8Kxonhc2ZBehiAQQyJx8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>

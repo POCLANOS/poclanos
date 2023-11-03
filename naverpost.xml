@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 02:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박찬주(parkchanzoo) 더블싱글 [Untitled03/1Year] 미니 인터뷰&트랙]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36817961&amp;memberNo=24373938</guid>
+            <pubDate>Fri, 03 Nov 2023 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/박찬주(parkchanzoo)&nbsp;더블싱글&nbsp;[Untitled03/1Year]&nbsp;미니&nbsp;인터뷰&amp;트랙별&nbsp;코멘터리 INTRO&nbsp;| 아티스트 소개&nbsp;’박찬주 (parkchanzoo)’ 는 연주 및 작사, 작곡, 편곡 등 직접 프로듀싱을 하며 음악을 만들고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfNDYg/MDAxNjk4ODMwNzA5MzY2.CMy13ksZX-BwqMhyG8tfkO6rrG2gAcu7xmVpgHurf68g.S0kOMDfP0dI4DyDkD-ltGGKjiZCM0HxGt5bVHWKKc-Mg.JPEG/IQ_Pv4Swz6flldqoPHGwmGkIaBF8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36816894&amp;memberNo=24373938</link>
@@ -154,14 +162,6 @@
             <pubDate>Thu, 02 Nov 2023 15:12:47 GMT</pubDate>
             <content:encoded><![CDATA[Q&amp;A INTERVIEW/ ask the artist: 신해경 Shin Hae Gyeong 좋아하는 뮤지션의 모든 이야기가 궁금하곤 합니다. 직접 물어볼 수도, 흘러와 들을 수도 없는 질문들을 모아보고 싶었습니다. 음악을 하는 이와 듣는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjNfMjY2/MDAxNjAzNDMwMjE3MzQ2.UdhHcWV0Izrap9zz6DAeP6eBANovlvfa5G0UhIl8fk0g.aqc40OlQOdJYDNC7aMJMVyQ4SonTHGw-i3k6rygVTtQg.JPEG/IkSiiKTuPlxPvU-mK7S4v1JY2VmY.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어송라이터 김사월의 영화 [담쟁이 OST] 작업기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29771792&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29771792&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 02 Nov 2023 15:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[INTRO / 가장 아름다운 형태의 사랑, 영화 [담쟁이 OST]영화 &lt;담쟁이&gt;는 누구보다 행복했던 ‘은수’(우미화)와 ‘예원’(이연) 커플이 ‘은수’의 갑작스러운···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjJfMTE1/MDAxNjAzMzU0ODQ3MTQ3.FS-jIhPbmrLu3pJtKU_aNxJtHZ_lajxK0h6zncpciUog.1mVoZmkFVwb6Sb8sdGVs__QTyT9jv4g-Y3DLFgAwst0g.JPEG/IlTpVU9RS85PZTQJm79gkJXAob6c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

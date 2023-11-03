@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 02:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[볼티지]]></title>
+            <link>https://poclanos.com/album/%eb%b3%bc%ed%8b%b0%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%eb%b3%bc%ed%8b%b0%ec%a7%80/</guid>
+            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[메타]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-%EB%B3%BC%ED%8B%B0%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foolish]]></title>
+            <link>https://poclanos.com/album/foolish/</link>
+            <guid>https://poclanos.com/album/foolish/</guid>
+            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Foolish-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 집 댕댕이 베리]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%a7%91-%eb%8c%95%eb%8c%95%ec%9d%b4-%eb%b2%a0%eb%a6%ac/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%a7%91-%eb%8c%95%eb%8c%95%ec%9d%b4-%eb%b2%a0%eb%a6%ac/</guid>
+            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[우노(Uno)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/04.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EB%85%B8Uno-%EC%9A%B0%EB%A6%AC-%EC%A7%91-%EB%8C%95%EB%8C%95%EC%9D%B4-%EB%B2%A0%EB%A6%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[End]]></title>
             <link>https://poclanos.com/album/end/</link>
@@ -16,20 +40,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88-End%EC%97%86%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cutt the Demon]]></title>
-            <link>https://poclanos.com/album/cutt-the-demon/</link>
-            <guid>https://poclanos.com/album/cutt-the-demon/</guid>
-            <pubDate>Thu, 02 Nov 2023 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[CUTT DEEP]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUOXINI-Cutt-the-Demon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cmud7]]></title>
             <link>https://poclanos.com/album/cmud7/</link>
             <guid>https://poclanos.com/album/cmud7/</guid>
             <pubDate>Thu, 02 Nov 2023 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[mudmud]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-mudmud-Cmud7-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cutt the Demon]]></title>
+            <link>https://poclanos.com/album/cutt-the-demon/</link>
+            <guid>https://poclanos.com/album/cutt-the-demon/</guid>
+            <pubDate>Thu, 02 Nov 2023 03:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[CUTT DEEP]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUOXINI-Cutt-the-Demon-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아나토미]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
             <content:encoded><![CDATA[심아일 (SIMILE)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC-SIMILE-%EC%95%A0%EB%8F%84%EB%B0%98%EC%9D%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해]]></title>
-            <link>https://poclanos.com/album/%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%ed%95%b4/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[혼닙(honnip)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%98%BC%EB%8B%99-%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Never Ending]]></title>
-            <link>https://poclanos.com/album/never-ending/</link>
-            <guid>https://poclanos.com/album/never-ending/</guid>
-            <pubDate>Thu, 26 Oct 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[이스트워터 (Eastwater)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Eastwater-Never-Ending-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream  Inter (Remixed)]]></title>
-            <link>https://poclanos.com/album/dream-inter-remixed/</link>
-            <guid>https://poclanos.com/album/dream-inter-remixed/</guid>
-            <pubDate>Thu, 26 Oct 2023 03:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[Wona]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/3.-%EC%BB%A4%EB%B2%84-Wona-Dream-Inter-Remixed-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
