@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 02:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 03:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Everything’s Fine]]></title>
+            <link>https://poclanos.com/album/everythings-fine/</link>
+            <guid>https://poclanos.com/album/everythings-fine/</guid>
+            <pubDate>Sun, 05 Nov 2023 03:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[이형은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%9D%B4%ED%98%95%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아편차 차듸찬 바람이]]></title>
             <link>https://poclanos.com/album/%ec%95%84%ed%8e%b8%ec%b0%a8-%ec%b0%a8%eb%93%b8%ec%b0%ac-%eb%b0%94%eb%9e%8c%ec%9d%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 Oct 2023 03:10:04 GMT</pubDate>
             <content:encoded><![CDATA[양반들 (Yangbans)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/231011-NEW-MOON-ALBUM-COVER30003000-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All That You Wanted]]></title>
-            <link>https://poclanos.com/album/all-that-you-wanted/</link>
-            <guid>https://poclanos.com/album/all-that-you-wanted/</guid>
-            <pubDate>Fri, 27 Oct 2023 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[Hersh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4-%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-All-That-You-Wanted-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
