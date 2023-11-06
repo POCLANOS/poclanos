@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 02:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아주 아주 오래 돼서야]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%ec%a3%bc-%ec%95%84%ec%a3%bc-%ec%98%a4%eb%9e%98-%eb%8f%bc%ec%84%9c%ec%95%bc/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%ec%a3%bc-%ec%95%84%ec%a3%bc-%ec%98%a4%eb%9e%98-%eb%8f%bc%ec%84%9c%ec%95%bc/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[전유동]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%A0%84%EC%9C%A0%EB%8F%99-%EC%99%9C%EA%B4%80%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%94-%EB%AC%B4%EA%B6%81%ED%99%94%ED%98%B8-%EC%97%B4%EC%B0%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brachio]]></title>
+            <link>https://poclanos.com/album/brachio/</link>
+            <guid>https://poclanos.com/album/brachio/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[다린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-Brachio-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로 쓴 일기]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%eb%a1%9c-%ec%93%b4-%ec%9d%bc%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%eb%a1%9c-%ec%93%b4-%ec%9d%bc%ea%b8%b0/</guid>
+            <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[손서정]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%86%90%EC%84%9C%EC%A0%95-%EC%83%88%EB%A1%9C-%EC%93%B4-%EC%9D%BC%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Everything’s Fine]]></title>
             <link>https://poclanos.com/album/everythings-fine/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 30 Oct 2023 03:10:46 GMT</pubDate>
             <content:encoded><![CDATA[주태중]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%A3%BC%ED%83%9C%EC%A4%91-%EC%95%84%EC%B9%A8%EC%9D%B4-%EB%B0%9D%EC%95%84%EC%98%A4%EB%84%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[변해져가네]]></title>
-            <link>https://poclanos.com/album/%eb%b3%80%ed%95%b4%ec%a0%b8%ea%b0%80%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%eb%b3%80%ed%95%b4%ec%a0%b8%ea%b0%80%eb%84%a4/</guid>
-            <pubDate>Mon, 30 Oct 2023 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[림헤엄]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%A6%BC%ED%97%A4%EC%97%84-%EB%B3%80%ED%95%B4%EC%A0%B8%EA%B0%80%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칫챗]]></title>
-            <link>https://poclanos.com/album/%ec%b9%ab%ec%b1%97/</link>
-            <guid>https://poclanos.com/album/%ec%b9%ab%ec%b1%97/</guid>
-            <pubDate>Sun, 29 Oct 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%B9%AB%EC%B1%97-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Moon]]></title>
-            <link>https://poclanos.com/album/new-moon/</link>
-            <guid>https://poclanos.com/album/new-moon/</guid>
-            <pubDate>Sat, 28 Oct 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[양반들 (Yangbans)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/231011-NEW-MOON-ALBUM-COVER30003000-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
