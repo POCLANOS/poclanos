@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 08:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 09:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[O]]></title>
+            <link>https://poclanos.com/album/o-3/</link>
+            <guid>https://poclanos.com/album/o-3/</guid>
+            <pubDate>Tue, 07 Nov 2023 09:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[김여명 (KIM YEO MYUNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%97%AC%EB%AA%85-KIM-YEO-MYUNG-O-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[간격]]></title>
             <link>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 31 Oct 2023 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[박찬주]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%B0%AC%EC%A3%BC-Unrtitled03-1Year-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Highball]]></title>
-            <link>https://poclanos.com/album/highball/</link>
-            <guid>https://poclanos.com/album/highball/</guid>
-            <pubDate>Tue, 31 Oct 2023 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/Highball_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
