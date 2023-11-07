@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간격 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</link>
+            <guid>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</guid>
+            <pubDate>Tue, 07 Nov 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[최원석]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EC%84%9D-%EA%B0%84%EA%B2%A9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[girlsnboys (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/girlsnboys/</link>
+            <guid>https://poclanos.com/album/girlsnboys/</guid>
+            <pubDate>Tue, 07 Nov 2023 03:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84-Jinoa-girlsandboys-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[아주 아주 오래 돼서야 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%95%84%ec%a3%bc-%ec%95%84%ec%a3%bc-%ec%98%a4%eb%9e%98-%eb%8f%bc%ec%84%9c%ec%95%bc/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 31 Oct 2023 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/Highball_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러브레터 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%9f%ac%eb%b8%8c%eb%a0%88%ed%84%b0/</link>
-            <guid>https://poclanos.com/album/%eb%9f%ac%eb%b8%8c%eb%a0%88%ed%84%b0/</guid>
-            <pubDate>Mon, 30 Oct 2023 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[김마리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%A7%88%EB%A6%AC-%EB%9F%AC%EB%B8%8C%EB%A0%88%ED%84%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아침이 밝아오네 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%b9%a8%ec%9d%b4-%eb%b0%9d%ec%95%84%ec%98%a4%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%b9%a8%ec%9d%b4-%eb%b0%9d%ec%95%84%ec%98%a4%eb%84%a4/</guid>
-            <pubDate>Mon, 30 Oct 2023 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[주태중]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%A3%BC%ED%83%9C%EC%A4%91-%EC%95%84%EC%B9%A8%EC%9D%B4-%EB%B0%9D%EC%95%84%EC%98%A4%EB%84%A4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
