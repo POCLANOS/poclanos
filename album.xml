@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 08:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 09:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Do I look like a Monster?]]></title>
+            <link>https://poclanos.com/album/do-i-look-like-a-monster/</link>
+            <guid>https://poclanos.com/album/do-i-look-like-a-monster/</guid>
+            <pubDate>Wed, 08 Nov 2023 09:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[행성]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-Do-I-look-like-a-Monster-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[말해야겠어]]></title>
             <link>https://poclanos.com/album/%eb%a7%90%ed%95%b4%ec%95%bc%ea%b2%a0%ec%96%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Nov 2023 09:10:24 GMT</pubDate>
             <content:encoded><![CDATA[줍에이 (Joob A)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A4%8D%EC%97%90%EC%9D%B4-Joob-A-something-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희극]]></title>
-            <link>https://poclanos.com/album/%ed%9d%ac%ea%b7%b9/</link>
-            <guid>https://poclanos.com/album/%ed%9d%ac%ea%b7%b9/</guid>
-            <pubDate>Wed, 01 Nov 2023 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[여유와 설빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/10/4.-%EC%BB%A4%EB%B2%84-%EC%97%AC%EC%9C%A0%EC%99%80-%EC%84%A4%EB%B9%88-%ED%9D%AC%EA%B7%B9-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
