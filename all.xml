@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 06:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 07:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%97%AC%EB%AA%85-KIM-YEO-MYUNG-O-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[girlsnboys (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/girlsnboys-2/</link>
+            <guid>https://poclanos.com/album/girlsnboys-2/</guid>
+            <pubDate>Fri, 10 Nov 2023 07:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84-Jinoa-girlsandboys-1-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[간격 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</link>
             <guid>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
             <content:encoded><![CDATA[메타]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-%EB%B3%BC%ED%8B%B0%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Foolish (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/foolish/</link>
-            <guid>https://poclanos.com/album/foolish/</guid>
-            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[진동욱]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Foolish-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
