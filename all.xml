@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 02:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 03:16:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[21st Century Odyssey (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/21st-century-odyssey/</link>
+            <guid>https://poclanos.com/album/21st-century-odyssey/</guid>
+            <pubDate>Sat, 11 Nov 2023 03:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[도재명]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%8F%84%EC%9E%AC%EB%AA%85_21st-Century-Odyssey_3000px-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[RISE (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/rise-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 03 Nov 2023 08:12:03 GMT</pubDate>
             <content:encoded><![CDATA[묵묵]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B5%EB%AC%B5-%EC%95%84%ED%8E%B8%EC%B0%A8-%EC%B0%A8%EB%93%B8%EC%B0%AC-%EB%B0%94%EB%9E%8C%EC%9D%B4-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[볼티지 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b3%bc%ed%8b%b0%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%eb%b3%bc%ed%8b%b0%ec%a7%80/</guid>
-            <pubDate>Fri, 03 Nov 2023 03:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[메타]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%A9%94%ED%83%80.-%EB%B3%BC%ED%8B%B0%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
