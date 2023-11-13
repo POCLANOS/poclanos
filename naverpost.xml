@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 08:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 09:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] 지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 13 Nov 2023 09:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/JINex (지넥스) 정규&nbsp;앨범&nbsp;[Butterfly]&nbsp;발매&nbsp;기념&nbsp;인터뷰 ARTIST | JINex (지넥스) ALBUM | Buttuterfly 매드클라운, 이수정(CHAI), 존오버, 마샬 등 굵직한 아티스트의 작업에 참여하며 본인만의 색을 보여···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfODQg/MDAxNjk5NTA3NDYzODE2.-IIz0qqrgZDjfTkwoltgGOXqpmuVpsP_-9-2EEk8e04g.fRSqyRHdPykk-F_L4Jzh6mhL0ZkavfSOwmimmuFzewcg.JPEG/INJSSnjYO091znvaR-jBqBYscsww.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 가장 사적인 저항, 손서정 첫 EP <새로 쓴 일기> MV 촬영 여행기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938</link>
@@ -154,14 +162,6 @@
             <pubDate>Mon, 13 Nov 2023 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[B-Side The less important side of a single음악을 듣다 보면 종종 ‘타이틀곡보다 더 내 마음에 드는’ 곡들을 만나는 기분 좋은 경험을 하게 됩니다. 코너 ‘B-Side’는 이렇게 다분히 사적···]]></content:encoded>
             <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2F_MxuT9dE6Y0%2Fhqdefault.jpg%22&type=fb500_195" length="0" type="image//"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 얼굴은 언제나 환영이야! – Fish House (피쉬하우스), Jule(쥴) 외]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837370&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837370&amp;memberNo=24373938</guid>
-            <pubDate>Mon, 13 Nov 2023 08:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[포크라노스 홈페이지에 걸린 공식 소개 글의 첫 문장은 ‘현재의 가장 새롭고 신선한 음악들을 소개하는 뮤직 딜리버리 브랜드’다. ‘현재’, ‘가장’, ‘새롭고’, &amp;lsq···]]></content:encoded>
-            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FrP9y9g9bWsc%2F0.jpg%22&type=fb500_195" length="0" type="image//"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 08:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 09:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Butterfly (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/butterfly-3/</link>
+            <guid>https://poclanos.com/album/butterfly-3/</guid>
+            <pubDate>Mon, 13 Nov 2023 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINex-%EC%A7%80%EB%84%A5%EC%8A%A4-Butterfly-%EB%A1%9C%EA%B3%A0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추억은 찌르르 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%b6%94%ec%96%b5%ec%9d%80-%ec%b0%8c%eb%a5%b4%eb%a5%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
             <content:encoded><![CDATA[다린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-Brachio-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로 쓴 일기 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%88%eb%a1%9c-%ec%93%b4-%ec%9d%bc%ea%b8%b0/</link>
-            <guid>https://poclanos.com/album/%ec%83%88%eb%a1%9c-%ec%93%b4-%ec%9d%bc%ea%b8%b0/</guid>
-            <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[손서정]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%86%90%EC%84%9C%EC%A0%95-%EC%83%88%EB%A1%9C-%EC%93%B4-%EC%9D%BC%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4167,6 +4167,14 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[EVENT] 지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 13 Nov 2023 09:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/JINex (지넥스) 정규&nbsp;앨범&nbsp;[Butterfly]&nbsp;발매&nbsp;기념&nbsp;인터뷰 ARTIST | JINex (지넥스) ALBUM | Buttuterfly 매드클라운, 이수정(CHAI), 존오버, 마샬 등 굵직한 아티스트의 작업에 참여하며 본인만의 색을 보여···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfODQg/MDAxNjk5NTA3NDYzODE2.-IIz0qqrgZDjfTkwoltgGOXqpmuVpsP_-9-2EEk8e04g.fRSqyRHdPykk-F_L4Jzh6mhL0ZkavfSOwmimmuFzewcg.JPEG/INJSSnjYO091znvaR-jBqBYscsww.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[EVENT] 가장 사적인 저항, 손서정 첫 EP <새로 쓴 일기> MV 촬영 여행기 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938</guid>
@@ -4313,14 +4321,6 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <pubDate>Mon, 13 Nov 2023 08:15:43 GMT</pubDate>
             <content:encoded><![CDATA[B-Side The less important side of a single음악을 듣다 보면 종종 ‘타이틀곡보다 더 내 마음에 드는’ 곡들을 만나는 기분 좋은 경험을 하게 됩니다. 코너 ‘B-Side’는 이렇게 다분히 사적···]]></content:encoded>
             <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2F_MxuT9dE6Y0%2Fhqdefault.jpg%22&type=fb500_195" length="0" type="image//"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 얼굴은 언제나 환영이야! – Fish House (피쉬하우스), Jule(쥴) 외 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837370&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837370&amp;memberNo=24373938</guid>
-            <pubDate>Mon, 13 Nov 2023 08:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[포크라노스 홈페이지에 걸린 공식 소개 글의 첫 문장은 ‘현재의 가장 새롭고 신선한 음악들을 소개하는 뮤직 딜리버리 브랜드’다. ‘현재’, ‘가장’, ‘새롭고’, &amp;lsq···]]></content:encoded>
-            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FrP9y9g9bWsc%2F0.jpg%22&type=fb500_195" length="0" type="image//"/>
         </item>
         <item>
             <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4483,6 +4483,14 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://post-phinf.pstatic.net/MjAxOTEyMjNfOTkg/MDAxNTc3MDYyOTY3ODU1.KU3vB57HF2jo6O0TzJmHSeBmgvZqBkjtJjHcLmBiu0Eg.Nwjy3prO73l-h5o0DM-Ky5TY7fJw8nUItSX8d0kf59Ig.JPEG/IJmI8jiHN0i3z0D68WWe95Es43KM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[EVENT] 지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Mon, 13 Nov 2023 09:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfODQg/MDAxNjk5NTA3NDYzODE2.-IIz0qqrgZDjfTkwoltgGOXqpmuVpsP_-9-2EEk8e04g.fRSqyRHdPykk-F_L4Jzh6mhL0ZkavfSOwmimmuFzewcg.JPEG/INJSSnjYO091znvaR-jBqBYscsww.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[EVENT] 가장 사적인 저항, 손서정 첫 EP <새로 쓴 일기> MV 촬영 여행기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -4634,14 +4642,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMTlfMjE0/MDAxNTg0NTgzMjk5ODI4.TRKxYVS9-GNsAFeu62vzJ_ZpfUMB56wauAbXjCWYy8cg.ab4xm7FelxbNMkg6O3fMwPMLB8lsh_BC21Ye1pUJTL0g.PNG/IVTenA2JU0-0B2ESJIJMWsswgbRg.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] A-FUZZ 한중일 프로젝트, 두 번째 "The Lamp is Low" (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27830415&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27830415&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMjZfMjM2/MDAxNTg1MTk4Nzk2ODk5.s0HYZ6B_M8qyLx_rvUhRVI7j_2VKGrvCz4DD32OuQ5wg.TR8L9DBlY_spCJ9arslY1g57wRQ0eocjTilpUY-6OKIg.JPEG/IV0D9Q4g16cYo_GKGqxV23-N0zVk.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
