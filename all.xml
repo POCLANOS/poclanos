@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 02:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Extraordinary (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/extraordinary/</link>
+            <guid>https://poclanos.com/album/extraordinary/</guid>
+            <pubDate>Tue, 14 Nov 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[김유진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9C%A0%EC%A7%84-Extraordinary-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수상한 치과 (Live) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%88%98%ec%83%81%ed%95%9c-%ec%b9%98%ea%b3%bc-live/</link>
+            <guid>https://poclanos.com/album/%ec%88%98%ec%83%81%ed%95%9c-%ec%b9%98%ea%b3%bc-live/</guid>
+            <pubDate>Tue, 14 Nov 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-ArtworkBrokenTeeth-%EC%88%98%EC%83%81%ED%95%9C-%EC%B9%98%EA%B3%BC-Live-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감히 영원하길 바래 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b0%90%ed%9e%88-%ec%98%81%ec%9b%90%ed%95%98%ea%b8%b8-%eb%b0%94%eb%9e%98/</link>
+            <guid>https://poclanos.com/album/%ea%b0%90%ed%9e%88-%ec%98%81%ec%9b%90%ed%95%98%ea%b8%b8-%eb%b0%94%eb%9e%98/</guid>
+            <pubDate>Tue, 14 Nov 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[JIEON]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JIEON-%EA%B0%90%ED%9E%88-%EC%98%81%EC%9B%90%ED%95%98%EA%B8%B8-%EB%B0%94%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cells Impact Recall (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cells-impact-recall/</link>
+            <guid>https://poclanos.com/album/cells-impact-recall/</guid>
+            <pubDate>Tue, 14 Nov 2023 03:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[Easymind]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Easymind-oddeen-Cells-Impact-Recall-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Butterfly (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/butterfly-3/</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 10 Nov 2023 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84-Jinoa-girlsandboys-1-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[간격 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</link>
-            <guid>https://poclanos.com/album/%ea%b0%84%ea%b2%a9/</guid>
-            <pubDate>Tue, 07 Nov 2023 03:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[최원석]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EC%84%9D-%EA%B0%84%EA%B2%A9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[girlsnboys (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/girlsnboys/</link>
-            <guid>https://poclanos.com/album/girlsnboys/</guid>
-            <pubDate>Tue, 07 Nov 2023 03:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84-Jinoa-girlsandboys-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[아주 아주 오래 돼서야 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%a3%bc-%ec%95%84%ec%a3%bc-%ec%98%a4%eb%9e%98-%eb%8f%bc%ec%84%9c%ec%95%bc/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%a3%bc-%ec%95%84%ec%a3%bc-%ec%98%a4%eb%9e%98-%eb%8f%bc%ec%84%9c%ec%95%bc/</guid>
-            <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[전유동]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%A0%84%EC%9C%A0%EB%8F%99-%EC%99%9C%EA%B4%80%EC%9C%BC%EB%A1%9C-%EA%B0%80%EB%8A%94-%EB%AC%B4%EA%B6%81%ED%99%94%ED%98%B8-%EC%97%B4%EC%B0%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brachio (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/brachio/</link>
-            <guid>https://poclanos.com/album/brachio/</guid>
-            <pubDate>Mon, 06 Nov 2023 03:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[다린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-Brachio-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
