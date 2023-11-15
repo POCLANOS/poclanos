@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 02:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 03:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리는 모두 누군가의 꿈이었지 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%aa%a8%eb%91%90-%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%bf%88%ec%9d%b4%ec%97%88%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%aa%a8%eb%91%90-%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%bf%88%ec%9d%b4%ec%97%88%ec%a7%80/</guid>
+            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[신설희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%843000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Good Luck In The Making (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/good-luck-in-the-making/</link>
+            <guid>https://poclanos.com/album/good-luck-in-the-making/</guid>
+            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[Frankly Speaking]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-cover-Frankly-Speaking-Good-Luck-In-The-Making-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Street Beethoven (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/street-beethoven/</link>
+            <guid>https://poclanos.com/album/street-beethoven/</guid>
+            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-cover-KnowKnow-Street-Beethoven-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lethal Within (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lethal-within/</link>
+            <guid>https://poclanos.com/album/lethal-within/</guid>
+            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[Sandwich Fail]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-cover-Sandwich-Fail-Lethal-Within-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Extraordinary (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/extraordinary/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 08 Nov 2023 03:10:15 GMT</pubDate>
             <content:encoded><![CDATA[Housekeepers (하우스키퍼스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-Artwork-Housekeepers-%EB%A7%90%ED%95%B4%EC%95%BC%EA%B2%A0%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그저 그런 이별 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%ec%a0%80-%ea%b7%b8%eb%9f%b0-%ec%9d%b4%eb%b3%84/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%ec%a0%80-%ea%b7%b8%eb%9f%b0-%ec%9d%b4%eb%b3%84/</guid>
-            <pubDate>Wed, 08 Nov 2023 03:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%9D%B4%EB%A5%B4%EB%8B%A4irda-%EA%B7%B8%EC%A0%80-%EA%B7%B8%EB%9F%B0-%EC%9D%B4%EB%B3%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 눈에 흐르는 지하수를 마셔요 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%88%88%ec%97%90-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%a7%80%ed%95%98%ec%88%98%eb%a5%bc-%eb%a7%88%ec%85%94%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%88%88%ec%97%90-%ed%9d%90%eb%a5%b4%eb%8a%94-%ec%a7%80%ed%95%98%ec%88%98%eb%a5%bc-%eb%a7%88%ec%85%94%ec%9a%94/</guid>
-            <pubDate>Wed, 08 Nov 2023 03:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[신설희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/o-3/</link>
-            <guid>https://poclanos.com/album/o-3/</guid>
-            <pubDate>Tue, 07 Nov 2023 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[김여명 (KIM YEO MYUNG)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%97%AC%EB%AA%85-KIM-YEO-MYUNG-O-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[girlsnboys (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/girlsnboys-2/</link>
-            <guid>https://poclanos.com/album/girlsnboys-2/</guid>
-            <pubDate>Fri, 10 Nov 2023 07:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84-Jinoa-girlsandboys-1-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4167,6 +4167,14 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[꿈결 같은 목소리로 선사하는 드림 포크록 사운드 ‘우리는 모두 누군가의 꿈이었지’ (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 15 Nov 2023 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /&nbsp;꿈결 같은 목소리로 선사하는 드림 포크록 사운드.당신의 꿈틀거리는 상상력과 낭만을 채워줄 신설희의 새 정규 앨범 &lt;우리는 모두 누군가의 꿈이었지&gt;  INTRO | 신설희환상과 이상, 추상화의 색채···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU1/MDAxNjk4ODMzOTk5MDUy.uToh9qnx1_dYXoFsMC9VmlGm7eMu0NYOmp4VkAxlxYAg.PMEow3AOB_Ro7k9PwEG4mm_NPi5anrCPrJI7XfDgxSwg.PNG/IUNCmF3BkJ3w5QrtA72zWfxEwacs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</guid>
@@ -4313,14 +4321,6 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[세련, 서투르거나 어색한 데가 없이 능숙하고 미끈하게 갈고 닦음을 의미한다. ‘세련된’이라는 수식어가 붙었을 때 그것은 어딘가 잘 만들어진 동시에 매력적이라는 것을 뜻한다. 그래서 세련된 이들을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDJfMjk1/MDAxNjA0MzE5ODY2NTE2.U1_MxD5M3wqPynpmI_NjIX9Ia7r3dCRCt2qeOlYPsk0g.DOMUahq9WU1EuFRQ6mgU1Y2lyA7O1Ob21nlutMiycMcg.JPEG/IKS6yRyEi6KjYrQTrHDIPqq88-dI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[B-Side] 2020년 10월의 B-Side: 김뜻돌, 공중그늘, 그리고 732STT (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837383&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837383&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[B-Side The less important side of a single음악을 듣다 보면 종종 ‘타이틀곡보다 더 내 마음에 드는’ 곡들을 만나는 기분 좋은 경험을 하게 됩니다. 코너 ‘B-Side’는 이렇게 다분히 사적···]]></content:encoded>
-            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2F_MxuT9dE6Y0%2Fhqdefault.jpg%22&type=fb500_195" length="0" type="image//"/>
         </item>
         <item>
             <title><![CDATA[겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4491,6 +4491,14 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfODQg/MDAxNjk5NTA3NDYzODE2.-IIz0qqrgZDjfTkwoltgGOXqpmuVpsP_-9-2EEk8e04g.fRSqyRHdPykk-F_L4Jzh6mhL0ZkavfSOwmimmuFzewcg.JPEG/INJSSnjYO091znvaR-jBqBYscsww.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[꿈결 같은 목소리로 선사하는 드림 포크록 사운드 ‘우리는 모두 누군가의 꿈이었지’ (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 Nov 2023 03:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU1/MDAxNjk4ODMzOTk5MDUy.uToh9qnx1_dYXoFsMC9VmlGm7eMu0NYOmp4VkAxlxYAg.PMEow3AOB_Ro7k9PwEG4mm_NPi5anrCPrJI7XfDgxSwg.PNG/IUNCmF3BkJ3w5QrtA72zWfxEwacs.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[EVENT] 가장 사적인 저항, 손서정 첫 EP <새로 쓴 일기> MV 촬영 여행기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36818153&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -4634,14 +4642,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMTlfNjQg/MDAxNTg0NjA5MzE4NDEw.KI-8U1IPhGngkOx2tvbLt8yEW13oJbejX7fE7Nfp3Csg.ytw-e1VpsHi4jQCVOUHFAYkbG_oW1kuSyuRe7zzgxMIg.JPEG/If2rby_21b_1aV10hAZFd0EWJncc.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] cott(콧) 그들의 [Rotary] 그 속에 숨은 의미 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27771145&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27771145&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMTlfMjE0/MDAxNTg0NTgzMjk5ODI4.TRKxYVS9-GNsAFeu62vzJ_ZpfUMB56wauAbXjCWYy8cg.ab4xm7FelxbNMkg6O3fMwPMLB8lsh_BC21Ye1pUJTL0g.PNG/IVTenA2JU0-0B2ESJIJMWsswgbRg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>

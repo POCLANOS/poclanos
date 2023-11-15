@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 02:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 03:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[꿈결 같은 목소리로 선사하는 드림 포크록 사운드 ‘우리는 모두 누군가의 꿈이었지’]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 15 Nov 2023 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /&nbsp;꿈결 같은 목소리로 선사하는 드림 포크록 사운드.당신의 꿈틀거리는 상상력과 낭만을 채워줄 신설희의 새 정규 앨범 &lt;우리는 모두 누군가의 꿈이었지&gt;  INTRO | 신설희환상과 이상, 추상화의 색채···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU1/MDAxNjk4ODMzOTk5MDUy.uToh9qnx1_dYXoFsMC9VmlGm7eMu0NYOmp4VkAxlxYAg.PMEow3AOB_Ro7k9PwEG4mm_NPi5anrCPrJI7XfDgxSwg.PNG/IUNCmF3BkJ3w5QrtA72zWfxEwacs.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</link>
@@ -154,14 +162,6 @@
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[세련, 서투르거나 어색한 데가 없이 능숙하고 미끈하게 갈고 닦음을 의미한다. ‘세련된’이라는 수식어가 붙었을 때 그것은 어딘가 잘 만들어진 동시에 매력적이라는 것을 뜻한다. 그래서 세련된 이들을 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDJfMjk1/MDAxNjA0MzE5ODY2NTE2.U1_MxD5M3wqPynpmI_NjIX9Ia7r3dCRCt2qeOlYPsk0g.DOMUahq9WU1EuFRQ6mgU1Y2lyA7O1Ob21nlutMiycMcg.JPEG/IKS6yRyEi6KjYrQTrHDIPqq88-dI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[B-Side] 2020년 10월의 B-Side: 김뜻돌, 공중그늘, 그리고 732STT]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837383&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29837383&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[B-Side The less important side of a single음악을 듣다 보면 종종 ‘타이틀곡보다 더 내 마음에 드는’ 곡들을 만나는 기분 좋은 경험을 하게 됩니다. 코너 ‘B-Side’는 이렇게 다분히 사적···]]></content:encoded>
-            <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2F_MxuT9dE6Y0%2Fhqdefault.jpg%22&type=fb500_195" length="0" type="image//"/>
         </item>
     </channel>
 </rss>
