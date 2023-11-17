@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Nov 2023 02:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Nov 2023 03:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Can’t You See (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cant-you-see/</link>
+            <guid>https://poclanos.com/album/cant-you-see/</guid>
+            <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[우성림]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%84%B1%EB%A6%BC-Cant-You-See-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Color (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/color-3/</link>
+            <guid>https://poclanos.com/album/color-3/</guid>
+            <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[D'svy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Dsvy-Color-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bitter Sweet (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/bitter-sweet/</link>
+            <guid>https://poclanos.com/album/bitter-sweet/</guid>
+            <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Low-Hanging-Fruits-Bitter-Sweet-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PHASE 1 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/phase-1/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 11 Nov 2023 03:13:26 GMT</pubDate>
             <content:encoded><![CDATA[도재명]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%8F%84%EC%9E%AC%EB%AA%85_21st-Century-Odyssey_3000px-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RISE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/rise-2/</link>
-            <guid>https://poclanos.com/album/rise-2/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[OURTAPES]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-OURTAPES-RISE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SURREY 2008 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/surrey-2008/</link>
-            <guid>https://poclanos.com/album/surrey-2008/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[Hollyway]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-SURREY-2008-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NY(f)C (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/nyfc/</link>
-            <guid>https://poclanos.com/album/nyfc/</guid>
-            <pubDate>Fri, 10 Nov 2023 03:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-NYfC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
