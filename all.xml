@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 02:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 03:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[적색편이 (赤色偏移) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%a0%81%ec%83%89%ed%8e%b8%ec%9d%b4-%e8%b5%a4%e8%89%b2%e5%81%8f%e7%a7%bb/</link>
+            <guid>https://poclanos.com/album/%ec%a0%81%ec%83%89%ed%8e%b8%ec%9d%b4-%e8%b5%a4%e8%89%b2%e5%81%8f%e7%a7%bb/</guid>
+            <pubDate>Sat, 18 Nov 2023 03:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[TNDR]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Can’t You See (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/cant-you-see/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 12 Nov 2023 03:10:22 GMT</pubDate>
             <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-Haze-Moon-%EC%A0%9C%EC%A3%BC%EC%97%90-%EA%B0%80%EC%9D%84%EC%9D%B4-%EC%98%A4%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[21st Century Odyssey (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/21st-century-odyssey/</link>
-            <guid>https://poclanos.com/album/21st-century-odyssey/</guid>
-            <pubDate>Sat, 11 Nov 2023 03:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[도재명]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%8F%84%EC%9E%AC%EB%AA%85_21st-Century-Odyssey_3000px-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
