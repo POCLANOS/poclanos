@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 02:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 03:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌멩이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8f%8c%eb%a9%a9%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%eb%8f%8c%eb%a9%a9%ec%9d%b4/</guid>
+            <pubDate>Sun, 19 Nov 2023 03:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[임세모]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%84%EC%84%B8%EB%AA%A8-%EB%8F%8C%EB%A9%A9%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적색편이 (赤色偏移) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%a0%81%ec%83%89%ed%8e%b8%ec%9d%b4-%e8%b5%a4%e8%89%b2%e5%81%8f%e7%a7%bb/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Nov 2023 03:10:29 GMT</pubDate>
             <content:encoded><![CDATA[김영소영]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%98%81%EC%86%8C%EC%98%81-%EC%B6%94%EC%96%B5%EC%9D%80%EC%B0%8C%EB%A5%B4%EB%A5%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주에 가을이 오면 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a0%9c%ec%a3%bc%ec%97%90-%ea%b0%80%ec%9d%84%ec%9d%b4-%ec%98%a4%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%a0%9c%ec%a3%bc%ec%97%90-%ea%b0%80%ec%9d%84%ec%9d%b4-%ec%98%a4%eb%a9%b4/</guid>
-            <pubDate>Sun, 12 Nov 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-Haze-Moon-%EC%A0%9C%EC%A3%BC%EC%97%90-%EA%B0%80%EC%9D%84%EC%9D%B4-%EC%98%A4%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
