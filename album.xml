@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 02:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 03:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Galileo Galilei]]></title>
+            <link>https://poclanos.com/album/galileo-galilei/</link>
+            <guid>https://poclanos.com/album/galileo-galilei/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[AIRAIR]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-Mamiya-AIRAIR-Galileo-Galilei-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[delulu]]></title>
+            <link>https://poclanos.com/album/delulu/</link>
+            <guid>https://poclanos.com/album/delulu/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[Lexie Liu]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/Lexie-Liu-delulu-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Start Button (Piece 1)]]></title>
+            <link>https://poclanos.com/album/start-button-piece-1/</link>
+            <guid>https://poclanos.com/album/start-button-piece-1/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club-Start-Button-Piece-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Day and Night]]></title>
+            <link>https://poclanos.com/album/day-and-night-2/</link>
+            <guid>https://poclanos.com/album/day-and-night-2/</guid>
+            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[12BH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/12BH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자유롭게 넌 춤을 춰]]></title>
             <link>https://poclanos.com/album/%ec%9e%90%ec%9c%a0%eb%a1%ad%ea%b2%8c-%eb%84%8c-%ec%b6%a4%ec%9d%84-%ec%b6%b0/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
             <content:encoded><![CDATA[Frankly Speaking]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-cover-Frankly-Speaking-Good-Luck-In-The-Making-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Street Beethoven]]></title>
-            <link>https://poclanos.com/album/street-beethoven/</link>
-            <guid>https://poclanos.com/album/street-beethoven/</guid>
-            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-cover-KnowKnow-Street-Beethoven-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lethal Within]]></title>
-            <link>https://poclanos.com/album/lethal-within/</link>
-            <guid>https://poclanos.com/album/lethal-within/</guid>
-            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[Sandwich Fail]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-cover-Sandwich-Fail-Lethal-Within-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Extraordinary]]></title>
-            <link>https://poclanos.com/album/extraordinary/</link>
-            <guid>https://poclanos.com/album/extraordinary/</guid>
-            <pubDate>Tue, 14 Nov 2023 03:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[김유진]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9C%A0%EC%A7%84-Extraordinary-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수상한 치과 (Live)]]></title>
-            <link>https://poclanos.com/album/%ec%88%98%ec%83%81%ed%95%9c-%ec%b9%98%ea%b3%bc-live/</link>
-            <guid>https://poclanos.com/album/%ec%88%98%ec%83%81%ed%95%9c-%ec%b9%98%ea%b3%bc-live/</guid>
-            <pubDate>Tue, 14 Nov 2023 03:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-ArtworkBrokenTeeth-%EC%88%98%EC%83%81%ED%95%9C-%EC%B9%98%EA%B3%BC-Live-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
