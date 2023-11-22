@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 02:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LOVE US (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-us/</link>
+            <guid>https://poclanos.com/album/love-us/</guid>
+            <pubDate>Wed, 22 Nov 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[Hwi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Hwi-LOVE-US-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ghost Writers (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ghost-writers/</link>
+            <guid>https://poclanos.com/album/ghost-writers/</guid>
+            <pubDate>Wed, 22 Nov 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[서울전자음악단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%84%9C%EC%9A%B8%EC%A0%84%EC%9E%90%EC%9D%8C%EC%95%85%EB%8B%A8-Ghost-Writers%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나의 별 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b3%84-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 16 Nov 2023 03:10:54 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/04.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-ALEPH-%ED%95%84%EB%A1%9C%EC%86%8C%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[vacance (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/vacance-2/</link>
-            <guid>https://poclanos.com/album/vacance-2/</guid>
-            <pubDate>Wed, 15 Nov 2023 09:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[안0김박재재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-cover-%EC%95%880%EA%B9%80%EB%B0%95%EC%9E%AC%EC%9E%AC-vacance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 모두 누군가의 꿈이었지 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%aa%a8%eb%91%90-%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%bf%88%ec%9d%b4%ec%97%88%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%eb%aa%a8%eb%91%90-%eb%88%84%ea%b5%b0%ea%b0%80%ec%9d%98-%ea%bf%88%ec%9d%b4%ec%97%88%ec%a7%80/</guid>
-            <pubDate>Wed, 15 Nov 2023 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[신설희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%843000-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
