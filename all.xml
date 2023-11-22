@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 10:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 11:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Nov 2023 09:10:42 GMT</pubDate>
             <content:encoded><![CDATA[복다진]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%B3%B5%EB%8B%A4%EC%A7%84-%EA%B3%A0%EB%AF%BC%ED%95%B4%EA%B2%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Head Spinners (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/head-spinners/</link>
+            <guid>https://poclanos.com/album/head-spinners/</guid>
+            <pubDate>Wed, 22 Nov 2023 11:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[박지우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%B0%95%EC%A7%80%EC%9A%B0-Head-Spinners_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LOVE US (POCLANOS ─ Album)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Nov 2023 03:10:54 GMT</pubDate>
             <content:encoded><![CDATA[damduck]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/damduck_%EC%9D%B4%EC%A2%85%EA%B2%A9%ED%88%AC%EA%B8%B0_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In my dream (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/in-my-dream/</link>
-            <guid>https://poclanos.com/album/in-my-dream/</guid>
-            <pubDate>Thu, 16 Nov 2023 03:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[ffpp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ffpp-In-my-dream-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
