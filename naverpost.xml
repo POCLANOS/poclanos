@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 14:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 15:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[INTERVIEW]스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 22 Nov 2023 15:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[여유와 설빈이 정규 3집을 준비하고 있다는 소식을 처음 전해 들은 것은 올해 4월이다. 그날은 제주에서 올라온 여유와 처음 인사를 나눈 날이기도 한데, 본격적으로 농도를 높여가던 봄기운 덕에 라운지 문을 활짝 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMjU0/MDAxNzAwNTM1NDkwNDM1.TMnjJM23GGge4g21Fq-atofvGLQNL-My_mhGQ4-W5AYg.ZCNQbo7Bn1ytcRJcvTTWgciskjTJge1NVviCuwQHV3kg.JPEG/Is7JZmfuUACebtlMdy7oGxAVjf4c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[꿈결 같은 목소리로 선사하는 드림 포크록 사운드 ‘우리는 모두 누군가의 꿈이었지’]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</link>
@@ -154,14 +162,6 @@
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[최근 카코포니의 새 프로젝트, 문소문의 앨범 [붉은 눈]이 발매되었다. 완성도 높은 스토리텔링은 물론, 카코포니일 때의 솔직함과는 또 다른 정제된 무언가가 등장하여 사람들에게 좋은 반응을 얻었다. 문소문의 이···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDZfNzIg/MDAxNjA0NjMyMjIyODg2.OHHRACWKanmRkS8Hscql2c4SD9HL4-aUJxl85mVc7d0g.b9asHJqVapQcChVgSxJJpV8_FfqaByRS3GtgAcEAZ14g.JPEG/I_GHQg9_068nLWQR1kUEzgoULoSg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 세련을 찾아서: 주애, 김산, 하린]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29862500&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29862500&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[세련, 서투르거나 어색한 데가 없이 능숙하고 미끈하게 갈고 닦음을 의미한다. ‘세련된’이라는 수식어가 붙었을 때 그것은 어딘가 잘 만들어진 동시에 매력적이라는 것을 뜻한다. 그래서 세련된 이들을 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDJfMjk1/MDAxNjA0MzE5ODY2NTE2.U1_MxD5M3wqPynpmI_NjIX9Ia7r3dCRCt2qeOlYPsk0g.DOMUahq9WU1EuFRQ6mgU1Y2lyA7O1Ob21nlutMiycMcg.JPEG/IKS6yRyEi6KjYrQTrHDIPqq88-dI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
