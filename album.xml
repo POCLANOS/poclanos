@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 02:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 03:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 느린 발걸음에 사랑을 더하면]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%8a%90%eb%a6%b0-%eb%b0%9c%ea%b1%b8%ec%9d%8c%ec%97%90-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8d%94%ed%95%98%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%8a%90%eb%a6%b0-%eb%b0%9c%ea%b1%b8%ec%9d%8c%ec%97%90-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8d%94%ed%95%98%eb%a9%b4/</guid>
+            <pubDate>Thu, 23 Nov 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[아륜]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EB%A5%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%8A%90%EB%A6%B0-%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%97%90-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%8D%94%ED%95%98%EB%A9%B4-600x600.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[wonderland]]></title>
+            <link>https://poclanos.com/album/wonderland-3/</link>
+            <guid>https://poclanos.com/album/wonderland-3/</guid>
+            <pubDate>Thu, 23 Nov 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[GIAN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%ED%98%84%EC%84%9C-GIAN-wonderland-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunlight]]></title>
+            <link>https://poclanos.com/album/sunlight/</link>
+            <guid>https://poclanos.com/album/sunlight/</guid>
+            <pubDate>Thu, 23 Nov 2023 03:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[스멜스 (Smells)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%EB%A9%9C%EC%8A%A4-Smells-Sunlight-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[고민해결]]></title>
             <link>https://poclanos.com/album/%ea%b3%a0%eb%af%bc%ed%95%b4%ea%b2%b0/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
             <content:encoded><![CDATA[D'svy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Dsvy-Color-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bitter Sweet]]></title>
-            <link>https://poclanos.com/album/bitter-sweet/</link>
-            <guid>https://poclanos.com/album/bitter-sweet/</guid>
-            <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[Low Hanging Fruits]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Low-Hanging-Fruits-Bitter-Sweet-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PHASE 1]]></title>
-            <link>https://poclanos.com/album/phase-1/</link>
-            <guid>https://poclanos.com/album/phase-1/</guid>
-            <pubDate>Thu, 16 Nov 2023 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[ROTEM (로템)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ROTEM-PHASE-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이종격투기]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4%ec%a2%85%ea%b2%a9%ed%88%ac%ea%b8%b0/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4%ec%a2%85%ea%b2%a9%ed%88%ac%ea%b8%b0/</guid>
-            <pubDate>Thu, 16 Nov 2023 03:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[damduck]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/damduck_%EC%9D%B4%EC%A2%85%EA%B2%A9%ED%88%AC%EA%B8%B0_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
