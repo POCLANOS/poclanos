@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 08:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 09:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DIPUC]]></title>
+            <link>https://poclanos.com/album/dipuc/</link>
+            <guid>https://poclanos.com/album/dipuc/</guid>
+            <pubDate>Thu, 23 Nov 2023 09:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88_DIPUC-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[우리의 느린 발걸음에 사랑을 더하면]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%8a%90%eb%a6%b0-%eb%b0%9c%ea%b1%b8%ec%9d%8c%ec%97%90-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8d%94%ed%95%98%eb%a9%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
             <content:encoded><![CDATA[우성림]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%84%B1%EB%A6%BC-Cant-You-See-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Color]]></title>
-            <link>https://poclanos.com/album/color-3/</link>
-            <guid>https://poclanos.com/album/color-3/</guid>
-            <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[D'svy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Dsvy-Color-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
