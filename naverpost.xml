@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 02:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 03:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온기를 잃은 도시, 마주한 시선. 비공정 <밤새 틀어둔 마주할 나의 슬픔에> 발매 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36934602&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36934602&amp;memberNo=24373938</guid>
+            <pubDate>Fri, 24 Nov 2023 03:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /온기를 잃은 도시, 마주한 시선. 비공정 &lt;밤새 틀어둔 마주할 나의 슬픔에&gt; 발매 인터뷰 ARTIST | 비공정 ALBUM | 밤새 틀어둔 마주할 나의 슬픔에 많은 이들의 사랑과 추억을 품고 있었을 도시는 온···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTVfODEg/MDAxNzAwMDM3NzY4NDA2.tYfbgWQTjTzfwCzEfy0iMN2VX3bCIGGlQdh3Pf9shrcg.abc9RtVG-IOUBkTcfZ_o-WAtrqEk_K3eQPmWwKWoZJMg.JPEG/IlxdPifKjdSrP-fr5nqVISoPygtc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[INTERVIEW]스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938</link>
@@ -154,14 +162,6 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29928011&amp;memberNo=24373938</guid>
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTBfMjMz/MDAxNjA0OTg5Mjk1NjAz.-UHVYpc_GUZ6kQeiIQ-JTyvFEkjDOF5qOvW1n01Ep7og.zh-ero_GiEzQtCAL9GERG05PJ-8soUgn_zzhZv2_e4sg.PNG/IlycmQJRiTrDLGKNBJiGMWA-qekA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 앨범의 아트워크: 문소문 [붉은 눈] – 연여인]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29895503&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29895503&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[최근 카코포니의 새 프로젝트, 문소문의 앨범 [붉은 눈]이 발매되었다. 완성도 높은 스토리텔링은 물론, 카코포니일 때의 솔직함과는 또 다른 정제된 무언가가 등장하여 사람들에게 좋은 반응을 얻었다. 문소문의 이···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDZfNzIg/MDAxNjA0NjMyMjIyODg2.OHHRACWKanmRkS8Hscql2c4SD9HL4-aUJxl85mVc7d0g.b9asHJqVapQcChVgSxJJpV8_FfqaByRS3GtgAcEAZ14g.JPEG/I_GHQg9_068nLWQR1kUEzgoULoSg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 02:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 03:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구름]]></title>
+            <link>https://poclanos.com/album/%ea%b5%ac%eb%a6%84/</link>
+            <guid>https://poclanos.com/album/%ea%b5%ac%eb%a6%84/</guid>
+            <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[버둥]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%B5%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sisyphus Happy]]></title>
+            <link>https://poclanos.com/album/sisyphus-happy/</link>
+            <guid>https://poclanos.com/album/sisyphus-happy/</guid>
+            <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[Piano Shoegazer]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Piano-Shoegazer-Sisyphus-Happy-Happy_Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[별과 당신]]></title>
+            <link>https://poclanos.com/album/%eb%b3%84%ea%b3%bc-%eb%8b%b9%ec%8b%a0/</link>
+            <guid>https://poclanos.com/album/%eb%b3%84%ea%b3%bc-%eb%8b%b9%ec%8b%a0/</guid>
+            <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[심아일 (SIMILE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC-SIMILE-%EB%B3%84%EA%B3%BC-%EB%8B%B9%EC%8B%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤새 틀어둔 마주할 나의 슬픔에]]></title>
+            <link>https://poclanos.com/album/%eb%b0%a4%ec%83%88-%ed%8b%80%ec%96%b4%eb%91%94-%eb%a7%88%ec%a3%bc%ed%95%a0-%eb%82%98%ec%9d%98-%ec%8a%ac%ed%94%94%ec%97%90/</link>
+            <guid>https://poclanos.com/album/%eb%b0%a4%ec%83%88-%ed%8b%80%ec%96%b4%eb%91%94-%eb%a7%88%ec%a3%bc%ed%95%a0-%eb%82%98%ec%9d%98-%ec%8a%ac%ed%94%94%ec%97%90/</guid>
+            <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[비공정]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%B9%84%EA%B3%B5%EC%A0%95-%EB%B0%A4%EC%83%88-%ED%8B%80%EC%96%B4%EB%91%94-%EB%A7%88%EC%A3%BC%ED%95%A0-%EB%82%98%EC%9D%98-%EC%8A%AC%ED%94%94%EC%97%90-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DIPUC]]></title>
             <link>https://poclanos.com/album/dipuc/</link>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 20 Nov 2023 03:10:37 GMT</pubDate>
             <content:encoded><![CDATA[웨스턴 카잇 (Western Kite)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%9B%A8%EC%8A%A4%ED%84%B4-%EC%B9%B4%EC%9E%87-Western-Kite-%ED%97%A4%EC%9D%B4-%EC%82%B0%ED%83%80-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christmas miracle]]></title>
-            <link>https://poclanos.com/album/christmas-miracle/</link>
-            <guid>https://poclanos.com/album/christmas-miracle/</guid>
-            <pubDate>Mon, 20 Nov 2023 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[Luca minor]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84Luca-minor-Christmas-miracle_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌멩이]]></title>
-            <link>https://poclanos.com/album/%eb%8f%8c%eb%a9%a9%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%eb%8f%8c%eb%a9%a9%ec%9d%b4/</guid>
-            <pubDate>Sun, 19 Nov 2023 03:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[임세모]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%84%EC%84%B8%EB%AA%A8-%EB%8F%8C%EB%A9%A9%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적색편이 (赤色偏移)]]></title>
-            <link>https://poclanos.com/album/%ec%a0%81%ec%83%89%ed%8e%b8%ec%9d%b4-%e8%b5%a4%e8%89%b2%e5%81%8f%e7%a7%bb/</link>
-            <guid>https://poclanos.com/album/%ec%a0%81%ec%83%89%ed%8e%b8%ec%9d%b4-%e8%b5%a4%e8%89%b2%e5%81%8f%e7%a7%bb/</guid>
-            <pubDate>Sat, 18 Nov 2023 03:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[TNDR]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can’t You See]]></title>
-            <link>https://poclanos.com/album/cant-you-see/</link>
-            <guid>https://poclanos.com/album/cant-you-see/</guid>
-            <pubDate>Fri, 17 Nov 2023 03:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[우성림]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%84%B1%EB%A6%BC-Cant-You-See-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
