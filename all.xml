@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Special Christmas (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/a-special-christmas/</link>
+            <guid>https://poclanos.com/album/a-special-christmas/</guid>
+            <pubDate>Sun, 26 Nov 2023 03:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[코가손(Cogason)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%BD%94%EA%B0%80%EC%86%90-A-Special-Christmas-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ya-hoo ! (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/ya-hoo/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Nov 2023 03:10:37 GMT</pubDate>
             <content:encoded><![CDATA[서림]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%A6%BC-%EC%9E%90%EC%9C%A0%EB%A1%AD%EA%B2%8C-%EB%84%8C-%EC%B6%A4%EC%9D%84-%EC%B6%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Me! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/me/</link>
-            <guid>https://poclanos.com/album/me/</guid>
-            <pubDate>Mon, 20 Nov 2023 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[DumbAss]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-Me-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
