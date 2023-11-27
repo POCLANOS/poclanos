@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 08:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 09:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리버사이드 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</link>
+            <guid>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</guid>
+            <pubDate>Mon, 27 Nov 2023 09:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[정밀아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%80%EC%95%84-%EB%A6%AC%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fake Life (Feat. 최엘비) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
             <content:encoded><![CDATA[Lexie Liu]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/Lexie-Liu-delulu-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Start Button (Piece 1) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/start-button-piece-1/</link>
-            <guid>https://poclanos.com/album/start-button-piece-1/</guid>
-            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club-Start-Button-Piece-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
