@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 02:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 03:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서랍]]></title>
+            <link>https://poclanos.com/album/%ec%84%9c%eb%9e%8d/</link>
+            <guid>https://poclanos.com/album/%ec%84%9c%eb%9e%8d/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[권월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B6%8C%EC%9B%94-%EC%84%9C%EB%9E%8D-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Prince]]></title>
+            <link>https://poclanos.com/album/happy-prince/</link>
+            <guid>https://poclanos.com/album/happy-prince/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[엘리펀트 짐 (Elephant Gym)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-cover-Elephant-Gym-Happy-Prince-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blurry But Beautiful]]></title>
+            <link>https://poclanos.com/album/blurry-but-beautiful/</link>
+            <guid>https://poclanos.com/album/blurry-but-beautiful/</guid>
+            <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[R01 Parlour]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-R01-Parlour-Blurry-but-Beautiful-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[리버사이드]]></title>
             <link>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 22 Nov 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[서울전자음악단]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%84%9C%EC%9A%B8%EC%A0%84%EC%9E%90%EC%9D%8C%EC%95%85%EB%8B%A8-Ghost-Writers%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나의 별]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b3%84-2/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%b3%84-2/</guid>
-            <pubDate>Tue, 21 Nov 2023 09:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[반광옥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%98%EA%B4%91%EC%98%A5-%EB%82%98%EC%9D%98-%EB%B3%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Galileo Galilei]]></title>
-            <link>https://poclanos.com/album/galileo-galilei/</link>
-            <guid>https://poclanos.com/album/galileo-galilei/</guid>
-            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[AIRAIR]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-Mamiya-AIRAIR-Galileo-Galilei-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[delulu]]></title>
-            <link>https://poclanos.com/album/delulu/</link>
-            <guid>https://poclanos.com/album/delulu/</guid>
-            <pubDate>Tue, 21 Nov 2023 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[Lexie Liu]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/Lexie-Liu-delulu-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
