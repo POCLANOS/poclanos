@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 08:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 09:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mirror]]></title>
+            <link>https://poclanos.com/album/mirror-3/</link>
+            <guid>https://poclanos.com/album/mirror-3/</guid>
+            <pubDate>Tue, 28 Nov 2023 09:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Summer-Soul-Mirror-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[서랍]]></title>
             <link>https://poclanos.com/album/%ec%84%9c%eb%9e%8d/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Nov 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[Hwi]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Hwi-LOVE-US-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ghost Writers]]></title>
-            <link>https://poclanos.com/album/ghost-writers/</link>
-            <guid>https://poclanos.com/album/ghost-writers/</guid>
-            <pubDate>Wed, 22 Nov 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[서울전자음악단]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%84%9C%EC%9A%B8%EC%A0%84%EC%9E%90%EC%9D%8C%EC%95%85%EB%8B%A8-Ghost-Writers%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
