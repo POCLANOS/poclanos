@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 08:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 09:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BEFORE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/before/</link>
+            <guid>https://poclanos.com/album/before/</guid>
+            <pubDate>Wed, 29 Nov 2023 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[장예지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/PERCNT-BEFORE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mirror (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/mirror-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 22 Nov 2023 11:08:42 GMT</pubDate>
             <content:encoded><![CDATA[박지우]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%B0%95%EC%A7%80%EC%9A%B0-Head-Spinners_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE US (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/love-us/</link>
-            <guid>https://poclanos.com/album/love-us/</guid>
-            <pubDate>Wed, 22 Nov 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[Hwi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Hwi-LOVE-US-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
