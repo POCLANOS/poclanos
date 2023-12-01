@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 02:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 03:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하얀눈]]></title>
+            <link>https://poclanos.com/album/%ed%95%98%ec%96%80%eb%88%88/</link>
+            <guid>https://poclanos.com/album/%ed%95%98%ec%96%80%eb%88%88/</guid>
+            <pubDate>Fri, 01 Dec 2023 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[민수홍]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%88%98%ED%99%8D-%ED%95%98%EC%96%80%EB%88%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Back to Rodinia]]></title>
             <link>https://poclanos.com/album/back-to-rodinia/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 23 Nov 2023 03:10:29 GMT</pubDate>
             <content:encoded><![CDATA[아륜]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EB%A5%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%8A%90%EB%A6%B0-%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%97%90-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%8D%94%ED%95%98%EB%A9%B4-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[wonderland]]></title>
-            <link>https://poclanos.com/album/wonderland-3/</link>
-            <guid>https://poclanos.com/album/wonderland-3/</guid>
-            <pubDate>Thu, 23 Nov 2023 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[GIAN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%ED%98%84%EC%84%9C-GIAN-wonderland-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
