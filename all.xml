@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 08:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 09:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아무도 없는 곳에서, 모두가 있는 곳으로 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%eb%ac%b4%eb%8f%84-%ec%97%86%eb%8a%94-%ea%b3%b3%ec%97%90%ec%84%9c-%eb%aa%a8%eb%91%90%ea%b0%80-%ec%9e%88%eb%8a%94-%ea%b3%b3%ec%9c%bc%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%eb%ac%b4%eb%8f%84-%ec%97%86%eb%8a%94-%ea%b3%b3%ec%97%90%ec%84%9c-%eb%aa%a8%eb%91%90%ea%b0%80-%ec%9e%88%eb%8a%94-%ea%b3%b3%ec%9c%bc%eb%a1%9c/</guid>
+            <pubDate>Fri, 01 Dec 2023 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[강아솔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-%EA%B0%95%EC%95%84%EC%86%94-%EC%95%84%EB%AC%B4%EB%8F%84-%EC%97%86%EB%8A%94-%EA%B3%B3%EC%97%90%EC%84%9C-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%9E%88%EB%8A%94-%EA%B3%B3%EC%9C%BC%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤으로 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b6%a4%ec%9c%bc%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%ec%b6%a4%ec%9c%bc%eb%a1%9c/</guid>
+            <pubDate>Fri, 01 Dec 2023 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[Leem]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leem-%EC%9D%B4%EB%8F%84%EC%97%B4-%EC%B6%A4%EC%9C%BC%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하얀눈 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%95%98%ec%96%80%eb%88%88/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
             <content:encoded><![CDATA[비공정]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EB%B9%84%EA%B3%B5%EC%A0%95-%EB%B0%A4%EC%83%88-%ED%8B%80%EC%96%B4%EB%91%94-%EB%A7%88%EC%A3%BC%ED%95%A0-%EB%82%98%EC%9D%98-%EC%8A%AC%ED%94%94%EC%97%90-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIPUC (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dipuc/</link>
-            <guid>https://poclanos.com/album/dipuc/</guid>
-            <pubDate>Thu, 23 Nov 2023 09:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88_DIPUC-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 느린 발걸음에 사랑을 더하면 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%8a%90%eb%a6%b0-%eb%b0%9c%ea%b1%b8%ec%9d%8c%ec%97%90-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8d%94%ed%95%98%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%8a%90%eb%a6%b0-%eb%b0%9c%ea%b1%b8%ec%9d%8c%ec%97%90-%ec%82%ac%eb%9e%91%ec%9d%84-%eb%8d%94%ed%95%98%eb%a9%b4/</guid>
-            <pubDate>Thu, 23 Nov 2023 03:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[아륜]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EB%A5%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%8A%90%EB%A6%B0-%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%97%90-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%8D%94%ED%95%98%EB%A9%B4-600x600.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
