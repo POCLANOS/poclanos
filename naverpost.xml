@@ -4,9 +4,16 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 04:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 05:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“다양한 시선으로 만든 다양한 곡” 첫 정규앨범 발매한 오프더메뉴 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36966411&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36966411&amp;memberNo=24373938</guid>
+            <pubDate>Fri, 01 Dec 2023 05:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/“다양한&nbsp;시선으로&nbsp;만든&nbsp;다양한&nbsp;곡”&nbsp;첫&nbsp;정규앨범&nbsp;발매한&nbsp;오프더메뉴&nbsp;인터뷰ARTIST | off the menuALBUM | Every Point of ViewINTERVIEW | "다양한 시선으로 만든 다양한 곡" 첫 정규 앨범 발매한 오···]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[온기를 잃은 도시, 마주한 시선. 비공정 <밤새 틀어둔 마주할 나의 슬픔에> 발매 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36934602&amp;memberNo=24373938</link>
@@ -155,13 +162,6 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29928022&amp;memberNo=24373938</guid>
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTBfMjAx/MDAxNjA0OTg5MzY1Njk5.soV-kijP0dld5B_HY7x6AQzCX4TzzDwMtEnAFRJ0Q-Mg.tXCw3ujm64HVwZqxeKVeb5kWIWjufwOfhFy7lYgiHNkg.PNG/IhaHCQaYazkfMDPHsqFxVVRBGJNI.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈길을 끄는 매력적인 일러스트 앨범 아트워크]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29928011&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29928011&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTBfMjMz/MDAxNjA0OTg5Mjk1NjAz.-UHVYpc_GUZ6kQeiIQ-JTyvFEkjDOF5qOvW1n01Ep7og.zh-ero_GiEzQtCAL9GERG05PJ-8soUgn_zzhZv2_e4sg.PNG/IlycmQJRiTrDLGKNBJiGMWA-qekA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
