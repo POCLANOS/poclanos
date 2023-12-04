@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“다양한 시선으로 만든 다양한 곡” 첫 정규앨범 발매한 오프더메뉴 인터뷰]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Mon, 04 Dec 2023 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDRfMTgw/MDAxNzAxNjU3MjgxNTA3.rii1Y1QbDknPpp_29TbK0ltcYe4BUlwyFUrJjKPFRwAg.UFPBUxVr3CVlfFbDMfNorrr3BjjUhBYDjarMUh8qvyEg.JPEG/Ib2dVX7Rga6S-yDR3421ujVeNTfk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[온기를 잃은 도시, 마주한 시선. 비공정 <밤새 틀어둔 마주할 나의 슬픔에> 발매 인터뷰]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36934602&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -159,14 +167,6 @@ M/V 비하인드 스토리]]></title>
             <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMzFfNTQg/MDAxNTg1NjIzOTkyOTY5.symzvhI4Adbm0Vl61Vg8ZnInHr_t8VzwF3kmTmpOIk8g.Gw8YBMK5NixNWn4fAjNY7GiMT7dEu3ut7TAAPLipA0kg.JPEG/ItZpY6hIRZX4K5kqI8xFCQHVIv34.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 'Azzul'(아줄), 재즈를 넘어선 사이키델릭 작가주의 <잔상들>]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27821574&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27821574&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMjVfNjkg/MDAxNTg1MTExNjkwNjEw.KYhdtPcMaiQJV4N7lU3Uh7VDR8cJTdqUUiG0lGmD7uIg.UPBE1NrHB0F14zJHDY_3Keqooni_lRcMWhrO3yJ7zCYg.JPEG/I0QGkriZ6JkKHpNg9303gjSmKN7U.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

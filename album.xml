@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 02:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 03:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mr. G]]></title>
+            <link>https://poclanos.com/album/mr-g/</link>
+            <guid>https://poclanos.com/album/mr-g/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[지영민]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%A7%80%EC%98%81%EB%AF%BC-Mr.-G-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TINT (feat. Ineffa Lucas)]]></title>
+            <link>https://poclanos.com/album/tint-feat-ineffa-lucas/</link>
+            <guid>https://poclanos.com/album/tint-feat-ineffa-lucas/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[Eumin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-TINT-feat.-Ineffa-Lucas-Album-Art-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Christmas!]]></title>
+            <link>https://poclanos.com/album/happy-christmas/</link>
+            <guid>https://poclanos.com/album/happy-christmas/</guid>
+            <pubDate>Mon, 04 Dec 2023 03:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[임세모]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%9E%84%EC%84%B8%EB%AA%A8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fake Summer]]></title>
             <link>https://poclanos.com/album/fake-summer/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 26 Nov 2023 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[코가손(Cogason)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%BD%94%EA%B0%80%EC%86%90-A-Special-Christmas-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ya-hoo !]]></title>
-            <link>https://poclanos.com/album/ya-hoo/</link>
-            <guid>https://poclanos.com/album/ya-hoo/</guid>
-            <pubDate>Sat, 25 Nov 2023 03:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[공공카펫]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_Ya-hoo--600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름]]></title>
-            <link>https://poclanos.com/album/%ea%b5%ac%eb%a6%84/</link>
-            <guid>https://poclanos.com/album/%ea%b5%ac%eb%a6%84/</guid>
-            <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[버둥]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%84%EB%91%A5-%EA%B5%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sisyphus Happy]]></title>
-            <link>https://poclanos.com/album/sisyphus-happy/</link>
-            <guid>https://poclanos.com/album/sisyphus-happy/</guid>
-            <pubDate>Fri, 24 Nov 2023 03:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[Piano Shoegazer]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Piano-Shoegazer-Sisyphus-Happy-Happy_Artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
