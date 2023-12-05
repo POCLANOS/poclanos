@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[흔적 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</link>
+            <guid>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</guid>
+            <pubDate>Tue, 05 Dec 2023 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[Wavycake]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Wavycake-%ED%9D%94%EC%A0%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미로 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</link>
+            <guid>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</guid>
+            <pubDate>Tue, 05 Dec 2023 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[WINee (위니)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-WINee-%EC%9C%84%EB%8B%88-%EB%AF%B8%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[troublemate / blind (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/troublemate-blind/</link>
+            <guid>https://poclanos.com/album/troublemate-blind/</guid>
+            <pubDate>Tue, 05 Dec 2023 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-troublemate_blind-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mr. G (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/mr-g/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 27 Nov 2023 09:10:54 GMT</pubDate>
             <content:encoded><![CDATA[정밀아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%80%EC%95%84-%EB%A6%AC%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fake Life (Feat. 최엘비) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</link>
-            <guid>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</guid>
-            <pubDate>Mon, 27 Nov 2023 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[김승범]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EB%B2%84%EC%BB%A4-%EA%B9%80%EC%8A%B9%EB%B2%94-Fake-Life-Feat.-%EC%B5%9C%EC%97%98%EB%B9%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ODAIBA (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/odaiba/</link>
-            <guid>https://poclanos.com/album/odaiba/</guid>
-            <pubDate>Mon, 27 Nov 2023 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[Gerushida]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jay-Lee-x-Gerushida-ODAIBA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A Special Christmas (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/a-special-christmas/</link>
-            <guid>https://poclanos.com/album/a-special-christmas/</guid>
-            <pubDate>Sun, 26 Nov 2023 03:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[코가손(Cogason)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%BD%94%EA%B0%80%EC%86%90-A-Special-Christmas-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
