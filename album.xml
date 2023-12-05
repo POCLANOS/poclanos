@@ -4,17 +4,9 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 03:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 04:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[흔적]]></title>
-            <link>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</link>
-            <guid>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</guid>
-            <pubDate>Tue, 05 Dec 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[Wavycake]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Wavycake-%ED%9D%94%EC%A0%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[미로]]></title>
             <link>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</link>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 27 Nov 2023 09:10:54 GMT</pubDate>
             <content:encoded><![CDATA[정밀아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%80%EC%95%84-%EB%A6%AC%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fake Life (Feat. 최엘비)]]></title>
+            <link>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</link>
+            <guid>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</guid>
+            <pubDate>Tue, 05 Dec 2023 04:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[김승범]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EB%B2%84%EC%BB%A4-%EA%B9%80%EC%8A%B9%EB%B2%94-Fake-Life-Feat.-%EC%B5%9C%EC%97%98%EB%B9%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
