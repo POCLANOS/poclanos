@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 02:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 03:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lazy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lazy/</link>
+            <guid>https://poclanos.com/album/lazy/</guid>
+            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[SOQI (쏘키)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%8F%98%ED%82%A4-Lazy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Only the story remains (Original Soundtrack for Document 18th Film) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/only-the-story-remains-original-soundtrack-for-document-18th-film/</link>
+            <guid>https://poclanos.com/album/only-the-story-remains-original-soundtrack-for-document-18th-film/</guid>
+            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-WindWave-Only-the-story-remains-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Do My Thing (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/do-my-thing/</link>
+            <guid>https://poclanos.com/album/do-my-thing/</guid>
+            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Yusuke-Saint-Laurent-ONENESS-Do-My-Thing-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FRANKLY I…AM FREE! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/frankly-iam-free/</link>
+            <guid>https://poclanos.com/album/frankly-iam-free/</guid>
+            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FRankly%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%AC-FRANKLY-I...AM-FREE-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미로 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
             <content:encoded><![CDATA[권월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B6%8C%EC%9B%94-%EC%84%9C%EB%9E%8D-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Prince (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/happy-prince/</link>
-            <guid>https://poclanos.com/album/happy-prince/</guid>
-            <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[엘리펀트 짐 (Elephant Gym)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-cover-Elephant-Gym-Happy-Prince-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blurry But Beautiful (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/blurry-but-beautiful/</link>
-            <guid>https://poclanos.com/album/blurry-but-beautiful/</guid>
-            <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[R01 Parlour]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-R01-Parlour-Blurry-but-Beautiful-600x600.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[리버사이드 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</link>
-            <guid>https://poclanos.com/album/%eb%a6%ac%eb%b2%84%ec%82%ac%ec%9d%b4%eb%93%9c/</guid>
-            <pubDate>Mon, 27 Nov 2023 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[정밀아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EB%B0%80%EC%95%84-%EB%A6%AC%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fake Life (Feat. 최엘비) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</link>
-            <guid>https://poclanos.com/album/fake-life-feat-%ec%b5%9c%ec%97%98%eb%b9%84/</guid>
-            <pubDate>Tue, 05 Dec 2023 04:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[김승범]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EB%B2%84%EC%BB%A4-%EA%B9%80%EC%8A%B9%EB%B2%94-Fake-Life-Feat.-%EC%B5%9C%EC%97%98%EB%B9%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
