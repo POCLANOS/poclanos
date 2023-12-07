@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 02:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 03:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M3MI (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/m3mi/</link>
+            <guid>https://poclanos.com/album/m3mi/</guid>
+            <pubDate>Thu, 07 Dec 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-M3MI-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Curse of romanticism (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/curse-of-romanticism/</link>
+            <guid>https://poclanos.com/album/curse-of-romanticism/</guid>
+            <pubDate>Thu, 07 Dec 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[Luca minor]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luca-minor-Curse-of-romanticism-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/o-5/</link>
+            <guid>https://poclanos.com/album/o-5/</guid>
+            <pubDate>Thu, 07 Dec 2023 03:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[NUSHROOM]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NUSHROOM-O-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lazy (feat. Lotionmoney, 임금비) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/lazy/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 30 Nov 2023 03:10:23 GMT</pubDate>
             <content:encoded><![CDATA[백승환]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%8A%B9%ED%99%98-Where-Do-You-Wanna-Go-Voice-Memo-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEFORE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/before/</link>
-            <guid>https://poclanos.com/album/before/</guid>
-            <pubDate>Wed, 29 Nov 2023 09:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[장예지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/PERCNT-BEFORE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirror (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/mirror-3/</link>
-            <guid>https://poclanos.com/album/mirror-3/</guid>
-            <pubDate>Tue, 28 Nov 2023 09:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-Summer-Soul-Mirror-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[서랍 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%84%9c%eb%9e%8d/</link>
-            <guid>https://poclanos.com/album/%ec%84%9c%eb%9e%8d/</guid>
-            <pubDate>Tue, 28 Nov 2023 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[권월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B6%8C%EC%9B%94-%EC%84%9C%EB%9E%8D-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
