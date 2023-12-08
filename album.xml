@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 02:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Offline]]></title>
+            <link>https://poclanos.com/album/offline/</link>
+            <guid>https://poclanos.com/album/offline/</guid>
+            <pubDate>Fri, 08 Dec 2023 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[Lan Ting]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-cover-Lan-Ting-Offline-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Koi’s Kingdom]]></title>
+            <link>https://poclanos.com/album/kois-kingdom/</link>
+            <guid>https://poclanos.com/album/kois-kingdom/</guid>
+            <pubDate>Fri, 08 Dec 2023 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[강이채]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%9D%B4%EC%B1%84-Kois-Kingdom-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호흡]]></title>
+            <link>https://poclanos.com/album/%ed%98%b8%ed%9d%a1/</link>
+            <guid>https://poclanos.com/album/%ed%98%b8%ed%9d%a1/</guid>
+            <pubDate>Fri, 08 Dec 2023 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[주하늘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A3%BC%ED%95%98%EB%8A%98-%ED%98%B8%ED%9D%A1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[M3MI]]></title>
             <link>https://poclanos.com/album/m3mi/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 01 Dec 2023 03:11:08 GMT</pubDate>
             <content:encoded><![CDATA[민수홍]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EC%88%98%ED%99%8D-%ED%95%98%EC%96%80%EB%88%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Back to Rodinia]]></title>
-            <link>https://poclanos.com/album/back-to-rodinia/</link>
-            <guid>https://poclanos.com/album/back-to-rodinia/</guid>
-            <pubDate>Thu, 30 Nov 2023 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[Rainy Knight]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/3.-cover-Rainy-Knight-Back-to-Rodinia-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Teho4]]></title>
-            <link>https://poclanos.com/album/teho4/</link>
-            <guid>https://poclanos.com/album/teho4/</guid>
-            <pubDate>Thu, 30 Nov 2023 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[Teho]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Teho-Tehi4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Where Do You Wanna Go? (Voice Memo)]]></title>
-            <link>https://poclanos.com/album/where-do-you-wanna-go-voice-memo/</link>
-            <guid>https://poclanos.com/album/where-do-you-wanna-go-voice-memo/</guid>
-            <pubDate>Thu, 30 Nov 2023 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[백승환]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/11/4.-%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%8A%B9%ED%99%98-Where-Do-You-Wanna-Go-Voice-Memo-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
