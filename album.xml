@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 02:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 03:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모콰의 왈츠]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%ec%bd%b0%ec%9d%98-%ec%99%88%ec%b8%a0/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%ec%bd%b0%ec%9d%98-%ec%99%88%ec%b8%a0/</guid>
+            <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[원니]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EB%AA%A8%EC%BD%B0%EC%9D%98-%EC%99%88%EC%B8%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 사랑을 하자]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90/</guid>
+            <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[정우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-%EC%9A%B0%EB%A6%AC-%EC%82%AC%EB%9E%91%EC%9D%84-%ED%95%98%EC%9E%90-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Take Me Away]]></title>
+            <link>https://poclanos.com/album/take-me-away/</link>
+            <guid>https://poclanos.com/album/take-me-away/</guid>
+            <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[Cold Gun Chamber]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Cold-Gun-Chamber-Take-me-Away%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흔적]]></title>
             <link>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
             <content:encoded><![CDATA[ONENESS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Yusuke-Saint-Laurent-ONENESS-Do-My-Thing-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FRANKLY I…AM FREE!]]></title>
-            <link>https://poclanos.com/album/frankly-iam-free/</link>
-            <guid>https://poclanos.com/album/frankly-iam-free/</guid>
-            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FRankly%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%AC-FRANKLY-I...AM-FREE-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미로]]></title>
-            <link>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</link>
-            <guid>https://poclanos.com/album/%eb%af%b8%eb%a1%9c-2/</guid>
-            <pubDate>Tue, 05 Dec 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[WINee (위니)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-WINee-%EC%9C%84%EB%8B%88-%EB%AF%B8%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[troublemate / blind]]></title>
-            <link>https://poclanos.com/album/troublemate-blind/</link>
-            <guid>https://poclanos.com/album/troublemate-blind/</guid>
-            <pubDate>Tue, 05 Dec 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-troublemate_blind-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
