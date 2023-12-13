@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 02:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 03:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sophie (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sophie/</link>
+            <guid>https://poclanos.com/album/sophie/</guid>
+            <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[Lan Ting]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-cover-Lan-Ting-Sophie-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춤춤 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b6%a4%ec%b6%a4/</link>
+            <guid>https://poclanos.com/album/%ec%b6%a4%ec%b6%a4/</guid>
+            <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-%EC%B6%A4%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%b0/</link>
+            <guid>https://poclanos.com/album/%ec%82%b0/</guid>
+            <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[임윤경]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%84%EC%9C%A4%EA%B2%BD-%EC%82%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모콰의 왈츠 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%aa%a8%ec%bd%b0%ec%9d%98-%ec%99%88%ec%b8%a0/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 07 Dec 2023 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[NUSHROOM]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NUSHROOM-O-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lazy (feat. Lotionmoney, 임금비) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/lazy/</link>
-            <guid>https://poclanos.com/album/lazy/</guid>
-            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[SOQI (쏘키)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%8F%98%ED%82%A4-Lazy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only the story remains (Original Soundtrack for Document 18th Film) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/only-the-story-remains-original-soundtrack-for-document-18th-film/</link>
-            <guid>https://poclanos.com/album/only-the-story-remains-original-soundtrack-for-document-18th-film/</guid>
-            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-WindWave-Only-the-story-remains-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do My Thing (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/do-my-thing/</link>
-            <guid>https://poclanos.com/album/do-my-thing/</guid>
-            <pubDate>Wed, 06 Dec 2023 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[ONENESS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Yusuke-Saint-Laurent-ONENESS-Do-My-Thing-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4222,6 +4222,13 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[시대를, 그리고 일생을 살아간다는 것 - 도재명 정규 2집 발매 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027019&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027019&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 13 Dec 2023 03:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[INTERVIEW /시대를, 그리고 일생을 살아간다는 것도재명 정규 2집 발매 인터뷰  시대를, 그리고 일생을 살아간다는 것 – 도재명 정규 2집 발매 인터뷰&nbsp;세상을 살아간다는 것은 그리 녹록지 않은 일이다. 뉴스나 기사···]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[“다양한 시선으로 만든 다양한 곡” 첫 정규앨범 발매한 오프더메뉴 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938</guid>
@@ -4372,11 +4379,12 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTFfMjY0/MDAxNjA1MDY4NjM0ODAw.fZfpTClLPHgaxsqy5vd6dGfcy1NtsDkcPWJDy94awqUg.FFY8UCZNuBpIt08rNjFLbGrZdCuf-vkHyPGP0p7Y5sUg.JPEG/IO--B9pevTSQyb_KUpc7Aq61Z9CA.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시대와 장르를 뛰어넘는 컨셉맛집 앨범 Best 10 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29928022&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29928022&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTBfMjAx/MDAxNjA0OTg5MzY1Njk5.soV-kijP0dld5B_HY7x6AQzCX4TzzDwMtEnAFRJ0Q-Mg.tXCw3ujm64HVwZqxeKVeb5kWIWjufwOfhFy7lYgiHNkg.PNG/IhaHCQaYazkfMDPHsqFxVVRBGJNI.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <title><![CDATA[시대를, 그리고 일생을 살아간다는 것 - 도재명 정규 2집 발매 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027019&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37027019&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 13 Dec 2023 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMTUz/MDAxNTk1NTc1NjU4MzI0.4ovnArCGvWhQJQuxZBTP13gj0QtioQrqK-P2DbAfolYg.GDmDLZay1gbC_kexkByb-H_R1eRR1xgu2Kqd3YtNLoUg.JPEG/post_4519952975806860709.jpg?type=f40_40" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[INTERVIEW] 스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4529,14 +4537,6 @@ Hair &amp; Make up | Kim Jung Hyun @_beenb</strong></p>
             <pubDate>Mon, 01 May 2023 12:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMDlfNDcg/MDAxNTgzNzQ4MDU4MDIy.2-zlbJqsU8WIU-SlWhw3WjDcDMAF9aWAJyeJJ7JDKjMg.z2KXJCBm6dpAj7sd9TBDxLV8G1L8gbFkx5MX5AHQgoog.JPEG/I6_ovTQQgIHaMuacmArXZzG3VPsM.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 김오키의 처음, [Cherubim`s Wrath (천사의 분노)] (POCLANOS ─ 포크라노스 인터뷰)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=27377840&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=27377840&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAxMjlfMTQz/MDAxNTgwMjgzMDAxNzky.f926C7vY3ulYFxS3NUHnB2eUF3lLX7BbCDuA4jPt1tEg.LeAT2qSZq2UoqnZcz05NqALl8sVVj-_8t3RQCWIISc8g.JPEG/IcdRMzvHdjJO8gERwqh7pkL8D-FI.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“다양한 시선으로 만든 다양한 곡” 첫 정규앨범 발매한 오프더메뉴 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
