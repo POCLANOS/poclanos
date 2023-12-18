@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 09:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑 같은 걸 해요 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ea%b0%99%ec%9d%80-%ea%b1%b8-%ed%95%b4%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ea%b0%99%ec%9d%80-%ea%b1%b8-%ed%95%b4%ec%9a%94/</guid>
+            <pubDate>Mon, 18 Dec 2023 09:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[화노 (Hwanho)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%ED%99%94%EB%85%B8-%EC%82%AC%EB%9E%91-%EA%B0%99%EC%9D%80-%EA%B1%B8-%ED%95%B4%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포옹 (Po.Ong) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%8f%ac%ec%98%b9-po-ong/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[임윤경]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%84%EC%9C%A4%EA%B2%BD-%EC%82%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모콰의 왈츠 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%ec%bd%b0%ec%9d%98-%ec%99%88%ec%b8%a0/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%ec%bd%b0%ec%9d%98-%ec%99%88%ec%b8%a0/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[원니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EB%AA%A8%EC%BD%B0%EC%9D%98-%EC%99%88%EC%B8%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
