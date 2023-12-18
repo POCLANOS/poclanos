@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 02:26:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 03:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포옹 (Po.Ong)]]></title>
+            <link>https://poclanos.com/album/%ed%8f%ac%ec%98%b9-po-ong/</link>
+            <guid>https://poclanos.com/album/%ed%8f%ac%ec%98%b9-po-ong/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[선우정아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%ED%8F%AC%EC%98%B9-Po.Ong_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[같이 있는 초콜릿]]></title>
+            <link>https://poclanos.com/album/%ea%b0%99%ec%9d%b4-%ec%9e%88%eb%8a%94-%ec%b4%88%ec%bd%9c%eb%a6%bf/</link>
+            <guid>https://poclanos.com/album/%ea%b0%99%ec%9d%b4-%ec%9e%88%eb%8a%94-%ec%b4%88%ec%bd%9c%eb%a6%bf/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B0%99%EC%9D%B4-%EC%9E%88%EB%8A%94-%EC%B4%88%EC%BD%9C%EB%A6%BF-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫눈]]></title>
+            <link>https://poclanos.com/album/%ec%b2%ab%eb%88%88/</link>
+            <guid>https://poclanos.com/album/%ec%b2%ab%eb%88%88/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[19990619]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-19990619-%EC%B2%AB%EB%88%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전화하지 마]]></title>
+            <link>https://poclanos.com/album/%ec%a0%84%ed%99%94%ed%95%98%ec%a7%80-%eb%a7%88/</link>
+            <guid>https://poclanos.com/album/%ec%a0%84%ed%99%94%ed%95%98%ec%a7%80-%eb%a7%88/</guid>
+            <pubDate>Mon, 18 Dec 2023 03:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[Jettoyz]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%84%ED%99%94%ED%95%98%EC%A7%80-%EB%A7%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보통의 고백]]></title>
             <link>https://poclanos.com/album/%eb%b3%b4%ed%86%b5%ec%9d%98-%ea%b3%a0%eb%b0%b1/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
             <content:encoded><![CDATA[원니]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EB%AA%A8%EC%BD%B0%EC%9D%98-%EC%99%88%EC%B8%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 사랑을 하자]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac-%ec%82%ac%eb%9e%91%ec%9d%84-%ed%95%98%ec%9e%90/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[정우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-%EC%9A%B0%EB%A6%AC-%EC%82%AC%EB%9E%91%EC%9D%84-%ED%95%98%EC%9E%90-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take Me Away]]></title>
-            <link>https://poclanos.com/album/take-me-away/</link>
-            <guid>https://poclanos.com/album/take-me-away/</guid>
-            <pubDate>Tue, 12 Dec 2023 03:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[Cold Gun Chamber]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Cold-Gun-Chamber-Take-me-Away%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흔적]]></title>
-            <link>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</link>
-            <guid>https://poclanos.com/album/%ed%9d%94%ec%a0%81-2/</guid>
-            <pubDate>Mon, 11 Dec 2023 03:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[Wavycake]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Wavycake-%ED%9D%94%EC%A0%81-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[red roof]]></title>
-            <link>https://poclanos.com/album/red-roof/</link>
-            <guid>https://poclanos.com/album/red-roof/</guid>
-            <pubDate>Mon, 11 Dec 2023 03:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-pylat-red-roof-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
