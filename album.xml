@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 02:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 03:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동주]]></title>
+            <link>https://poclanos.com/album/%eb%8f%99%ec%a3%bc/</link>
+            <guid>https://poclanos.com/album/%eb%8f%99%ec%a3%bc/</guid>
+            <pubDate>Tue, 19 Dec 2023 03:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[임태웅]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EB%8F%99%EC%A3%BC%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heels]]></title>
+            <link>https://poclanos.com/album/54974/</link>
+            <guid>https://poclanos.com/album/54974/</guid>
+            <pubDate>Tue, 19 Dec 2023 03:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[김아일 (QIM ISLE)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%95%84%EC%9D%BC-Heels-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corocodile]]></title>
+            <link>https://poclanos.com/album/54977/</link>
+            <guid>https://poclanos.com/album/54977/</guid>
+            <pubDate>Tue, 19 Dec 2023 03:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[0m!n]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-0mn-Crocodile-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑 같은 걸 해요]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ea%b0%99%ec%9d%80-%ea%b1%b8-%ed%95%b4%ec%9a%94/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 13 Dec 2023 09:10:29 GMT</pubDate>
             <content:encoded><![CDATA[복다진]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EB%B3%B5%EB%8B%A4%EC%A7%84-%EB%84%88%EB%A7%8C-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sophie]]></title>
-            <link>https://poclanos.com/album/sophie/</link>
-            <guid>https://poclanos.com/album/sophie/</guid>
-            <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[Lan Ting]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-cover-Lan-Ting-Sophie-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춤춤]]></title>
-            <link>https://poclanos.com/album/%ec%b6%a4%ec%b6%a4/</link>
-            <guid>https://poclanos.com/album/%ec%b6%a4%ec%b6%a4/</guid>
-            <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9E%A0-%EC%B6%A4%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산]]></title>
-            <link>https://poclanos.com/album/%ec%82%b0/</link>
-            <guid>https://poclanos.com/album/%ec%82%b0/</guid>
-            <pubDate>Wed, 13 Dec 2023 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[임윤경]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%9E%84%EC%9C%A4%EA%B2%BD-%EC%82%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
