@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 02:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lo-fi of Lee 2 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lo-fi-of-lee-2/</link>
+            <guid>https://poclanos.com/album/lo-fi-of-lee-2/</guid>
+            <pubDate>Wed, 20 Dec 2023 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[Lee]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Lee-Lo-fi-of-Lee-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모두 (feat. ELLY) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%eb%91%90-feat-elly/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%eb%91%90-feat-elly/</guid>
+            <pubDate>Wed, 20 Dec 2023 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[김오키]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EC%98%A4%ED%82%A4-%EB%AA%A8%EB%91%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동주 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%8f%99%ec%a3%bc/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 14 Dec 2023 03:10:31 GMT</pubDate>
             <content:encoded><![CDATA[biskit!]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-biskit-%EA%B2%A8%EC%9A%B8-%EA%B3%A0%EB%B0%B1-feat.%ED%95%9C%EB%A6%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taxi Driver (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/taxi-driver/</link>
-            <guid>https://poclanos.com/album/taxi-driver/</guid>
-            <pubDate>Thu, 14 Dec 2023 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[이무이(2EEMOOEE)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%AC%B4%EC%9D%B42EEMOOEE-Taxi-Driver-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너만 알고 있지 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%8c%ea%b3%a0-%ec%9e%88%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a7%8c-%ec%95%8c%ea%b3%a0-%ec%9e%88%ec%a7%80/</guid>
-            <pubDate>Wed, 13 Dec 2023 09:10:29 GMT</pubDate>
-            <content:encoded><![CDATA[복다진]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EB%B3%B5%EB%8B%A4%EC%A7%84-%EB%84%88%EB%A7%8C-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
