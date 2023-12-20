@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 08:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 09:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[POWER ANDRE 99 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/power-andre-99/</link>
+            <guid>https://poclanos.com/album/power-andre-99/</guid>
+            <pubDate>Wed, 20 Dec 2023 09:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[실리카겔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-POWER-ANDRE-99_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweepers (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sweepers/</link>
+            <guid>https://poclanos.com/album/sweepers/</guid>
+            <pubDate>Wed, 20 Dec 2023 09:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[Housekeepers (하우스키퍼스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-Artwork-Housekeepers-Sweepers-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lo-fi of Lee 2 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/lo-fi-of-lee-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 14 Dec 2023 03:10:31 GMT</pubDate>
             <content:encoded><![CDATA[Jflow]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jflow-The-Room-Season-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[World (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/world/</link>
-            <guid>https://poclanos.com/album/world/</guid>
-            <pubDate>Thu, 14 Dec 2023 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[엘리펀트 짐 (Elephant Gym)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-cover-Elephant-Gym-World-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울 고백 (feat.한림) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8-%ea%b3%a0%eb%b0%b1-feat-%ed%95%9c%eb%a6%bc/</link>
-            <guid>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8-%ea%b3%a0%eb%b0%b1-feat-%ed%95%9c%eb%a6%bc/</guid>
-            <pubDate>Thu, 14 Dec 2023 03:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[biskit!]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-biskit-%EA%B2%A8%EC%9A%B8-%EA%B3%A0%EB%B0%B1-feat.%ED%95%9C%EB%A6%BC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
