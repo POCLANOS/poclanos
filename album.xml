@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Dec 2023 02:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[It’s Christmas!]]></title>
+            <link>https://poclanos.com/album/its-christmas/</link>
+            <guid>https://poclanos.com/album/its-christmas/</guid>
+            <pubDate>Fri, 22 Dec 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[이예린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-Its-Christmas-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Empty Promise]]></title>
+            <link>https://poclanos.com/album/empty-promise/</link>
+            <guid>https://poclanos.com/album/empty-promise/</guid>
+            <pubDate>Fri, 22 Dec 2023 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[Uigeadail Trace]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Uigeadail-Trace-Empty-Promise-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[날개 (2024 Ver.)]]></title>
             <link>https://poclanos.com/album/%eb%82%a0%ea%b0%9c-2024-ver/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 17 Dec 2023 03:10:36 GMT</pubDate>
             <content:encoded><![CDATA[Lan Ting]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-cover-Lan-Ting-Whiring-Sophie-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[over]]></title>
-            <link>https://poclanos.com/album/over/</link>
-            <guid>https://poclanos.com/album/over/</guid>
-            <pubDate>Sat, 16 Dec 2023 09:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[Woshi]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Woshi-over-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love Me to the Moon and Back]]></title>
-            <link>https://poclanos.com/album/love-me-to-the-moon-and-back/</link>
-            <guid>https://poclanos.com/album/love-me-to-the-moon-and-back/</guid>
-            <pubDate>Sat, 16 Dec 2023 03:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[Lan Ting]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-cover-Lan-Ting-Love-Me-to-The-Moon-and-Back-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
