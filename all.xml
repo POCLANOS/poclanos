@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Dec 2023 08:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Dec 2023 09:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beautiful Pose For Stranger (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/beautiful-pose-for-stranger/</link>
+            <guid>https://poclanos.com/album/beautiful-pose-for-stranger/</guid>
+            <pubDate>Sun, 24 Dec 2023 09:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[강]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Cover_RGB-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넌 대체 무얼 그렇게 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%8c-%eb%8c%80%ec%b2%b4-%eb%ac%b4%ec%96%bc-%ea%b7%b8%eb%a0%87%ea%b2%8c/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 18 Dec 2023 03:11:19 GMT</pubDate>
             <content:encoded><![CDATA[Jettoyz]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%84%ED%99%94%ED%95%98%EC%A7%80-%EB%A7%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보통의 고백 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b3%b4%ed%86%b5%ec%9d%98-%ea%b3%a0%eb%b0%b1/</link>
-            <guid>https://poclanos.com/album/%eb%b3%b4%ed%86%b5%ec%9d%98-%ea%b3%a0%eb%b0%b1/</guid>
-            <pubDate>Sun, 17 Dec 2023 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A5%B4%EB%A5%B4-%EB%B3%B4%ED%86%B5%EC%9D%98-%EA%B3%A0%EB%B0%B1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
