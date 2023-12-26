@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 08:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 09:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루살이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%95%98%eb%a3%a8%ec%82%b4%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%ed%95%98%eb%a3%a8%ec%82%b4%ec%9d%b4/</guid>
+            <pubDate>Tue, 26 Dec 2023 09:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[한로로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%ED%95%98%EB%A3%A8%EC%82%B4%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sweet Dreams (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/sweet-dreams-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Dec 2023 03:11:03 GMT</pubDate>
             <content:encoded><![CDATA[0m!n]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-0mn-Crocodile-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 같은 걸 해요 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ea%b0%99%ec%9d%80-%ea%b1%b8-%ed%95%b4%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91-%ea%b0%99%ec%9d%80-%ea%b1%b8-%ed%95%b4%ec%9a%94/</guid>
-            <pubDate>Tue, 26 Dec 2023 06:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[화노 (Hwanho)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%ED%99%94%EB%85%B8-%EC%82%AC%EB%9E%91-%EA%B0%99%EC%9D%80-%EA%B1%B8-%ED%95%B4%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
