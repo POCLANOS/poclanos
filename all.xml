@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 02:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 03:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[있을게 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%88%ec%9d%84%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%ec%9e%88%ec%9d%84%ea%b2%8c/</guid>
+            <pubDate>Thu, 28 Dec 2023 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[최원석]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EC%84%9D-%EC%9E%88%EC%9D%84%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Three Princesses (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/the-three-princesses/</link>
+            <guid>https://poclanos.com/album/the-three-princesses/</guid>
+            <pubDate>Thu, 28 Dec 2023 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[양치기소년단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8-The-Three-Princesses-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애들 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%97%b0%ec%95%a0%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ec%97%b0%ec%95%a0%eb%93%a4/</guid>
+            <pubDate>Thu, 28 Dec 2023 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[SAGA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84SAGA-%EC%97%B0%EC%95%A0%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빈 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b9%88-2/</link>
+            <guid>https://poclanos.com/album/%eb%b9%88-2/</guid>
+            <pubDate>Thu, 28 Dec 2023 03:10:43 GMT</pubDate>
+            <content:encoded><![CDATA[예빛]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%98%88%EB%B9%9B-%EB%B9%88_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[표류의 시간 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%91%9c%eb%a5%98%ec%9d%98-%ec%8b%9c%ea%b0%84/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 20 Dec 2023 09:08:31 GMT</pubDate>
             <content:encoded><![CDATA[실리카겔]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-POWER-ANDRE-99_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sweepers (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sweepers/</link>
-            <guid>https://poclanos.com/album/sweepers/</guid>
-            <pubDate>Wed, 20 Dec 2023 09:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[Housekeepers (하우스키퍼스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-Artwork-Housekeepers-Sweepers-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lo-fi of Lee 2 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/lo-fi-of-lee-2/</link>
-            <guid>https://poclanos.com/album/lo-fi-of-lee-2/</guid>
-            <pubDate>Wed, 20 Dec 2023 03:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[Lee]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Lee-Lo-fi-of-Lee-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모두 (feat. ELLY) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%eb%91%90-feat-elly/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%eb%91%90-feat-elly/</guid>
-            <pubDate>Wed, 20 Dec 2023 03:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[김오키]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EC%98%A4%ED%82%A4-%EB%AA%A8%EB%91%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동주 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8f%99%ec%a3%bc/</link>
-            <guid>https://poclanos.com/album/%eb%8f%99%ec%a3%bc/</guid>
-            <pubDate>Tue, 19 Dec 2023 03:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[임태웅]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EB%8F%99%EC%A3%BC%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
