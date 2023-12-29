@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 02:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 03:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르네에게 OST Part. 1]]></title>
+            <link>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-1/</link>
+            <guid>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-1/</guid>
+            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[오정훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%A5%B4%EB%84%A4%EC%97%90%EA%B2%8C-OST-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nighttime Rendering]]></title>
+            <link>https://poclanos.com/album/nighttime-rendering/</link>
+            <guid>https://poclanos.com/album/nighttime-rendering/</guid>
+            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[PAX JAPONICA GROOVE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98-3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PAX-Nighttime-Rendering-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pick your poison]]></title>
+            <link>https://poclanos.com/album/pick-your-poison/</link>
+            <guid>https://poclanos.com/album/pick-your-poison/</guid>
+            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[Iris Kymm]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Iris-Kymm-Pick-your-poision-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야행]]></title>
+            <link>https://poclanos.com/album/%ec%95%bc%ed%96%89/</link>
+            <guid>https://poclanos.com/album/%ec%95%bc%ed%96%89/</guid>
+            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[미로 (miro)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%95%BC%ED%96%89-%EC%BB%A4%EB%B2%84-3000-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[있을게]]></title>
             <link>https://poclanos.com/album/%ec%9e%88%ec%9d%84%ea%b2%8c/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 21 Dec 2023 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[정우물]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0%EB%AC%BC-%EB%82%A0%EA%B0%9C-2024-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사진]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%ec%a7%84-2/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%ec%a7%84-2/</guid>
-            <pubDate>Thu, 21 Dec 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-%EC%82%AC%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moonburn]]></title>
-            <link>https://poclanos.com/album/moonburn/</link>
-            <guid>https://poclanos.com/album/moonburn/</guid>
-            <pubDate>Thu, 21 Dec 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%ED%9D%98-%EC%9C%A4Sahl-Yoon-Moonburn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mission : Heartbeat Defense]]></title>
-            <link>https://poclanos.com/album/mission-heartbeat-defense/</link>
-            <guid>https://poclanos.com/album/mission-heartbeat-defense/</guid>
-            <pubDate>Thu, 21 Dec 2023 03:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[Mango Jump]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-cover-Manog-Jump-Mission-Heartbeat-Defense-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[POWER ANDRE 99]]></title>
-            <link>https://poclanos.com/album/power-andre-99/</link>
-            <guid>https://poclanos.com/album/power-andre-99/</guid>
-            <pubDate>Wed, 20 Dec 2023 09:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[실리카겔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94-POWER-ANDRE-99_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
