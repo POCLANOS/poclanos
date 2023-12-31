@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Dec 2023 02:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2023 03:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ruby (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ruby/</link>
+            <guid>https://poclanos.com/album/ruby/</guid>
+            <pubDate>Sun, 31 Dec 2023 03:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[Offing]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-Offing-Ruby-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무화과 소녀 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%ed%99%94%ea%b3%bc-%ec%86%8c%eb%85%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 22 Dec 2023 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[이예린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-Its-Christmas-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Empty Promise (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/empty-promise/</link>
-            <guid>https://poclanos.com/album/empty-promise/</guid>
-            <pubDate>Fri, 22 Dec 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[Uigeadail Trace]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Uigeadail-Trace-Empty-Promise-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
