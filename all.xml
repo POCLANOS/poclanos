@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jan 2024 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jan 2024 03:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[See you tomorrow again (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/see-you-tomorrow-again/</link>
+            <guid>https://poclanos.com/album/see-you-tomorrow-again/</guid>
+            <pubDate>Mon, 01 Jan 2024 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[김일두]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-See-you-tomorrow-again-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[God Made Me Funky! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/god-made-me-funky/</link>
+            <guid>https://poclanos.com/album/god-made-me-funky/</guid>
+            <pubDate>Mon, 01 Jan 2024 03:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[FunkySwat]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FunkySwat-God-Made-Me-Funky-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ruby (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/ruby/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 24 Dec 2023 09:09:50 GMT</pubDate>
             <content:encoded><![CDATA[강]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Cover_RGB-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넌 대체 무얼 그렇게 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%84%8c-%eb%8c%80%ec%b2%b4-%eb%ac%b4%ec%96%bc-%ea%b7%b8%eb%a0%87%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%eb%84%8c-%eb%8c%80%ec%b2%b4-%eb%ac%b4%ec%96%bc-%ea%b7%b8%eb%a0%87%ea%b2%8c/</guid>
-            <pubDate>Sat, 23 Dec 2023 09:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-GongGongGoo009-%EB%84%8C-%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%96%BC-%EA%B7%B8%EB%A0%87%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[It’s Christmas! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/its-christmas/</link>
-            <guid>https://poclanos.com/album/its-christmas/</guid>
-            <pubDate>Fri, 22 Dec 2023 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[이예린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-Its-Christmas-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
