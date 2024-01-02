@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 08:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 09:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MP3]]></title>
+            <link>https://poclanos.com/album/mp3/</link>
+            <guid>https://poclanos.com/album/mp3/</guid>
+            <pubDate>Tue, 02 Jan 2024 09:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-seshin-M3CHVNIC-MP3-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[See you tomorrow again]]></title>
             <link>https://poclanos.com/album/see-you-tomorrow-again/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 25 Dec 2023 03:11:06 GMT</pubDate>
             <content:encoded><![CDATA[공중그늘]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B3%B5%EC%A4%91%EA%B7%B8%EB%8A%98-%ED%97%A4%EC%97%84_%EC%9D%B4%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beautiful Pose For Stranger]]></title>
-            <link>https://poclanos.com/album/beautiful-pose-for-stranger/</link>
-            <guid>https://poclanos.com/album/beautiful-pose-for-stranger/</guid>
-            <pubDate>Sun, 24 Dec 2023 09:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[강]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/Cover_RGB-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
