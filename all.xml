@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 08:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Light my candle (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/light-my-candle/</link>
+            <guid>https://poclanos.com/album/light-my-candle/</guid>
+            <pubDate>Wed, 03 Jan 2024 09:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[yooji (유지)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8%EC%88%98%EC%A0%95-yooji-Light-my-candle-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해무 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%95%b4%eb%ac%b4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 26 Dec 2023 03:10:38 GMT</pubDate>
             <content:encoded><![CDATA[01SYNTH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98COVER_VISION_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[!,@,# And Shot! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/and-shot/</link>
-            <guid>https://poclanos.com/album/and-shot/</guid>
-            <pubDate>Mon, 25 Dec 2023 03:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[DumbAss]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-@_-And-Shot-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
