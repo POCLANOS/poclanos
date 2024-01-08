@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 02:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 03:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들쥐]]></title>
+            <link>https://poclanos.com/album/%eb%93%a4%ec%a5%90/</link>
+            <guid>https://poclanos.com/album/%eb%93%a4%ec%a5%90/</guid>
+            <pubDate>Mon, 08 Jan 2024 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[2단지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/2%EB%8B%A8%EC%A7%80-%EB%93%A4%EC%A5%90-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Limit]]></title>
+            <link>https://poclanos.com/album/no-limit/</link>
+            <guid>https://poclanos.com/album/no-limit/</guid>
+            <pubDate>Mon, 08 Jan 2024 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[J way]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-J-way-No-Limit-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Somewhere Somehow]]></title>
+            <link>https://poclanos.com/album/somewhere-somehow/</link>
+            <guid>https://poclanos.com/album/somewhere-somehow/</guid>
+            <pubDate>Mon, 08 Jan 2024 03:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-About-Paul-Somewhere-Somehow-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PoPoMo]]></title>
             <link>https://poclanos.com/album/popomo/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
             <content:encoded><![CDATA[PAX JAPONICA GROOVE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98-3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PAX-Nighttime-Rendering-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pick your poison]]></title>
-            <link>https://poclanos.com/album/pick-your-poison/</link>
-            <guid>https://poclanos.com/album/pick-your-poison/</guid>
-            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[Iris Kymm]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Iris-Kymm-Pick-your-poision-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야행]]></title>
-            <link>https://poclanos.com/album/%ec%95%bc%ed%96%89/</link>
-            <guid>https://poclanos.com/album/%ec%95%bc%ed%96%89/</guid>
-            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[미로 (miro)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%EC%95%BC%ED%96%89-%EC%BB%A4%EB%B2%84-3000-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[있을게]]></title>
-            <link>https://poclanos.com/album/%ec%9e%88%ec%9d%84%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%ec%9e%88%ec%9d%84%ea%b2%8c/</guid>
-            <pubDate>Thu, 28 Dec 2023 03:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[최원석]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EC%84%9D-%EC%9E%88%EC%9D%84%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
