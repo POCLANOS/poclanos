@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 02:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 03:14:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Make A Wish!]]></title>
+            <link>https://poclanos.com/album/make-a-wish/</link>
+            <guid>https://poclanos.com/album/make-a-wish/</guid>
+            <pubDate>Tue, 09 Jan 2024 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Various-Artists-Make-A-Wish-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일시적 사랑]]></title>
+            <link>https://poclanos.com/album/%ec%9d%bc%ec%8b%9c%ec%a0%81-%ec%82%ac%eb%9e%91/</link>
+            <guid>https://poclanos.com/album/%ec%9d%bc%ec%8b%9c%ec%a0%81-%ec%82%ac%eb%9e%91/</guid>
+            <pubDate>Tue, 09 Jan 2024 03:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[오한주]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%A4%ED%95%9C%EC%A3%BC-%EC%9D%BC%EC%8B%9C%EC%A0%81-%EC%82%AC%EB%9E%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들쥐]]></title>
             <link>https://poclanos.com/album/%eb%93%a4%ec%a5%90/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 30 Dec 2023 03:10:24 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EB%AC%B4%ED%99%94%EA%B3%BC-%EC%86%8C%EB%85%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르네에게 OST Part. 1]]></title>
-            <link>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-1/</link>
-            <guid>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-1/</guid>
-            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[오정훈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%A5%B4%EB%84%A4%EC%97%90%EA%B2%8C-OST-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nighttime Rendering]]></title>
-            <link>https://poclanos.com/album/nighttime-rendering/</link>
-            <guid>https://poclanos.com/album/nighttime-rendering/</guid>
-            <pubDate>Fri, 29 Dec 2023 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[PAX JAPONICA GROOVE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/%ED%81%AC%EA%B8%B0%EC%A1%B0%EC%A0%95-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98-3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PAX-Nighttime-Rendering-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
