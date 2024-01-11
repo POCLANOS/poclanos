@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 02:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 03:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놔둘테야 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%86%94%eb%91%98%ed%85%8c%ec%95%bc/</link>
+            <guid>https://poclanos.com/album/%eb%86%94%eb%91%98%ed%85%8c%ec%95%bc/</guid>
+            <pubDate>Thu, 11 Jan 2024 03:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[강민정 (minjeong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EB%AF%BC%EC%A0%95-%EB%86%94%EB%91%98%ED%85%8C%EC%95%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깊은 밤만 남아 있네요 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%eb%a7%8c-%eb%82%a8%ec%95%84-%ec%9e%88%eb%84%a4%ec%9a%94/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 Jan 2024 03:11:08 GMT</pubDate>
             <content:encoded><![CDATA[FunkySwat]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FunkySwat-God-Made-Me-Funky-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ruby (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ruby/</link>
-            <guid>https://poclanos.com/album/ruby/</guid>
-            <pubDate>Sun, 31 Dec 2023 03:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[Offing]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-Offing-Ruby-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
