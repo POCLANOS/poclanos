@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 08:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 09:13:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bedroom (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/bedroom/</link>
+            <guid>https://poclanos.com/album/bedroom/</guid>
+            <pubDate>Thu, 11 Jan 2024 09:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[Luka]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luka-Wondablo-Bedroom-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[놔둘테야 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%86%94%eb%91%98%ed%85%8c%ec%95%bc/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 Jan 2024 03:11:08 GMT</pubDate>
             <content:encoded><![CDATA[김일두]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-See-you-tomorrow-again-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[God Made Me Funky! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/god-made-me-funky/</link>
-            <guid>https://poclanos.com/album/god-made-me-funky/</guid>
-            <pubDate>Mon, 01 Jan 2024 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[FunkySwat]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FunkySwat-God-Made-Me-Funky-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
