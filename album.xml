@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 02:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 03:14:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시냇가]]></title>
+            <link>https://poclanos.com/album/%ec%8b%9c%eb%83%87%ea%b0%80/</link>
+            <guid>https://poclanos.com/album/%ec%8b%9c%eb%83%87%ea%b0%80/</guid>
+            <pubDate>Fri, 12 Jan 2024 03:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[생각의 여름]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%83%9D%EA%B0%81%EC%9D%98%EC%97%AC%EB%A6%84-%EC%8B%9C%EB%83%87%EA%B0%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bedroom]]></title>
             <link>https://poclanos.com/album/bedroom/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 02 Jan 2024 09:10:00 GMT</pubDate>
             <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-seshin-M3CHVNIC-MP3-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[See you tomorrow again]]></title>
-            <link>https://poclanos.com/album/see-you-tomorrow-again/</link>
-            <guid>https://poclanos.com/album/see-you-tomorrow-again/</guid>
-            <pubDate>Mon, 01 Jan 2024 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[김일두]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-See-you-tomorrow-again-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
