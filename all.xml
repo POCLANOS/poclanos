@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 02:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 03:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Lovers’ Waltz (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/a-lovers-waltz/</link>
+            <guid>https://poclanos.com/album/a-lovers-waltz/</guid>
+            <pubDate>Thu, 18 Jan 2024 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[서민아 (Minna Seo)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%9C%EB%AF%BC%EC%95%84Minna-Seo-A-Lovers-Waltz-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑놀이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%86%80%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%86%80%ec%9d%b4/</guid>
+            <pubDate>Thu, 18 Jan 2024 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[양치기소년단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8-%EC%82%AC%EB%9E%91%EB%86%80%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%98%81%ec%9b%90-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 07 Jan 2024 09:09:06 GMT</pubDate>
             <content:encoded><![CDATA[Hersh]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%BB%A4%EB%B2%84-JINBO-Hersh-PoPoMo-PoPoMo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조견 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b5%ac%ec%a1%b0%ea%b2%ac/</link>
-            <guid>https://poclanos.com/album/%ea%b5%ac%ec%a1%b0%ea%b2%ac/</guid>
-            <pubDate>Sun, 07 Jan 2024 03:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[유귀]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%BB%A4%EB%B2%84%EC%9C%A0%EA%B7%80-%EA%B5%AC%EC%A1%B0%EA%B2%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blind (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/blind-3/</link>
-            <guid>https://poclanos.com/album/blind-3/</guid>
-            <pubDate>Sat, 06 Jan 2024 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[테종]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Blind-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
