@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jan 2024 08:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jan 2024 09:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Outstagram (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/outstagram/</link>
+            <guid>https://poclanos.com/album/outstagram/</guid>
+            <pubDate>Wed, 24 Jan 2024 09:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[Bntz (빈티지)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Bntz-Outstagram-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비틀거리는 행복 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b9%84%ed%8b%80%ea%b1%b0%eb%a6%ac%eb%8a%94-%ed%96%89%eb%b3%b5/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jan 2024 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[강민정 (minjeong)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EB%AF%BC%EC%A0%95-%EB%86%94%EB%91%98%ED%85%8C%EC%95%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깊은 밤만 남아 있네요 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%eb%a7%8c-%eb%82%a8%ec%95%84-%ec%9e%88%eb%84%a4%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ea%b9%8a%ec%9d%80-%eb%b0%a4%eb%a7%8c-%eb%82%a8%ec%95%84-%ec%9e%88%eb%84%a4%ec%9a%94/</guid>
-            <pubDate>Wed, 10 Jan 2024 09:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[택우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%83%9D%EC%9A%B0-%EA%B9%8A%EC%9D%80-%EB%B0%A4%EB%A7%8C-%EB%82%A8%EC%95%84-%EC%9E%88%EB%84%A4%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
