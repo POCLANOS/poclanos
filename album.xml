@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 02:31:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 03:13:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지금 어디]]></title>
+            <link>https://poclanos.com/album/%ec%a7%80%ea%b8%88-%ec%96%b4%eb%94%94/</link>
+            <guid>https://poclanos.com/album/%ec%a7%80%ea%b8%88-%ec%96%b4%eb%94%94/</guid>
+            <pubDate>Thu, 25 Jan 2024 03:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[이나래]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%82%98%EB%9E%98-%EC%83%9D%EA%B0%81%EC%9D%B4-%EB%A7%8E%EC%95%84-%EC%83%9D%EA%B0%81%EC%9D%84-%ED%95%9C%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼자 남던 밤]]></title>
+            <link>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%eb%82%a8%eb%8d%98-%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%ed%98%bc%ec%9e%90-%eb%82%a8%eb%8d%98-%eb%b0%a4/</guid>
+            <pubDate>Thu, 25 Jan 2024 03:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[주태중]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A3%BC%ED%83%9C%EC%A4%91-%EB%B0%A4-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Outstagram]]></title>
             <link>https://poclanos.com/album/outstagram/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 12 Jan 2024 03:10:56 GMT</pubDate>
             <content:encoded><![CDATA[생각의 여름]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%83%9D%EA%B0%81%EC%9D%98%EC%97%AC%EB%A6%84-%EC%8B%9C%EB%83%87%EA%B0%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bedroom]]></title>
-            <link>https://poclanos.com/album/bedroom/</link>
-            <guid>https://poclanos.com/album/bedroom/</guid>
-            <pubDate>Thu, 11 Jan 2024 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[Luka]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luka-Wondablo-Bedroom-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놔둘테야]]></title>
-            <link>https://poclanos.com/album/%eb%86%94%eb%91%98%ed%85%8c%ec%95%bc/</link>
-            <guid>https://poclanos.com/album/%eb%86%94%eb%91%98%ed%85%8c%ec%95%bc/</guid>
-            <pubDate>Thu, 11 Jan 2024 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[강민정 (minjeong)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EB%AF%BC%EC%A0%95-%EB%86%94%EB%91%98%ED%85%8C%EC%95%BC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
