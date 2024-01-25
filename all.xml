@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 08:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 09:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dreams Never Come True (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dreams-never-come-true/</link>
+            <guid>https://poclanos.com/album/dreams-never-come-true/</guid>
+            <pubDate>Thu, 25 Jan 2024 09:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[Kirim]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kirim-Dreams-Never-Come-True-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 어디 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%a7%80%ea%b8%88-%ec%96%b4%eb%94%94/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 14 Jan 2024 09:09:43 GMT</pubDate>
             <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-%EB%82%9C-%EB%A9%9C%EB%A1%9C%EB%8A%94-%EC%9B%90%EB%9E%98-%EC%9E%AC%EB%AF%B8%EC%97%86%EB%8A%94-%EA%B1%B4-%EC%A4%84-%EC%95%8C%EC%95%98%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시냇가 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%8b%9c%eb%83%87%ea%b0%80/</link>
-            <guid>https://poclanos.com/album/%ec%8b%9c%eb%83%87%ea%b0%80/</guid>
-            <pubDate>Fri, 12 Jan 2024 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[생각의 여름]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%83%9D%EA%B0%81%EC%9D%98%EC%97%AC%EB%A6%84-%EC%8B%9C%EB%83%87%EA%B0%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
