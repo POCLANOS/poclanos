@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Jan 2024 02:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monthly Flower Project #1]]></title>
+            <link>https://poclanos.com/album/monthly-flower-project-1/</link>
+            <guid>https://poclanos.com/album/monthly-flower-project-1/</guid>
+            <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[장예지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-MAGIC-LILY-COVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Day]]></title>
+            <link>https://poclanos.com/album/happy-day/</link>
+            <guid>https://poclanos.com/album/happy-day/</guid>
+            <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[미로 (miro)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/Happy-Day-%EC%BB%A4%EB%B2%84-3300-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE IS EVERYWHERE]]></title>
+            <link>https://poclanos.com/album/love-is-everywhere/</link>
+            <guid>https://poclanos.com/album/love-is-everywhere/</guid>
+            <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[윤지영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%A7%80%EC%98%81-LOVE-IS-EVERYWHERE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Its Just A Joke, Please Don’t Be So Serious!]]></title>
             <link>https://poclanos.com/album/its-just-a-joke-please-dont-be-so-serious/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 18 Jan 2024 03:11:10 GMT</pubDate>
             <content:encoded><![CDATA[양치기소년단]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8-%EC%82%AC%EB%9E%91%EB%86%80%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원]]></title>
-            <link>https://poclanos.com/album/%ec%98%81%ec%9b%90-3/</link>
-            <guid>https://poclanos.com/album/%ec%98%81%ec%9b%90-3/</guid>
-            <pubDate>Wed, 17 Jan 2024 09:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[해서웨이 (Hathaw9y)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4-%EC%98%81%EC%9B%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5.5 [소년]]]></title>
-            <link>https://poclanos.com/album/5-5-%ec%86%8c%eb%85%84/</link>
-            <guid>https://poclanos.com/album/5-5-%ec%86%8c%eb%85%84/</guid>
-            <pubDate>Wed, 17 Jan 2024 09:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[10cm]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/10CM-5.5-%EC%86%8C%EB%85%84_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Do-gooder]]></title>
-            <link>https://poclanos.com/album/do-gooder/</link>
-            <guid>https://poclanos.com/album/do-gooder/</guid>
-            <pubDate>Wed, 17 Jan 2024 03:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[에몬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%BB%A4%EB%B2%84_%EC%97%90%EB%AA%AC%EC%8B%B1%EA%B8%801_Do-Gooder_%EC%B5%9C%EC%A2%85%EC%A0%84%EC%86%A13000-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
