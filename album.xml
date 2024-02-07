@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 02:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유언의 화단]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%ec%96%b8%ec%9d%98-%ed%99%94%eb%8b%a8/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%ec%96%b8%ec%9d%98-%ed%99%94%eb%8b%a8/</guid>
+            <pubDate>Wed, 07 Feb 2024 03:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[HWANJI (환지)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HWANJI-%ED%99%98%EC%A7%80-%EC%9C%A0%EC%96%B8%EC%9D%98-%ED%99%94%EB%8B%A8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What Can I Say?]]></title>
+            <link>https://poclanos.com/album/what-can-i-say/</link>
+            <guid>https://poclanos.com/album/what-can-i-say/</guid>
+            <pubDate>Wed, 07 Feb 2024 03:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[SOQI (소키)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%86%8C%ED%82%A4-What-Can-I-Say-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Memories Of You]]></title>
             <link>https://poclanos.com/album/memories-of-you/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 28 Jan 2024 03:09:47 GMT</pubDate>
             <content:encoded><![CDATA[DumbAss]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-Its-Just-A-Joke-Please-Dont-Be-So-Serious-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나,둘,셋 러브 (Original Soundtrack)]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%eb%82%98%eb%91%98%ec%85%8b-%eb%9f%ac%eb%b8%8c-original-soundtrack/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%eb%82%98%eb%91%98%ec%85%8b-%eb%9f%ac%eb%b8%8c-original-soundtrack/</guid>
-            <pubDate>Sat, 27 Jan 2024 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[김오키]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EB%82%98%EB%91%98%EC%85%8B%EB%9F%AC%EB%B8%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[in my room]]></title>
-            <link>https://poclanos.com/album/in-my-room/</link>
-            <guid>https://poclanos.com/album/in-my-room/</guid>
-            <pubDate>Fri, 26 Jan 2024 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[coldnight]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-in-my-room-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
