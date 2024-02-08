@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 02:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 03:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[INCENDIES]]></title>
+            <link>https://poclanos.com/album/incendies/</link>
+            <guid>https://poclanos.com/album/incendies/</guid>
+            <pubDate>Thu, 08 Feb 2024 03:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[지노아 (Jinoa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%EB%85%B8%EC%95%84Jinoa-INCENDIES-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metropolis / Retropolis]]></title>
+            <link>https://poclanos.com/album/metropolis-retropolis/</link>
+            <guid>https://poclanos.com/album/metropolis-retropolis/</guid>
+            <pubDate>Thu, 08 Feb 2024 03:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-Metropolis_Retropolis-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외로움엔 네가 좋겠어]]></title>
+            <link>https://poclanos.com/album/%ec%99%b8%eb%a1%9c%ec%9b%80%ec%97%94-%eb%84%a4%ea%b0%80-%ec%a2%8b%ea%b2%a0%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%99%b8%eb%a1%9c%ec%9b%80%ec%97%94-%eb%84%a4%ea%b0%80-%ec%a2%8b%ea%b2%a0%ec%96%b4/</guid>
+            <pubDate>Thu, 08 Feb 2024 03:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[몽글]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-cover-%EB%AA%BD%EA%B8%80-%EC%99%B8%EB%A1%9C%EC%9B%80%EC%97%94-%EB%84%A4%EA%B0%80-%EC%A2%8B%EA%B2%A0%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유언의 화단]]></title>
             <link>https://poclanos.com/album/%ec%9c%a0%ec%96%b8%ec%9d%98-%ed%99%94%eb%8b%a8/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
             <content:encoded><![CDATA[장예지]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-MAGIC-LILY-COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Day]]></title>
-            <link>https://poclanos.com/album/happy-day/</link>
-            <guid>https://poclanos.com/album/happy-day/</guid>
-            <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[미로 (miro)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/Happy-Day-%EC%BB%A4%EB%B2%84-3300-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE IS EVERYWHERE]]></title>
-            <link>https://poclanos.com/album/love-is-everywhere/</link>
-            <guid>https://poclanos.com/album/love-is-everywhere/</guid>
-            <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[윤지영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%A7%80%EC%98%81-LOVE-IS-EVERYWHERE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Its Just A Joke, Please Don’t Be So Serious!]]></title>
-            <link>https://poclanos.com/album/its-just-a-joke-please-dont-be-so-serious/</link>
-            <guid>https://poclanos.com/album/its-just-a-joke-please-dont-be-so-serious/</guid>
-            <pubDate>Sun, 28 Jan 2024 03:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[DumbAss]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-Its-Just-A-Joke-Please-Dont-Be-So-Serious-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
