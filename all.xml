@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Feb 2024 02:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Feb 2024 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nomad (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/nomad/</link>
+            <guid>https://poclanos.com/album/nomad/</guid>
+            <pubDate>Mon, 12 Feb 2024 03:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[TENGGER]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-Nomad-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INCENDIES (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/incendies/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 29 Jan 2024 09:11:21 GMT</pubDate>
             <content:encoded><![CDATA[VEIRDOS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-VEIRDOS-Bandage-Timing-Album-Jacket-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monthly Flower Project #1 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/monthly-flower-project-1/</link>
-            <guid>https://poclanos.com/album/monthly-flower-project-1/</guid>
-            <pubDate>Mon, 29 Jan 2024 03:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[장예지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-MAGIC-LILY-COVER-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
