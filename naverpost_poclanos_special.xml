@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 02:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 03:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Tue, 13 Feb 2024 03:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMjA2/MDAxNzA3MzY2NDI3NTQ4.ToVemnt4u6rCwdLdhrfMFAQIRUkH9GgBLk_YNzonMLgg.KGUL_Ngke_2iFRkOd1w6zBt3QHZrDHMGKk95k1zF1tMg.PNG/IeVqVl1U3SZeUfIz4gWa3DQgqNzM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“다양한 시선으로 만든 다양한 곡” 첫 정규앨범 발매한 오프더메뉴 인터뷰]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=36983533&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -159,14 +167,6 @@ M/V 비하인드 스토리]]></title>
             <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MDNfMjcy/MDAxNTg1ODg0Njk1MjE2.75wZZSkdKpgfHqOkNWkev2aVFv1NSttdiNe2J6bLKKog.K0CaLccZzxkm96wTIxQSmXS5PkYWqXhlKTBk4NrXSOkg.JPEG/InniLvsbzRUfKiNwoEsuwEuNxU6A.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] The Poles의 새 EP [We get, The Same] 비하인드]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27869138&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27869138&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDAzMzFfNTQg/MDAxNTg1NjIzOTkyOTY5.symzvhI4Adbm0Vl61Vg8ZnInHr_t8VzwF3kmTmpOIk8g.Gw8YBMK5NixNWn4fAjNY7GiMT7dEu3ut7TAAPLipA0kg.JPEG/ItZpY6hIRZX4K5kqI8xFCQHVIv34.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
