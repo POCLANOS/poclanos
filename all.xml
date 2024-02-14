@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 08:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 09:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여정 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%97%ac%ec%a0%95-2/</link>
+            <guid>https://poclanos.com/album/%ec%97%ac%ec%a0%95-2/</guid>
+            <pubDate>Wed, 14 Feb 2024 09:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[박기훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%B0%95%EA%B8%B0%ED%9B%88-%EC%97%AC%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spiritual 2 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/spiritual-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Feb 2024 03:11:12 GMT</pubDate>
             <content:encoded><![CDATA[archie]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%BB%A4%EB%B2%84-archie-here-this-is-happening-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어른이 된다는 것은 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%a5%b8%ec%9d%b4-%eb%90%9c%eb%8b%a4%eb%8a%94-%ea%b2%83%ec%9d%80/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%a5%b8%ec%9d%b4-%eb%90%9c%eb%8b%a4%eb%8a%94-%ea%b2%83%ec%9d%80/</guid>
-            <pubDate>Thu, 01 Feb 2024 03:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[유지희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
