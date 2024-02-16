@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 02:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 03:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023년 겨울부터 2024년 봄까지 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/2023%eb%85%84-%ea%b2%a8%ec%9a%b8%eb%b6%80%ed%84%b0-2024%eb%85%84-%eb%b4%84%ea%b9%8c%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/2023%eb%85%84-%ea%b2%a8%ec%9a%b8%eb%b6%80%ed%84%b0-2024%eb%85%84-%eb%b4%84%ea%b9%8c%ec%a7%80/</guid>
+            <pubDate>Fri, 16 Feb 2024 03:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[이진욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A7%84%EC%9A%B1-2023%EB%85%84-%EA%B2%A8%EC%9A%B8%EB%B6%80%ED%84%B0-2024%EB%85%84-%EB%B4%84%EA%B9%8C%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unfair (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/unfair/</link>
+            <guid>https://poclanos.com/album/unfair/</guid>
+            <pubDate>Fri, 16 Feb 2024 03:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[Maalib]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Maalib-Unfair-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우린 없지만 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%b0-%ec%97%86%ec%a7%80%eb%a7%8c/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 05 Feb 2024 03:11:07 GMT</pubDate>
             <content:encoded><![CDATA[HOHYUN]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84HOHYUNSonny-Zero-Not-Complicated-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wandering (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/wandering/</link>
-            <guid>https://poclanos.com/album/wandering/</guid>
-            <pubDate>Sun, 04 Feb 2024 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[Iris Kymm]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Iris-Kymm-The-asianic-Wandering-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[deep sleep (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/deep-sleep/</link>
-            <guid>https://poclanos.com/album/deep-sleep/</guid>
-            <pubDate>Sat, 03 Feb 2024 09:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[깃임]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-deep-sleep-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
