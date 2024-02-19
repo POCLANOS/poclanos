@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 05:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 06:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Overcast (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/overcast/</link>
+            <guid>https://poclanos.com/album/overcast/</guid>
+            <pubDate>Mon, 19 Feb 2024 06:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[Mabinc]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/Overcast_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Neom 0541 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/neom-0541/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 07 Feb 2024 03:11:21 GMT</pubDate>
             <content:encoded><![CDATA[SOQI (소키)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%86%8C%ED%82%A4-What-Can-I-Say-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Memories Of You (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/memories-of-you/</link>
-            <guid>https://poclanos.com/album/memories-of-you/</guid>
-            <pubDate>Tue, 06 Feb 2024 03:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98COVER_Memories_Of_You_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
