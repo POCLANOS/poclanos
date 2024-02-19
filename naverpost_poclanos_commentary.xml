@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 포크라노스 코멘터리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 02:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Mon, 19 Feb 2024 03:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=30189493&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 01 May 2023 12:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjFfMjU3/MDAxNTk1MzE2NzMxOTk0.uhiH56xwU6a2UF3gUlmHnuO8DxY1H3m8n74YLPjaNTog.qr8uCH4LLut1WLbfS3OPeF-3gDtcEVUDC1Hv77Scp90g.JPEG/IClyNCGk4ormvkpwUzoTs07Q5I7k.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 얼굴은 언제나 환영이야! - Hippo, Mongaif 외]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28820720&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28820720&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfNiAg/MDAxNTk0OTUyMjk4OTY1.tgUnG6cja7HOw60SqIQYTwZ_56iX-GZiVC6mouVK-vcg.vUJn32itTqGc7sHyBtrtyZPIls5TnHnlQOXG--OzgcMg.JPEG/I1iG2qXtZF1Hm6_0wdilWrs6XnFo.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

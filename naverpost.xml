@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 02:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 03:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 19 Feb 2024 03:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /비공정 첫 EP [Neom 0541] title 'Unreal' MV 촬영기 ARTIST | 비공정 ALBUM | Neom 0541 비공정은 ‘그럼에도 불구하고’ 희망을 향해 키를 잡고자 하는 이들의 이야기를 노래하는 5인조 밴드다. 판···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[Q&amp;A INTERVIEW / ask the artist: 안다영 Ahn Dayoung좋아하는 뮤지션의 모든 이야기가 궁금하곤 합니다. 직접 물어볼 수도, 흘러와 들을 수도 없는 질문들을 모아보고 싶었습니다. 음악을 하는 이와 듣는 이 서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMjVfMjUg/MDAxNjA2Mjk1NTA4OTIw.gwgPKnTj4YfWgnTvAUduQfHNm8s4zO_SjZZP5XjrihYg.IZY0gY8za_XNRLSrRZZ_LtFDwWepRa0hMc0XcrFhpNUg.JPEG/Inp_EMbXxXXfquSYDwfX-Jdhh9pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Bonus Track] 이루리 – Let Me Dive Into This Moment]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=29995875&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=29995875&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[시간도 제한되어 있고 무엇보다 앨범이 주인공인 행사이다 보니 근황이나 개인적인 이야기는 묻지 않을 예정인데요. 그래도 앨범에 관한 이야기이니 탄생하게 된 과정부터 들어야겠죠. 우선 두 번째 EP이신데요, 사···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMTJfMTkg/MDAxNjA1MTU0MDIwMzU1._HtLavsA3l3ybZSo29ajADis6k5IYQ2UV8r-1MYhERog.Er8h3slGXrw-HPFn5DXGiYN_tB6UUrQlZvq37ryTzM8g.JPEG/IWOmMqjL8RBrQSwjR9XasXrSJe8I.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
