@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 02:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 03:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안경 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%88%ea%b2%bd/</link>
+            <guid>https://poclanos.com/album/%ec%95%88%ea%b2%bd/</guid>
+            <pubDate>Tue, 20 Feb 2024 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[damduck]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-damduck-%EC%95%88%EA%B2%BD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fallen Angel (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/fallen-angel/</link>
+            <guid>https://poclanos.com/album/fallen-angel/</guid>
+            <pubDate>Tue, 20 Feb 2024 03:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Fallen-Angel-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Neom 0541 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/neom-0541/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 07 Feb 2024 03:11:21 GMT</pubDate>
             <content:encoded><![CDATA[HWANJI (환지)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HWANJI-%ED%99%98%EC%A7%80-%EC%9C%A0%EC%96%B8%EC%9D%98-%ED%99%94%EB%8B%A8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What Can I Say? (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/what-can-i-say/</link>
-            <guid>https://poclanos.com/album/what-can-i-say/</guid>
-            <pubDate>Wed, 07 Feb 2024 03:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[SOQI (소키)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SOQI-%EC%86%8C%ED%82%A4-What-Can-I-Say-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Memories Of You (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/memories-of-you/</link>
-            <guid>https://poclanos.com/album/memories-of-you/</guid>
-            <pubDate>Tue, 20 Feb 2024 01:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/01/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98COVER_Memories_Of_You_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
