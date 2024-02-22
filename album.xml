@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 02:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Green Bird]]></title>
+            <link>https://poclanos.com/album/green-bird/</link>
+            <guid>https://poclanos.com/album/green-bird/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[muun]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-muun-Green-Bird-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A Warm Winter]]></title>
+            <link>https://poclanos.com/album/a-warm-winter/</link>
+            <guid>https://poclanos.com/album/a-warm-winter/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[스웨터]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%EC%9B%A8%ED%84%B0-A-Warm-Winter-3000x3000-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 밤은 또 이렇게 지나가요]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%9d%80-%eb%98%90-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%a7%80%eb%82%98%ea%b0%80%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%9d%80-%eb%98%90-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ec%a7%80%eb%82%98%ea%b0%80%ec%9a%94/</guid>
+            <pubDate>Thu, 22 Feb 2024 03:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[Mabinc]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-Mabinc-%EC%9D%B4-%EB%B0%A4%EC%9D%80-%EB%98%90-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%A7%80%EB%82%98%EA%B0%80%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼굴]]></title>
             <link>https://poclanos.com/album/%ec%96%bc%ea%b5%b4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 14 Feb 2024 03:11:41 GMT</pubDate>
             <content:encoded><![CDATA[TENGGER]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-TENGGER-Spiritual-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타협점과 침묵과 집]]></title>
-            <link>https://poclanos.com/album/%ed%83%80%ed%98%91%ec%a0%90%ea%b3%bc-%ec%b9%a8%eb%ac%b5%ea%b3%bc-%ec%a7%91/</link>
-            <guid>https://poclanos.com/album/%ed%83%80%ed%98%91%ec%a0%90%ea%b3%bc-%ec%b9%a8%eb%ac%b5%ea%b3%bc-%ec%a7%91/</guid>
-            <pubDate>Tue, 13 Feb 2024 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[최제니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A0%9C%EB%8B%88-%ED%83%80%ED%98%91%EC%A0%90%EA%B3%BC-%EC%B9%A8%EB%AC%B5%EA%B3%BC-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모으는 사람]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%ec%9c%bc%eb%8a%94-%ec%82%ac%eb%9e%8c/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%ec%9c%bc%eb%8a%94-%ec%82%ac%eb%9e%8c/</guid>
-            <pubDate>Tue, 13 Feb 2024 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[에몬(Emon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98Emon_%EB%AA%A8%EC%9C%BC%EB%8A%94%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dr. Happiness]]></title>
-            <link>https://poclanos.com/album/dr-happiness/</link>
-            <guid>https://poclanos.com/album/dr-happiness/</guid>
-            <pubDate>Mon, 12 Feb 2024 09:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[박문치]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EB%B0%95%EB%AC%B8%EC%B9%98-Dr.-Happiness_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
