@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 02:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 03:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dear My Love]]></title>
+            <link>https://poclanos.com/album/dear-my-love/</link>
+            <guid>https://poclanos.com/album/dear-my-love/</guid>
+            <pubDate>Tue, 27 Feb 2024 03:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[신윤철]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%9C%A4%EC%B2%A0-Dear-My-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lotus]]></title>
+            <link>https://poclanos.com/album/lotus/</link>
+            <guid>https://poclanos.com/album/lotus/</guid>
+            <pubDate>Tue, 27 Feb 2024 03:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/Lotus_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Again i love you]]></title>
             <link>https://poclanos.com/album/again-i-love-you/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 20 Feb 2024 03:10:08 GMT</pubDate>
             <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Fallen-Angel-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neom 0541]]></title>
-            <link>https://poclanos.com/album/neom-0541/</link>
-            <guid>https://poclanos.com/album/neom-0541/</guid>
-            <pubDate>Mon, 19 Feb 2024 03:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[비공정]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EB%B9%84%EA%B3%B5%EC%A0%95-Neom-0541-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bones And Wheels]]></title>
-            <link>https://poclanos.com/album/bones-and-wheels/</link>
-            <guid>https://poclanos.com/album/bones-and-wheels/</guid>
-            <pubDate>Mon, 19 Feb 2024 03:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[에로틱웜즈익스히비션]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Bones-And-Wheels-Artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
