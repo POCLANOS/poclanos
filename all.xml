@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 06:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -4243,6 +4243,14 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 27 Feb 2024 06:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[INTERVIEW /첫 번째 정규 앨범으로한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 한국대중음악상 시상식이 얼마 남지 않았다. 총 3개 분야, 26개 부문에 해당하는 시상식에 어김없이 많은 후보가 이름을 올렸다. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</guid>
@@ -4394,12 +4402,12 @@
             <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FyAuqzo_V53c%2F0.jpg%22&type=fb500_195" length="0" type="image//"/>
         </item>
         <item>
-            <title><![CDATA[[Q. and A.] ask the artist: 안다영 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30066104&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30066104&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[Q&amp;A INTERVIEW / ask the artist: 안다영 Ahn Dayoung좋아하는 뮤지션의 모든 이야기가 궁금하곤 합니다. 직접 물어볼 수도, 흘러와 들을 수도 없는 질문들을 모아보고 싶었습니다. 음악을 하는 이와 듣는 이 서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMjVfMjUg/MDAxNjA2Mjk1NTA4OTIw.gwgPKnTj4YfWgnTvAUduQfHNm8s4zO_SjZZP5XjrihYg.IZY0gY8za_XNRLSrRZZ_LtFDwWepRa0hMc0XcrFhpNUg.JPEG/Inp_EMbXxXXfquSYDwfX-Jdhh9pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+            <title><![CDATA[첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Tue, 27 Feb 2024 06:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불안이라는 무기, JOONIE 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -4552,14 +4560,6 @@
             <pubDate>Mon, 01 May 2023 12:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjJfMjYz/MDAxNTg3NTIwMTk4NDEz.ed7aXjZl80sHzENZ4tU3cNvU9FVDZj98KR2UHXcfHQcg.AASD1bTIDZzZzhj43b4ccZM1US-0s2XTyi_9JPVKR6og.JPEG/Ihd1Ra7XO1zrXyTLTzCGSxur5Wgk.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MUSICIAN'S TMI] Offing, 윤지영, Jade (POCLANOS ─ 포크라노스 인터뷰)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28080822&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28080822&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MjRfMjY3/MDAxNTg3NzE1OTc0MTQz.QLAMJXvSZco734R1bismY4OLjY8CuWIt-K4B-KQ6DOIg.tUgCl2s6crX4XUirzHzfBvUe7H-T-s4gxUzn7WR-XZIg.PNG/ICFSao_YxfC6HM-JjnIAFQpVdMuc.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon) (POCLANOS ─ 뮤직스페셜)]]></title>

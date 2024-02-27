@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 06:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 27 Feb 2024 06:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[INTERVIEW /첫 번째 정규 앨범으로한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 한국대중음악상 시상식이 얼마 남지 않았다. 총 3개 분야, 26개 부문에 해당하는 시상식에 어김없이 많은 후보가 이름을 올렸다. ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[&lt;우연히, 어쩌다, 얻어걸린 멋진 음악을 듣다가 함께 들으면 더 좋은 노래들까지 소개합니다&gt;아침에 집을 나설때면 하루아침만에 달라진 공기의 온도로 계절이 바뀐 걸 온몸으로 느끼는 순간이 있다. 요즘처럼···]]></content:encoded>
             <enclosure url="https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fi.ytimg.com%2Fvi%2FyAuqzo_V53c%2F0.jpg%22&type=fb500_195" length="0" type="image//"/>
-        </item>
-        <item>
-            <title><![CDATA[[Q. and A.] ask the artist: 안다영]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=30066104&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=30066104&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[Q&amp;A INTERVIEW / ask the artist: 안다영 Ahn Dayoung좋아하는 뮤지션의 모든 이야기가 궁금하곤 합니다. 직접 물어볼 수도, 흘러와 들을 수도 없는 질문들을 모아보고 싶었습니다. 음악을 하는 이와 듣는 이 서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMjVfMjUg/MDAxNjA2Mjk1NTA4OTIw.gwgPKnTj4YfWgnTvAUduQfHNm8s4zO_SjZZP5XjrihYg.IZY0gY8za_XNRLSrRZZ_LtFDwWepRa0hMc0XcrFhpNUg.JPEG/Inp_EMbXxXXfquSYDwfX-Jdhh9pg.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
