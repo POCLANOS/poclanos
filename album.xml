@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 02:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 03:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[320]]></title>
+            <link>https://poclanos.com/album/320/</link>
+            <guid>https://poclanos.com/album/320/</guid>
+            <pubDate>Wed, 28 Feb 2024 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[조종근]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-320-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보여줘!]]></title>
+            <link>https://poclanos.com/album/%eb%b3%b4%ec%97%ac%ec%a4%98/</link>
+            <guid>https://poclanos.com/album/%eb%b3%b4%ec%97%ac%ec%a4%98/</guid>
+            <pubDate>Wed, 28 Feb 2024 03:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[김마리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%A7%88%EB%A6%AC-%EB%B3%B4%EC%97%AC%EC%A4%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dear My Love]]></title>
             <link>https://poclanos.com/album/dear-my-love/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 20 Feb 2024 09:09:49 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-Natural-I-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안경]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%ea%b2%bd/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%ea%b2%bd/</guid>
-            <pubDate>Tue, 20 Feb 2024 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[damduck]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-damduck-%EC%95%88%EA%B2%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fallen Angel]]></title>
-            <link>https://poclanos.com/album/fallen-angel/</link>
-            <guid>https://poclanos.com/album/fallen-angel/</guid>
-            <pubDate>Tue, 20 Feb 2024 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[Shyloh (샤일로)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Shyloh-%EC%83%A4%EC%9D%BC%EB%A1%9C-Fallen-Angel-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
