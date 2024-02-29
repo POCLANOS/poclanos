@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 08:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 09:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑해 주세요 그리고 버려요 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%b4-%ec%a3%bc%ec%84%b8%ec%9a%94-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%b2%84%eb%a0%a4%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%95%b4-%ec%a3%bc%ec%84%b8%ec%9a%94-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%eb%b2%84%eb%a0%a4%ec%9a%94/</guid>
+            <pubDate>Thu, 29 Feb 2024 09:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[김사월]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외등 503 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%99%b8%eb%93%b1-503/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 21 Feb 2024 09:11:47 GMT</pubDate>
             <content:encoded><![CDATA[이고도]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EA%B3%A0%EB%8F%84-%EC%96%BC%EA%B5%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르네에게 OST Part. 2 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-2/</link>
-            <guid>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%97%90%ea%b2%8c-ost-part-2/</guid>
-            <pubDate>Wed, 21 Feb 2024 03:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[모노제이]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/3.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%A5%B4%EB%84%A4%EC%97%90%EA%B2%8COSTpt2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
