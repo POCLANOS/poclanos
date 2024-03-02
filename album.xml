@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Mar 2024 02:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Mar 2024 03:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1 to 10 (Piece 2)]]></title>
+            <link>https://poclanos.com/album/1-to-10-piece-2/</link>
+            <guid>https://poclanos.com/album/1-to-10-piece-2/</guid>
+            <pubDate>Sat, 02 Mar 2024 03:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club-1-to-10-Piece-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술대 Valse]]></title>
             <link>https://poclanos.com/album/%ec%88%a0%eb%8c%80-valse/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Feb 2024 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[ONENESS]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-Golden-Hour-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green Bird]]></title>
-            <link>https://poclanos.com/album/green-bird/</link>
-            <guid>https://poclanos.com/album/green-bird/</guid>
-            <pubDate>Thu, 22 Feb 2024 03:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[muun]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-muun-Green-Bird-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
