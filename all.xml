@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Mar 2024 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[One for the what. (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/one-for-the-what/</link>
+            <guid>https://poclanos.com/album/one-for-the-what/</guid>
+            <pubDate>Tue, 05 Mar 2024 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-One-for-the-what-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침을 꼴딱 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b9%a8%ec%9d%84-%ea%bc%b4%eb%94%b1/</link>
+            <guid>https://poclanos.com/album/%ec%b9%a8%ec%9d%84-%ea%bc%b4%eb%94%b1/</guid>
+            <pubDate>Tue, 05 Mar 2024 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[김오키]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%98%A4%ED%82%A4-%EC%B9%A8%EC%9D%84-%EA%BC%B4%EB%94%B1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heavy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/heavy/</link>
+            <guid>https://poclanos.com/album/heavy/</guid>
+            <pubDate>Tue, 05 Mar 2024 03:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[서현수]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%9C%ED%98%84%EC%88%98-Heavy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여우지만 곰입니다 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%97%ac%ec%9a%b0%ec%a7%80%eb%a7%8c-%ea%b3%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 26 Feb 2024 03:11:08 GMT</pubDate>
             <content:encoded><![CDATA[Jettoyz]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%84%ED%99%94%ED%95%98%EC%A7%80-%EB%A7%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리타임 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%80%eb%a6%ac%ed%83%80%ec%9e%84/</link>
-            <guid>https://poclanos.com/album/%ed%99%80%eb%a6%ac%ed%83%80%ec%9e%84/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[김일두]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%ED%99%80%EB%A6%AC%ED%83%80%EC%9E%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Image #4 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/image-4/</link>
-            <guid>https://poclanos.com/album/image-4/</guid>
-            <pubDate>Sun, 25 Feb 2024 09:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[까데호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-Image-_4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/moon-2/</link>
-            <guid>https://poclanos.com/album/moon-2/</guid>
-            <pubDate>Sat, 24 Feb 2024 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[이르다 (irda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A5%B4%EB%8B%A4irda_Moon-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
