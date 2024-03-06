@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 02:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 03:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오뉴뉴슈퍼월드 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%98%a4%eb%89%b4%eb%89%b4%ec%8a%88%ed%8d%bc%ec%9b%94%eb%93%9c/</link>
+            <guid>https://poclanos.com/album/%ec%98%a4%eb%89%b4%eb%89%b4%ec%8a%88%ed%8d%bc%ec%9b%94%eb%93%9c/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[오열 (OYEOL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%97%B4-%EC%98%A4%EB%89%B4%EB%89%B4%EC%8A%88%ED%8D%BC%EC%9B%94%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two Lovers (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/two-lovers/</link>
+            <guid>https://poclanos.com/album/two-lovers/</guid>
+            <pubDate>Wed, 06 Mar 2024 03:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[onthedal]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-onthedal-%EB%B0%95%ED%95%9C-Two-Lovers-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[One for the what. (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/one-for-the-what/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 27 Feb 2024 03:11:15 GMT</pubDate>
             <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/Lotus_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Again i love you (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/again-i-love-you/</link>
-            <guid>https://poclanos.com/album/again-i-love-you/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[김일두]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%EC%A7%84%EC%88%98%EC%98%81-Again-i-love-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전화하지 마 (Remix) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a0%84%ed%99%94%ed%95%98%ec%a7%80-%eb%a7%88-remix/</link>
-            <guid>https://poclanos.com/album/%ec%a0%84%ed%99%94%ed%95%98%ec%a7%80-%eb%a7%88-remix/</guid>
-            <pubDate>Mon, 26 Feb 2024 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[Jettoyz]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%84%ED%99%94%ED%95%98%EC%A7%80-%EB%A7%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
