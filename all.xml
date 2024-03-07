@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 03:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 04:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://poclanos.com/album/hanami/</link>
             <guid>https://poclanos.com/album/hanami/</guid>
             <pubDate>Thu, 07 Mar 2024 03:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[HANAMI]]></content:encoded>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98COVER_HANAMI_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
