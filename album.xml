@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 02:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 03:14:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Celebrate]]></title>
+            <link>https://poclanos.com/album/celebrate/</link>
+            <guid>https://poclanos.com/album/celebrate/</guid>
+            <pubDate>Wed, 13 Mar 2024 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Celebrate-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[table #2]]></title>
+            <link>https://poclanos.com/album/table-2/</link>
+            <guid>https://poclanos.com/album/table-2/</guid>
+            <pubDate>Wed, 13 Mar 2024 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/04.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-table-_2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광합성]]></title>
             <link>https://poclanos.com/album/%ea%b4%91%ed%95%a9%ec%84%b1/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 04 Mar 2024 03:44:05 GMT</pubDate>
             <content:encoded><![CDATA[이고도]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EA%B3%A0%EB%8F%84-%EC%83%81%EA%B2%AC%EB%8B%88%E6%83%B3%E8%A6%8B%E4%BD%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nuclear Girl]]></title>
-            <link>https://poclanos.com/album/nuclear-girl/</link>
-            <guid>https://poclanos.com/album/nuclear-girl/</guid>
-            <pubDate>Sun, 03 Mar 2024 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[동경버튼]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EB%8F%99%EA%B2%BD%EB%B2%84%ED%8A%BC-Nuclear-Girl-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1 to 10 (Piece 2)]]></title>
-            <link>https://poclanos.com/album/1-to-10-piece-2/</link>
-            <guid>https://poclanos.com/album/1-to-10-piece-2/</guid>
-            <pubDate>Sat, 02 Mar 2024 03:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club-1-to-10-Piece-2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
