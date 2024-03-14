@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 02:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 03:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Loner Lover (還好有人跟我一樣) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/loner-lover-%e9%82%84%e5%a5%bd%e6%9c%89%e4%ba%ba%e8%b7%9f%e6%88%91%e4%b8%80%e6%a8%a3/</link>
+            <guid>https://poclanos.com/album/loner-lover-%e9%82%84%e5%a5%bd%e6%9c%89%e4%ba%ba%e8%b7%9f%e6%88%91%e4%b8%80%e6%a8%a3/</guid>
+            <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[Sweet John (甜約翰)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-Sweet-John-%E7%94%9C%E7%B4%84%E7%BF%B0-Loner-Lover-%E9%82%84%E5%A5%BD%E6%9C%89%E4%BA%BA%E8%B7%9F%E6%88%91%E4%B8%80%E6%A8%A3-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give It To Me (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/give-it-to-me/</link>
+            <guid>https://poclanos.com/album/give-it-to-me/</guid>
+            <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[Dolphin Pants Brothers]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98dpb_giveittome-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Celebrate (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/celebrate/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 05 Mar 2024 03:10:47 GMT</pubDate>
             <content:encoded><![CDATA[서현수]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%9C%ED%98%84%EC%88%98-Heavy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여우지만 곰입니다 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%ec%9a%b0%ec%a7%80%eb%a7%8c-%ea%b3%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%ec%9a%b0%ec%a7%80%eb%a7%8c-%ea%b3%b0%ec%9e%85%eb%8b%88%eb%8b%a4/</guid>
-            <pubDate>Mon, 04 Mar 2024 03:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[Foxyb34r (폭시베어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-Foxyb34r-%ED%8F%AD%EC%8B%9C%EB%B2%A0%EC%96%B4-%EC%97%AC%EC%9A%B0%EC%A7%80%EB%A7%8C-%EA%B3%B0%EC%9E%85%EB%8B%88%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상견니(想見你) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%81%ea%b2%ac%eb%8b%88%e6%83%b3%e8%a6%8b%e4%bd%a0/</link>
-            <guid>https://poclanos.com/album/%ec%83%81%ea%b2%ac%eb%8b%88%e6%83%b3%e8%a6%8b%e4%bd%a0/</guid>
-            <pubDate>Mon, 04 Mar 2024 03:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[이고도]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EA%B3%A0%EB%8F%84-%EC%83%81%EA%B2%AC%EB%8B%88%E6%83%B3%E8%A6%8B%E4%BD%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
