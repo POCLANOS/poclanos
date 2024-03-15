@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 02:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 03:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dream]]></title>
+            <link>https://poclanos.com/album/dream-3/</link>
+            <guid>https://poclanos.com/album/dream-3/</guid>
+            <pubDate>Fri, 15 Mar 2024 03:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[Sunsat]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-Dream-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 아니길]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%ec%95%84%eb%8b%88%ea%b8%b8/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%ec%95%84%eb%8b%88%ea%b8%b8/</guid>
+            <pubDate>Fri, 15 Mar 2024 03:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[민 (Mean)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC-Mean-%EC%82%AC%EB%9E%91%EC%9D%80-%EC%95%84%EB%8B%88%EA%B8%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rose]]></title>
+            <link>https://poclanos.com/album/rose/</link>
+            <guid>https://poclanos.com/album/rose/</guid>
+            <pubDate>Fri, 15 Mar 2024 03:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[ffpp]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-dpb_giveittome-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹어버리자]]></title>
             <link>https://poclanos.com/album/%eb%a8%b9%ec%96%b4%eb%b2%84%eb%a6%ac%ec%9e%90/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 06 Mar 2024 03:10:37 GMT</pubDate>
             <content:encoded><![CDATA[오열 (OYEOL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%97%B4-%EC%98%A4%EB%89%B4%EB%89%B4%EC%8A%88%ED%8D%BC%EC%9B%94%EB%93%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two Lovers]]></title>
-            <link>https://poclanos.com/album/two-lovers/</link>
-            <guid>https://poclanos.com/album/two-lovers/</guid>
-            <pubDate>Wed, 06 Mar 2024 03:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[onthedal]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-onthedal-%EB%B0%95%ED%95%9C-Two-Lovers-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One for the what.]]></title>
-            <link>https://poclanos.com/album/one-for-the-what/</link>
-            <guid>https://poclanos.com/album/one-for-the-what/</guid>
-            <pubDate>Tue, 05 Mar 2024 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[ONENESS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-One-for-the-what-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침을 꼴딱]]></title>
-            <link>https://poclanos.com/album/%ec%b9%a8%ec%9d%84-%ea%bc%b4%eb%94%b1/</link>
-            <guid>https://poclanos.com/album/%ec%b9%a8%ec%9d%84-%ea%bc%b4%eb%94%b1/</guid>
-            <pubDate>Tue, 05 Mar 2024 03:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[김오키]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%98%A4%ED%82%A4-%EC%B9%A8%EC%9D%84-%EA%BC%B4%EB%94%B1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
