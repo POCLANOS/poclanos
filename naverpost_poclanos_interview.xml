@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 포크라노스 인터뷰</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 02:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 03:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국대중음악상 최우수 알앤비&소울 음반수상 기념 Jerd (저드) 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Thu, 21 Mar 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTlfNTEg/MDAxNzEwODIxMTg1OTIz.qEO-cF3A_fkYMy1PolV-Q1QSU2TeZ-WCLNxZtsWOgW0g.hno9imDkHtf22_lkm26_oCTSiK7lYrRvL9XPI9W2KPYg.JPEG/IV3q6ngp3T7Nh5OyiTOnzfE9qOTM.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리스너에서 아티스트까지, ‘요’ 정규 1집 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37399341&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 14 Nov 2022 22:15:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTNfMTg4/MDAxNTk0NjExMTUzNDI3.5loy_ray7KCMMGP_yhsdLgYXj--XSEa-fPnem1msP3Mg.ZFqOuRKRBuvCS8Sb6feVQArkklIJHgLAZxz2mYNXdUMg.JPEG/IDimhGhRwafSx_9_pPhH_0BQ7oMA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 이설아의 처음, [네가 곁에 있었으면 해]]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=28299098&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=28299098&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Nov 2022 22:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MThfMjk4/MDAxNTg5NzY2OTY4MDM0.iZurU0bqOdRCuvbcm6Ak2YO6Zvg-Pa9Lvnd9OKPtmAgg.g0FgCA1xniWFxziejweZujglAgEIeUHrVhV2pw-TYNYg.JPEG/I6cqKN8IY_bTWA0QUg_I046TDMg8.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
