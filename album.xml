@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 08:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 09:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑형]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%98%95/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%98%95/</guid>
+            <pubDate>Thu, 21 Mar 2024 09:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EC%82%AC%EB%9E%91%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈 먼 사랑 (feat. 정우)]]></title>
             <link>https://poclanos.com/album/%eb%88%88-%eb%a8%bc-%ec%82%ac%eb%9e%91-feat-%ec%a0%95%ec%9a%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
             <content:encoded><![CDATA[Dolphin Pants Brothers]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98dpb_giveittome-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrate]]></title>
-            <link>https://poclanos.com/album/celebrate/</link>
-            <guid>https://poclanos.com/album/celebrate/</guid>
-            <pubDate>Wed, 13 Mar 2024 03:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Celebrate-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
