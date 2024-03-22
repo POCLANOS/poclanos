@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 02:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 03:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[369]]></title>
+            <link>https://poclanos.com/album/369/</link>
+            <guid>https://poclanos.com/album/369/</guid>
+            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[Kofey (李克非)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-cover-%E6%9D%8E%E5%85%8B%E9%9D%9E-369-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Flower Project #3]]></title>
+            <link>https://poclanos.com/album/monthly-flower-project-3/</link>
+            <guid>https://poclanos.com/album/monthly-flower-project-3/</guid>
+            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[PERC%NT]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PERCNT-Platanus-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEBUGGING]]></title>
+            <link>https://poclanos.com/album/debugging/</link>
+            <guid>https://poclanos.com/album/debugging/</guid>
+            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[Youzu]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-Youzu-DEBUGGING-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Too Dark To Glow (feat. Dbo)]]></title>
+            <link>https://poclanos.com/album/too-dark-to-glow-feat-dbo/</link>
+            <guid>https://poclanos.com/album/too-dark-to-glow-feat-dbo/</guid>
+            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/Too-Dark-To-Glow-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑형]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ed%98%95/</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 15 Mar 2024 03:12:16 GMT</pubDate>
             <content:encoded><![CDATA[민 (Mean)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC-Mean-%EC%82%AC%EB%9E%91%EC%9D%80-%EC%95%84%EB%8B%88%EA%B8%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rose]]></title>
-            <link>https://poclanos.com/album/rose/</link>
-            <guid>https://poclanos.com/album/rose/</guid>
-            <pubDate>Fri, 15 Mar 2024 03:12:16 GMT</pubDate>
-            <content:encoded><![CDATA[ffpp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-dpb_giveittome-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹어버리자]]></title>
-            <link>https://poclanos.com/album/%eb%a8%b9%ec%96%b4%eb%b2%84%eb%a6%ac%ec%9e%90/</link>
-            <guid>https://poclanos.com/album/%eb%a8%b9%ec%96%b4%eb%b2%84%eb%a6%ac%ec%9e%90/</guid>
-            <pubDate>Thu, 14 Mar 2024 09:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EB%A8%B9%EC%96%B4%EB%B2%84%EB%A6%AC%EC%9E%90-%EC%A0%95%EC%83%88%EB%B2%BD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Loner Lover (還好有人跟我一樣)]]></title>
-            <link>https://poclanos.com/album/loner-lover-%e9%82%84%e5%a5%bd%e6%9c%89%e4%ba%ba%e8%b7%9f%e6%88%91%e4%b8%80%e6%a8%a3/</link>
-            <guid>https://poclanos.com/album/loner-lover-%e9%82%84%e5%a5%bd%e6%9c%89%e4%ba%ba%e8%b7%9f%e6%88%91%e4%b8%80%e6%a8%a3/</guid>
-            <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[Sweet John (甜約翰)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-Sweet-John-%E7%94%9C%E7%B4%84%E7%BF%B0-Loner-Lover-%E9%82%84%E5%A5%BD%E6%9C%89%E4%BA%BA%E8%B7%9F%E6%88%91%E4%B8%80%E6%A8%A3-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Give It To Me]]></title>
-            <link>https://poclanos.com/album/give-it-to-me/</link>
-            <guid>https://poclanos.com/album/give-it-to-me/</guid>
-            <pubDate>Thu, 14 Mar 2024 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[Dolphin Pants Brothers]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98dpb_giveittome-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
