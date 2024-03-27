@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 08:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 09:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Balisong (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/balisong/</link>
+            <guid>https://poclanos.com/album/balisong/</guid>
+            <pubDate>Wed, 27 Mar 2024 09:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[cwar]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-cwar-Balisong-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[likeu<3 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/likeu/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 19 Mar 2024 09:10:17 GMT</pubDate>
             <content:encoded><![CDATA[김사월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EA%B9%80%EC%82%AC%EC%9B%94-%EB%94%94%ED%8F%B4%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상흔 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%81%ed%9d%94/</link>
-            <guid>https://poclanos.com/album/%ec%83%81%ed%9d%94/</guid>
-            <pubDate>Tue, 19 Mar 2024 03:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[Out Of Place (아웃 오브 플레이스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
