@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 02:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 03:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남겨진다는 건]]></title>
+            <link>https://poclanos.com/album/%eb%82%a8%ea%b2%a8%ec%a7%84%eb%8b%a4%eb%8a%94-%ea%b1%b4/</link>
+            <guid>https://poclanos.com/album/%eb%82%a8%ea%b2%a8%ec%a7%84%eb%8b%a4%eb%8a%94-%ea%b1%b4/</guid>
+            <pubDate>Fri, 29 Mar 2024 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[조종근]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%BB%A4%EB%B2%84-%EC%A1%B0%EC%A2%85%EA%B7%BC-%EB%82%A8%EA%B2%A8%EC%A7%84%EB%8B%A4%EB%8A%94-%EA%B1%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[19…34…]]></title>
+            <link>https://poclanos.com/album/1934/</link>
+            <guid>https://poclanos.com/album/1934/</guid>
+            <pubDate>Fri, 29 Mar 2024 03:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[윤영로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%98%81%EB%A1%9C-19%E2%80%A634%E2%80%A6-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Natural II]]></title>
             <link>https://poclanos.com/album/natural-ii/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 21 Mar 2024 09:09:46 GMT</pubDate>
             <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EC%82%AC%EB%9E%91%ED%98%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈 먼 사랑 (feat. 정우)]]></title>
-            <link>https://poclanos.com/album/%eb%88%88-%eb%a8%bc-%ec%82%ac%eb%9e%91-feat-%ec%a0%95%ec%9a%b0/</link>
-            <guid>https://poclanos.com/album/%eb%88%88-%eb%a8%bc-%ec%82%ac%eb%9e%91-feat-%ec%a0%95%ec%9a%b0/</guid>
-            <pubDate>Thu, 21 Mar 2024 03:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[민공]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B3%B5-%EB%88%88-%EB%A8%BC-%EC%82%AC%EB%9E%91-feat.-%EC%A0%95%EC%9A%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Light Talking]]></title>
-            <link>https://poclanos.com/album/light-talking/</link>
-            <guid>https://poclanos.com/album/light-talking/</guid>
-            <pubDate>Wed, 20 Mar 2024 03:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[있다ITTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%88%EB%8B%A4ITTA-Light-Talking-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
