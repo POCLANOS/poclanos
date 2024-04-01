@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 02:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Unity]]></title>
+            <link>https://poclanos.com/album/unity/</link>
+            <guid>https://poclanos.com/album/unity/</guid>
+            <pubDate>Mon, 01 Apr 2024 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-UNITY-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행운의 편지]]></title>
+            <link>https://poclanos.com/album/%ed%96%89%ec%9a%b4%ec%9d%98-%ed%8e%b8%ec%a7%80/</link>
+            <guid>https://poclanos.com/album/%ed%96%89%ec%9a%b4%ec%9d%98-%ed%8e%b8%ec%a7%80/</guid>
+            <pubDate>Mon, 01 Apr 2024 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%ED%8A%A0-Jungtune-%ED%96%89%EC%9A%B4%EC%9D%98-%ED%8E%B8%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[M3SSVG3]]></title>
+            <link>https://poclanos.com/album/m3ssvg3/</link>
+            <guid>https://poclanos.com/album/m3ssvg3/</guid>
+            <pubDate>Mon, 01 Apr 2024 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-M3CHVNIC-M3SSVG3-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장난]]></title>
+            <link>https://poclanos.com/album/%ec%9e%a5%eb%82%9c/</link>
+            <guid>https://poclanos.com/album/%ec%9e%a5%eb%82%9c/</guid>
+            <pubDate>Mon, 01 Apr 2024 03:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[양치기소년단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8-%EC%9E%A5%EB%82%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가출일기]]></title>
             <link>https://poclanos.com/album/%ea%b0%80%ec%b6%9c%ec%9d%bc%ea%b8%b0/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sun, 24 Mar 2024 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[PATZ]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATZ-VISITORS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOL.03]]></title>
-            <link>https://poclanos.com/album/vol-03/</link>
-            <guid>https://poclanos.com/album/vol-03/</guid>
-            <pubDate>Sat, 23 Mar 2024 03:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.03-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[369]]></title>
-            <link>https://poclanos.com/album/369/</link>
-            <guid>https://poclanos.com/album/369/</guid>
-            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[Kofey (李克非)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-cover-%E6%9D%8E%E5%85%8B%E9%9D%9E-369-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monthly Flower Project #3]]></title>
-            <link>https://poclanos.com/album/monthly-flower-project-3/</link>
-            <guid>https://poclanos.com/album/monthly-flower-project-3/</guid>
-            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[PERC%NT]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PERCNT-Platanus-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEBUGGING]]></title>
-            <link>https://poclanos.com/album/debugging/</link>
-            <guid>https://poclanos.com/album/debugging/</guid>
-            <pubDate>Fri, 22 Mar 2024 03:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[Youzu]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-Youzu-DEBUGGING-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
