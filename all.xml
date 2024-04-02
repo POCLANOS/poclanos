@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 08:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 09:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say My Name (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/say-my-name/</link>
+            <guid>https://poclanos.com/album/say-my-name/</guid>
+            <pubDate>Tue, 02 Apr 2024 09:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[MORE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-Say-My-Name-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95%EC%B5%9C%EC%A2%85%EB%B3%B8-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[HOMESICK LIVE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/homesick-live/</link>
+            <guid>https://poclanos.com/album/homesick-live/</guid>
+            <pubDate>Tue, 02 Apr 2024 09:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EA%B5%AC%EC%9B%90%EC%B0%AC-HOMESICK-LIVE_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왜 내가 너의 친구라고 말하지 않는 것인가 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%99%9c-%eb%82%b4%ea%b0%80-%eb%84%88%ec%9d%98-%ec%b9%9c%ea%b5%ac%eb%9d%bc%ea%b3%a0-%eb%a7%90%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-%ea%b2%83%ec%9d%b8%ea%b0%80/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 25 Mar 2024 03:12:37 GMT</pubDate>
             <content:encoded><![CDATA[yooji (유지)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-yooji-Dont-You-Wanna-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RARE COIL (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/rare-coil/</link>
-            <guid>https://poclanos.com/album/rare-coil/</guid>
-            <pubDate>Mon, 25 Mar 2024 03:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[ONENESS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-RARE-COIL-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[척 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b2%99-2/</link>
-            <guid>https://poclanos.com/album/%ec%b2%99-2/</guid>
-            <pubDate>Mon, 25 Mar 2024 03:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[ANYO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ANYO-%EC%B2%99-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
