@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 08:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 09:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Take Me Away]]></title>
+            <link>https://poclanos.com/album/take-me-away-2/</link>
+            <guid>https://poclanos.com/album/take-me-away-2/</guid>
+            <pubDate>Wed, 03 Apr 2024 09:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-Take-Me-Away-Feat.-g1nger-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Like you used to]]></title>
+            <link>https://poclanos.com/album/like-you-used-to/</link>
+            <guid>https://poclanos.com/album/like-you-used-to/</guid>
+            <pubDate>Wed, 03 Apr 2024 09:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[jumin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Like-you-used-to-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nothin’ Without You]]></title>
             <link>https://poclanos.com/album/nothin-without-you/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 26 Mar 2024 03:10:23 GMT</pubDate>
             <content:encoded><![CDATA[전민 (JEON MIN)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EB%AF%BC-JEON-MIN-Stay-With-Me-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[니 생각]]></title>
-            <link>https://poclanos.com/album/%eb%8b%88-%ec%83%9d%ea%b0%81/</link>
-            <guid>https://poclanos.com/album/%eb%8b%88-%ec%83%9d%ea%b0%81/</guid>
-            <pubDate>Tue, 26 Mar 2024 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[둘라밤]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EB%91%98%EB%9D%BC%EB%B0%A4-%EB%8B%88-%EC%83%9D%EA%B0%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 그만 우리 내일로 가요]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4%ec%a0%9c-%ea%b7%b8%eb%a7%8c-%ec%9a%b0%eb%a6%ac-%eb%82%b4%ec%9d%bc%eb%a1%9c-%ea%b0%80%ec%9a%94/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4%ec%a0%9c-%ea%b7%b8%eb%a7%8c-%ec%9a%b0%eb%a6%ac-%eb%82%b4%ec%9d%bc%eb%a1%9c-%ea%b0%80%ec%9a%94/</guid>
-            <pubDate>Tue, 26 Mar 2024 03:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[겸 (GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B8-GYE0M-%EC%9D%B4%EC%A0%9C-%EA%B7%B8%EB%A7%8C-%EC%9A%B0%EB%A6%AC-%EB%82%B4%EC%9D%BC%EB%A1%9C-%EA%B0%80%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
