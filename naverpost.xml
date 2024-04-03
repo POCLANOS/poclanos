@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 02:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 03:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8년만의 컴백! 사비나앤드론즈와 도국작가의 웹툰 인터뷰 2탄]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 03 Apr 2024 03:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /8년만의 컴백!사비나앤드론즈와 도국작가의 웹툰 인터뷰 2탄&lt;돈을 주겠다 / 네 인터뷰 준비하겠습니다&gt; WEBTOON INTERVIEW |&nbsp;한번&nbsp;들으면&nbsp;잊혀지지&nbsp;않는&nbsp;목소리,&nbsp;사비나앤드론즈가&nbsp;8년 만에&nbsp;정규&nbsp;3집···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjNfMjU3/MDAxNzA4NjU1NTUyOTIx.k1ZB9siujBkQvidKP5CH0URQCi1ew1qAzMQAYfE0dzgg.s8gQfsLPlKGcb2PdfY9BijjOL-Aqa84CiR34UZwqrlYg.JPEG/IPlK-gpmr9GQgDED3GCXiuUc-pfA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938</link>
@@ -156,14 +164,6 @@
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 인터뷰꿈은 모호하고 신비롭다. 사람들은 꿈을 자기 자신을 탐구하는 단서로 사용하거나, 미래를 예견하는 데에 활용한다. 창작자들에게 있어 꿈···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTVfMTAg/MDAxNjk0NzQzMDk0NjA4.43slUojuesvMIkk1U-up5gW-PUK3-sZYXSYimwQkShcg.rKQ5Nxnywsm0R98Zc-FE4bNF6DqzIoHG-xyYy23ThkUg.JPEG/IbypLsNdp7Reh9qlnpbFgS1IznDU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2021 POCLANOS BEST] 새로운 음악가, 새로운 앨범]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=33037100&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=33037100&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[포크라노스가 새로운 발걸음을 내딛는다. 포크라노스의 시선으로 바라본 유능한 음악가와 그 앨범을 매년, 다음과 같이 선보인다. 그 시작이 될 2021년을 마무리하며, 포크라노스를 통해 데뷔작을 발표했거나, 인상···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMTEyMzBfMTQz/MDAxNjQwODQ4ODA0NTk3.G6J8R2hlQM0TTjOMVeVdLPYOx6EaGOBiH0Rb17kaGmwg.JMGZY0tcMw9J0GBBGB-StZthSzm6xbv3LUGt_-gZFVIg.PNG/IYTZUgOS4mgEQlVMIdgX9H4oB8kE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
