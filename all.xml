@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 02:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 03:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[In Love (Acoustic) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/in-love-acoustic/</link>
+            <guid>https://poclanos.com/album/in-love-acoustic/</guid>
+            <pubDate>Fri, 05 Apr 2024 03:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[Hollyway]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-In-Love-Acoustic-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UPSIDE DOWN (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/upside-down-2/</link>
+            <guid>https://poclanos.com/album/upside-down-2/</guid>
+            <pubDate>Fri, 05 Apr 2024 03:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[OXFORD DROPKICK]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/3.-%EC%BB%A4%EB%B2%84-OXFORD-DROPKICK-UPSIDE-DOWN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬클럽 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%8c%ac%ed%81%b4%eb%9f%bd/</link>
+            <guid>https://poclanos.com/album/%ed%8c%ac%ed%81%b4%eb%9f%bd/</guid>
+            <pubDate>Fri, 05 Apr 2024 03:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[Kiss Care]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-Kiss-Care-PAR-%ED%8C%AC%ED%81%B4%EB%9F%BD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[To My Dear Neighbors (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/to-my-dear-neighbors/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 30 Mar 2024 03:13:41 GMT</pubDate>
             <content:encoded><![CDATA[사비나앤드론즈 (Savina &amp; Drones)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EA%B7%80%EB%A8%B8%EA%B1%B0%EB%A6%AC-%EC%9D%B8%EC%83%9D-%EC%9E%90%EC%BC%93%EC%82%AC%EC%A7%84-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남겨진다는 건 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%a8%ea%b2%a8%ec%a7%84%eb%8b%a4%eb%8a%94-%ea%b1%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%a8%ea%b2%a8%ec%a7%84%eb%8b%a4%eb%8a%94-%ea%b1%b4/</guid>
-            <pubDate>Fri, 29 Mar 2024 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[조종근]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%BB%A4%EB%B2%84-%EC%A1%B0%EC%A2%85%EA%B7%BC-%EB%82%A8%EA%B2%A8%EC%A7%84%EB%8B%A4%EB%8A%94-%EA%B1%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[19…34… (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/1934/</link>
-            <guid>https://poclanos.com/album/1934/</guid>
-            <pubDate>Fri, 29 Mar 2024 03:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[윤영로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%98%81%EB%A1%9C-19%E2%80%A634%E2%80%A6-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Natural II (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/natural-ii/</link>
-            <guid>https://poclanos.com/album/natural-ii/</guid>
-            <pubDate>Thu, 28 Mar 2024 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-Natural-II-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
