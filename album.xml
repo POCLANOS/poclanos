@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Apr 2024 02:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 03:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DROP DOWN STREET]]></title>
+            <link>https://poclanos.com/album/drop-down-street/</link>
+            <guid>https://poclanos.com/album/drop-down-street/</guid>
+            <pubDate>Mon, 08 Apr 2024 03:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-DROP-DOWN-STREET-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lovers Always Lose]]></title>
+            <link>https://poclanos.com/album/lovers-always-lose/</link>
+            <guid>https://poclanos.com/album/lovers-always-lose/</guid>
+            <pubDate>Mon, 08 Apr 2024 03:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Lovers-Always-Lose-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[별]]></title>
+            <link>https://poclanos.com/album/%eb%b3%84/</link>
+            <guid>https://poclanos.com/album/%eb%b3%84/</guid>
+            <pubDate>Mon, 08 Apr 2024 03:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[종연]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%EC%A2%85%EC%97%B0-%EB%B3%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STRIPELIFE]]></title>
             <link>https://poclanos.com/album/stripelife/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 07 Apr 2024 19:07:40 GMT</pubDate>
             <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Unity]]></title>
-            <link>https://poclanos.com/album/unity/</link>
-            <guid>https://poclanos.com/album/unity/</guid>
-            <pubDate>Sun, 07 Apr 2024 19:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[ONENESS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-UNITY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행운의 편지]]></title>
-            <link>https://poclanos.com/album/%ed%96%89%ec%9a%b4%ec%9d%98-%ed%8e%b8%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ed%96%89%ec%9a%b4%ec%9d%98-%ed%8e%b8%ec%a7%80/</guid>
-            <pubDate>Sun, 07 Apr 2024 19:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%ED%8A%A0-Jungtune-%ED%96%89%EC%9A%B4%EC%9D%98-%ED%8E%B8%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M3SSVG3]]></title>
-            <link>https://poclanos.com/album/m3ssvg3/</link>
-            <guid>https://poclanos.com/album/m3ssvg3/</guid>
-            <pubDate>Sun, 07 Apr 2024 19:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-M3CHVNIC-M3SSVG3-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
