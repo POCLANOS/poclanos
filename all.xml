@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 02:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 03:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Work (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/work/</link>
+            <guid>https://poclanos.com/album/work/</guid>
+            <pubDate>Wed, 10 Apr 2024 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[J way]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-J-way-Work-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Back to shore (想要有個避風港) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/back-to-shore-%e6%83%b3%e8%a6%81%e6%9c%89%e5%80%8b%e9%81%bf%e9%a2%a8%e6%b8%af/</link>
+            <guid>https://poclanos.com/album/back-to-shore-%e6%83%b3%e8%a6%81%e6%9c%89%e5%80%8b%e9%81%bf%e9%a2%a8%e6%b8%af/</guid>
+            <pubDate>Wed, 10 Apr 2024 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[Your Woman Sleep With Others (老王樂隊)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-cover-%E8%80%81%E7%8E%8B%E6%A8%82%E9%9A%8A-%E6%83%B3%E8%A6%81%E6%9C%89%E5%80%8B%E9%81%BF%E9%A2%A8%E6%B8%AF-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TIMING (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/timing/</link>
+            <guid>https://poclanos.com/album/timing/</guid>
+            <pubDate>Wed, 10 Apr 2024 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[형선 (HYNGSN)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Xenium (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/xenium/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 03 Apr 2024 09:10:48 GMT</pubDate>
             <content:encoded><![CDATA[jumin]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Like-you-used-to-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nothin’ Without You (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/nothin-without-you/</link>
-            <guid>https://poclanos.com/album/nothin-without-you/</guid>
-            <pubDate>Wed, 03 Apr 2024 03:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[행성]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%96%89%EC%84%B1-Nothin-Without-You-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Say My Name (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/say-my-name/</link>
-            <guid>https://poclanos.com/album/say-my-name/</guid>
-            <pubDate>Tue, 02 Apr 2024 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[MORE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-Say-My-Name-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%88%98%EC%A0%95%EC%B5%9C%EC%A2%85%EB%B3%B8-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[HOMESICK LIVE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/homesick-live/</link>
-            <guid>https://poclanos.com/album/homesick-live/</guid>
-            <pubDate>Tue, 02 Apr 2024 09:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[구원찬]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/%EA%B5%AC%EC%9B%90%EC%B0%AC-HOMESICK-LIVE_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
