@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 08:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 09:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시들어가는 마음에 꽃 하나라도 심어줘요 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%8b%9c%eb%93%a4%ec%96%b4%ea%b0%80%eb%8a%94-%eb%a7%88%ec%9d%8c%ec%97%90-%ea%bd%83-%ed%95%98%eb%82%98%eb%9d%bc%eb%8f%84-%ec%8b%ac%ec%96%b4%ec%a4%98%ec%9a%94/</link>
+            <guid>https://poclanos.com/album/%ec%8b%9c%eb%93%a4%ec%96%b4%ea%b0%80%eb%8a%94-%eb%a7%88%ec%9d%8c%ec%97%90-%ea%bd%83-%ed%95%98%eb%82%98%eb%9d%bc%eb%8f%84-%ec%8b%ac%ec%96%b4%ec%a4%98%ec%9a%94/</guid>
+            <pubDate>Wed, 10 Apr 2024 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[택우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%83%9D%EC%9A%B0-%EC%8B%9C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%A7%88%EC%9D%8C%EC%97%90-%EA%BD%83-%ED%95%98%EB%82%98%EB%9D%BC%EB%8F%84-%EC%8B%AC%EC%96%B4%EC%A4%98%EC%9A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Work (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/work/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 Apr 2024 09:10:48 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-Take-Me-Away-Feat.-g1nger-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Like you used to (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/like-you-used-to/</link>
-            <guid>https://poclanos.com/album/like-you-used-to/</guid>
-            <pubDate>Wed, 03 Apr 2024 09:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[jumin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Like-you-used-to-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
