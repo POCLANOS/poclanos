@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 02:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 03:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lavender Desire (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lavender-desire/</link>
+            <guid>https://poclanos.com/album/lavender-desire/</guid>
+            <pubDate>Thu, 11 Apr 2024 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[HAEL]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HAEL-Lavender-Desire-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봄타령 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b4%84%ed%83%80%eb%a0%b9/</link>
+            <guid>https://poclanos.com/album/%eb%b4%84%ed%83%80%eb%a0%b9/</guid>
+            <pubDate>Thu, 11 Apr 2024 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[오주하 (OH!JUHA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%A3%BC%ED%95%98-OHJUHA-%EB%B4%84%ED%83%80%EB%A0%B9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Holiday (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/holiday-4/</link>
+            <guid>https://poclanos.com/album/holiday-4/</guid>
+            <pubDate>Thu, 11 Apr 2024 03:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%954.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-Holiday-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시들어가는 마음에 꽃 하나라도 심어줘요 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8b%9c%eb%93%a4%ec%96%b4%ea%b0%80%eb%8a%94-%eb%a7%88%ec%9d%8c%ec%97%90-%ea%bd%83-%ed%95%98%eb%82%98%eb%9d%bc%eb%8f%84-%ec%8b%ac%ec%96%b4%ec%a4%98%ec%9a%94/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 04 Apr 2024 03:12:19 GMT</pubDate>
             <content:encoded><![CDATA[송소희]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%86%A1%EC%86%8C%ED%9D%AC-%EA%B3%B5%EC%A4%91%EB%AC%B4%EC%9A%A9_Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eternal Sunset (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/eternal-sunset/</link>
-            <guid>https://poclanos.com/album/eternal-sunset/</guid>
-            <pubDate>Thu, 04 Apr 2024 03:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[12BH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98eternal_sunset_1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행운 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%96%89%ec%9a%b4-2/</link>
-            <guid>https://poclanos.com/album/%ed%96%89%ec%9a%b4-2/</guid>
-            <pubDate>Thu, 04 Apr 2024 03:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84-yewee-%ED%96%89%EC%9A%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take Me Away (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/take-me-away-2/</link>
-            <guid>https://poclanos.com/album/take-me-away-2/</guid>
-            <pubDate>Wed, 03 Apr 2024 09:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-Take-Me-Away-Feat.-g1nger-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
