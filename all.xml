@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 02:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 03:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기억하잖아 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</guid>
+            <pubDate>Sat, 13 Apr 2024 03:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[화아 (HwA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%ED%99%94%EC%95%84-HwA-%EA%B8%B0%EC%96%B5%ED%95%98%EC%9E%96%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문명의 몰락 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%ac%b8%eb%aa%85%ec%9d%98-%eb%aa%b0%eb%9d%bd/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 05 Apr 2024 03:11:43 GMT</pubDate>
             <content:encoded><![CDATA[Hollyway]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-In-Love-Acoustic-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UPSIDE DOWN (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/upside-down-2/</link>
-            <guid>https://poclanos.com/album/upside-down-2/</guid>
-            <pubDate>Fri, 05 Apr 2024 03:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[OXFORD DROPKICK]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/3.-%EC%BB%A4%EB%B2%84-OXFORD-DROPKICK-UPSIDE-DOWN-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
