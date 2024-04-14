@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Apr 2024 02:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Apr 2024 03:53:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈퍼점프하드코어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%8a%88%ed%8d%bc%ec%a0%90%ed%94%84%ed%95%98%eb%93%9c%ec%bd%94%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%8a%88%ed%8d%bc%ec%a0%90%ed%94%84%ed%95%98%eb%93%9c%ec%bd%94%ec%96%b4/</guid>
+            <pubDate>Sun, 14 Apr 2024 03:51:03 GMT</pubDate>
+            <content:encoded><![CDATA[quinn_ (쿠인)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-quinn_-%EC%BF%A0%EC%9D%B8-%EC%8A%88%ED%8D%BC%EC%A0%90%ED%94%84%ED%95%98%EB%93%9C%EC%BD%94%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기억하잖아 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 06 Apr 2024 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[19990619]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-19990619-%EB%84%88%EC%9D%98-%EC%83%9D%EC%9D%BC%EB%82%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Love (Acoustic) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/in-love-acoustic/</link>
-            <guid>https://poclanos.com/album/in-love-acoustic/</guid>
-            <pubDate>Fri, 05 Apr 2024 03:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[Hollyway]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-In-Love-Acoustic-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
