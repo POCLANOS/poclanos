@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 08:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[blue in my room]]></title>
+            <link>https://poclanos.com/album/blue-in-my-room/</link>
+            <guid>https://poclanos.com/album/blue-in-my-room/</guid>
+            <pubDate>Mon, 15 Apr 2024 09:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[숨비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-blue-in-my-room-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dandelion]]></title>
             <link>https://poclanos.com/album/dandelion/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 08 Apr 2024 03:11:34 GMT</pubDate>
             <content:encoded><![CDATA[종연]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%EC%A2%85%EC%97%B0-%EB%B3%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STRIPELIFE]]></title>
-            <link>https://poclanos.com/album/stripelife/</link>
-            <guid>https://poclanos.com/album/stripelife/</guid>
-            <pubDate>Sun, 07 Apr 2024 19:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[GALI]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/3.-cover-STRIPELIFE_album_cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
