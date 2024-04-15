@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:01:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 03:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dandelion (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dandelion/</link>
+            <guid>https://poclanos.com/album/dandelion/</guid>
+            <pubDate>Mon, 15 Apr 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[정기가]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/Dandelion-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Autumn Follow (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/autumn-follow/</link>
+            <guid>https://poclanos.com/album/autumn-follow/</guid>
+            <pubDate>Mon, 15 Apr 2024 03:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[ONENESS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ONENESS-Autumn-Follow-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슈퍼점프하드코어 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%8a%88%ed%8d%bc%ec%a0%90%ed%94%84%ed%95%98%eb%93%9c%ec%bd%94%ec%96%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 07 Apr 2024 03:10:58 GMT</pubDate>
             <content:encoded><![CDATA[GALI]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/3.-cover-STRIPELIFE_album_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ye (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ye/</link>
-            <guid>https://poclanos.com/album/ye/</guid>
-            <pubDate>Sun, 07 Apr 2024 03:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[bon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-bon-Ye-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 생일날 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%ec%9d%98-%ec%83%9d%ec%9d%bc%eb%82%a0/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%ec%9d%98-%ec%83%9d%ec%9d%bc%eb%82%a0/</guid>
-            <pubDate>Sat, 06 Apr 2024 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[19990619]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-19990619-%EB%84%88%EC%9D%98-%EC%83%9D%EC%9D%BC%EB%82%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
