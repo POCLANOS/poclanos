@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 02:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 03:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 친구 머피처럼 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%b9%9c%ea%b5%ac-%eb%a8%b8%ed%94%bc%ec%b2%98%eb%9f%bc/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%b9%9c%ea%b5%ac-%eb%a8%b8%ed%94%bc%ec%b2%98%eb%9f%bc/</guid>
+            <pubDate>Wed, 17 Apr 2024 03:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[왑띠]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%954.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%99%91%EB%9D%A0-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%B9%9C%EA%B5%AC-%EB%A8%B8%ED%94%BC%EC%B2%98%EB%9F%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ever (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/ever/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 09 Apr 2024 09:11:10 GMT</pubDate>
             <content:encoded><![CDATA[Orchid]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Orchid-Xenium_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간 속의 나 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%8b%9c%ea%b0%84-%ec%86%8d%ec%9d%98-%eb%82%98/</link>
-            <guid>https://poclanos.com/album/%ec%8b%9c%ea%b0%84-%ec%86%8d%ec%9d%98-%eb%82%98/</guid>
-            <pubDate>Tue, 09 Apr 2024 03:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[박주원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%A3%BC%EC%9B%90-%EC%8B%9C%EA%B0%84-%EC%86%8D%EC%9D%98-%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
