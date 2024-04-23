@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 02:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 03:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Our Night (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/our-night/</link>
+            <guid>https://poclanos.com/album/our-night/</guid>
+            <pubDate>Tue, 23 Apr 2024 03:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-leanon-%EB%A6%AC%EB%85%BC-Our-Night-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곰이지만 여웁니다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b3%b0%ec%9d%b4%ec%a7%80%eb%a7%8c-%ec%97%ac%ec%9b%81%eb%8b%88%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ea%b3%b0%ec%9d%b4%ec%a7%80%eb%a7%8c-%ec%97%ac%ec%9b%81%eb%8b%88%eb%8b%a4/</guid>
+            <pubDate>Tue, 23 Apr 2024 03:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[Foxyb34r (폭시베어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-Foxyb34r-%ED%8F%AD%EC%8B%9C%EB%B2%A0%EC%96%B4-%EA%B3%B0%EC%9D%B4%EC%A7%80%EB%A7%8C-%EC%97%AC%EC%9B%81%EB%8B%88%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Diffraction (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/diffraction/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 14 Apr 2024 03:51:03 GMT</pubDate>
             <content:encoded><![CDATA[quinn_ (쿠인)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-quinn_-%EC%BF%A0%EC%9D%B8-%EC%8A%88%ED%8D%BC%EC%A0%90%ED%94%84%ED%95%98%EB%93%9C%EC%BD%94%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기억하잖아 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</link>
-            <guid>https://poclanos.com/album/%ea%b8%b0%ec%96%b5%ed%95%98%ec%9e%96%ec%95%84/</guid>
-            <pubDate>Sat, 13 Apr 2024 03:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[화아 (HwA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-%ED%99%94%EC%95%84-HwA-%EA%B8%B0%EC%96%B5%ED%95%98%EC%9E%96%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문명의 몰락 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%ac%b8%eb%aa%85%ec%9d%98-%eb%aa%b0%eb%9d%bd/</link>
-            <guid>https://poclanos.com/album/%eb%ac%b8%eb%aa%85%ec%9d%98-%eb%aa%b0%eb%9d%bd/</guid>
-            <pubDate>Fri, 12 Apr 2024 03:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%AC%B8%EB%AA%85%EC%9D%98-%EB%AA%B0%EB%9D%BD-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
