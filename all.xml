@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 02:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 03:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Step (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/step-2/</link>
+            <guid>https://poclanos.com/album/step-2/</guid>
+            <pubDate>Fri, 26 Apr 2024 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[장수빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어제의 평화 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%ec%a0%9c%ec%9d%98-%ed%8f%89%ed%99%94/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%ec%a0%9c%ec%9d%98-%ed%8f%89%ed%99%94/</guid>
+            <pubDate>Fri, 26 Apr 2024 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[한그린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%95%9C%EA%B7%B8%EB%A6%B0-%EC%96%B4%EC%A0%9C%EC%9D%98-%ED%8F%89%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Still (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/still/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 17 Apr 2024 09:10:10 GMT</pubDate>
             <content:encoded><![CDATA[FIRST AID (퍼스트 에이드)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-Cover-FIRSTAID-epoche-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 친구 머피처럼 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%b9%9c%ea%b5%ac-%eb%a8%b8%ed%94%bc%ec%b2%98%eb%9f%bc/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%ec%b9%9c%ea%b5%ac-%eb%a8%b8%ed%94%bc%ec%b2%98%eb%9f%bc/</guid>
-            <pubDate>Wed, 17 Apr 2024 03:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[왑띠]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%954.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%99%91%EB%9D%A0-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%B9%9C%EA%B5%AC-%EB%A8%B8%ED%94%BC%EC%B2%98%EB%9F%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ever (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ever/</link>
-            <guid>https://poclanos.com/album/ever/</guid>
-            <pubDate>Tue, 16 Apr 2024 03:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Ever-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
