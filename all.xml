@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 08:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 09:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JOMO (Joy of Missing Out) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/jomo-joy-of-missing-out/</link>
+            <guid>https://poclanos.com/album/jomo-joy-of-missing-out/</guid>
+            <pubDate>Thu, 02 May 2024 09:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[이상원 (Sangwon Lee)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너는 세상의 모든 것 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%eb%8a%94-%ec%84%b8%ec%83%81%ec%9d%98-%eb%aa%a8%eb%93%a0-%ea%b2%83/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 26 Apr 2024 03:12:05 GMT</pubDate>
             <content:encoded><![CDATA[장수빈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어제의 평화 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%ec%a0%9c%ec%9d%98-%ed%8f%89%ed%99%94/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%ec%a0%9c%ec%9d%98-%ed%8f%89%ed%99%94/</guid>
-            <pubDate>Fri, 26 Apr 2024 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[한그린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%95%9C%EA%B7%B8%EB%A6%B0-%EC%96%B4%EC%A0%9C%EC%9D%98-%ED%8F%89%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
