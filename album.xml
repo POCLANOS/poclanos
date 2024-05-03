@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 08:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 09:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Overdrive]]></title>
+            <link>https://poclanos.com/album/overdrive/</link>
+            <guid>https://poclanos.com/album/overdrive/</guid>
+            <pubDate>Fri, 03 May 2024 09:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[프루던스 (Prudence)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%94%84%EB%A3%A8%EB%8D%98%EC%8A%A4-Prudence-Overdrive-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Black Goat]]></title>
             <link>https://poclanos.com/album/black-goat/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 27 Apr 2024 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[하가 (HAGA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EA%B0%80HAGA-%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%EA%B0%80-%EA%B0%96%EA%B3%A0%EC%8B%B6%EC%96%B4-%EC%88%9C%EC%A2%85%EC%A0%81%EC%9D%B4%EA%B3%A0-%EA%B7%80%EC%97%BD%EA%B3%A0-%EC%A1%B0%EC%9A%A9%ED%95%9C-%EC%95%A0%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비틀비틀]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ed%8b%80%eb%b9%84%ed%8b%80/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ed%8b%80%eb%b9%84%ed%8b%80/</guid>
-            <pubDate>Sat, 27 Apr 2024 03:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[손예지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
