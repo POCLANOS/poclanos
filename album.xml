@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 02:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 03:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Black Goat]]></title>
+            <link>https://poclanos.com/album/black-goat/</link>
+            <guid>https://poclanos.com/album/black-goat/</guid>
+            <pubDate>Fri, 03 May 2024 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[키위허그]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%82%A4%EC%9C%84%ED%97%88%EA%B7%B8-Black-Goat-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Get Funk!]]></title>
+            <link>https://poclanos.com/album/get-funk/</link>
+            <guid>https://poclanos.com/album/get-funk/</guid>
+            <pubDate>Fri, 03 May 2024 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[Funky B]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JOMO (Joy of Missing Out)]]></title>
             <link>https://poclanos.com/album/jomo-joy-of-missing-out/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 27 Apr 2024 03:11:31 GMT</pubDate>
             <content:encoded><![CDATA[손예지]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crybaby]]></title>
-            <link>https://poclanos.com/album/crybaby/</link>
-            <guid>https://poclanos.com/album/crybaby/</guid>
-            <pubDate>Fri, 26 Apr 2024 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Crybaby-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Step]]></title>
-            <link>https://poclanos.com/album/step-2/</link>
-            <guid>https://poclanos.com/album/step-2/</guid>
-            <pubDate>Fri, 26 Apr 2024 03:12:05 GMT</pubDate>
-            <content:encoded><![CDATA[장수빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
