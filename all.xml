@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 02:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 03:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tunnel Vision (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/tunnel-vision/</link>
+            <guid>https://poclanos.com/album/tunnel-vision/</guid>
+            <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[Cold Gun Chamber]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98Cold-Gun-Chamber-Tunnel-Vision%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저공비행 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%a0%80%ea%b3%b5%eb%b9%84%ed%96%89/</link>
+            <guid>https://poclanos.com/album/%ec%a0%80%ea%b3%b5%eb%b9%84%ed%96%89/</guid>
+            <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[이재경]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%A0%80%EA%B3%B5%EB%B9%84%ED%96%89-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[황금빛 강 (Gold River) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%99%a9%ea%b8%88%eb%b9%9b-%ea%b0%95-gold-river/</link>
+            <guid>https://poclanos.com/album/%ed%99%a9%ea%b8%88%eb%b9%9b-%ea%b0%95-gold-river/</guid>
+            <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-%ED%99%A9%EA%B8%88%EB%B9%9B-%EA%B0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낯선 천장 (feat. 전진희) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%af%ec%84%a0-%ec%b2%9c%ec%9e%a5-feat-%ec%a0%84%ec%a7%84%ed%9d%ac/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 01 May 2024 09:11:07 GMT</pubDate>
             <content:encoded><![CDATA[박소은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9D%80-%EB%84%88%EC%99%80-%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shape of Water (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/shape-of-water/</link>
-            <guid>https://poclanos.com/album/shape-of-water/</guid>
-            <pubDate>Wed, 01 May 2024 03:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[매간당]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EA%B0%84%EB%8B%B9-Shape-of-Water-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새치 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%88%ec%b9%98/</link>
-            <guid>https://poclanos.com/album/%ec%83%88%ec%b9%98/</guid>
-            <pubDate>Wed, 01 May 2024 03:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[민강]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-%EC%83%88%EC%B9%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹이사슬 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a8%b9%ec%9d%b4%ec%82%ac%ec%8a%ac/</link>
-            <guid>https://poclanos.com/album/%eb%a8%b9%ec%9d%b4%ec%82%ac%ec%8a%ac/</guid>
-            <pubDate>Tue, 30 Apr 2024 09:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
