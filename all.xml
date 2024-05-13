@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 02:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 03:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yezzir (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/yezzir/</link>
+            <guid>https://poclanos.com/album/yezzir/</guid>
+            <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[O'KOYE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-OKOYE-Yezzir-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tears in Water (a tucu saqemauqaung aken) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/tears-in-water-a-tucu-saqemauqaung-aken/</link>
+            <guid>https://poclanos.com/album/tears-in-water-a-tucu-saqemauqaung-aken/</guid>
+            <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[LINION]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-cover-LINION-Tears-in-Water-a-tucu-saqemauqaung-aken-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Spring 1 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/spring-1/</link>
+            <guid>https://poclanos.com/album/spring-1/</guid>
+            <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Spring-1_%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Money (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/money/</link>
+            <guid>https://poclanos.com/album/money/</guid>
+            <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[Newaile(뉴엘르)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Newaile%EB%89%B4%EC%97%98%EB%A5%B4-Money-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Don’t Break My Heart (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/dont-break-my-heart/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 04 May 2024 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[김민성]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%82%A4%EC%9C%84%ED%97%88%EA%B7%B8-Black-Goat-Album-Cover-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overdrive (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/overdrive/</link>
-            <guid>https://poclanos.com/album/overdrive/</guid>
-            <pubDate>Fri, 03 May 2024 09:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[프루던스 (Prudence)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%94%84%EB%A3%A8%EB%8D%98%EC%8A%A4-Prudence-Overdrive-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Goat (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/black-goat/</link>
-            <guid>https://poclanos.com/album/black-goat/</guid>
-            <pubDate>Fri, 03 May 2024 03:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[키위허그]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%82%A4%EC%9C%84%ED%97%88%EA%B7%B8-Black-Goat-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Get Funk! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/get-funk/</link>
-            <guid>https://poclanos.com/album/get-funk/</guid>
-            <pubDate>Fri, 03 May 2024 03:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[Funky B]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JOMO (Joy of Missing Out) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/jomo-joy-of-missing-out/</link>
-            <guid>https://poclanos.com/album/jomo-joy-of-missing-out/</guid>
-            <pubDate>Thu, 02 May 2024 09:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[이상원 (Sangwon Lee)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/04/%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
