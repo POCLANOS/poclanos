@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 08:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 09:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젊음 끝]]></title>
+            <link>https://poclanos.com/album/%ec%a0%8a%ec%9d%8c-%eb%81%9d/</link>
+            <guid>https://poclanos.com/album/%ec%a0%8a%ec%9d%8c-%eb%81%9d/</guid>
+            <pubDate>Tue, 14 May 2024 09:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[이인선]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%A0%8A%EC%9D%8C%EB%81%9D-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%B5%9C%EC%A2%85_0505-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mayday]]></title>
+            <link>https://poclanos.com/album/mayday/</link>
+            <guid>https://poclanos.com/album/mayday/</guid>
+            <pubDate>Tue, 14 May 2024 09:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[Vovo Weng (보보웽)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Vovo-Weng-Mayday-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Glad you liked it]]></title>
             <link>https://poclanos.com/album/glad-you-liked-it/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 06 May 2024 09:11:59 GMT</pubDate>
             <content:encoded><![CDATA[팔칠댄스 (87dance)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%94%EC%B9%A0%EB%8C%84%EC%8A%A4-Youth-Heritage-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄노래]]></title>
-            <link>https://poclanos.com/album/%eb%b4%84%eb%85%b8%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%eb%b4%84%eb%85%b8%eb%9e%98/</guid>
-            <pubDate>Mon, 06 May 2024 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[유령서점]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EB%B4%84%EB%85%B8%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나만 골라봐 (Feat. g0nny(거니))]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%eb%82%98%eb%a7%8c-%ea%b3%a8%eb%9d%bc%eb%b4%90-feat-g0nny%ea%b1%b0%eb%8b%88/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%eb%82%98%eb%a7%8c-%ea%b3%a8%eb%9d%bc%eb%b4%90-feat-g0nny%ea%b1%b0%eb%8b%88/</guid>
-            <pubDate>Sun, 05 May 2024 09:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-Snozern-%EC%8A%A4%EB%85%B8%EC%A0%84-%ED%95%98%EB%82%98%EB%A7%8C-%EA%B3%A8%EB%9D%BC%EB%B4%90-Feat.-g0nny%EA%B1%B0%EB%8B%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
