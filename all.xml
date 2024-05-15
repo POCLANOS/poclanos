@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 02:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 03:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nostalgia (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/nostalgia/</link>
+            <guid>https://poclanos.com/album/nostalgia/</guid>
+            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[Neontype]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/NEONTYPE_Single_Albumart-Final-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[General Computation (通用计算) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/general-computation-%e9%80%9a%e7%94%a8%e8%ae%a1%e7%ae%97/</link>
+            <guid>https://poclanos.com/album/general-computation-%e9%80%9a%e7%94%a8%e8%ae%a1%e7%ae%97/</guid>
+            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-General-Computation-%E9%80%9A%E7%94%A8%E8%AE%A1%E7%AE%97-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ontology (本体) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/ontology-%e6%9c%ac%e4%bd%93/</link>
+            <guid>https://poclanos.com/album/ontology-%e6%9c%ac%e4%bd%93/</guid>
+            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-%E6%9C%AC%E4%BD%93Ontology-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바다님 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%eb%8b%98/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%eb%8b%98/</guid>
+            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[양반들]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EB%B0%94%EB%8B%A4%EB%8B%98%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젊음 끝 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%a0%8a%ec%9d%8c-%eb%81%9d/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 08 May 2024 03:12:23 GMT</pubDate>
             <content:encoded><![CDATA[보수동쿨러]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B3%B4%EC%88%98%EB%8F%99%EC%BF%A8%EB%9F%AC-%EC%9D%98%EC%9E%90%EC%97%90-%EC%95%89%EC%95%84_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고양이와 까치를 위한 티타임 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4%ec%99%80-%ea%b9%8c%ec%b9%98%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%8b%b0%ed%83%80%ec%9e%84/</link>
-            <guid>https://poclanos.com/album/%ea%b3%a0%ec%96%91%ec%9d%b4%ec%99%80-%ea%b9%8c%ec%b9%98%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%8b%b0%ed%83%80%ec%9e%84/</guid>
-            <pubDate>Tue, 07 May 2024 09:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[전기뱀장어]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A0%84%EA%B8%B0%EB%B1%80%EC%9E%A5%EC%96%B4-%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80-%EA%B9%8C%EC%B9%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8B%B0%ED%83%80%EC%9E%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JOOTHOLOGY1 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/joothology1/</link>
-            <guid>https://poclanos.com/album/joothology1/</guid>
-            <pubDate>Tue, 07 May 2024 03:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[주태중]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A3%BC%ED%83%9C%EC%A4%91-JOOTHOLOGY1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Msounds (Deluxe) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/msounds-deluxe/</link>
-            <guid>https://poclanos.com/album/msounds-deluxe/</guid>
-            <pubDate>Tue, 07 May 2024 03:13:17 GMT</pubDate>
-            <content:encoded><![CDATA[KnowKnow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-cover-KnowKnow-Msounds-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Youth Heritage (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/youth-heritage/</link>
-            <guid>https://poclanos.com/album/youth-heritage/</guid>
-            <pubDate>Mon, 06 May 2024 09:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[팔칠댄스 (87dance)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%94%EC%B9%A0%EB%8C%84%EC%8A%A4-Youth-Heritage-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4698,6 +4698,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 15 May 2024 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기 ARTIST | 양반들 (Yangbans) ALBUM | 바다님 STORY | 양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기 자···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTRfMTYz/MDAxNzE1NjY4NTkyNDA2.veS-crtq3hw_M8ySnSkcSOGSVhP3rV1b-QYJEyfWoRog.wOCuZ1-d84xH_dwbufBBggTBm3Fu1pSD_MvfIysi1uwg.PNG/ILyt1FvAYI8OyKoVjwdPxnvUuGGY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8년만의 컴백! 사비나앤드론즈와 도국작가의 웹툰 인터뷰 2탄 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938</guid>
@@ -4846,14 +4854,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL/30년 만에 첫 데뷔 싱글 발표! 이스트워터의&nbsp;데뷔&nbsp;싱글&nbsp;[Never&nbsp;Ending]&nbsp;발매&nbsp;기념. 인생의&nbsp;타이밍에&nbsp;대한&nbsp;인터뷰 사람의&nbsp;인생에는&nbsp;타이밍이&nbsp;있다고&nbsp;한다.&nbsp;노을은&nbsp;가장&nbsp;붉게&nbsp;타오르는&nbsp;순간이&nbsp;있고,&nbsp;와인은&nbsp;품···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjg3/MDAxNjk4MDM2MzczOTUx.3khwQ8xnxXrt7aSNDmTvtl4grPcBsqgAeBfx8EFQ2eAg.IVQ14W1hSMbBd12MaS4A0N-qg9cTScUNQT-WmtpPyTsg.JPEG/IPY7lKtqgaiknS_cb0Pz-apY79G0.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36583341&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36583341&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW / 인식 너머의 세계를 구현해내는 힘, 싱어송라이터 시와 인터뷰꿈은 모호하고 신비롭다. 사람들은 꿈을 자기 자신을 탐구하는 단서로 사용하거나, 미래를 예견하는 데에 활용한다. 창작자들에게 있어 꿈···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzA5MTVfMTAg/MDAxNjk0NzQzMDk0NjA4.43slUojuesvMIkk1U-up5gW-PUK3-sZYXSYimwQkShcg.rKQ5Nxnywsm0R98Zc-FE4bNF6DqzIoHG-xyYy23ThkUg.JPEG/IbypLsNdp7Reh9qlnpbFgS1IznDU.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5016,6 +5016,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfMTQ0/MDAxNTk0OTcxMjA1ODUz.o32Ag6yeImzpRO6DRyCQc8vnYOgbeK9hdd82MRoPCvAg.2tnbQhmtUTvh-bG5ijedWV2i4Z3eu8ztUqd7hsQ61bog.JPEG/IVMMhqqw4R1fa_tVpXg8SBdfi500.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 15 May 2024 03:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTRfMTYz/MDAxNzE1NjY4NTkyNDA2.veS-crtq3hw_M8ySnSkcSOGSVhP3rV1b-QYJEyfWoRog.wOCuZ1-d84xH_dwbufBBggTBm3Fu1pSD_MvfIysi1uwg.PNG/ILyt1FvAYI8OyKoVjwdPxnvUuGGY.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[8년만의 컴백! 사비나앤드론즈와 도국작가의 웹툰 인터뷰 2탄 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5167,14 +5175,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMjgw/MDAxNTg5MjUyODUxNDEy.4oBaHxVJYilyomRD_bNnLTETrX6v0g2xoz_312KQxKIg.HQ9wOO82ZCWmZ8YiErzwdN-jObhCUqEsHQnRG0eg2wQg.JPEG/ICJZR6fau4rYHtIuZaGmRrq81Q_w.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 크리스탈 티 EP <핑크 무비> 발매 기념 MV 감독 ‘아미노산’ 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=27985078&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=27985078&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA0MTNfMjYz/MDAxNTg2NzgwMDg5MjM5.1ew17Par1dHu8LAOO33hWUbAIAiJZVzg0qaKPgd3ZqYg.TGllwpnfKsxAbKJBxbt6veLfd0H9hzEQq3xmNqrjnF0g.JPEG/I4EBwjF8eCQStWSl8GVv6EvLMZc4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
