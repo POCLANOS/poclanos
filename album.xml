@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 09:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생존법]]></title>
+            <link>https://poclanos.com/album/%ec%83%9d%ec%a1%b4%eb%b2%95/</link>
+            <guid>https://poclanos.com/album/%ec%83%9d%ec%a1%b4%eb%b2%95/</guid>
+            <pubDate>Thu, 16 May 2024 09:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[한로로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%83%9D%EC%A1%B4%EB%B2%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Caffeine (咖啡氤)]]></title>
             <link>https://poclanos.com/album/caffeine-%e5%92%96%e5%95%a1%e6%b0%a4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
             <content:encoded><![CDATA[Cold Gun Chamber]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98Cold-Gun-Chamber-Tunnel-Vision%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저공비행]]></title>
-            <link>https://poclanos.com/album/%ec%a0%80%ea%b3%b5%eb%b9%84%ed%96%89/</link>
-            <guid>https://poclanos.com/album/%ec%a0%80%ea%b3%b5%eb%b9%84%ed%96%89/</guid>
-            <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[이재경]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%A0%80%EA%B3%B5%EB%B9%84%ED%96%89-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
