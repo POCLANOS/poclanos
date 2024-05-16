@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 02:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 03:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caffeine (咖啡氤)]]></title>
+            <link>https://poclanos.com/album/caffeine-%e5%92%96%e5%95%a1%e6%b0%a4/</link>
+            <guid>https://poclanos.com/album/caffeine-%e5%92%96%e5%95%a1%e6%b0%a4/</guid>
+            <pubDate>Thu, 16 May 2024 03:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[ZENBØ (禪波)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-cover-%E7%A6%AA%E6%B3%A2ZENBO-%E5%92%96%E5%95%A1%E6%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New Normal Life]]></title>
+            <link>https://poclanos.com/album/new-normal-life/</link>
+            <guid>https://poclanos.com/album/new-normal-life/</guid>
+            <pubDate>Thu, 16 May 2024 03:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-PITTA-%EA%B0%95%ED%98%95%ED%98%B8-New-Normal-Life-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거친 하루]]></title>
             <link>https://poclanos.com/album/%ea%b1%b0%ec%b9%9c-%ed%95%98%eb%a3%a8/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
             <content:encoded><![CDATA[이재경]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%A0%80%EA%B3%B5%EB%B9%84%ED%96%89-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황금빛 강 (Gold River)]]></title>
-            <link>https://poclanos.com/album/%ed%99%a9%ea%b8%88%eb%b9%9b-%ea%b0%95-gold-river/</link>
-            <guid>https://poclanos.com/album/%ed%99%a9%ea%b8%88%eb%b9%9b-%ea%b0%95-gold-river/</guid>
-            <pubDate>Thu, 09 May 2024 03:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-%ED%99%A9%EA%B8%88%EB%B9%9B-%EA%B0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선 천장 (feat. 전진희)]]></title>
-            <link>https://poclanos.com/album/%eb%82%af%ec%84%a0-%ec%b2%9c%ec%9e%a5-feat-%ec%a0%84%ec%a7%84%ed%9d%ac/</link>
-            <guid>https://poclanos.com/album/%eb%82%af%ec%84%a0-%ec%b2%9c%ec%9e%a5-feat-%ec%a0%84%ec%a7%84%ed%9d%ac/</guid>
-            <pubDate>Wed, 08 May 2024 09:10:47 GMT</pubDate>
-            <content:encoded><![CDATA[wont]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-wont-%EB%82%AF%EC%84%A0-%EC%B2%9C%EC%9E%A5-feat.-%EC%A0%84%EC%A7%84%ED%9D%AC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
