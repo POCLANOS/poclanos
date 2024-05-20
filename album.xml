@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 02:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Node]]></title>
+            <link>https://poclanos.com/album/node/</link>
+            <guid>https://poclanos.com/album/node/</guid>
+            <pubDate>Mon, 20 May 2024 03:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[Plant]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Node-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rain alert! (Feat. H:SEAN)]]></title>
+            <link>https://poclanos.com/album/rain-alert-feat-hsean/</link>
+            <guid>https://poclanos.com/album/rain-alert-feat-hsean/</guid>
+            <pubDate>Mon, 20 May 2024 03:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[a 9uy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-KIHU-a-9uy-Rain-alert-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보이즈 캐러밴]]></title>
             <link>https://poclanos.com/album/%eb%b3%b4%ec%9d%b4%ec%a6%88-%ec%ba%90%eb%9f%ac%eb%b0%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
             <content:encoded><![CDATA[O'KOYE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-OKOYE-Yezzir-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears in Water (a tucu saqemauqaung aken)]]></title>
-            <link>https://poclanos.com/album/tears-in-water-a-tucu-saqemauqaung-aken/</link>
-            <guid>https://poclanos.com/album/tears-in-water-a-tucu-saqemauqaung-aken/</guid>
-            <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[LINION]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-cover-LINION-Tears-in-Water-a-tucu-saqemauqaung-aken-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spring 1]]></title>
-            <link>https://poclanos.com/album/spring-1/</link>
-            <guid>https://poclanos.com/album/spring-1/</guid>
-            <pubDate>Mon, 13 May 2024 03:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Spring-1_%EC%BB%A4%EB%B2%84-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
