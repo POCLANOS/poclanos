@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 08:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 09:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑을 믿니 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%af%bf%eb%8b%88/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%af%bf%eb%8b%88/</guid>
+            <pubDate>Wed, 22 May 2024 09:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[이예린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%AF%BF%EB%8B%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flying Spirit (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/flying-spirit/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
             <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-General-Computation-%E9%80%9A%E7%94%A8%E8%AE%A1%E7%AE%97-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ontology (本体) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/ontology-%e6%9c%ac%e4%bd%93/</link>
-            <guid>https://poclanos.com/album/ontology-%e6%9c%ac%e4%bd%93/</guid>
-            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-%E6%9C%AC%E4%BD%93Ontology-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
