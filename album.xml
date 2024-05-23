@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 08:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 09:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wotecomb]]></title>
+            <link>https://poclanos.com/album/wotecomb/</link>
+            <guid>https://poclanos.com/album/wotecomb/</guid>
+            <pubDate>Thu, 23 May 2024 09:12:26 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-wotecomb-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[City.exe]]></title>
             <link>https://poclanos.com/album/city-exe/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 May 2024 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-PITTA-%EA%B0%95%ED%98%95%ED%98%B8-New-Normal-Life-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거친 하루]]></title>
-            <link>https://poclanos.com/album/%ea%b1%b0%ec%b9%9c-%ed%95%98%eb%a3%a8/</link>
-            <guid>https://poclanos.com/album/%ea%b1%b0%ec%b9%9c-%ed%95%98%eb%a3%a8/</guid>
-            <pubDate>Wed, 15 May 2024 09:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[손예지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EA%B1%B0%EC%B9%9C-%ED%95%98%EB%A3%A8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
