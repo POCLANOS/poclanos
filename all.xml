@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 02:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 03:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[City.exe (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/city-exe/</link>
+            <guid>https://poclanos.com/album/city-exe/</guid>
+            <pubDate>Thu, 23 May 2024 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-uju%EC%9A%B0%EC%A3%BC-City.exe_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[편서풍 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%8e%b8%ec%84%9c%ed%92%8d/</link>
+            <guid>https://poclanos.com/album/%ed%8e%b8%ec%84%9c%ed%92%8d/</guid>
+            <pubDate>Thu, 23 May 2024 03:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[물과음]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84%ED%8E%B8%EC%84%9C%ED%92%8D-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑을 믿니 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%af%bf%eb%8b%88/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 15 May 2024 09:13:24 GMT</pubDate>
             <content:encoded><![CDATA[손예지]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EA%B1%B0%EC%B9%9C-%ED%95%98%EB%A3%A8-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nostalgia (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/nostalgia/</link>
-            <guid>https://poclanos.com/album/nostalgia/</guid>
-            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[Neontype]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/NEONTYPE_Single_Albumart-Final-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[General Computation (通用计算) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/general-computation-%e9%80%9a%e7%94%a8%e8%ae%a1%e7%ae%97/</link>
-            <guid>https://poclanos.com/album/general-computation-%e9%80%9a%e7%94%a8%e8%ae%a1%e7%ae%97/</guid>
-            <pubDate>Wed, 15 May 2024 03:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-General-Computation-%E9%80%9A%E7%94%A8%E8%AE%A1%E7%AE%97-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
