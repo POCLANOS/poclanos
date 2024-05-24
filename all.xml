@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 02:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 03:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cosmos Egg (宇宙蛋) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cosmos-egg-%e5%ae%87%e5%ae%99%e8%9b%8b/</link>
+            <guid>https://poclanos.com/album/cosmos-egg-%e5%ae%87%e5%ae%99%e8%9b%8b/</guid>
+            <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-%E5%AE%87%E5%AE%99%E8%9B%8BCosmos-Egg-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[serenade (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/serenade-3/</link>
+            <guid>https://poclanos.com/album/serenade-3/</guid>
+            <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[다린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-serenade-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑을 말하면 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%a7%90%ed%95%98%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%a7%90%ed%95%98%eb%a9%b4/</guid>
+            <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[민 (Mean)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC-Mean-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그림책 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%b1%85/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%b1%85/</guid>
+            <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[Sunsat]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-%EA%B7%B8%EB%A6%BC%EC%B1%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[wotecomb (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/wotecomb/</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 17 May 2024 03:11:25 GMT</pubDate>
             <content:encoded><![CDATA[KIRARA (키라라)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%9D%BC%EB%9D%BC-ctsb_KIRARAs-10th-Anniversary-Anthology-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RAPRNB (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/raprnb/</link>
-            <guid>https://poclanos.com/album/raprnb/</guid>
-            <pubDate>Fri, 17 May 2024 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[2DaYellow]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-2DaYellow-Geek-J-RAPRNB-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생존법 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%83%9d%ec%a1%b4%eb%b2%95/</link>
-            <guid>https://poclanos.com/album/%ec%83%9d%ec%a1%b4%eb%b2%95/</guid>
-            <pubDate>Thu, 16 May 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%83%9D%EC%A1%B4%EB%B2%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caffeine (咖啡氤) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/caffeine-%e5%92%96%e5%95%a1%e6%b0%a4/</link>
-            <guid>https://poclanos.com/album/caffeine-%e5%92%96%e5%95%a1%e6%b0%a4/</guid>
-            <pubDate>Thu, 16 May 2024 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[ZENBØ (禪波)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-cover-%E7%A6%AA%E6%B3%A2ZENBO-%E5%92%96%E5%95%A1%E6%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Normal Life (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/new-normal-life/</link>
-            <guid>https://poclanos.com/album/new-normal-life/</guid>
-            <pubDate>Thu, 16 May 2024 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-PITTA-%EA%B0%95%ED%98%95%ED%98%B8-New-Normal-Life-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
