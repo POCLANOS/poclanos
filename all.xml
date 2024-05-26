@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 May 2024 02:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 May 2024 03:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집에 있어도 집에 가고 싶어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%a7%91%ec%97%90-%ec%9e%88%ec%96%b4%eb%8f%84-%ec%a7%91%ec%97%90-%ea%b0%80%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%a7%91%ec%97%90-%ec%9e%88%ec%96%b4%eb%8f%84-%ec%a7%91%ec%97%90-%ea%b0%80%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
+            <pubDate>Sun, 26 May 2024 03:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[무이야드(mooee yard)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EB%AC%B4%EC%9D%B4%EC%95%BC%EB%93%9Cmooee-yard-%EC%A7%91%EC%97%90-%EC%9E%88%EC%96%B4%EB%8F%84-%EC%A7%91%EC%97%90-%EA%B0%80%EA%B3%A0-%EC%8B%B6%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[틈 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%8b%88/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 17 May 2024 09:11:58 GMT</pubDate>
             <content:encoded><![CDATA[최수인]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%B5%9C%EC%88%98%EC%9D%B8_5%EC%9B%94-17%EC%9D%BC-feat.%EC%9C%84%EC%88%98-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[늑대인간 revive (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8a%91%eb%8c%80%ec%9d%b8%ea%b0%84-revive/</link>
-            <guid>https://poclanos.com/album/%eb%8a%91%eb%8c%80%ec%9d%b8%ea%b0%84-revive/</guid>
-            <pubDate>Fri, 17 May 2024 03:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EB%8A%91%EB%8C%80%EC%9D%B8%EA%B0%84-revive-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
