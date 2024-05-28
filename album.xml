@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 08:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 09:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Own Isekai]]></title>
+            <link>https://poclanos.com/album/my-own-isekai/</link>
+            <guid>https://poclanos.com/album/my-own-isekai/</guid>
+            <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[hyejin9w9]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/My-Own-Isekai-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집]]></title>
+            <link>https://poclanos.com/album/%ec%a7%91-2/</link>
+            <guid>https://poclanos.com/album/%ec%a7%91-2/</guid>
+            <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[한로로]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Monthly Flower Project #5]]></title>
             <link>https://poclanos.com/album/monthly-flower-project-5/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 21 May 2024 03:11:47 GMT</pubDate>
             <content:encoded><![CDATA[채영광]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B1%84%EC%98%81%EA%B4%91-%EC%B9%A8%EB%AC%B5-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sight Beyond Sight]]></title>
-            <link>https://poclanos.com/album/sight-beyond-sight/</link>
-            <guid>https://poclanos.com/album/sight-beyond-sight/</guid>
-            <pubDate>Tue, 21 May 2024 03:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[조해인(Hae In Cho)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A1%B0%ED%95%B4%EC%9D%B8-Sight-Beyond-Sight-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Node]]></title>
-            <link>https://poclanos.com/album/node/</link>
-            <guid>https://poclanos.com/album/node/</guid>
-            <pubDate>Mon, 20 May 2024 03:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[Plant]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Node-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
