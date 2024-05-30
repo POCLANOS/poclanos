@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 02:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 03:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변두리 (feat. 몽글)]]></title>
+            <link>https://poclanos.com/album/%eb%b3%80%eb%91%90%eb%a6%ac-feat-%eb%aa%bd%ea%b8%80/</link>
+            <guid>https://poclanos.com/album/%eb%b3%80%eb%91%90%eb%a6%ac-feat-%eb%aa%bd%ea%b8%80/</guid>
+            <pubDate>Thu, 30 May 2024 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[전호권]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%B8%EA%B6%8C-%EB%B3%80%EB%91%90%EB%A6%AC-feat.-%EB%AA%BD%EA%B8%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Poser! kick! punk!]]></title>
+            <link>https://poclanos.com/album/poser-kick-punk/</link>
+            <guid>https://poclanos.com/album/poser-kick-punk/</guid>
+            <pubDate>Thu, 30 May 2024 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[포져군단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8F%AC%EC%A0%B8%EA%B5%B0%EB%8B%A8-Poser-kick-punk-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비가 오는데]]></title>
             <link>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%eb%8a%94%eb%8d%b0/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 22 May 2024 09:11:38 GMT</pubDate>
             <content:encoded><![CDATA[이예린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%AF%BF%EB%8B%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Flying Spirit]]></title>
-            <link>https://poclanos.com/album/flying-spirit/</link>
-            <guid>https://poclanos.com/album/flying-spirit/</guid>
-            <pubDate>Wed, 22 May 2024 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[최첨단맨 (ultramodernista)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-artworkFlying-Spirit-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stay]]></title>
-            <link>https://poclanos.com/album/stay-6/</link>
-            <guid>https://poclanos.com/album/stay-6/</guid>
-            <pubDate>Wed, 22 May 2024 03:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[은오 (Eunoh)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%80%EC%98%A4-Eunoh-Stay-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
