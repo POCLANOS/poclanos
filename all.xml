@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 02:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 03:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연인이 되어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%97%b0%ec%9d%b8%ec%9d%b4-%eb%90%98%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%97%b0%ec%9d%b8%ec%9d%b4-%eb%90%98%ec%96%b4/</guid>
+            <pubDate>Sat, 01 Jun 2024 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[소음발광]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%97%AC%EB%A6%84%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BORNGARDEN (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/borngarden/</link>
+            <guid>https://poclanos.com/album/borngarden/</guid>
+            <pubDate>Sat, 01 Jun 2024 03:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[민강]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-BORNGARDEN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BODY (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/body/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
             <content:encoded><![CDATA[Sunsat]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-%EA%B7%B8%EB%A6%BC%EC%B1%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wotecomb (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/wotecomb/</link>
-            <guid>https://poclanos.com/album/wotecomb/</guid>
-            <pubDate>Thu, 23 May 2024 09:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-wotecomb-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City.exe (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/city-exe/</link>
-            <guid>https://poclanos.com/album/city-exe/</guid>
-            <pubDate>Thu, 23 May 2024 03:11:44 GMT</pubDate>
-            <content:encoded><![CDATA[uju(우주)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-uju%EC%9A%B0%EC%A3%BC-City.exe_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
