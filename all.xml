@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 02:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 03:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날개 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%a0%ea%b0%9c-2/</link>
+            <guid>https://poclanos.com/album/%eb%82%a0%ea%b0%9c-2/</guid>
+            <pubDate>Mon, 03 Jun 2024 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[O'KOYE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-OKOYE-%EB%82%A0%EA%B0%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그림자 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%9e%90/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%a6%bc%ec%9e%90/</guid>
+            <pubDate>Mon, 03 Jun 2024 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[전석진ABEL]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리만의 전설 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%a7%8c%ec%9d%98-%ec%a0%84%ec%84%a4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
             <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/3.-cover-%E9%AC%BC%E5%90%A6-%E5%AE%87%E5%AE%99%E8%9B%8BCosmos-Egg-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[serenade (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/serenade-3/</link>
-            <guid>https://poclanos.com/album/serenade-3/</guid>
-            <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[다린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-serenade-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑을 말하면 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%a7%90%ed%95%98%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%84-%eb%a7%90%ed%95%98%eb%a9%b4/</guid>
-            <pubDate>Fri, 24 May 2024 03:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[민 (Mean)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC-Mean-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%A7%90%ED%95%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
