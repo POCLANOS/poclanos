@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 02:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 03:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Let’s Be Together Even If The World Ends! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lets-be-together-even-if-the-world-ends/</link>
+            <guid>https://poclanos.com/album/lets-be-together-even-if-the-world-ends/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[DumbAss (덤애스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-Lets-Be-Together-Even-If-The-World-Ends-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영원한 여름 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%98%81%ec%9b%90%ed%95%9c-%ec%97%ac%eb%a6%84/</link>
+            <guid>https://poclanos.com/album/%ec%98%81%ec%9b%90%ed%95%9c-%ec%97%ac%eb%a6%84/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[도시고독]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%8F%84%EC%8B%9C%EA%B3%A0%EB%8F%85-%EC%98%81%EC%9B%90%ED%95%9C-%EC%97%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너를 찾아 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%ec%b0%be%ec%95%84/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%ec%b0%be%ec%95%84/</guid>
+            <pubDate>Tue, 04 Jun 2024 03:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[김만재]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%A7%8C%EC%9E%AC-%EB%84%88%EB%A5%BC-%EC%B0%BE%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[르네상스 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 27 May 2024 03:12:58 GMT</pubDate>
             <content:encoded><![CDATA[비공정]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/Null-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRACULAGIRL (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/draculagirl/</link>
-            <guid>https://poclanos.com/album/draculagirl/</guid>
-            <pubDate>Mon, 27 May 2024 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[우주왕복선싸이드미러]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%EC%99%95%EB%B3%B5%EC%84%A0%EC%8B%B8%EC%9D%B4%EB%93%9C%EB%AF%B8%EB%9F%AC-DRACULAGIRL-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집에 있어도 집에 가고 싶어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a7%91%ec%97%90-%ec%9e%88%ec%96%b4%eb%8f%84-%ec%a7%91%ec%97%90-%ea%b0%80%ea%b3%a0-%ec%8b%b6%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%ec%a7%91%ec%97%90-%ec%9e%88%ec%96%b4%eb%8f%84-%ec%a7%91%ec%97%90-%ea%b0%80%ea%b3%a0-%ec%8b%b6%ec%96%b4/</guid>
-            <pubDate>Sun, 26 May 2024 03:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[무이야드(mooee yard)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%EB%AC%B4%EC%9D%B4%EC%95%BC%EB%93%9Cmooee-yard-%EC%A7%91%EC%97%90-%EC%9E%88%EC%96%B4%EB%8F%84-%EC%A7%91%EC%97%90-%EA%B0%80%EA%B3%A0-%EC%8B%B6%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틈 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%8b%88/</link>
-            <guid>https://poclanos.com/album/%ed%8b%88/</guid>
-            <pubDate>Sat, 25 May 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[전아인 (JEONAIN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%95%84%EC%9D%B8-JEONAIN-%ED%8B%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
