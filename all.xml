@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 08:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 09:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 느낌 그대로 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</guid>
+            <pubDate>Wed, 05 Jun 2024 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sailor (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/sailor/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[hyejin9w9]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/My-Own-Isekai-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a7%91-2/</link>
-            <guid>https://poclanos.com/album/%ec%a7%91-2/</guid>
-            <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4698,6 +4698,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Monday Off With Bluesy 싱글앨범 <이 느낌 그대로> 뮤직비디오 촬영기 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37931435&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37931435&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 05 Jun 2024 09:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /Monday Off With Bluesy 싱글 앨범 &lt;이 느낌 그대로&gt; 뮤직비디오 촬영기 ARTIST | Monday Off With Bluesy ALBUM | 이 느낌 그대로 놓치지 말아야 하는 순간들은 어딘가에서 환하게 빛을 내며 나에게···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDNfMjYz/MDAxNzE3NDAxNTU3Mjcy.PsIYCySwb5_kdp_NjwSdHyVfzZCaslcRfwBOi1bx_SQg.GoC6eJDKgeB0oK-7NWsmfFTaU_Hpz6KbsKZQxDky94og.JPEG/IRVdXsY2oGip6qT_5pFn1wC-xrXw.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938</guid>
@@ -4846,14 +4854,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 겨울을 지나 맞이하는 가을, 싱어송라이터 사뮈 인터뷰 사뮈가 새로운 EP &lt;가을은 흐릿한 오후&gt;로 돌아왔다. 싱글 &lt;본&gt;을 발매한 지 약 2년의 세월이 흐른 뒤의 첫 EP다. 밴드 사운드 위주···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU0/MDAxNjk4ODIxNzkxNDk4.nHbr5lDfj8r94lRIz8FiRzEzrwT4X23HA4AQ1al0TDIg.IkjMV0Ia_z5cLni168m0lTAXXy8Aex5IpSDHifBoSkgg.JPEG/IbHkEx7m48Ua141MkCmbhuFoUjyQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스트워터의 데뷔 싱글 [Never Ending] 발매 기념. 인생의 타이밍에 대한 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36767411&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36767411&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 14 Nov 2023 12:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL/30년 만에 첫 데뷔 싱글 발표! 이스트워터의&nbsp;데뷔&nbsp;싱글&nbsp;[Never&nbsp;Ending]&nbsp;발매&nbsp;기념. 인생의&nbsp;타이밍에&nbsp;대한&nbsp;인터뷰 사람의&nbsp;인생에는&nbsp;타이밍이&nbsp;있다고&nbsp;한다.&nbsp;노을은&nbsp;가장&nbsp;붉게&nbsp;타오르는&nbsp;순간이&nbsp;있고,&nbsp;와인은&nbsp;품···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjg3/MDAxNjk4MDM2MzczOTUx.3khwQ8xnxXrt7aSNDmTvtl4grPcBsqgAeBfx8EFQ2eAg.IVQ14W1hSMbBd12MaS4A0N-qg9cTScUNQT-WmtpPyTsg.JPEG/IPY7lKtqgaiknS_cb0Pz-apY79G0.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5016,6 +5016,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MTdfMTQ0/MDAxNTk0OTcxMjA1ODUz.o32Ag6yeImzpRO6DRyCQc8vnYOgbeK9hdd82MRoPCvAg.2tnbQhmtUTvh-bG5ijedWV2i4Z3eu8ztUqd7hsQ61bog.JPEG/IVMMhqqw4R1fa_tVpXg8SBdfi500.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Monday Off With Bluesy 싱글앨범 <이 느낌 그대로> 뮤직비디오 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37931435&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37931435&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 05 Jun 2024 09:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDNfMjYz/MDAxNzE3NDAxNTU3Mjcy.PsIYCySwb5_kdp_NjwSdHyVfzZCaslcRfwBOi1bx_SQg.GoC6eJDKgeB0oK-7NWsmfFTaU_Hpz6KbsKZQxDky94og.JPEG/IRVdXsY2oGip6qT_5pFn1wC-xrXw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5167,14 +5175,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTkw/MDAxNTg5Mjg1Mjc2NTQ3.-yU2k7losT3uW5kiu6Y_TxBst8f6XbgHp-vBIaJ7P4Qg.whXAnD3auavOcpBdHKQ2U5uaErknH6RYOkW8wUosQTMg.JPEG/IyNojLi3z9Ly0-kgPG3Hk_hxI2UU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] gong (공) EP 염증나무 라이브 클립 촬영 비하인드 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28251879&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28251879&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMjgw/MDAxNTg5MjUyODUxNDEy.4oBaHxVJYilyomRD_bNnLTETrX6v0g2xoz_312KQxKIg.HQ9wOO82ZCWmZ8YiErzwdN-jObhCUqEsHQnRG0eg2wQg.JPEG/ICJZR6fau4rYHtIuZaGmRrq81Q_w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 포크라노스 코멘터리)]]></title>

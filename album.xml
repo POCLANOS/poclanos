@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 08:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 09:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 느낌 그대로]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</guid>
+            <pubDate>Wed, 05 Jun 2024 09:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sailor]]></title>
             <link>https://poclanos.com/album/sailor/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[hyejin9w9]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/My-Own-Isekai-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집]]></title>
-            <link>https://poclanos.com/album/%ec%a7%91-2/</link>
-            <guid>https://poclanos.com/album/%ec%a7%91-2/</guid>
-            <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
