@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 02:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 03:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sailor (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/sailor/</link>
+            <guid>https://poclanos.com/album/sailor/</guid>
+            <pubDate>Wed, 05 Jun 2024 03:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[유령서점]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%84%B8%EC%9D%BC%EB%9F%AC1_1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젖은 소매 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%a0%96%ec%9d%80-%ec%86%8c%eb%a7%a4/</link>
+            <guid>https://poclanos.com/album/%ec%a0%96%ec%9d%80-%ec%86%8c%eb%a7%a4/</guid>
+            <pubDate>Wed, 05 Jun 2024 03:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[2단지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2%EB%8B%A8%EC%A7%80-%EC%A0%96%EC%9D%80-%EC%86%8C%EB%A7%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Spotless mind (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/spotless-mind/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
             <content:encoded><![CDATA[한로로]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monthly Flower Project #5 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/monthly-flower-project-5/</link>
-            <guid>https://poclanos.com/album/monthly-flower-project-5/</guid>
-            <pubDate>Mon, 27 May 2024 09:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[PERC%NT]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/ORIGAMI-cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천천히 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b2%9c%ec%b2%9c%ed%9e%88-2/</link>
-            <guid>https://poclanos.com/album/%ec%b2%9c%ec%b2%9c%ed%9e%88-2/</guid>
-            <pubDate>Mon, 27 May 2024 03:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[손효진]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%90%ED%9A%A8%EC%A7%84-%EC%B2%9C%EC%B2%9C%ED%9E%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
