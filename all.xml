@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 02:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 03:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Queen of Trance (神游大王) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/the-queen-of-trance-%e7%a5%9e%e6%b8%b8%e5%a4%a7%e7%8e%8b/</link>
+            <guid>https://poclanos.com/album/the-queen-of-trance-%e7%a5%9e%e6%b8%b8%e5%a4%a7%e7%8e%8b/</guid>
+            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-cover-%E9%AC%BC%E5%90%A6-%E7%A5%9E%E6%B8%B8%E5%A4%A7%E7%8E%8B-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bad Thinkin’ (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/bad-thinkin/</link>
+            <guid>https://poclanos.com/album/bad-thinkin/</guid>
+            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[cott (콧)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-cott-Bad-Thinkin-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그러나 욕심은 없단다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%95%ec%8b%ac%ec%9d%80-%ec%97%86%eb%8b%a8%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%95%ec%8b%ac%ec%9d%80-%ec%97%86%eb%8b%a8%eb%8b%a4/</guid>
+            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[해파리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EA%B7%B8%EB%9F%AC%EB%82%98-%EC%9A%95%EC%8B%AC%EC%9D%80-%EC%97%86%EB%8B%A8%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[극적인 역전 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b9%ec%a0%81%ec%9d%b8-%ec%97%ad%ec%a0%84/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b9%ec%a0%81%ec%9d%b8-%ec%97%ad%ec%a0%84/</guid>
+            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B7%B9%EC%A0%81%EC%9D%B8-%EC%97%AD%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 느낌 그대로 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 30 May 2024 03:11:45 GMT</pubDate>
             <content:encoded><![CDATA[전호권]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%B8%EA%B6%8C-%EB%B3%80%EB%91%90%EB%A6%AC-feat.-%EB%AA%BD%EA%B8%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Poser! kick! punk! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/poser-kick-punk/</link>
-            <guid>https://poclanos.com/album/poser-kick-punk/</guid>
-            <pubDate>Thu, 30 May 2024 03:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[포져군단]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8F%AC%EC%A0%B8%EA%B5%B0%EB%8B%A8-Poser-kick-punk-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 오는데 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%eb%8a%94%eb%8d%b0/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%ec%98%a4%eb%8a%94%eb%8d%b0/</guid>
-            <pubDate>Wed, 29 May 2024 03:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[전진희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8F%AC%EC%A0%B8%EA%B5%B0%EB%8B%A8-Poser-kick-punk-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BETAMALE TAPE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/betamale-tape/</link>
-            <guid>https://poclanos.com/album/betamale-tape/</guid>
-            <pubDate>Wed, 29 May 2024 03:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[하오부]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EC%98%A4%EB%B6%80-BETAMALE-TAPE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Own Isekai (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/my-own-isekai/</link>
-            <guid>https://poclanos.com/album/my-own-isekai/</guid>
-            <pubDate>Tue, 28 May 2024 09:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[hyejin9w9]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/My-Own-Isekai-Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
