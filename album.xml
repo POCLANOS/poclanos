@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jun 2024 02:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 03:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비밀]]></title>
+            <link>https://poclanos.com/album/%eb%b9%84%eb%b0%80-3/</link>
+            <guid>https://poclanos.com/album/%eb%b9%84%eb%b0%80-3/</guid>
+            <pubDate>Sat, 08 Jun 2024 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[신승은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%B9%84%EB%B0%80-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찾아와줘]]></title>
             <link>https://poclanos.com/album/%ec%b0%be%ec%95%84%ec%99%80%ec%a4%98/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 01 Jun 2024 03:13:36 GMT</pubDate>
             <content:encoded><![CDATA[소음발광]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%97%AC%EB%A6%84%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BORNGARDEN]]></title>
-            <link>https://poclanos.com/album/borngarden/</link>
-            <guid>https://poclanos.com/album/borngarden/</guid>
-            <pubDate>Sat, 01 Jun 2024 03:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[민강]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-BORNGARDEN-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
