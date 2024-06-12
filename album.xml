@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 02:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 03:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hymns from the Dragon Lake]]></title>
+            <link>https://poclanos.com/album/hymns-from-the-dragon-lake/</link>
+            <guid>https://poclanos.com/album/hymns-from-the-dragon-lake/</guid>
+            <pubDate>Wed, 12 Jun 2024 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[양반들]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-Hymns-from-the-Dragon-Lake-Cover-Art-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[둘라밤]]></title>
+            <link>https://poclanos.com/album/%eb%91%98%eb%9d%bc%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%91%98%eb%9d%bc%eb%b0%a4/</guid>
+            <pubDate>Wed, 12 Jun 2024 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[둘라밤]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EB%91%98%EB%9D%BC%EB%B0%A4-%EB%91%98%EB%9D%BC%EB%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그때 그 사랑은]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%95%8c-%ea%b7%b8-%ec%82%ac%eb%9e%91%ec%9d%80/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 05 Jun 2024 03:13:48 GMT</pubDate>
             <content:encoded><![CDATA[2단지]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2%EB%8B%A8%EC%A7%80-%EC%A0%96%EC%9D%80-%EC%86%8C%EB%A7%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spotless mind]]></title>
-            <link>https://poclanos.com/album/spotless-mind/</link>
-            <guid>https://poclanos.com/album/spotless-mind/</guid>
-            <pubDate>Tue, 04 Jun 2024 09:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[ffpp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ffpp-Spotless-mind-240520-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let’s Be Together Even If The World Ends!]]></title>
-            <link>https://poclanos.com/album/lets-be-together-even-if-the-world-ends/</link>
-            <guid>https://poclanos.com/album/lets-be-together-even-if-the-world-ends/</guid>
-            <pubDate>Tue, 04 Jun 2024 03:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[DumbAss (덤애스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DumbAss-Lets-Be-Together-Even-If-The-World-Ends-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
