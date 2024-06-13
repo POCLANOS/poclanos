@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 02:32:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 03:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타오르는 선 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%84%a0/</link>
+            <guid>https://poclanos.com/album/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%84%a0/</guid>
+            <pubDate>Thu, 13 Jun 2024 03:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[오미비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%AF%B8%EB%B9%84-%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94-%EC%84%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Flows #2 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/flows-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jun 2024 09:13:20 GMT</pubDate>
             <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sailor (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sailor/</link>
-            <guid>https://poclanos.com/album/sailor/</guid>
-            <pubDate>Wed, 05 Jun 2024 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[유령서점]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%84%B8%EC%9D%BC%EB%9F%AC1_1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
