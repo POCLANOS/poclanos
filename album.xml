@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 08:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 09:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VOL.04]]></title>
+            <link>https://poclanos.com/album/vol-04/</link>
+            <guid>https://poclanos.com/album/vol-04/</guid>
+            <pubDate>Thu, 13 Jun 2024 09:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.04-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타오르는 선]]></title>
             <link>https://poclanos.com/album/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%84%a0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
             <content:encoded><![CDATA[우주히피]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B7%B9%EC%A0%81%EC%9D%B8-%EC%97%AD%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 느낌 그대로]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%8a%90%eb%82%8c-%ea%b7%b8%eb%8c%80%eb%a1%9c/</guid>
-            <pubDate>Wed, 05 Jun 2024 09:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/05/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
