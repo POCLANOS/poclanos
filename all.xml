@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 02:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 03:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aintgoingdown (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/aintgoingdown/</link>
+            <guid>https://poclanos.com/album/aintgoingdown/</guid>
+            <pubDate>Fri, 14 Jun 2024 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[BAU]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%A6%BC%ED%97%A4%EC%97%84-BAU-Aintgoingdown-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아라한 (ARHAT) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%eb%9d%bc%ed%95%9c-arhat/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%eb%9d%bc%ed%95%9c-arhat/</guid>
+            <pubDate>Fri, 14 Jun 2024 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-%EC%95%84%EB%9D%BC%ED%95%9C-ARHAT-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SLOWLY (Feat. g0nny) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/slowly-feat-g0nny/</link>
+            <guid>https://poclanos.com/album/slowly-feat-g0nny/</guid>
+            <pubDate>Fri, 14 Jun 2024 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-SLOWLY-Feat.-g0nny-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VOL.04 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/vol-04/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
             <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-cover-%E9%AC%BC%E5%90%A6-%E7%A5%9E%E6%B8%B8%E5%A4%A7%E7%8E%8B-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bad Thinkin’ (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/bad-thinkin/</link>
-            <guid>https://poclanos.com/album/bad-thinkin/</guid>
-            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[cott (콧)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-cott-Bad-Thinkin-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그러나 욕심은 없단다 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%95%ec%8b%ac%ec%9d%80-%ec%97%86%eb%8b%a8%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%9a%95%ec%8b%ac%ec%9d%80-%ec%97%86%eb%8b%a8%eb%8b%a4/</guid>
-            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[해파리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EA%B7%B8%EB%9F%AC%EB%82%98-%EC%9A%95%EC%8B%AC%EC%9D%80-%EC%97%86%EB%8B%A8%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극적인 역전 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b9%ec%a0%81%ec%9d%b8-%ec%97%ad%ec%a0%84/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b9%ec%a0%81%ec%9d%b8-%ec%97%ad%ec%a0%84/</guid>
-            <pubDate>Thu, 06 Jun 2024 03:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[우주히피]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EA%B7%B9%EC%A0%81%EC%9D%B8-%EC%97%AD%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -1037,7 +1037,7 @@
             <pubDate>Fri, 29 Mar 2024 03:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
 		<h2 class="entry-title"><a href="https://poclanos.com/interview/jkc/" rel="bookmark" data-pjax-state="">함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/jkc/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2024-03-29T12:00:39+09:00">2024년 3월 29일</time><time class="updated" datetime="2024-04-01T14:30:44+09:00">2024년 4월 1일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
+				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/jkc/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2024-03-29T12:00:39+09:00">2024년 3월 29일</time><time class="updated" datetime="2024-06-14T12:02:29+09:00">2024년 6월 14일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
@@ -1049,20 +1049,21 @@
 		<div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
 <div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_0_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfNjkg/MDAxNzExNTMxMDU4Nzky.CIqinf5sVhVpmXpCrHpAZrKjt6t8bOURSA23jrW8M-Ig.Hdl1X9oxqGYt4pu84v7W2pPqUHphfBahdJfNe4uzleog.JPEG/%EC%9E%AD%ED%82%B9%EC%BD%A9_%ED%94%84%EB%A1%9C%ED%95%84_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_0_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfNjkg/MDAxNzExNTMxMDU4Nzky.CIqinf5sVhVpmXpCrHpAZrKjt6t8bOURSA23jrW8M-Ig.Hdl1X9oxqGYt4pu84v7W2pPqUHphfBahdJfNe4uzleog.JPEG/%EC%9E%AD%ED%82%B9%EC%BD%A9_%ED%94%84%EB%A1%9C%ED%95%84_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg?type=w1200" alt="" width="1000" height="667" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfNjkg/MDAxNzExNTMxMDU4Nzky.CIqinf5sVhVpmXpCrHpAZrKjt6t8bOURSA23jrW8M-Ig.Hdl1X9oxqGYt4pu84v7W2pPqUHphfBahdJfNe4uzleog.JPEG/%EC%9E%AD%ED%82%B9%EC%BD%A9_%ED%94%84%EB%A1%9C%ED%95%84_%EC%9D%B4%EB%AF%B8%EC%A7%80.jpg?type=w1200" data-attachment-id="IM8VPT8X2UCoUgZZkrZBxFYhBP8I"></a></div>
+<div class="se_viewArea"></div>
 </div>
 </div>
 </div>
 <div class="se_component se_paragraph default">
+<p><img loading="lazy" class="aligncenter size-full wp-image-57840" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지01_잭킹콩-프로필.jpg" alt="" width="1000" height="667" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지01_잭킹콩-프로필.jpg 1000w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지01_잭킹콩-프로필-900x600.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지01_잭킹콩-프로필-768x512.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></p>
 <div class="se_sectionArea">
 <div class="se_editArea">
-<p>&nbsp;</p>
 <div class="se_viewArea se_ff_nanumgothic se_fs_T3 se_align-left">
 <div class="se_editView">
 <div class="se_textView">
+<p>&nbsp;</p>
 <p><strong>함께 만들어 나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰</strong></p>
 <p>&nbsp;</p>
-<p class="se_textarea">살면서 저마다의 여정이나 모험을 떠나게 된다. 그 과정에서 ‘동료’를 만나 공통된 목표를 가지고 함께 떠나는 일은 말 그대로 한 배를 타는 일과 다름없다. 키를 잡고 같은 구호에 맞춰 한마음 한뜻으로 힘차게 노를 저어야 한다.&nbsp;선명할 것 같았던 종착지가 흐릿하게 보이거나, 의도치 않게 뱃머리가 돌아가며 방향이 틀어지기도 하면 마음을 일치시키기란 더욱 어렵다.</p>
+<p class="se_textarea">살면서 저마다의 여정이나 모험을 떠나게 된다. 그 과정에서 ‘료’를 만나 공통된 목표를 가지고 함께 떠나는 일은 말 그대로 한 배를 타는 일과 다름없다. 키를 잡고 같은 구호에 맞춰 한마음 한뜻으로 힘차게 노를 저어야 한다. 선명할 것 같았던 종착지가 흐릿하게 보이거나, 의도치 않게 뱃머리가 돌아가며 방향이 틀어지기도 하면 마음을 일치시키기란 더욱 어렵다.</p>
 <p>&nbsp;</p>
 <p>음악씬에서 밴드로 활동한다는 것은 같은 목적지를 향하는 선원이 되는 것과 다름이 없다. 그런 의미에서 밴드 잭킹콩은 튼튼하고 착실한 함선이 아닐까 싶다. 추구하는 음악의 리듬을 표현하다가 우연히 ‘잭, 킹, 콩’이라는 소리를 캐치한 것처럼, 위기가 닥쳐올 때마다 잭킹콩은 자신들 특유의 리듬감 넘치는 유연한 태도로 극복해왔다. 꾸준하고 굵직한 이력 속에서, 매순간마다 찾아왔을 위기를 극복해왔다는 사실은 이들이 인간적으로도, 뮤지션으로서의 유대도 깊은 밴드임을 실감하게 만든다. 벌써 5년이란 시간을 의기투합해오며 동일한 목적지를 향해 나아가는 선원들, 밴드 잭킹콩을 만나 인터뷰를 진행했다.</p>
 <p>&nbsp;</p>
@@ -1114,9 +1115,7 @@
 </div>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_1_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMTUw/MDAxNzExNTMwNTA2Mzg3.FiirCX7u2gczvG_FDU1MwB6GVQZl9kpURkP3Hw3iHGwg.tO3ZWT_EFNpnQqpKT74lnKgIhRvwwekTyX5DuTYmylwg.JPEG/4.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_1_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTUw/MDAxNzExNTMwNTA2Mzg3.FiirCX7u2gczvG_FDU1MwB6GVQZl9kpURkP3Hw3iHGwg.tO3ZWT_EFNpnQqpKT74lnKgIhRvwwekTyX5DuTYmylwg.JPEG/4.jpg?type=w1200" alt="" width="7008" height="4672" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTUw/MDAxNzExNTMwNTA2Mzg3.FiirCX7u2gczvG_FDU1MwB6GVQZl9kpURkP3Hw3iHGwg.tO3ZWT_EFNpnQqpKT74lnKgIhRvwwekTyX5DuTYmylwg.JPEG/4.jpg?type=w1200" data-attachment-id="IajdQre1RTjp_1ZwIJ_-PDbcRwVc"></a></div>
-</div>
+<div class="se_editArea"><img loading="lazy" class="aligncenter size-full wp-image-57841" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-scaled.jpg" alt="" width="2560" height="1707" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-900x600.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-1024x683.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-768x512.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-1536x1024.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지02-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
 </div>
 </div>
 <div class="se_component se_paragraph default">
@@ -1152,9 +1151,7 @@
 </div>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_2_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfNDUg/MDAxNzExNTMwNTU5OTMx.nF8w8nP_B-eiQulweRAQDY6Rq_3qtw8ro0tMfK0Jtqcg.3z1qMzgFAIs7OZS9l5flozbEyLZBnRmBpwLZaXPgzycg.JPEG/4._%28%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%29_%EC%9E%AD%ED%82%B9%EC%BD%A9_%28JKC%29-Apophenia.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_2_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfNDUg/MDAxNzExNTMwNTU5OTMx.nF8w8nP_B-eiQulweRAQDY6Rq_3qtw8ro0tMfK0Jtqcg.3z1qMzgFAIs7OZS9l5flozbEyLZBnRmBpwLZaXPgzycg.JPEG/4._%28%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%29_%EC%9E%AD%ED%82%B9%EC%BD%A9_%28JKC%29-Apophenia.jpg?type=w1200" alt="" width="4800" height="4800" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfNDUg/MDAxNzExNTMwNTU5OTMx.nF8w8nP_B-eiQulweRAQDY6Rq_3qtw8ro0tMfK0Jtqcg.3z1qMzgFAIs7OZS9l5flozbEyLZBnRmBpwLZaXPgzycg.JPEG/4._%28%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%29_%EC%9E%AD%ED%82%B9%EC%BD%A9_%28JKC%29-Apophenia.jpg?type=w1200" data-attachment-id="Inpb0nfqeDLKXbGVAsHA0I_WqLGI"></a></div>
-</div>
+<div class="se_editArea"><img loading="lazy" class="aligncenter size-full wp-image-57842" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-scaled.jpg" alt="" width="2560" height="2560" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-900x900.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-1024x1024.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-600x600.jpg 600w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-768x768.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-1536x1536.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지03_앨범-커버-2048x2048.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
 </div>
 </div>
 <div class="se_component se_paragraph default">
@@ -1197,12 +1194,10 @@
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-57843" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-scaled.jpg" alt="" width="2560" height="1428" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-900x502.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-1024x571.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-768x429.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-1536x857.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지04-2048x1143.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></p>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_3_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMjU5/MDAxNzExNTMwNjI1NTQx.nCW62STDzYoK__4eP6tzX1YIvL_lgyvtc0oABuV5MX0g.6MNxr2iI0ad81FDdum-KAiC17CSybIofmDQmQbUdLyYg.JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-02-18_%EC%98%A4%ED%9B%84_4.09.06.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_3_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjU5/MDAxNzExNTMwNjI1NTQx.nCW62STDzYoK__4eP6tzX1YIvL_lgyvtc0oABuV5MX0g.6MNxr2iI0ad81FDdum-KAiC17CSybIofmDQmQbUdLyYg.JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-02-18_%EC%98%A4%ED%9B%84_4.09.06.jpg?type=w1200" alt="" width="2871" height="1602" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjU5/MDAxNzExNTMwNjI1NTQx.nCW62STDzYoK__4eP6tzX1YIvL_lgyvtc0oABuV5MX0g.6MNxr2iI0ad81FDdum-KAiC17CSybIofmDQmQbUdLyYg.JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-02-18_%EC%98%A4%ED%9B%84_4.09.06.jpg?type=w1200" data-attachment-id="I4MKvR4aF-bCcJdRYoezjgi0xXD8"></a></div>
-</div>
+<div class="se_editArea"></div>
 </div>
 </div>
 <div></div>
@@ -1262,9 +1257,7 @@
 <p>&nbsp;</p>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_4_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMTYx/MDAxNzExNTMwNjM3OTIw.XaN9v_1xWYAFlkWAOyjOdk4EBYAuPFMsxvP81h8XSDMg.eYLxe7KiH8mfTNwyIG83QmUo9j5ZAPb3zteJo_pJJcUg.JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-02-18_%EC%98%A4%ED%9B%84_4.09.59.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_4_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTYx/MDAxNzExNTMwNjM3OTIw.XaN9v_1xWYAFlkWAOyjOdk4EBYAuPFMsxvP81h8XSDMg.eYLxe7KiH8mfTNwyIG83QmUo9j5ZAPb3zteJo_pJJcUg.JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-02-18_%EC%98%A4%ED%9B%84_4.09.59.jpg?type=w1200" alt="" width="2879" height="1597" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTYx/MDAxNzExNTMwNjM3OTIw.XaN9v_1xWYAFlkWAOyjOdk4EBYAuPFMsxvP81h8XSDMg.eYLxe7KiH8mfTNwyIG83QmUo9j5ZAPb3zteJo_pJJcUg.JPEG/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2024-02-18_%EC%98%A4%ED%9B%84_4.09.59.jpg?type=w1200" data-attachment-id="IJGhJw3WPNTeIeJCCFyIwIzTVRcI"></a></div>
-</div>
+<div class="se_editArea"><img loading="lazy" class="aligncenter size-full wp-image-57845" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-scaled.jpg" alt="" width="2560" height="1420" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-900x499.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-1024x568.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-768x426.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-1536x852.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지05-2048x1136.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
 </div>
 </div>
 <div class="se_component se_paragraph default">
@@ -1421,9 +1414,7 @@
 </div>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_5_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjhfMTM4/MDAxNzExNTk1ODQ5MDQ0.QuSml9ns4sBr1xE2Y9gEufqp8ToaHxDrRQF7yBheCbQg.ckm1mMb4XHcsmlDx_h4RC0V8VcLNyjdm25IdkRs9XaAg.JPEG/%EC%9E%AD%ED%82%B9%EC%BD%A9%28JKC%29%2B%EC%A0%95%EA%B7%9C%2B2%EC%A7%91%2B%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4%2BApophenia2020%EB%85%84%2B%EC%A0%95%EA%B7%9C%2B1%EC%A7%91%2BDress%2BCode%2B%EC%9D%B4%ED%9B%84%2B4%EB%85%84%2B%EB%A7%8C%EC%97%90%2B%EB%B0%9C.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_5_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjhfMTM4/MDAxNzExNTk1ODQ5MDQ0.QuSml9ns4sBr1xE2Y9gEufqp8ToaHxDrRQF7yBheCbQg.ckm1mMb4XHcsmlDx_h4RC0V8VcLNyjdm25IdkRs9XaAg.JPEG/%EC%9E%AD%ED%82%B9%EC%BD%A9%28JKC%29%2B%EC%A0%95%EA%B7%9C%2B2%EC%A7%91%2B%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4%2BApophenia2020%EB%85%84%2B%EC%A0%95%EA%B7%9C%2B1%EC%A7%91%2BDress%2BCode%2B%EC%9D%B4%ED%9B%84%2B4%EB%85%84%2B%EB%A7%8C%EC%97%90%2B%EB%B0%9C.jpg?type=w1200" alt="" width="1080" height="1350" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjhfMTM4/MDAxNzExNTk1ODQ5MDQ0.QuSml9ns4sBr1xE2Y9gEufqp8ToaHxDrRQF7yBheCbQg.ckm1mMb4XHcsmlDx_h4RC0V8VcLNyjdm25IdkRs9XaAg.JPEG/%EC%9E%AD%ED%82%B9%EC%BD%A9%28JKC%29%2B%EC%A0%95%EA%B7%9C%2B2%EC%A7%91%2B%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4%2BApophenia2020%EB%85%84%2B%EC%A0%95%EA%B7%9C%2B1%EC%A7%91%2BDress%2BCode%2B%EC%9D%B4%ED%9B%84%2B4%EB%85%84%2B%EB%A7%8C%EC%97%90%2B%EB%B0%9C.jpg?type=w1200" data-attachment-id="IJz1zejztvtQhZy9GNCIaDkZdorQ"></a></div>
-</div>
+<div class="se_editArea"><img loading="lazy" class="aligncenter size-full wp-image-57846" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지06.jpg" alt="" width="1080" height="1350" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지06.jpg 1080w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지06-720x900.jpg 720w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지06-819x1024.jpg 819w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지06-768x960.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px"></div>
 </div>
 </div>
 <div class="se_component se_paragraph default">
@@ -1530,9 +1521,7 @@
 </div>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_6_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMjEz/MDAxNzExNTMwNzQ2NTk1.KyAcbH30Z010lDGt-Gg8iWMGhJ0hqcaY65o0kHplTtQg.GctI2GhzxjRoVFNzr7MTGc5rH7d6-llcrUJvND5kBX4g.JPEG/CHR07024.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_6_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjEz/MDAxNzExNTMwNzQ2NTk1.KyAcbH30Z010lDGt-Gg8iWMGhJ0hqcaY65o0kHplTtQg.GctI2GhzxjRoVFNzr7MTGc5rH7d6-llcrUJvND5kBX4g.JPEG/CHR07024.jpg?type=w1200" alt="" width="6819" height="4546" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjEz/MDAxNzExNTMwNzQ2NTk1.KyAcbH30Z010lDGt-Gg8iWMGhJ0hqcaY65o0kHplTtQg.GctI2GhzxjRoVFNzr7MTGc5rH7d6-llcrUJvND5kBX4g.JPEG/CHR07024.jpg?type=w1200" data-attachment-id="IKInQWLmMXOj7-2veHAyCZprZrIA"></a></div>
-</div>
+<div class="se_editArea"><img loading="lazy" class="aligncenter size-full wp-image-57847" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-scaled.jpg" alt="" width="2560" height="1707" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-900x600.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-1024x683.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-768x512.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-1536x1024.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지07-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
 </div>
 </div>
 <div class="se_component se_paragraph default">
@@ -1560,7 +1549,7 @@
 <p><b>심강훈<span lang="ko">:</span></b><span lang="ko">&nbsp;</span><span lang="ko">2</span>집을 준비하는 맥락이랑도 비슷한 게<span lang="ko">,&nbsp;</span>번아웃이 오면 저희는 이겨내려는 마음이 큰 것 같아요<span lang="ko">.&nbsp;</span>잭킹콩이 여기서 무너지면 너무 아쉬울 것 같다고 생각하거든요<span lang="ko">.&nbsp;</span>제 생각에는 모든 멤버들이 그렇게 생각하는 것 같아요<span lang="ko">.&nbsp;</span>잡초 같은 그런 근성이 있지 않나 싶어요<span lang="ko">.&nbsp;</span>무너지는 순간은 사실 정말 많았어요<span lang="ko">.&nbsp;</span>어쨌든 다른 스텝으로 넘어가면서 이겨내려고 하거든요<span lang="ko">.</span></p>
 <p><span lang="ko">&nbsp;</span><br>
 <span lang="ko">&nbsp;</span></p>
-<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-57848" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지08.jpg" alt="" width="1170" height="1360" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지08.jpg 1170w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지08-774x900.jpg 774w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지08-881x1024.jpg 881w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지08-768x893.jpg 768w" sizes="(max-width: 1170px) 100vw, 1170px"></p>
 </div>
 </div>
 </div>
@@ -1568,11 +1557,7 @@
 </div>
 </div>
 <div class="se_component se_image default">
-<div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_7_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMjA3/MDAxNzExNTMwNzU5ODk1.TyzPMlLabVkOl_bsHssrxP4bolzJJJUWR8ubZu7QBzwg.EhB-565lH6R-zbCHDf-qZyO1ywzJvqf9-c161h31qPwg.JPEG/IMG_6658.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_7_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjA3/MDAxNzExNTMwNzU5ODk1.TyzPMlLabVkOl_bsHssrxP4bolzJJJUWR8ubZu7QBzwg.EhB-565lH6R-zbCHDf-qZyO1ywzJvqf9-c161h31qPwg.JPEG/IMG_6658.jpg?type=w1200" alt="" width="1170" height="1360" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjA3/MDAxNzExNTMwNzU5ODk1.TyzPMlLabVkOl_bsHssrxP4bolzJJJUWR8ubZu7QBzwg.EhB-565lH6R-zbCHDf-qZyO1ywzJvqf9-c161h31qPwg.JPEG/IMG_6658.jpg?type=w1200" data-attachment-id="IzTcNc_KLKjN3tptPIGFOL57zuEE"></a></div>
-</div>
-</div>
+<div class="se_editArea"></div>
 </div>
 <div class="se_component se_paragraph default">
 <div class="se_sectionArea">
@@ -1617,9 +1602,7 @@
 <p>&nbsp;</p>
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
-<div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_8_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMjkx/MDAxNzExNTMwNzY4Nzc1.rn2ryG-3hOfW02B2TVWXr6h1LIltD7wtG7a7PapUSzUg.bFUJrMFJrz4hn8lun1yZJFl3kLdpU4yJGyX7piiK22Ag.JPEG/CHR06353.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_8_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjkx/MDAxNzExNTMwNzY4Nzc1.rn2ryG-3hOfW02B2TVWXr6h1LIltD7wtG7a7PapUSzUg.bFUJrMFJrz4hn8lun1yZJFl3kLdpU4yJGyX7piiK22Ag.JPEG/CHR06353.jpg?type=w1200" alt="" width="7008" height="4672" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMjkx/MDAxNzExNTMwNzY4Nzc1.rn2ryG-3hOfW02B2TVWXr6h1LIltD7wtG7a7PapUSzUg.bFUJrMFJrz4hn8lun1yZJFl3kLdpU4yJGyX7piiK22Ag.JPEG/CHR06353.jpg?type=w1200" data-attachment-id="IRkmy4L4UsAmKXpM6BavOxPcrQa0"></a></div>
-</div>
+<div class="se_editArea"><img loading="lazy" class="aligncenter size-full wp-image-57849" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-scaled.jpg" alt="" width="2560" height="1707" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-scaled.jpg 2560w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-900x600.jpg 900w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-1024x683.jpg 1024w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-768x512.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-1536x1024.jpg 1536w, https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지09-2048x1365.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px"></div>
 </div>
 </div>
 <p>&nbsp;</p>
@@ -1673,9 +1656,11 @@
 <div class="se_component se_image default">
 <div class="se_sectionArea se_align-justify">
 <div class="se_editArea">
-<div class="se_viewArea"><a class="se_mediaArea __se_image_link __se_link" href="https://m.post.naver.com/viewer/postView.naver?volumeNo=37551469&amp;memberNo=24373938#" data-linktype="img" data-linkdata="{&quot;imgId&quot; : &quot;SEDOC-1711596211654--154989513_image_9_img&quot;, &quot;src&quot; : &quot;https://post-phinf.pstatic.net/MjAyNDAzMjdfMTYx/MDAxNzExNTMwNzgyODM3.5JE4g4v2snuJubb8id7RvmkK6pxfvpBz2K6T_6AznMkg.RXc5gjcEHg1uaYvggTGmUqNGvOASX8W7MgeG7HPjrAQg.JPEG/88623D86-86BE-43CE-93B2-A2B5F9997A3A.jpg&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" data-pjax-state=""><img loading="lazy" id="SEDOC-1711596211654--154989513_image_9_img" class="se_mediaImage __se_img_el" src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTYx/MDAxNzExNTMwNzgyODM3.5JE4g4v2snuJubb8id7RvmkK6pxfvpBz2K6T_6AznMkg.RXc5gjcEHg1uaYvggTGmUqNGvOASX8W7MgeG7HPjrAQg.JPEG/88623D86-86BE-43CE-93B2-A2B5F9997A3A.jpg?type=w1200" alt="" width="720" height="478" data-src="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTYx/MDAxNzExNTMwNzgyODM3.5JE4g4v2snuJubb8id7RvmkK6pxfvpBz2K6T_6AznMkg.RXc5gjcEHg1uaYvggTGmUqNGvOASX8W7MgeG7HPjrAQg.JPEG/88623D86-86BE-43CE-93B2-A2B5F9997A3A.jpg?type=w1200" data-attachment-id="II3nRBR2I8b7OvJ3BjMrInBy3FEw"></a></div>
+<p><img loading="lazy" class="aligncenter size-full wp-image-57850" src="https://poclanos.com/drmvsn/wp-content/uploads/2024/03/이미지10.jpg" alt="" width="720" height="478"></p>
 <div></div>
+</div>
 <div></div>
+<div class="se_editArea">
 <div></div>
 <div class="se_viewArea"><b><span lang="ko">Q.&nbsp;</span></b><b>각자가 생각하는 잭킹콩은 어떤 존재인가요<span lang="ko">?</span></b></div>
 <div></div>
@@ -1726,6 +1711,11 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><iframe loading="lazy" title="[Full Album] 잭킹콩 (JKC) - Apophenia / 앨범 전곡 듣기" width="640" height="360" src="https://www.youtube.com/embed/DnJp4Krmadw?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="youtubeplayer_DnJp4Krmadw"></iframe></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<p><strong>Interview | 박현영</strong></p>
+<p><strong>사진제공 | 잭킹콩</strong></p>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
@@ -2028,7 +2018,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Fri, 19 Jan 2024 10:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
 		<h2 class="entry-title"><a href="https://poclanos.com/interview/joonie/" rel="bookmark" data-pjax-state="">불안이라는 무기, JOONIE 인터뷰</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/joonie/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2024-01-19T12:00:34+09:00">2024년 1월 19일</time><time class="updated" datetime="2024-01-24T13:34:51+09:00">2024년 1월 24일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
+				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/joonie/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2024-01-19T12:00:34+09:00">2024년 1월 19일</time><time class="updated" datetime="2024-06-14T12:06:51+09:00">2024년 6월 14일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
@@ -2154,7 +2144,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
 <p>불안이 제 안에 자리 잡기 시작한 시점의 곡이기도 하고, 사운드적으로도 가장 이 앨범을 ‘대표’할 수 있는 트랙이라고 생각했어요. 마지막 아웃트로에 나오는 신스 사운드를 들을 때마다, 울컥할 때가 많았어요. 무슨 감정인진 정확히 형용할 순 없지만, 제 주변 분들도 같은 부분에서 무언갈 느끼신 것 같더라고요. 이것만으로 ‘타이틀 곡’의 역할을 다하는 트랙 아닐까요?</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] JOONIE - Doomed" width="640" height="360" src="https://www.youtube.com/embed/MuhIwezXXYs?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="youtubeplayer_MuhIwezXXYs"></iframe></p>
+<p><iframe loading="lazy" title="[Official Audio] JOONIE - Doomed" width="640" height="360" src="https://www.youtube.com/embed/MuhIwezXXYs?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="youtubeplayer_MuhIwezXXYs"></iframe></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Q. 마지막 트랙 ‘Guitar Song’은 여태까지 선보인 음악 중에서 가장 경쾌한 리듬이 깔리는 것 같아요. 불안 바깥의 세상을 알려 준 사람에 대한 헌정곡이라고 했는데요, 어떤 사람인지 여쭤봐도 될까요?</strong></p>
@@ -2211,8 +2201,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="JOONIE - No One Can Hunt Me (Full Album)" width="640" height="480" src="https://www.youtube.com/embed/StP4PO8lceQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="youtubeplayer_StP4PO8lceQ"></iframe></p>
+<p><iframe loading="lazy" title="JOONIE - No One Can Hunt Me (Full Album)" width="640" height="480" src="https://www.youtube.com/embed/StP4PO8lceQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="youtubeplayer_StP4PO8lceQ"></iframe></p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<p><strong>Interview | 박현영</strong></p>
+<p><strong>사진제공 | JOONIE (주니)</strong></p>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
@@ -2226,7 +2222,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Wed, 20 Dec 2023 07:09:41 GMT</pubDate>
             <content:encoded><![CDATA[<header class="entry-header">
 		<h2 class="entry-title"><a href="https://poclanos.com/interview/cacophony/" rel="bookmark" data-pjax-state="">모든 자아 끌어안기, 카코포니 인터뷰</a></h2>			<div class="entry-meta">
-				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/cacophony/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2023-12-20T12:00:53+09:00">2023년 12월 20일</time><time class="updated" datetime="2024-01-04T17:09:24+09:00">2024년 1월 4일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
+				<span class="posted-on">Posted on <a href="https://poclanos.com/interview/cacophony/" rel="bookmark" data-pjax-state=""><time class="entry-date published" datetime="2023-12-20T12:00:53+09:00">2023년 12월 20일</time><time class="updated" datetime="2024-06-14T12:07:27+09:00">2024년 6월 14일</time></a></span><span class="byline"> by <span class="author vcard"><a class="url fn n" href="https://poclanos.com/author/poclanos/" data-pjax-state="">poclanos</a></span></span>			</div><!-- .entry-meta -->
 			</header><!-- .entry-header -->
 
 	
@@ -2235,7 +2231,9 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
 
 			
 	<div class="entry-content">
-		<p><img loading="lazy" class="aligncenter size-full wp-image-55017" src="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-scaled.jpg" alt="" width="1919" height="2560" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-scaled.jpg 1919w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-675x900.jpg 675w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-768x1025.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-1151x1536.jpg 1151w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-1535x2048.jpg 1535w" sizes="(max-width: 1919px) 100vw, 1919px"></p>
+		<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-55017" src="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-scaled.jpg" alt="" width="1919" height="2560" srcset="https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-scaled.jpg 1919w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-675x900.jpg 675w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-768x1025.jpg 768w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-1151x1536.jpg 1151w, https://poclanos.com/drmvsn/wp-content/uploads/2023/12/이미지-01-1535x2048.jpg 1535w" sizes="(max-width: 1919px) 100vw, 1919px"></p>
 <p>&nbsp;</p>
 <p><strong>모든 자아 끌어안기, 카코포니 정규 3집 &lt;DIPUC&gt; 발매 기념 인터뷰</strong></p>
 <p>&nbsp;</p>
@@ -2315,7 +2313,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
 <p><strong>&nbsp;</strong></p>
 <p>매력적으로 보여지고, 들리기 위해 어떻게 해야 할 지를 많이 집중했어요. 기존에는 ‘전달하고자 하는 메시지가 잘 전달됐는가?’, ‘가사에서 말하고자 하는 부분이 편곡적으로 잘 드러나는가?’에 신경을 많이 썼거든요. 이번에도 비슷하다고 할 수 있지만, 곡 자체가 관능적이여야 되잖아요. 그런 시도는 해본 적 없어서 어렵긴 했어요. 악기 구성을 단순화해서 듣기 편하도록 깔끔한 상태에서 매력적으로 보이고자 했어요. 창법이나 이펙팅을 넣는 방법, 보컬을 쌓아올리는 방법 등 전반적인 부분을 많이 다듬은 것 같아요.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="Cacophony(카코포니) - End MV" width="640" height="360" src="https://www.youtube.com/embed/kdtZv53dg9s?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="youtubeplayer_kdtZv53dg9s"></iframe></p>
+<p><iframe loading="lazy" title="Cacophony(카코포니) - End MV" width="640" height="360" src="https://www.youtube.com/embed/kdtZv53dg9s?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="youtubeplayer_kdtZv53dg9s"></iframe></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -2336,7 +2334,7 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
 <p>추잡한 면이라고 말했던 부분이 말씀드린 욕망에 해당하는 것 같아요.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="Cacophony(카코포니) - 살아남은 MV ( with Dancer Jemma Lee)" width="640" height="360" src="https://www.youtube.com/embed/qEBF0GQk85I?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="youtubeplayer_qEBF0GQk85I"></iframe></p>
+<p><iframe loading="lazy" title="Cacophony(카코포니) - 살아남은 MV ( with Dancer Jemma Lee)" width="640" height="360" src="https://www.youtube.com/embed/qEBF0GQk85I?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="youtubeplayer_qEBF0GQk85I"></iframe></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Q. 세번째 타이틀 ‘살아남은’이 인상깊었어요. 11번 트랙이기도 한 ‘살아남은’부터 ‘MIRACLE!’까지 사운드가 확장된 느낌도 들면서 앨범의 분위기가 마지막으로 반전돼요. 경쾌한 분위기의 음악이 후반부에 배치된 점도 궁금했어요.</strong></p>
@@ -2420,8 +2418,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
 <p><strong>&nbsp;</strong></p>
 <p>모두 자신을 행복하게 만드는 선택을 하면서 살아가길 바래요. 제 앨범을 들으면서 그런 믿음을 가지셨으면 좋겠습니다. 감사합니다.</p>
 <p>&nbsp;</p>
+<p><iframe loading="lazy" title="[Full Album] 카코포니 (cacophony) - DIPUC / 앨범 전곡 듣기" width="640" height="360" src="https://www.youtube.com/embed/QYXucpviKIQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" id="youtubeplayer_QYXucpviKIQ"></iframe></p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Full Album] 카코포니 (cacophony) - DIPUC / 앨범 전곡 듣기" width="640" height="360" src="https://www.youtube.com/embed/QYXucpviKIQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" id="youtubeplayer_QYXucpviKIQ"></iframe></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr>
+<p><strong>Interview | 박현영</strong></p>
+<p><strong>사진제공 | 카코포니</strong></p>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
