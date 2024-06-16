@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 02:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그 애의 일기장]]></title>
+            <link>https://poclanos.com/album/%ea%b7%b8-%ec%95%a0%ec%9d%98-%ec%9d%bc%ea%b8%b0%ec%9e%a5/</link>
+            <guid>https://poclanos.com/album/%ea%b7%b8-%ec%95%a0%ec%9d%98-%ec%9d%bc%ea%b8%b0%ec%9e%a5/</guid>
+            <pubDate>Sun, 16 Jun 2024 03:12:05 GMT</pubDate>
+            <content:encoded><![CDATA[강민정 (minjeong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EB%AF%BC%EC%A0%95-%EA%B7%B8-%EC%95%A0%EC%9D%98-%EC%9D%BC%EA%B8%B0%EC%9E%A5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ghostly Love Stories]]></title>
             <link>https://poclanos.com/album/ghostly-love-stories/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 07 Jun 2024 03:12:41 GMT</pubDate>
             <content:encoded><![CDATA[Iris Kymm]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Iris-Kymm-nn-Equinox-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thank You, NPC]]></title>
-            <link>https://poclanos.com/album/thank-you-npc/</link>
-            <guid>https://poclanos.com/album/thank-you-npc/</guid>
-            <pubDate>Fri, 07 Jun 2024 03:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[Bleakre]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-Bleakre-Thank-You-NPC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
