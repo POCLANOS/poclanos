@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 02:30:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 03:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hyperreal Eco Bottle (超真实生态瓶) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hyperreal-eco-bottle-%e8%b6%85%e7%9c%9f%e5%ae%9e%e7%94%9f%e6%80%81%e7%93%b6/</link>
+            <guid>https://poclanos.com/album/hyperreal-eco-bottle-%e8%b6%85%e7%9c%9f%e5%ae%9e%e7%94%9f%e6%80%81%e7%93%b6/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-cover-%E9%AC%BC%E5%90%A6-%E8%B6%85%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81%E7%93%B6-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Flower Project #6 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/monthly-flower-project-6/</link>
+            <guid>https://poclanos.com/album/monthly-flower-project-6/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[PERC%NT]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-PERCNT-LOUD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The scientist (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/the-scientist/</link>
+            <guid>https://poclanos.com/album/the-scientist/</guid>
+            <pubDate>Fri, 21 Jun 2024 03:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[Kimdigo]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kimdigo-The-scientist-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아 맞다 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%95%84-%eb%a7%9e%eb%8b%a4/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 12 Jun 2024 03:12:11 GMT</pubDate>
             <content:encoded><![CDATA[양반들]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-Hymns-from-the-Dragon-Lake-Cover-Art-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둘라밤 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%91%98%eb%9d%bc%eb%b0%a4/</link>
-            <guid>https://poclanos.com/album/%eb%91%98%eb%9d%bc%eb%b0%a4/</guid>
-            <pubDate>Wed, 12 Jun 2024 03:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[둘라밤]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EB%91%98%EB%9D%BC%EB%B0%A4-%EB%91%98%EB%9D%BC%EB%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그때 그 사랑은 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%95%8c-%ea%b7%b8-%ec%82%ac%eb%9e%91%ec%9d%80/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%95%8c-%ea%b7%b8-%ec%82%ac%eb%9e%91%ec%9d%80/</guid>
-            <pubDate>Tue, 11 Jun 2024 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B8GYE0M-%EA%B7%B8%EB%95%8C-%EA%B7%B8-%EC%82%AC%EB%9E%91%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reflection (Original Soundtrack) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/reflection-original-soundtrack/</link>
-            <guid>https://poclanos.com/album/reflection-original-soundtrack/</guid>
-            <pubDate>Tue, 11 Jun 2024 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[진수영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%84%EC%88%98%EC%98%81-Reflection-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
