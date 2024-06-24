@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 02:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 03:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컬러티셔츠]]></title>
+            <link>https://poclanos.com/album/%ec%bb%ac%eb%9f%ac%ed%8b%b0%ec%85%94%ec%b8%a0/</link>
+            <guid>https://poclanos.com/album/%ec%bb%ac%eb%9f%ac%ed%8b%b0%ec%85%94%ec%b8%a0/</guid>
+            <pubDate>Mon, 24 Jun 2024 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%EC%BB%AC%EB%9F%AC%ED%8B%B0%EC%85%94%EC%B8%A0-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동침]]></title>
+            <link>https://poclanos.com/album/%eb%8f%99%ec%b9%a8/</link>
+            <guid>https://poclanos.com/album/%eb%8f%99%ec%b9%a8/</guid>
+            <pubDate>Mon, 24 Jun 2024 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[AJC]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-AJC-%EB%8F%99%EC%B9%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SUDA]]></title>
             <link>https://poclanos.com/album/suda/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 14 Jun 2024 03:12:06 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-SLOWLY-Feat.-g0nny-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOL.04]]></title>
-            <link>https://poclanos.com/album/vol-04/</link>
-            <guid>https://poclanos.com/album/vol-04/</guid>
-            <pubDate>Thu, 13 Jun 2024 09:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.04-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타오르는 선]]></title>
-            <link>https://poclanos.com/album/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%84%a0/</link>
-            <guid>https://poclanos.com/album/%ed%83%80%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%84%a0/</guid>
-            <pubDate>Thu, 13 Jun 2024 03:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[오미비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%AF%B8%EB%B9%84-%ED%83%80%EC%98%A4%EB%A5%B4%EB%8A%94-%EC%84%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
