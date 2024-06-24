@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jun 2024 08:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jun 2024 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Holes]]></title>
+            <link>https://poclanos.com/album/holes/</link>
+            <guid>https://poclanos.com/album/holes/</guid>
+            <pubDate>Mon, 24 Jun 2024 09:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[Barshy (바쉬)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Barshy-Charming-Lips-Holes-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[컬러티셔츠]]></title>
             <link>https://poclanos.com/album/%ec%bb%ac%eb%9f%ac%ed%8b%b0%ec%85%94%ec%b8%a0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 14 Jun 2024 03:12:06 GMT</pubDate>
             <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-%EC%95%84%EB%9D%BC%ED%95%9C-ARHAT-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SLOWLY (Feat. g0nny)]]></title>
-            <link>https://poclanos.com/album/slowly-feat-g0nny/</link>
-            <guid>https://poclanos.com/album/slowly-feat-g0nny/</guid>
-            <pubDate>Fri, 14 Jun 2024 03:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-SLOWLY-Feat.-g0nny-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
