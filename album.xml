@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 02:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 03:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ecole de Yeonhui]]></title>
+            <link>https://poclanos.com/album/ecole-de-yeonhui/</link>
+            <guid>https://poclanos.com/album/ecole-de-yeonhui/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[파로(Pharoh)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%A1%9C-Pharoh-Ecole-de-Yeonhui-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Birthday rock]]></title>
+            <link>https://poclanos.com/album/birthday-rock/</link>
+            <guid>https://poclanos.com/album/birthday-rock/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[럼킥스]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-RUMKICKS_Birthday-rock_jacket-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[soosunhwa]]></title>
+            <link>https://poclanos.com/album/soosunhwa/</link>
+            <guid>https://poclanos.com/album/soosunhwa/</guid>
+            <pubDate>Fri, 28 Jun 2024 03:13:21 GMT</pubDate>
+            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-soosunhwa-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Numeric Dream]]></title>
             <link>https://poclanos.com/album/numeric-dream/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 21 Jun 2024 03:12:12 GMT</pubDate>
             <content:encoded><![CDATA[PERC%NT]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-PERCNT-LOUD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The scientist]]></title>
-            <link>https://poclanos.com/album/the-scientist/</link>
-            <guid>https://poclanos.com/album/the-scientist/</guid>
-            <pubDate>Fri, 21 Jun 2024 03:12:12 GMT</pubDate>
-            <content:encoded><![CDATA[Kimdigo]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kimdigo-The-scientist-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아 맞다]]></title>
-            <link>https://poclanos.com/album/%ec%95%84-%eb%a7%9e%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ec%95%84-%eb%a7%9e%eb%8b%a4/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[Mabinc]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-Mabinc-%EC%95%84-%EB%A7%9E%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metro Blue]]></title>
-            <link>https://poclanos.com/album/metro-blue/</link>
-            <guid>https://poclanos.com/album/metro-blue/</guid>
-            <pubDate>Thu, 20 Jun 2024 03:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[Leevisa]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leevisa-Metro-Blue-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
