@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 02:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 03:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Overflow]]></title>
+            <link>https://poclanos.com/album/overflow/</link>
+            <guid>https://poclanos.com/album/overflow/</guid>
+            <pubDate>Mon, 01 Jul 2024 03:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[매간당]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EA%B0%84%EB%8B%B9-Overflow-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RGB]]></title>
+            <link>https://poclanos.com/album/rgb/</link>
+            <guid>https://poclanos.com/album/rgb/</guid>
+            <pubDate>Mon, 01 Jul 2024 03:12:56 GMT</pubDate>
+            <content:encoded><![CDATA[M3CHVNIC (메카닉)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-M3CHVNIC-RGB-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[toasterz : pilot episode]]]></title>
             <link>https://poclanos.com/album/toasterz-pilot-episode/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 24 Jun 2024 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[AJC]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-AJC-%EB%8F%99%EC%B9%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SUDA]]></title>
-            <link>https://poclanos.com/album/suda/</link>
-            <guid>https://poclanos.com/album/suda/</guid>
-            <pubDate>Sun, 23 Jun 2024 03:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[MORE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-MORE-SUDA-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A2%85_%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 나의 날들]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%eb%85%95-%eb%82%98%ec%9d%98-%eb%82%a0%eb%93%a4/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95-%eb%82%98%ec%9d%98-%eb%82%a0%eb%93%a4/</guid>
-            <pubDate>Sat, 22 Jun 2024 03:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[Luca minor]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luca-minor-%EC%95%88%EB%85%95-%EB%82%98%EC%9D%98-%EB%82%A0%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
