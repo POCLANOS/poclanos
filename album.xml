@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Jul 2024 08:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jul 2024 09:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Refuge]]></title>
+            <link>https://poclanos.com/album/my-refuge/</link>
+            <guid>https://poclanos.com/album/my-refuge/</guid>
+            <pubDate>Mon, 01 Jul 2024 09:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[키디비 (KittiB)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%94%94%EB%B9%84-My-Refuge-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Overflow]]></title>
             <link>https://poclanos.com/album/overflow/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Jun 2024 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%EC%BB%AC%EB%9F%AC%ED%8B%B0%EC%85%94%EC%B8%A0-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동침]]></title>
-            <link>https://poclanos.com/album/%eb%8f%99%ec%b9%a8/</link>
-            <guid>https://poclanos.com/album/%eb%8f%99%ec%b9%a8/</guid>
-            <pubDate>Mon, 24 Jun 2024 03:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[AJC]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-AJC-%EB%8F%99%EC%B9%A8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
