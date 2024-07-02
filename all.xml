@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 02:35:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 03:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SEROTONIN (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/serotonin/</link>
+            <guid>https://poclanos.com/album/serotonin/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[NECTA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NECTA-SEROTONIN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직 준비가 안됐어 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%ec%a7%81-%ec%a4%80%eb%b9%84%ea%b0%80-%ec%95%88%eb%90%90%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%ec%a7%81-%ec%a4%80%eb%b9%84%ea%b0%80-%ec%95%88%eb%90%90%ec%96%b4/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[구원찬]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%EA%B5%AC%EC%9B%90%EC%B0%AC-%EC%95%84%EC%A7%81-%EC%A4%80%EB%B9%84%EA%B0%80-%EC%95%88%EB%90%90%EC%96%B4_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Depths of emotion’s sea 너의 바다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/depths-of-emotions-sea-%eb%84%88%ec%9d%98-%eb%b0%94%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/depths-of-emotions-sea-%eb%84%88%ec%9d%98-%eb%b0%94%eb%8b%a4/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[oait]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-oait-Depths-of-emotions-sea-%EB%84%88%EC%9D%98-%EB%B0%94%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스포츠 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%8a%a4%ed%8f%ac%ec%b8%a0/</link>
+            <guid>https://poclanos.com/album/%ec%8a%a4%ed%8f%ac%ec%b8%a0/</guid>
+            <pubDate>Tue, 02 Jul 2024 03:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[우주히피]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%8F%AC%EC%B8%A0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Refuge (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/my-refuge/</link>
@@ -134,38 +166,6 @@
             <pubDate>Tue, 25 Jun 2024 09:11:27 GMT</pubDate>
             <content:encoded><![CDATA[김아일]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EC%95%84%EC%9D%BCQim-Isle-Adrenaline-feat.-Marldn-Jclef06%EC%9B%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깔라만시 러브 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b9%94%eb%9d%bc%eb%a7%8c%ec%8b%9c-%eb%9f%ac%eb%b8%8c/</link>
-            <guid>https://poclanos.com/album/%ea%b9%94%eb%9d%bc%eb%a7%8c%ec%8b%9c-%eb%9f%ac%eb%b8%8c/</guid>
-            <pubDate>Tue, 25 Jun 2024 03:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[yenacoco]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%98%88%EB%82%98%EC%BD%94%EC%BD%94-%EA%B9%94%EB%9D%BC%EB%A7%8C%EC%8B%9C-%EB%9F%AC%EB%B8%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/6%ec%9b%94/</link>
-            <guid>https://poclanos.com/album/6%ec%9b%94/</guid>
-            <pubDate>Tue, 25 Jun 2024 03:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[홍재아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%99%8D%EC%9E%AC%EC%95%84-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Holes (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/holes/</link>
-            <guid>https://poclanos.com/album/holes/</guid>
-            <pubDate>Mon, 24 Jun 2024 09:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[Barshy (바쉬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Barshy-Charming-Lips-Holes-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컬러티셔츠 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%bb%ac%eb%9f%ac%ed%8b%b0%ec%85%94%ec%b8%a0/</link>
-            <guid>https://poclanos.com/album/%ec%bb%ac%eb%9f%ac%ed%8b%b0%ec%85%94%ec%b8%a0/</guid>
-            <pubDate>Mon, 24 Jun 2024 03:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%EC%BB%AC%EB%9F%AC%ED%8B%B0%EC%85%94%EC%B8%A0-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
