@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 02:32:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 03:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TAMAGOTCHI (拓麻歌子)]]></title>
+            <link>https://poclanos.com/album/tamagotchi-%e6%8b%93%e9%ba%bb%e6%ad%8c%e5%ad%90/</link>
+            <guid>https://poclanos.com/album/tamagotchi-%e6%8b%93%e9%ba%bb%e6%ad%8c%e5%ad%90/</guid>
+            <pubDate>Wed, 03 Jul 2024 03:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/2.-cover-%E9%AC%BC%E5%90%A6-%E6%8B%93%E9%BA%BB%E6%AD%8C%E5%AD%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[her]]></title>
+            <link>https://poclanos.com/album/her-3/</link>
+            <guid>https://poclanos.com/album/her-3/</guid>
+            <pubDate>Wed, 03 Jul 2024 03:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[백승환]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%8A%B9%ED%99%98-her-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Smorgasbord]]></title>
             <link>https://poclanos.com/album/smorgasbord/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 26 Jun 2024 09:12:45 GMT</pubDate>
             <content:encoded><![CDATA[NomadV]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NomadV-.wav-pt.1-2022-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘이 지나면]]></title>
-            <link>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ec%a7%80%eb%82%98%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ec%a7%80%eb%82%98%eb%a9%b4/</guid>
-            <pubDate>Wed, 26 Jun 2024 09:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[이희상]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-%EC%98%A4%EB%8A%98%EC%9D%B4-%EC%A7%80%EB%82%98%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만들어]]></title>
-            <link>https://poclanos.com/album/%eb%a7%8c%eb%93%a4%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%a7%8c%eb%93%a4%ec%96%b4/</guid>
-            <pubDate>Wed, 26 Jun 2024 03:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[장수빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%88%98%EB%B9%88-%EB%A7%8C%EB%93%A4%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
