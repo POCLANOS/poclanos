@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 02:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 03:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GO HOME]]></title>
+            <link>https://poclanos.com/album/go-home/</link>
+            <guid>https://poclanos.com/album/go-home/</guid>
+            <pubDate>Thu, 04 Jul 2024 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[372]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-372-GO-HOME-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생각의 무덤]]></title>
+            <link>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%9d%98-%eb%ac%b4%eb%8d%a4/</link>
+            <guid>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%9d%98-%eb%ac%b4%eb%8d%a4/</guid>
+            <pubDate>Thu, 04 Jul 2024 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[해파리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EC%83%9D%EA%B0%81%EC%9D%98-%EB%AC%B4%EB%8D%A4-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[텔레포트 도피 2024]]></title>
             <link>https://poclanos.com/album/%ed%85%94%eb%a0%88%ed%8f%ac%ed%8a%b8-%eb%8f%84%ed%94%bc-2024/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 27 Jun 2024 03:12:26 GMT</pubDate>
             <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-cover-%E9%AC%BC%E5%90%A6-%E8%87%AA%E7%84%B6%E6%B3%95%E5%88%99-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Night Rain]]></title>
-            <link>https://poclanos.com/album/night-rain/</link>
-            <guid>https://poclanos.com/album/night-rain/</guid>
-            <pubDate>Thu, 27 Jun 2024 03:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[Out Of Place (아웃 오브 플레이스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-Night-Rain-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노란 꽃]]></title>
-            <link>https://poclanos.com/album/%eb%85%b8%eb%9e%80-%ea%bd%83/</link>
-            <guid>https://poclanos.com/album/%eb%85%b8%eb%9e%80-%ea%bd%83/</guid>
-            <pubDate>Thu, 27 Jun 2024 03:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-%EB%85%B8%EB%9E%80-%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
