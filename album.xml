@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 02:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 03:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HWA]]></title>
+            <link>https://poclanos.com/album/hwa/</link>
+            <guid>https://poclanos.com/album/hwa/</guid>
+            <pubDate>Fri, 05 Jul 2024 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/COVER_HWA_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gasoline]]></title>
+            <link>https://poclanos.com/album/gasoline-2/</link>
+            <guid>https://poclanos.com/album/gasoline-2/</guid>
+            <pubDate>Fri, 05 Jul 2024 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[THE LWNR (더 라우너)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-THE-LWNR-Gasoline-Album-Cover-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[600]]></title>
+            <link>https://poclanos.com/album/600/</link>
+            <guid>https://poclanos.com/album/600/</guid>
+            <pubDate>Fri, 05 Jul 2024 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EA%B8%B0%EB%8D%95-9duck-600-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Drop Drop]]></title>
+            <link>https://poclanos.com/album/drop-drop/</link>
+            <guid>https://poclanos.com/album/drop-drop/</guid>
+            <pubDate>Fri, 05 Jul 2024 03:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[이루리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%A3%A8%EB%A6%AC-Drop-Drop-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영원속에서]]></title>
             <link>https://poclanos.com/album/%ec%98%81%ec%9b%90%ec%86%8d%ec%97%90%ec%84%9c/</link>
@@ -134,38 +166,6 @@
             <pubDate>Sat, 29 Jun 2024 03:12:45 GMT</pubDate>
             <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-%EC%83%81%EB%B9%84%EC%95%BD-feat.-10CM-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ecole de Yeonhui]]></title>
-            <link>https://poclanos.com/album/ecole-de-yeonhui/</link>
-            <guid>https://poclanos.com/album/ecole-de-yeonhui/</guid>
-            <pubDate>Fri, 28 Jun 2024 03:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[파로(Pharoh)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%A1%9C-Pharoh-Ecole-de-Yeonhui-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Birthday rock]]></title>
-            <link>https://poclanos.com/album/birthday-rock/</link>
-            <guid>https://poclanos.com/album/birthday-rock/</guid>
-            <pubDate>Fri, 28 Jun 2024 03:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[럼킥스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-RUMKICKS_Birthday-rock_jacket-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[soosunhwa]]></title>
-            <link>https://poclanos.com/album/soosunhwa/</link>
-            <guid>https://poclanos.com/album/soosunhwa/</guid>
-            <pubDate>Fri, 28 Jun 2024 03:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[윈드앤웨이브]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%88%EB%93%9C%EC%95%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C-soosunhwa-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Numeric Dream]]></title>
-            <link>https://poclanos.com/album/numeric-dream/</link>
-            <guid>https://poclanos.com/album/numeric-dream/</guid>
-            <pubDate>Thu, 27 Jun 2024 03:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[Neontype]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-NEONTYPE_Num-ericDream_Final-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
