@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 02:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 03:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곳곳]]></title>
+            <link>https://poclanos.com/album/%ea%b3%b3%ea%b3%b3/</link>
+            <guid>https://poclanos.com/album/%ea%b3%b3%ea%b3%b3/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/3.-%EC%BB%A4%EB%B2%84-RAINBOW99-%EA%B3%B3%EA%B3%B3-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Y.M.C.A.]]></title>
+            <link>https://poclanos.com/album/y-m-c-a/</link>
+            <guid>https://poclanos.com/album/y-m-c-a/</guid>
+            <pubDate>Mon, 08 Jul 2024 03:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[BAU]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A6%BC%ED%97%A4%EC%97%84-BAU-Y.M.C.A-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나뚜루]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%9a%9c%eb%a3%a8/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 02 Jul 2024 03:12:11 GMT</pubDate>
             <content:encoded><![CDATA[우주히피]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%BB%A4%EB%B2%84-%EC%9A%B0%EC%A3%BC%ED%9E%88%ED%94%BC-%EC%8A%A4%ED%8F%AC%EC%B8%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Refuge]]></title>
-            <link>https://poclanos.com/album/my-refuge/</link>
-            <guid>https://poclanos.com/album/my-refuge/</guid>
-            <pubDate>Mon, 01 Jul 2024 09:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[키디비 (KittiB)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%94%94%EB%B9%84-My-Refuge-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overflow]]></title>
-            <link>https://poclanos.com/album/overflow/</link>
-            <guid>https://poclanos.com/album/overflow/</guid>
-            <pubDate>Mon, 01 Jul 2024 03:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[매간당]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EA%B0%84%EB%8B%B9-Overflow-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
