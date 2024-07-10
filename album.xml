@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jul 2024 06:15:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2024 07:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sour Sunshine]]></title>
+            <link>https://poclanos.com/album/sour-sunshine/</link>
+            <guid>https://poclanos.com/album/sour-sunshine/</guid>
+            <pubDate>Wed, 10 Jul 2024 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[비치보이스 (The Beach Voice)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B9%84%EC%B9%98%EB%B3%B4%EC%9D%B4%EC%8A%A4The-Beach-Voice-Sour-Sunshine-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Siri Dance]]></title>
+            <link>https://poclanos.com/album/siri-dance/</link>
+            <guid>https://poclanos.com/album/siri-dance/</guid>
+            <pubDate>Wed, 10 Jul 2024 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/3.-cover-%E9%AC%BC%E5%90%A6-Siri-Dance-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히비스커스!]]></title>
+            <link>https://poclanos.com/album/%ed%9e%88%eb%b9%84%ec%8a%a4%ec%bb%a4%ec%8a%a4/</link>
+            <guid>https://poclanos.com/album/%ed%9e%88%eb%b9%84%ec%8a%a4%ec%bb%a4%ec%8a%a4/</guid>
+            <pubDate>Wed, 10 Jul 2024 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[배현이 (baehyuni)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EB%B0%B0%ED%98%84%EC%9D%B4baehyuni-%ED%9E%88%EB%B9%84%EC%8A%A4%EC%BB%A4%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hour]]></title>
+            <link>https://poclanos.com/album/hour/</link>
+            <guid>https://poclanos.com/album/hour/</guid>
+            <pubDate>Wed, 10 Jul 2024 07:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[Utopi (유토피)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Utopi-%EC%9C%A0%ED%86%A0%ED%94%BC-Hour-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘이 꿈이었던 나는 어디에]]></title>
             <link>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ea%bf%88%ec%9d%b4%ec%97%88%eb%8d%98-%eb%82%98%eb%8a%94-%ec%96%b4%eb%94%94%ec%97%90/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 03 Jul 2024 09:13:38 GMT</pubDate>
             <content:encoded><![CDATA[텔레포트]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%94%EB%A0%88%ED%8F%AC%ED%8A%B8-%ED%85%94%EB%A0%88%ED%8F%AC%ED%8A%B8-%EB%8F%84%ED%94%BC-2024-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAMAGOTCHI (拓麻歌子)]]></title>
-            <link>https://poclanos.com/album/tamagotchi-%e6%8b%93%e9%ba%bb%e6%ad%8c%e5%ad%90/</link>
-            <guid>https://poclanos.com/album/tamagotchi-%e6%8b%93%e9%ba%bb%e6%ad%8c%e5%ad%90/</guid>
-            <pubDate>Wed, 03 Jul 2024 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[GriffO (鬼否)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/2.-cover-%E9%AC%BC%E5%90%A6-%E6%8B%93%E9%BA%BB%E6%AD%8C%E5%AD%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[her]]></title>
-            <link>https://poclanos.com/album/her-3/</link>
-            <guid>https://poclanos.com/album/her-3/</guid>
-            <pubDate>Wed, 03 Jul 2024 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[백승환]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%B0%B1%EC%8A%B9%ED%99%98-her-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smorgasbord]]></title>
-            <link>https://poclanos.com/album/smorgasbord/</link>
-            <guid>https://poclanos.com/album/smorgasbord/</guid>
-            <pubDate>Tue, 02 Jul 2024 09:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[Orchid]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Orchid-Smorgasbord-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEROTONIN]]></title>
-            <link>https://poclanos.com/album/serotonin/</link>
-            <guid>https://poclanos.com/album/serotonin/</guid>
-            <pubDate>Tue, 02 Jul 2024 03:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[NECTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NECTA-SEROTONIN-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
