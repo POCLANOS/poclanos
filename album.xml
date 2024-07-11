@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jul 2024 02:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 03:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영영]]></title>
+            <link>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</link>
+            <guid>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</guid>
+            <pubDate>Thu, 11 Jul 2024 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[오영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%98%81%EC%98%81-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fade Away]]></title>
+            <link>https://poclanos.com/album/fade-away-3/</link>
+            <guid>https://poclanos.com/album/fade-away-3/</guid>
+            <pubDate>Thu, 11 Jul 2024 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[cedar]]></title>
+            <link>https://poclanos.com/album/cedar/</link>
+            <guid>https://poclanos.com/album/cedar/</guid>
+            <pubDate>Thu, 11 Jul 2024 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[Joe will]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Will-cedar-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음음]]></title>
             <link>https://poclanos.com/album/%ec%9d%8c%ec%9d%8c/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 05 Jul 2024 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EA%B8%B0%EB%8D%95-9duck-600-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영원속에서]]></title>
-            <link>https://poclanos.com/album/%ec%98%81%ec%9b%90%ec%86%8d%ec%97%90%ec%84%9c/</link>
-            <guid>https://poclanos.com/album/%ec%98%81%ec%9b%90%ec%86%8d%ec%97%90%ec%84%9c/</guid>
-            <pubDate>Thu, 04 Jul 2024 09:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[전진희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%A7%84%ED%9D%AC-%EC%98%81%EC%9B%90%EC%86%8D%EC%97%90%EC%84%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GO HOME]]></title>
-            <link>https://poclanos.com/album/go-home/</link>
-            <guid>https://poclanos.com/album/go-home/</guid>
-            <pubDate>Thu, 04 Jul 2024 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[372]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-372-GO-HOME-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각의 무덤]]></title>
-            <link>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%9d%98-%eb%ac%b4%eb%8d%a4/</link>
-            <guid>https://poclanos.com/album/%ec%83%9d%ea%b0%81%ec%9d%98-%eb%ac%b4%eb%8d%a4/</guid>
-            <pubDate>Thu, 04 Jul 2024 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[해파리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EC%83%9D%EA%B0%81%EC%9D%98-%EB%AC%B4%EB%8D%A4-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
