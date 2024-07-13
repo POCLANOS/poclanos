@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jul 2024 02:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2024 03:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[돌 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8f%8c/</link>
+            <guid>https://poclanos.com/album/%eb%8f%8c/</guid>
+            <pubDate>Sat, 13 Jul 2024 03:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[whish]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-whish-%EB%8F%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hikikomori (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hikikomori/</link>
+            <guid>https://poclanos.com/album/hikikomori/</guid>
+            <pubDate>Sat, 13 Jul 2024 03:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[Mamiya]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/Mamiya-Hikikomori-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOOD LUCK (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/good-luck/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 07 Jul 2024 03:12:53 GMT</pubDate>
             <content:encoded><![CDATA[이랑]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/03.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EB%9E%91-Names-of-Water-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1388 X 지학사 프로젝트 | 종이접기 (feat. 예빛) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/1388-x-%ec%a7%80%ed%95%99%ec%82%ac-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a2%85%ec%9d%b4%ec%a0%91%ea%b8%b0-feat-%ec%98%88%eb%b9%9b/</link>
-            <guid>https://poclanos.com/album/1388-x-%ec%a7%80%ed%95%99%ec%82%ac-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a2%85%ec%9d%b4%ec%a0%91%ea%b8%b0-feat-%ec%98%88%eb%b9%9b/</guid>
-            <pubDate>Sat, 06 Jul 2024 03:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[프로젝트 지학]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A7%80%ED%95%99-1388-X-%EC%A7%80%ED%95%99%EC%82%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0-feat.-%EC%98%88%EB%B9%9B-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HWA (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/hwa/</link>
-            <guid>https://poclanos.com/album/hwa/</guid>
-            <pubDate>Fri, 05 Jul 2024 03:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/06/COVER_HWA_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
