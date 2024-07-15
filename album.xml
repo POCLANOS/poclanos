@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 08:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 09:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너머 [1. Black Shimmer]]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-1-black-shimmer/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-1-black-shimmer/</guid>
+            <pubDate>Mon, 15 Jul 2024 09:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[선우정아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-1.-Black-Shimmer_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Whether The Weather Changes Or Not]]></title>
+            <link>https://poclanos.com/album/whether-the-weather-changes-or-not/</link>
+            <guid>https://poclanos.com/album/whether-the-weather-changes-or-not/</guid>
+            <pubDate>Mon, 15 Jul 2024 09:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[O'KOYE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-OKOYE-Whether-The-Weather-Changes-Or-Not-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KEEP LOVE GROWING IN US]]></title>
             <link>https://poclanos.com/album/keep-love-growing-in-us/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 09 Jul 2024 03:13:29 GMT</pubDate>
             <content:encoded><![CDATA[한방]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%B0%A9-24-Seasons-pt.-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지구]]></title>
-            <link>https://poclanos.com/album/%ec%a7%80%ea%b5%ac/</link>
-            <guid>https://poclanos.com/album/%ec%a7%80%ea%b5%ac/</guid>
-            <pubDate>Tue, 09 Jul 2024 03:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[권그린 (GREENY)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B6%8C%EA%B7%B8%EB%A6%B0GREENY-%EC%A7%80%EA%B5%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곳곳]]></title>
-            <link>https://poclanos.com/album/%ea%b3%b3%ea%b3%b3/</link>
-            <guid>https://poclanos.com/album/%ea%b3%b3%ea%b3%b3/</guid>
-            <pubDate>Mon, 08 Jul 2024 03:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/3.-%EC%BB%A4%EB%B2%84-RAINBOW99-%EA%B3%B3%EA%B3%B3-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
