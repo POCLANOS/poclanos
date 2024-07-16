@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 02:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 03:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기호학]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</guid>
+            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[이아직 (eeajik)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%95%84%EC%A7%81-eeajik-%EA%B8%B0%ED%98%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baby Baby]]></title>
+            <link>https://poclanos.com/album/baby-baby-2/</link>
+            <guid>https://poclanos.com/album/baby-baby-2/</guid>
+            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-Baby-Baby-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[참 오랜만이네]]></title>
+            <link>https://poclanos.com/album/%ec%b0%b8-%ec%98%a4%eb%9e%9c%eb%a7%8c%ec%9d%b4%eb%84%a4/</link>
+            <guid>https://poclanos.com/album/%ec%b0%b8-%ec%98%a4%eb%9e%9c%eb%a7%8c%ec%9d%b4%eb%84%a4/</guid>
+            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[Formal]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Formal-%EC%B0%B8-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%9D%B4%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너머 [1. Black Shimmer]]]></title>
             <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-1-black-shimmer/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 10 Jul 2024 07:12:21 GMT</pubDate>
             <content:encoded><![CDATA[배현이 (baehyuni)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EB%B0%B0%ED%98%84%EC%9D%B4baehyuni-%ED%9E%88%EB%B9%84%EC%8A%A4%EC%BB%A4%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hour]]></title>
-            <link>https://poclanos.com/album/hour/</link>
-            <guid>https://poclanos.com/album/hour/</guid>
-            <pubDate>Wed, 10 Jul 2024 07:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[Utopi (유토피)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Utopi-%EC%9C%A0%ED%86%A0%ED%94%BC-Hour-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘이 꿈이었던 나는 어디에]]></title>
-            <link>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ea%bf%88%ec%9d%b4%ec%97%88%eb%8d%98-%eb%82%98%eb%8a%94-%ec%96%b4%eb%94%94%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ec%98%a4%eb%8a%98%ec%9d%b4-%ea%bf%88%ec%9d%b4%ec%97%88%eb%8d%98-%eb%82%98%eb%8a%94-%ec%96%b4%eb%94%94%ec%97%90/</guid>
-            <pubDate>Tue, 09 Jul 2024 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[택우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%83%9D%EC%9A%B0-%EC%98%A4%EB%8A%98%EC%9D%B4-%EA%BF%88%EC%9D%B4%EC%97%88%EB%8D%98-%EB%82%98%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[24 Seasons pt. 1]]></title>
-            <link>https://poclanos.com/album/24-seasons-pt-1/</link>
-            <guid>https://poclanos.com/album/24-seasons-pt-1/</guid>
-            <pubDate>Tue, 09 Jul 2024 03:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[한방]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%B0%A9-24-Seasons-pt.-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
