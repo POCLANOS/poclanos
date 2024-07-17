@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jul 2024 08:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 09:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hover (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hover/</link>
+            <guid>https://poclanos.com/album/hover/</guid>
+            <pubDate>Wed, 17 Jul 2024 09:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[cott (콧)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-cott-Hover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ACTING ROCKSTAR (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/acting-rockstar/</link>
@@ -40,20 +48,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jeebanoff-%EC%95%BD%EC%86%8D%EC%9D%98-%EC%9E%A5%EC%86%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Baby Baby (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/baby-baby-2/</link>
-            <guid>https://poclanos.com/album/baby-baby-2/</guid>
-            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-Baby-Baby-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기호학 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</link>
             <guid>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</guid>
             <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
             <content:encoded><![CDATA[이아직 (eeajik)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%95%84%EC%A7%81-eeajik-%EA%B8%B0%ED%98%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Baby Baby (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/baby-baby-2/</link>
+            <guid>https://poclanos.com/album/baby-baby-2/</guid>
+            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-Baby-Baby-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[참 오랜만이네 (POCLANOS ─ Album)]]></title>
@@ -144,14 +152,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%96%91%EC%B9%98%EA%B8%B0%EC%86%8C%EB%85%84%EB%8B%A8-JUMP-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영영 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</link>
-            <guid>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</guid>
-            <pubDate>Thu, 11 Jul 2024 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[오영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%98%81%EC%98%81-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Fade Away (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/fade-away-3/</link>
             <guid>https://poclanos.com/album/fade-away-3/</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[cedar (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/cedar/</link>
-            <guid>https://poclanos.com/album/cedar/</guid>
+            <title><![CDATA[영영 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</link>
+            <guid>https://poclanos.com/album/%ec%98%81%ec%98%81-2/</guid>
             <pubDate>Thu, 11 Jul 2024 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[Joe will]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Will-cedar-600x600.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[오영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%98%81%EC%98%81-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
