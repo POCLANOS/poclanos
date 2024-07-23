@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 02:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 03:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eternal]]></title>
+            <link>https://poclanos.com/album/eternal/</link>
+            <guid>https://poclanos.com/album/eternal/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[E.HEH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-E.HEH-Eternal-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alternoon]]></title>
+            <link>https://poclanos.com/album/alternoon/</link>
+            <guid>https://poclanos.com/album/alternoon/</guid>
+            <pubDate>Tue, 23 Jul 2024 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[Die Boy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Die-Boy-Alternoon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PRIDE]]></title>
             <link>https://poclanos.com/album/pride/</link>
@@ -136,14 +152,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jeebanoff-%EC%95%BD%EC%86%8D%EC%9D%98-%EC%9E%A5%EC%86%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기호학]]></title>
-            <link>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</link>
-            <guid>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</guid>
-            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[이아직 (eeajik)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%95%84%EC%A7%81-eeajik-%EA%B8%B0%ED%98%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Baby Baby]]></title>
             <link>https://poclanos.com/album/baby-baby-2/</link>
             <guid>https://poclanos.com/album/baby-baby-2/</guid>
@@ -152,20 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-Baby-Baby-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[참 오랜만이네]]></title>
-            <link>https://poclanos.com/album/%ec%b0%b8-%ec%98%a4%eb%9e%9c%eb%a7%8c%ec%9d%b4%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%ec%b0%b8-%ec%98%a4%eb%9e%9c%eb%a7%8c%ec%9d%b4%eb%84%a4/</guid>
+            <title><![CDATA[기호학]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%ed%98%b8%ed%95%99/</guid>
             <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[Formal]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Formal-%EC%B0%B8-%EC%98%A4%EB%9E%9C%EB%A7%8C%EC%9D%B4%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너머 [1. Black Shimmer]]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-1-black-shimmer/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-1-black-shimmer/</guid>
-            <pubDate>Mon, 15 Jul 2024 09:12:42 GMT</pubDate>
-            <content:encoded><![CDATA[선우정아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-1.-Black-Shimmer_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[이아직 (eeajik)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%95%84%EC%A7%81-eeajik-%EA%B8%B0%ED%98%B8%ED%95%99-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
