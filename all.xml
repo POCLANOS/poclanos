@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 02:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 03:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mondrian (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/mondrian/</link>
+            <guid>https://poclanos.com/album/mondrian/</guid>
+            <pubDate>Wed, 24 Jul 2024 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[Garzón Robie (가르종 로비에)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98%EB%AA%AC%EB%93%9C%EB%A6%AC%EC%95%88-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eternal (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/eternal/</link>
@@ -150,14 +158,6 @@
             <pubDate>Tue, 16 Jul 2024 09:13:04 GMT</pubDate>
             <content:encoded><![CDATA[jeebanoff]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jeebanoff-%EC%95%BD%EC%86%8D%EC%9D%98-%EC%9E%A5%EC%86%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby Baby (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/baby-baby-2/</link>
-            <guid>https://poclanos.com/album/baby-baby-2/</guid>
-            <pubDate>Tue, 16 Jul 2024 03:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-Baby-Baby-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기호학 (POCLANOS ─ Album)]]></title>
