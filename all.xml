@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 08:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 09:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hands Up (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hands-up/</link>
+            <guid>https://poclanos.com/album/hands-up/</guid>
+            <pubDate>Thu, 25 Jul 2024 09:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[Lucidic]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NomadV-Lucidic-Hands-Up-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주정거장 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%ec%a3%bc%ec%a0%95%ea%b1%b0%ec%9e%a5/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 17 Jul 2024 03:13:24 GMT</pubDate>
             <content:encoded><![CDATA[최원빈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EB%B9%88-ACTING-ROCKSTAR-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참을 인 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%b0%b8%ec%9d%84-%ec%9d%b8/</link>
-            <guid>https://poclanos.com/album/%ec%b0%b8%ec%9d%84-%ec%9d%b8/</guid>
-            <pubDate>Wed, 17 Jul 2024 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[정온 (Jungon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%B0%B8%EC%9D%84-%EC%9D%B8-%EC%BB%A4%EB%B2%84%EB%B3%80%EA%B2%BD%EB%90%A8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
