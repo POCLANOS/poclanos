@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 02:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 03:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[O FREE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/o-free/</link>
+            <guid>https://poclanos.com/album/o-free/</guid>
+            <pubDate>Fri, 26 Jul 2024 03:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/COVER-33oo-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Explosion Corporation (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/explosion-corporation/</link>
+            <guid>https://poclanos.com/album/explosion-corporation/</guid>
+            <pubDate>Fri, 26 Jul 2024 03:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[THE LWNR (더 라우너)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-THE-LWNR-%EB%8D%94-%EB%9D%BC%EC%9A%B0%EB%84%88-Explosion-Corporation-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hands Up (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/hands-up/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 18 Jul 2024 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%ED%8A%A0-Tuniverse-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hover (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/hover/</link>
-            <guid>https://poclanos.com/album/hover/</guid>
-            <pubDate>Wed, 17 Jul 2024 09:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[cott (콧)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-cott-Hover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ACTING ROCKSTAR (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/acting-rockstar/</link>
-            <guid>https://poclanos.com/album/acting-rockstar/</guid>
-            <pubDate>Wed, 17 Jul 2024 03:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[최원빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%9B%90%EB%B9%88-ACTING-ROCKSTAR-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
