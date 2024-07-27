@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jul 2024 02:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jul 2024 03:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Computa]]></title>
+            <link>https://poclanos.com/album/computa/</link>
+            <guid>https://poclanos.com/album/computa/</guid>
+            <pubDate>Sat, 27 Jul 2024 03:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[비공정]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EB%B9%84%EA%B3%B5%EC%A0%95-Computa-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[O FREE]]></title>
             <link>https://poclanos.com/album/o-free/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 18 Jul 2024 03:13:19 GMT</pubDate>
             <content:encoded><![CDATA[PATTYMADE]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATTYMADE-WE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuniverse]]></title>
-            <link>https://poclanos.com/album/tuniverse/</link>
-            <guid>https://poclanos.com/album/tuniverse/</guid>
-            <pubDate>Thu, 18 Jul 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%ED%8A%A0-Tuniverse-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
