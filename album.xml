@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jul 2024 02:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jul 2024 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[palindrome]]></title>
+            <link>https://poclanos.com/album/palindrome/</link>
+            <guid>https://poclanos.com/album/palindrome/</guid>
+            <pubDate>Sun, 28 Jul 2024 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[HUNJIYA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-HUNJIYA-palindrome-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MoveinmoviE]]></title>
+            <link>https://poclanos.com/album/moveinmovie/</link>
+            <guid>https://poclanos.com/album/moveinmovie/</guid>
+            <pubDate>Sun, 28 Jul 2024 03:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[AmovingmoviE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-cover-AmovingmoviE-MoveinmoviE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Computa]]></title>
             <link>https://poclanos.com/album/computa/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 19 Jul 2024 03:13:06 GMT</pubDate>
             <content:encoded><![CDATA[까치산]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-RESCUE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PLANET]]></title>
-            <link>https://poclanos.com/album/planet-2/</link>
-            <guid>https://poclanos.com/album/planet-2/</guid>
-            <pubDate>Thu, 18 Jul 2024 09:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[MCXON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8MCXON-PLANET-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE]]></title>
-            <link>https://poclanos.com/album/we-3/</link>
-            <guid>https://poclanos.com/album/we-3/</guid>
-            <pubDate>Thu, 18 Jul 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[PATTYMADE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATTYMADE-WE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
