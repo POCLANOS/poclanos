@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 02:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eternal Panorama (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/eternal-panorama/</link>
+            <guid>https://poclanos.com/album/eternal-panorama/</guid>
+            <pubDate>Tue, 30 Jul 2024 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[원니]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-Eternal-Panorama-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[i’m broken (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/im-broken/</link>
+            <guid>https://poclanos.com/album/im-broken/</guid>
+            <pubDate>Tue, 30 Jul 2024 03:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-im-broken-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Suspiria (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/suspiria/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 22 Jul 2024 03:13:50 GMT</pubDate>
             <content:encoded><![CDATA[Piano Shoegazer]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Piano-Shoegazer-%ED%8E%AD%EA%B7%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내내 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%eb%82%b4/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%eb%82%b4/</guid>
-            <pubDate>Sun, 21 Jul 2024 03:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[크르르]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A5%B4%EB%A5%B4-%EB%82%B4%EB%82%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓸모없지 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%93%b8%eb%aa%a8%ec%97%86%ec%a7%80/</link>
-            <guid>https://poclanos.com/album/%ec%93%b8%eb%aa%a8%ec%97%86%ec%a7%80/</guid>
-            <pubDate>Sat, 20 Jul 2024 09:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[19990619]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-19990619-%EC%93%B8%EB%AA%A8%EC%97%86%EC%A7%80-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4921,6 +4921,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[EVENT] 원니 첫 EP <Eternal Panorama> MV 비하인드 스토리 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 30 Jul 2024 03:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL / 나의 삶의 영원한 파노라마는,원니 첫 EP &lt;Eternal Panorama&gt; MV 비하인드 스토리 당신의 삶의 영원한 파노라마는 무엇인가요?원니 첫 EP &lt;Eternal Panorama&gt; M/V 비하인드 스토리 ARTIST l ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjVfOTYg/MDAxNzIxODg2NjcxMTY5.mCtgQ709Fz976ZFsrMtLw7XHu82BU-2nt4IFzFlDjGsg.NSfMm7b8N8KJgpPAmPv_4AFuCv0b-8HWSKY8-BsshPsg.JPEG/IHmQARyP57YKvP86r_aCbBjcd4w4.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[EVENT] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38163995&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38163995&amp;memberNo=24373938</guid>
@@ -5071,14 +5079,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL /&nbsp;꿈결 같은 목소리로 선사하는 드림 포크록 사운드.당신의 꿈틀거리는 상상력과 낭만을 채워줄 신설희의 새 정규 앨범 &lt;우리는 모두 누군가의 꿈이었지&gt;  INTRO | 신설희환상과 이상, 추상화의 색채···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU1/MDAxNjk4ODMzOTk5MDUy.uToh9qnx1_dYXoFsMC9VmlGm7eMu0NYOmp4VkAxlxYAg.PMEow3AOB_Ro7k9PwEG4mm_NPi5anrCPrJI7XfDgxSwg.PNG/IUNCmF3BkJ3w5QrtA72zWfxEwacs.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지넥스 정규 앨범 [Butterfly] 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36858206&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL/ JINex (지넥스) 정규 앨범 [Butterfly] 발매 기념 인터뷰ARTIST | JINex (지넥스)ALBUM | Buttuterfly매드클라운, 이수정(CHAI), 존오버, 마샬 등 굵직한 아티스트의 작업에 참여···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDlfODQg/MDAxNjk5NTA3NDYzODE2.-IIz0qqrgZDjfTkwoltgGOXqpmuVpsP_-9-2EEk8e04g.fRSqyRHdPykk-F_L4Jzh6mhL0ZkavfSOwmimmuFzewcg.JPEG/INJSSnjYO091znvaR-jBqBYscsww.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 결과보다 과정을, 작업 이전에 사람을 ㅡ 김아일 싱글 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5241,6 +5241,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA5MDhfMjMw/MDAxNTk5NTU1NjU2MDY1.f6mp2nY0ltg6wnndUI-faliVdYq6J5TceT6UZ40ikRog.N9BPjP2cpmMENbKOrZaKJLr7nbW_IHzgm5atCh489AIg.JPEG/IJikZB7vbMH_s647FqAWd7OJU96o.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[EVENT] 원니 첫 EP <Eternal Panorama> MV 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Tue, 30 Jul 2024 03:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjVfOTYg/MDAxNzIxODg2NjcxMTY5.mCtgQ709Fz976ZFsrMtLw7XHu82BU-2nt4IFzFlDjGsg.NSfMm7b8N8KJgpPAmPv_4AFuCv0b-8HWSKY8-BsshPsg.JPEG/IHmQARyP57YKvP86r_aCbBjcd4w4.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Monday Off With Bluesy 싱글앨범 <이 느낌 그대로> 뮤직비디오 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37931435&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37931435&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5392,14 +5400,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTNfMTU4/MDAxNTg5MzM3MjI2MDEy.dR_I356EFaoZVMkH8lJBwF2N13TFe_eWa7UkH4hnQk8g.OPqmi1QU4w0dqF0w7gp9E_HQAqc9_7V2vSdblopIj-Mg.JPEG/IDUq8XlEe5nKs0yRTQ1b3hREcR_Q.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 이설아 ‘성숙한 마음으로 무모하게’ 뮤직비디오 비하인드 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28257547&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28257547&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA1MTJfMTkw/MDAxNTg5Mjg1Mjc2NTQ3.-yU2k7losT3uW5kiu6Y_TxBst8f6XbgHp-vBIaJ7P4Qg.whXAnD3auavOcpBdHKQ2U5uaErknH6RYOkW8wUosQTMg.JPEG/IyNojLi3z9Ly0-kgPG3Hk_hxI2UU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
