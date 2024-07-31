@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jul 2024 02:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 03:15:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Trust In No One]]></title>
+            <link>https://poclanos.com/album/trust-in-no-one/</link>
+            <guid>https://poclanos.com/album/trust-in-no-one/</guid>
+            <pubDate>Wed, 31 Jul 2024 03:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Trust-In-No-One-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fly]]></title>
+            <link>https://poclanos.com/album/fly-2/</link>
+            <guid>https://poclanos.com/album/fly-2/</guid>
+            <pubDate>Wed, 31 Jul 2024 03:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[송미연]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-%EC%86%A1%EB%AF%B8%EC%97%B0-Fly-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sink!]]></title>
+            <link>https://poclanos.com/album/sink-2/</link>
+            <guid>https://poclanos.com/album/sink-2/</guid>
+            <pubDate>Wed, 31 Jul 2024 03:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[12BH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-Sink-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pretty Knife]]></title>
             <link>https://poclanos.com/album/pretty-knife/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 23 Jul 2024 03:13:32 GMT</pubDate>
             <content:encoded><![CDATA[E.HEH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-E.HEH-Eternal-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alternoon]]></title>
-            <link>https://poclanos.com/album/alternoon/</link>
-            <guid>https://poclanos.com/album/alternoon/</guid>
-            <pubDate>Tue, 23 Jul 2024 03:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[Die Boy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Die-Boy-Alternoon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PRIDE]]></title>
-            <link>https://poclanos.com/album/pride/</link>
-            <guid>https://poclanos.com/album/pride/</guid>
-            <pubDate>Mon, 22 Jul 2024 09:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[슬릭 (SLEEQ)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%AC%EB%A6%AD-PRIDE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GOTTA]]></title>
-            <link>https://poclanos.com/album/gotta/</link>
-            <guid>https://poclanos.com/album/gotta/</guid>
-            <pubDate>Mon, 22 Jul 2024 09:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[방]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-GOTTA-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
