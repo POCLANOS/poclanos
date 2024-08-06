@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 08:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 09:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We Will Meet Again (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/we-will-meet-again/</link>
+            <guid>https://poclanos.com/album/we-will-meet-again/</guid>
+            <pubDate>Tue, 06 Aug 2024 09:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[jeebanoff]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jeebanoff-We-Will-Meet-Again-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소란스 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%86%8c%eb%9e%80%ec%8a%a4/</link>
@@ -160,14 +168,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-July-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Eternal Panorama (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/eternal-panorama/</link>
-            <guid>https://poclanos.com/album/eternal-panorama/</guid>
-            <pubDate>Tue, 30 Jul 2024 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[원니]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-Eternal-Panorama-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
             <link>https://poclanos.com/review/loop_1/</link>
             <guid>https://poclanos.com/review/loop_1/</guid>
@@ -258,7 +258,7 @@
 <p>&nbsp;</p>
 <p>다양하게 녹음되고 합성된 수많은 소리들을 하나의 층위에 구성하는 행위를 일종의 세계제작으로, 그렇기에 이렇게 들려오는 모든 음악을 하나의 픽션으로 둘 수 있다면, ‘SIN데렐라’라는 트랙은 자신이 동화와 느와르의 세계 양쪽을 같은 평면에 배치하며 두 가지 장르소설을 하나로 모아왔다는 걸 분명히 인지하고 있는 매력적인 픽션이다. “실리 실키”라는 이름 자체부터가 철자도 발음도 비슷하지만 그 자그마한 차이 덕에 의미가 확 달라지는 단어를 끌어왔듯이 말이다. 그렇게, 조금은 엉뚱하면서도 동시에 부드러운 비단 같은 사운드와 목소리, 그리고 이들로 제작된 동화-느와르 픽션의 전체적인 분위기가, 멋진 데뷔 싱글로서 실리 실키의 캐릭터를 분명하게 설정한다.</p>
 <p>&nbsp;</p>
-<p><iframe loading="lazy" title="[Official Audio] Silly Silky - SIN데렐라 (Sinderella)" width="640" height="360" src="https://www.youtube.com/embed/iF0Voa66Zu4?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_iF0Voa66Zu4" data-gtm-yt-inspected-15="true" data-gtm-yt-inspected-12796466_15="true"></iframe></p>
+<p><iframe loading="lazy" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/iF0Voa66Zu4?feature=oembed&amp;enablejsapi=1&amp;origin=https://poclanos.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" id="youtubeplayer_iF0Voa66Zu4" data-gtm-yt-inspected-15="true" data-gtm-yt-inspected-12796466_15="true"></iframe></p>
 <hr>
 <p><strong>Editor / 나원영 (대중음악비평가)</strong></p>
 	</div><!-- .entry-content -->
