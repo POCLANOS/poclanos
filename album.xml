@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 02:02:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 03:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소란스]]></title>
+            <link>https://poclanos.com/album/%ec%86%8c%eb%9e%80%ec%8a%a4/</link>
+            <guid>https://poclanos.com/album/%ec%86%8c%eb%9e%80%ec%8a%a4/</guid>
+            <pubDate>Tue, 06 Aug 2024 03:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[해파리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%EC%86%8C%EB%9E%80%EC%8A%A4-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 너 너는 나]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88-%eb%84%88%eb%8a%94-%eb%82%98/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%eb%84%88-%eb%84%88%eb%8a%94-%eb%82%98/</guid>
+            <pubDate>Tue, 06 Aug 2024 03:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[Noogi]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EB%82%98%EB%8A%94-%EB%84%88-%EB%84%88%EB%8A%94-%EB%82%98-artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vegetable]]></title>
             <link>https://poclanos.com/album/vegetable/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 30 Jul 2024 03:14:22 GMT</pubDate>
             <content:encoded><![CDATA[원니]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-Eternal-Panorama-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[i’m broken]]></title>
-            <link>https://poclanos.com/album/im-broken/</link>
-            <guid>https://poclanos.com/album/im-broken/</guid>
-            <pubDate>Tue, 30 Jul 2024 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-im-broken-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suspiria]]></title>
-            <link>https://poclanos.com/album/suspiria/</link>
-            <guid>https://poclanos.com/album/suspiria/</guid>
-            <pubDate>Mon, 29 Jul 2024 09:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[BRWN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-Suspiria-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
