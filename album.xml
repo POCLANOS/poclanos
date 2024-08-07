@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 02:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 03:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Clearly]]></title>
+            <link>https://poclanos.com/album/clearly/</link>
+            <guid>https://poclanos.com/album/clearly/</guid>
+            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[루아멜 (LUAMEL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%95%84%EB%A9%9C-LUAMEL-Clearly-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nobody Else]]></title>
+            <link>https://poclanos.com/album/nobody-else-2/</link>
+            <guid>https://poclanos.com/album/nobody-else-2/</guid>
+            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/6.-Nobody_Else_RGB_3000px-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We Will Meet Again]]></title>
             <link>https://poclanos.com/album/we-will-meet-again/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 31 Jul 2024 03:13:20 GMT</pubDate>
             <content:encoded><![CDATA[12BH]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-Sink-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pretty Knife]]></title>
-            <link>https://poclanos.com/album/pretty-knife/</link>
-            <guid>https://poclanos.com/album/pretty-knife/</guid>
-            <pubDate>Tue, 30 Jul 2024 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[비어도스 (VEIRDOS)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/Pretty-Knife-Album-Jacket-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[July]]></title>
-            <link>https://poclanos.com/album/july/</link>
-            <guid>https://poclanos.com/album/july/</guid>
-            <pubDate>Tue, 30 Jul 2024 09:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[coldnight]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-July-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
