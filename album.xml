@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 02:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 03:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wood Wide Web]]></title>
+            <link>https://poclanos.com/album/wood-wide-web/</link>
+            <guid>https://poclanos.com/album/wood-wide-web/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[Piano Shoegazer X 장명선]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Piano-Shoegazer-X-%EC%9E%A5%EB%AA%85%EC%84%A0-Wood-Wide-Web-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연애]]></title>
+            <link>https://poclanos.com/album/%ec%97%b0%ec%95%a0/</link>
+            <guid>https://poclanos.com/album/%ec%97%b0%ec%95%a0/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[김지현]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A7%80%ED%98%84-%EC%97%B0%EC%95%A0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분기점]]></title>
+            <link>https://poclanos.com/album/%eb%b6%84%ea%b8%b0%ec%a0%90/</link>
+            <guid>https://poclanos.com/album/%eb%b6%84%ea%b8%b0%ec%a0%90/</guid>
+            <pubDate>Thu, 08 Aug 2024 03:13:13 GMT</pubDate>
+            <content:encoded><![CDATA[등아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-%EB%93%B1%EC%95%84-%EB%B6%84%EA%B8%B0%EC%A0%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sky Hundred]]></title>
             <link>https://poclanos.com/album/sky-hundred/</link>
@@ -16,20 +40,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Sky-Hundred-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Clearly]]></title>
-            <link>https://poclanos.com/album/clearly/</link>
-            <guid>https://poclanos.com/album/clearly/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[루아멜 (LUAMEL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%95%84%EB%A9%9C-LUAMEL-Clearly-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Nobody Else]]></title>
             <link>https://poclanos.com/album/nobody-else-2/</link>
             <guid>https://poclanos.com/album/nobody-else-2/</guid>
             <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/6.-Nobody_Else_RGB_3000px-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clearly]]></title>
+            <link>https://poclanos.com/album/clearly/</link>
+            <guid>https://poclanos.com/album/clearly/</guid>
+            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[루아멜 (LUAMEL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%95%84%EB%A9%9C-LUAMEL-Clearly-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[We Will Meet Again]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 01 Aug 2024 03:13:03 GMT</pubDate>
             <content:encoded><![CDATA[다린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-%EC%97%AC%EB%A6%84%EC%9D%B4-%EC%A7%80%EB%82%98%EA%B3%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비온뒤맑음]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ec%98%a8%eb%92%a4%eb%a7%91%ec%9d%8c/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ec%98%a8%eb%92%a4%eb%a7%91%ec%9d%8c/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[19990619]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-19990619-%EB%B9%84%EC%98%A8%EB%92%A4%EB%A7%91%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trust In No One]]></title>
-            <link>https://poclanos.com/album/trust-in-no-one/</link>
-            <guid>https://poclanos.com/album/trust-in-no-one/</guid>
-            <pubDate>Wed, 31 Jul 2024 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Trust-In-No-One-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fly]]></title>
-            <link>https://poclanos.com/album/fly-2/</link>
-            <guid>https://poclanos.com/album/fly-2/</guid>
-            <pubDate>Wed, 31 Jul 2024 03:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[송미연]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-%EC%86%A1%EB%AF%B8%EC%97%B0-Fly-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
