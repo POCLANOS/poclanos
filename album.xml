@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 08:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 09:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Era]]></title>
+            <link>https://poclanos.com/album/new-era/</link>
+            <guid>https://poclanos.com/album/new-era/</guid>
+            <pubDate>Fri, 09 Aug 2024 09:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[2DaYellow]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-2DaYellow-meeruu-New-Era-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[pure reflection – the promise of an after story / tiptoe]]></title>
             <link>https://poclanos.com/album/pure-reflection-the-promise-of-an-after-story-tiptoe/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 02 Aug 2024 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[oddeen]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-oddeen-Selfish-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I have a dick]]></title>
-            <link>https://poclanos.com/album/i-have-a-dick/</link>
-            <guid>https://poclanos.com/album/i-have-a-dick/</guid>
-            <pubDate>Fri, 02 Aug 2024 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[st. peach bitches]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93st.peachbichse-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
