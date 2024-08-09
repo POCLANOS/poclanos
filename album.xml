@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Aug 2024 02:05:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 03:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pure reflection – the promise of an after story / tiptoe]]></title>
+            <link>https://poclanos.com/album/pure-reflection-the-promise-of-an-after-story-tiptoe/</link>
+            <guid>https://poclanos.com/album/pure-reflection-the-promise-of-an-after-story-tiptoe/</guid>
+            <pubDate>Fri, 09 Aug 2024 03:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[High Sunn]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4%EC%95%A8%EB%B2%941-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅅㅏㄹㅁ]]></title>
+            <link>https://poclanos.com/album/%e3%85%85%e3%85%8f%e3%84%b9%e3%85%81/</link>
+            <guid>https://poclanos.com/album/%e3%85%85%e3%85%8f%e3%84%b9%e3%85%81/</guid>
+            <pubDate>Fri, 09 Aug 2024 03:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[오열 (OYEOL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%97%B4-%E3%85%85%E3%85%8F%E3%84%B9%E3%85%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wood Wide Web]]></title>
             <link>https://poclanos.com/album/wood-wide-web/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 02 Aug 2024 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[st. peach bitches]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93st.peachbichse-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don’t try this at Home (Feat. Lotionmoney)]]></title>
-            <link>https://poclanos.com/album/dont-try-this-at-home-feat-lotionmoney/</link>
-            <guid>https://poclanos.com/album/dont-try-this-at-home-feat-lotionmoney/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[Snozern (스노전)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Dont-try-this-at-Home-Feat.-Lotionmoney-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름이 지나고]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b3%a0/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%9d%b4-%ec%a7%80%eb%82%98%ea%b3%a0/</guid>
-            <pubDate>Thu, 01 Aug 2024 03:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[다린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-%EC%97%AC%EB%A6%84%EC%9D%B4-%EC%A7%80%EB%82%98%EA%B3%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
