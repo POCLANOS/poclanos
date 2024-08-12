@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Aug 2024 02:07:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2024 03:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이미뱉어버린말들엔지우개가없었어]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4%eb%af%b8%eb%b1%89%ec%96%b4%eb%b2%84%eb%a6%b0%eb%a7%90%eb%93%a4%ec%97%94%ec%a7%80%ec%9a%b0%ea%b0%9c%ea%b0%80%ec%97%86%ec%97%88%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4%eb%af%b8%eb%b1%89%ec%96%b4%eb%b2%84%eb%a6%b0%eb%a7%90%eb%93%a4%ec%97%94%ec%a7%80%ec%9a%b0%ea%b0%9c%ea%b0%80%ec%97%86%ec%97%88%ec%96%b4/</guid>
+            <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[숨비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%9D%B4%EB%AF%B8-%EB%B1%89%EC%96%B4%EB%B2%84%EB%A6%B0-%EB%A7%90%EB%93%A4%EC%97%94-%EC%A7%80%EC%9A%B0%EA%B0%9C%EA%B0%80-%EC%97%86%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Puddle]]></title>
+            <link>https://poclanos.com/album/puddle-2/</link>
+            <guid>https://poclanos.com/album/puddle-2/</guid>
+            <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[Paride Pignotti]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/Puddle_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생긴 것도 없어]]></title>
+            <link>https://poclanos.com/album/%ec%83%9d%ea%b8%b4-%ea%b2%83%eb%8f%84-%ec%97%86%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%83%9d%ea%b8%b4-%ea%b2%83%eb%8f%84-%ec%97%86%ec%96%b4/</guid>
+            <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[오이스터즈 (OYSTERS)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%9D%B4%EC%8A%A4%ED%84%B0%EC%A6%88-OYSTERS-%EC%83%9D%EA%B8%B4-%EA%B2%83%EB%8F%84-%EC%97%86%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[열야양성 (熱夜陽星)]]></title>
             <link>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</link>
@@ -80,20 +104,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Sky-Hundred-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nobody Else]]></title>
-            <link>https://poclanos.com/album/nobody-else-2/</link>
-            <guid>https://poclanos.com/album/nobody-else-2/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/6.-Nobody_Else_RGB_3000px-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Clearly]]></title>
             <link>https://poclanos.com/album/clearly/</link>
             <guid>https://poclanos.com/album/clearly/</guid>
             <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
             <content:encoded><![CDATA[루아멜 (LUAMEL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%95%84%EB%A9%9C-LUAMEL-Clearly-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nobody Else]]></title>
+            <link>https://poclanos.com/album/nobody-else-2/</link>
+            <guid>https://poclanos.com/album/nobody-else-2/</guid>
+            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/6.-Nobody_Else_RGB_3000px-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[We Will Meet Again]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 05 Aug 2024 03:12:33 GMT</pubDate>
             <content:encoded><![CDATA[이예린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%98%88%EB%A6%B0-%EC%82%AC%EB%9E%8C%EC%9D%80-%EC%9D%B4%EC%83%81%ED%95%98%EA%B3%A0-%EC%82%AC%EB%9E%91%EC%9D%80-%EB%AA%A8%EB%A5%B4%EA%B2%A0%EC%96%B4-2024-Ver_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don’t Tell My Papa]]></title>
-            <link>https://poclanos.com/album/dont-tell-my-papa/</link>
-            <guid>https://poclanos.com/album/dont-tell-my-papa/</guid>
-            <pubDate>Sun, 04 Aug 2024 09:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[카코포니 (cacophony)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/%EC%B9%B4%EC%BD%94%ED%8F%AC%EB%8B%88_Donttellmypapa%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Restart]]></title>
-            <link>https://poclanos.com/album/restart/</link>
-            <guid>https://poclanos.com/album/restart/</guid>
-            <pubDate>Sat, 03 Aug 2024 03:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-Restart-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pulse, Raw]]></title>
-            <link>https://poclanos.com/album/pulse-raw/</link>
-            <guid>https://poclanos.com/album/pulse-raw/</guid>
-            <pubDate>Fri, 02 Aug 2024 09:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[Midnight Jogging Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/07/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-Midnight-Jogging-Club_Pulse-Raw-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
