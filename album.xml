@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Aug 2024 02:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Aug 2024 03:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Broken Promises]]></title>
+            <link>https://poclanos.com/album/broken-promises/</link>
+            <guid>https://poclanos.com/album/broken-promises/</guid>
+            <pubDate>Thu, 15 Aug 2024 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Milky-Way-Broken-Promises-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream, the Butterfly, and the Moon]]></title>
+            <link>https://poclanos.com/album/dream-the-butterfly-and-the-moon/</link>
+            <guid>https://poclanos.com/album/dream-the-butterfly-and-the-moon/</guid>
+            <pubDate>Thu, 15 Aug 2024 03:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Layne-Dream-the-Butterfly-and-the-Moon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[먹구름]]></title>
             <link>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 08 Aug 2024 03:13:13 GMT</pubDate>
             <content:encoded><![CDATA[등아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-%EB%93%B1%EC%95%84-%EB%B6%84%EA%B8%B0%EC%A0%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sky Hundred]]></title>
-            <link>https://poclanos.com/album/sky-hundred/</link>
-            <guid>https://poclanos.com/album/sky-hundred/</guid>
-            <pubDate>Wed, 07 Aug 2024 09:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[파란노을 (Parannoul)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8C%8C%EB%9E%80%EB%85%B8%EC%9D%84-Sky-Hundred-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nobody Else]]></title>
-            <link>https://poclanos.com/album/nobody-else-2/</link>
-            <guid>https://poclanos.com/album/nobody-else-2/</guid>
-            <pubDate>Wed, 07 Aug 2024 03:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/6.-Nobody_Else_RGB_3000px-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
