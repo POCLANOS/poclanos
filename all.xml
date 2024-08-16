@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Aug 2024 02:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 03:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wait (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/wait/</link>
+            <guid>https://poclanos.com/album/wait/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[정기가]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%A0%95%EA%B8%B0%EA%B0%80_%EC%8B%B1%EA%B8%80_%EC%95%A8%EB%B2%94_2nd-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazzy Folklore (Wax Alchemy Remastered) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/jazzy-folklore-wax-alchemy-remastered/</link>
+            <guid>https://poclanos.com/album/jazzy-folklore-wax-alchemy-remastered/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[Kenichiro Nishihara]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kenichiro-Nishihara-Jazzy-Folklore-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VOL.05 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/vol-05/</link>
+            <guid>https://poclanos.com/album/vol-05/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.05-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춘 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b6%98/</link>
+            <guid>https://poclanos.com/album/%ec%b6%98/</guid>
+            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[포져군단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8F%AC%EC%A0%B8%EA%B5%B0%EB%8B%A8-%EC%B6%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Baby Cat (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/baby-cat/</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 09 Aug 2024 09:13:11 GMT</pubDate>
             <content:encoded><![CDATA[2DaYellow]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-2DaYellow-meeruu-New-Era-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[pure reflection – the promise of an after story / tiptoe (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/pure-reflection-the-promise-of-an-after-story-tiptoe/</link>
-            <guid>https://poclanos.com/album/pure-reflection-the-promise-of-an-after-story-tiptoe/</guid>
-            <pubDate>Fri, 09 Aug 2024 03:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[High Sunn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4%EC%95%A8%EB%B2%941-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅅㅏㄹㅁ (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%e3%85%85%e3%85%8f%e3%84%b9%e3%85%81/</link>
-            <guid>https://poclanos.com/album/%e3%85%85%e3%85%8f%e3%84%b9%e3%85%81/</guid>
-            <pubDate>Fri, 09 Aug 2024 03:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[오열 (OYEOL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%97%B4-%E3%85%85%E3%85%8F%E3%84%B9%E3%85%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wood Wide Web (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/wood-wide-web/</link>
-            <guid>https://poclanos.com/album/wood-wide-web/</guid>
-            <pubDate>Thu, 08 Aug 2024 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[Piano Shoegazer X 장명선]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Piano-Shoegazer-X-%EC%9E%A5%EB%AA%85%EC%84%A0-Wood-Wide-Web-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연애 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%97%b0%ec%95%a0/</link>
-            <guid>https://poclanos.com/album/%ec%97%b0%ec%95%a0/</guid>
-            <pubDate>Thu, 08 Aug 2024 03:13:13 GMT</pubDate>
-            <content:encoded><![CDATA[김지현]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A7%80%ED%98%84-%EC%97%B0%EC%95%A0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
