@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 02:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[We wanna make you smile, 심아일랜드 첫 EP 발매기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 19 Aug 2024 03:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /We wanna make you smile, 심아일랜드 첫 EP 발매기념 인터뷰 ARTIST |&nbsp;심아일랜드 웃음과 감동을 노래하는 '심아일랜드'.&nbsp;2023년 11월에 결성되어, '누구나 살면서 한 번쯤 해봤을 생각'···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MTZfODcg/MDAxNzIzNzc3NTk0OTc1.xxK8U1X9262iyoCAxRPGvSrOl4fReRhN7FuO4X32KZsg.DyTZ25sORvvkqiJZXGhz1qp27P5TkLWBnwTR3clcYjAg.JPEG/IkS7fFGUIo8nraejsbhlocN1feqo.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원니 첫 EP <Eternal Panorama> MV 비하인드 스토리]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰여유와 설빈이 정규 3집을 준비하고 있다는 소식을 처음 전해 들은 것은 올해 4월이다. 그날은 제주에서 올라온 여유와 처음 인사···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMjU0/MDAxNzAwNTM1NDkwNDM1.TMnjJM23GGge4g21Fq-atofvGLQNL-My_mhGQ4-W5AYg.ZCNQbo7Bn1ytcRJcvTTWgciskjTJge1NVviCuwQHV3kg.JPEG/Is7JZmfuUACebtlMdy7oGxAVjf4c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿈결 같은 목소리로 선사하는 드림 포크록 사운드 ‘우리는 모두 누군가의 꿈이었지’]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36818222&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL /&nbsp;꿈결 같은 목소리로 선사하는 드림 포크록 사운드.당신의 꿈틀거리는 상상력과 낭만을 채워줄 신설희의 새 정규 앨범 &lt;우리는 모두 누군가의 꿈이었지&gt;  INTRO | 신설희환상과 이상, 추상화의 색채···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMDFfMjU1/MDAxNjk4ODMzOTk5MDUy.uToh9qnx1_dYXoFsMC9VmlGm7eMu0NYOmp4VkAxlxYAg.PMEow3AOB_Ro7k9PwEG4mm_NPi5anrCPrJI7XfDgxSwg.PNG/IUNCmF3BkJ3w5QrtA72zWfxEwacs.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

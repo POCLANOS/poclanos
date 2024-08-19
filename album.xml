@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 02:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[One Way]]></title>
+            <link>https://poclanos.com/album/one-way/</link>
+            <guid>https://poclanos.com/album/one-way/</guid>
+            <pubDate>Mon, 19 Aug 2024 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[한석규]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheol-Su]]></title>
+            <link>https://poclanos.com/album/cheol-su/</link>
+            <guid>https://poclanos.com/album/cheol-su/</guid>
+            <pubDate>Mon, 19 Aug 2024 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[심아일랜드]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-Cheol-Su-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[noise]]></title>
+            <link>https://poclanos.com/album/noise/</link>
+            <guid>https://poclanos.com/album/noise/</guid>
+            <pubDate>Mon, 19 Aug 2024 03:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[D'allant]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-Dallant-noise-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나대로]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
             <content:encoded><![CDATA[숨비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%9D%B4%EB%AF%B8-%EB%B1%89%EC%96%B4%EB%B2%84%EB%A6%B0-%EB%A7%90%EB%93%A4%EC%97%94-%EC%A7%80%EC%9A%B0%EA%B0%9C%EA%B0%80-%EC%97%86%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Puddle]]></title>
-            <link>https://poclanos.com/album/puddle-2/</link>
-            <guid>https://poclanos.com/album/puddle-2/</guid>
-            <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[Paride Pignotti]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/Puddle_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생긴 것도 없어]]></title>
-            <link>https://poclanos.com/album/%ec%83%9d%ea%b8%b4-%ea%b2%83%eb%8f%84-%ec%97%86%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%ec%83%9d%ea%b8%b4-%ea%b2%83%eb%8f%84-%ec%97%86%ec%96%b4/</guid>
-            <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[오이스터즈 (OYSTERS)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%9D%B4%EC%8A%A4%ED%84%B0%EC%A6%88-OYSTERS-%EC%83%9D%EA%B8%B4-%EA%B2%83%EB%8F%84-%EC%97%86%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[열야양성 (熱夜陽星)]]></title>
-            <link>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</link>
-            <guid>https://poclanos.com/album/%ec%97%b4%ec%95%bc%ec%96%91%ec%84%b1-%e7%86%b1%e5%a4%9c%e9%99%bd%e6%98%9f/</guid>
-            <pubDate>Sun, 11 Aug 2024 03:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[CHS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-%EC%97%B4%EC%95%BC%EC%96%91%EC%84%B1-%E7%86%B1%E5%A4%9C%E9%99%BD%E6%98%9F-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
