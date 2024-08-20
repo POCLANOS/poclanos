@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 02:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 03:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Trio & Charm (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/trio-charm/</link>
+            <guid>https://poclanos.com/album/trio-charm/</guid>
+            <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[OhashiTrio]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/OhashiTrio-Trio-Charm_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 여름, 기억조작 피아노 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%88%eb%85%95-%ec%97%ac%eb%a6%84-%ea%b8%b0%ec%96%b5%ec%a1%b0%ec%9e%91-%ed%94%bc%ec%95%84%eb%85%b8/</link>
+            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95-%ec%97%ac%eb%a6%84-%ea%b8%b0%ec%96%b5%ec%a1%b0%ec%9e%91-%ed%94%bc%ec%95%84%eb%85%b8/</guid>
+            <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[moong]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-moong-%EC%95%88%EB%85%95-%EC%97%AC%EB%A6%84-%EA%B8%B0%EC%96%B5%EC%A1%B0%EC%9E%91-%ED%94%BC%EC%95%84%EB%85%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화전농업 上 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%99%94%ec%a0%84%eb%86%8d%ec%97%85-%e4%b8%8a/</link>
+            <guid>https://poclanos.com/album/%ed%99%94%ec%a0%84%eb%86%8d%ec%97%85-%e4%b8%8a/</guid>
+            <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[서림]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%99%94%EC%A0%84%EB%86%8D%EC%97%85-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[One Way (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/one-way/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 13 Aug 2024 03:13:31 GMT</pubDate>
             <content:encoded><![CDATA[전호권]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A0%84%ED%98%B8%EA%B6%8C-%ED%91%B8%EB%A5%B8-%EA%B8%B8%EB%AA%A9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하하하 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%ed%95%98%ed%95%98/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%ed%95%98%ed%95%98/</guid>
-            <pubDate>Tue, 13 Aug 2024 03:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[송재원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EC%9E%AC%EC%9B%90-%ED%95%98%ED%95%98%ED%95%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가를 사랑한다는 것 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%88%84%ea%b5%b0%ea%b0%80%eb%a5%bc-%ec%82%ac%eb%9e%91%ed%95%9c%eb%8b%a4%eb%8a%94-%ea%b2%83/</link>
-            <guid>https://poclanos.com/album/%eb%88%84%ea%b5%b0%ea%b0%80%eb%a5%bc-%ec%82%ac%eb%9e%91%ed%95%9c%eb%8b%a4%eb%8a%94-%ea%b2%83/</guid>
-            <pubDate>Tue, 13 Aug 2024 03:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[정우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-%EB%88%84%EA%B5%B0%EA%B0%80%EB%A5%BC-%EC%82%AC%EB%9E%91%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미뱉어버린말들엔지우개가없었어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b4%eb%af%b8%eb%b1%89%ec%96%b4%eb%b2%84%eb%a6%b0%eb%a7%90%eb%93%a4%ec%97%94%ec%a7%80%ec%9a%b0%ea%b0%9c%ea%b0%80%ec%97%86%ec%97%88%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b4%eb%af%b8%eb%b1%89%ec%96%b4%eb%b2%84%eb%a6%b0%eb%a7%90%eb%93%a4%ec%97%94%ec%a7%80%ec%9a%b0%ea%b0%9c%ea%b0%80%ec%97%86%ec%97%88%ec%96%b4/</guid>
-            <pubDate>Mon, 12 Aug 2024 03:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[숨비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%A8%EB%B9%84-%EC%9D%B4%EB%AF%B8-%EB%B1%89%EC%96%B4%EB%B2%84%EB%A6%B0-%EB%A7%90%EB%93%A4%EC%97%94-%EC%A7%80%EC%9A%B0%EA%B0%9C%EA%B0%80-%EC%97%86%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
