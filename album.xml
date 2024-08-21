@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 08:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 09:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bad Trip (Feat. jeebanoff)]]></title>
+            <link>https://poclanos.com/album/bad-trip-feat-jeebanoff/</link>
+            <guid>https://poclanos.com/album/bad-trip-feat-jeebanoff/</guid>
+            <pubDate>Wed, 21 Aug 2024 09:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL-201-Bad-Trip-Feat.-Jeebanoff-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[STATIONS]]></title>
             <link>https://poclanos.com/album/stations/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 14 Aug 2024 09:12:11 GMT</pubDate>
             <content:encoded><![CDATA[정오월]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%A0%95%EC%98%A4%EC%9B%94-%EB%A8%B9%EA%B5%AC%EB%A6%84-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-_%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SIDEWALK]]></title>
-            <link>https://poclanos.com/album/sidewalk/</link>
-            <guid>https://poclanos.com/album/sidewalk/</guid>
-            <pubDate>Wed, 14 Aug 2024 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[NUSHROOM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NUSHROOM-SIDEWALK-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
