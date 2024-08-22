@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 08:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 09:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38615600&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38615600&amp;memberNo=24373938</guid>
+            <pubDate>Thu, 22 Aug 2024 09:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[INTERVIEW / BORN TO BE ROCKSTAR, 최원빈 첫 정규 [ACTING ROCKSTAR] 발매 기념 인터뷰BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 [ACTING ROCKSTAR] 발매 기념 인터뷰 확실한 인기를 끌거나, 두터운 매니아층을 자···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjFfNDEg/MDAxNzI0MjM3NzExNjY4.km9448KQQGM8Qaw4FuW66TpJke_RBP8sRPikB06YFeYg.QDVYPHDjjihxnMlC13Oh2DqIRG8jqWPXM5fX9skPsrEg.JPEG/IU96bXAtjkYnfRw8VVH1OBcw-q70.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We wanna make you smile, 심아일랜드 첫 EP 발매기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL /온기를 잃은 도시, 마주한 시선. 비공정 &lt;밤새 틀어둔 마주할 나의 슬픔에&gt; 발매 인터뷰 ARTIST | 비공정 ALBUM | 밤새 틀어둔 마주할 나의 슬픔에 많은 이들의 사랑과 추억을 품고 있었을 도시는 온···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTVfODEg/MDAxNzAwMDM3NzY4NDA2.tYfbgWQTjTzfwCzEfy0iMN2VX3bCIGGlQdh3Pf9shrcg.abc9RtVG-IOUBkTcfZ_o-WAtrqEk_K3eQPmWwKWoZJMg.JPEG/IlxdPifKjdSrP-fr5nqVISoPygtc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36917675&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW / 스스로 그러함을 받아들이는 뚝뚝한 여정, 여유와 설빈 3집 발매 인터뷰여유와 설빈이 정규 3집을 준비하고 있다는 소식을 처음 전해 들은 것은 올해 4월이다. 그날은 제주에서 올라온 여유와 처음 인사···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMjFfMjU0/MDAxNzAwNTM1NDkwNDM1.TMnjJM23GGge4g21Fq-atofvGLQNL-My_mhGQ4-W5AYg.ZCNQbo7Bn1ytcRJcvTTWgciskjTJge1NVviCuwQHV3kg.JPEG/Is7JZmfuUACebtlMdy7oGxAVjf4c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
