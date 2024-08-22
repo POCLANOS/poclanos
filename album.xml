@@ -4,7 +4,7 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 05:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 06:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.05-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[GUOXIA]]></title>
+            <link>https://poclanos.com/album/guoxia/</link>
+            <guid>https://poclanos.com/album/guoxia/</guid>
+            <pubDate>Thu, 22 Aug 2024 06:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[JelloRio李佳隆]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-cover-%E6%9D%8E%E4%BD%B3%E9%9A%86-GUOXIA-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[춘]]></title>
             <link>https://poclanos.com/album/%ec%b6%98/</link>
             <guid>https://poclanos.com/album/%ec%b6%98/</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 15 Aug 2024 09:11:49 GMT</pubDate>
             <content:encoded><![CDATA[Summer Soul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-Summer-Soul-Baby-Cat-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Broken Promises]]></title>
-            <link>https://poclanos.com/album/broken-promises/</link>
-            <guid>https://poclanos.com/album/broken-promises/</guid>
-            <pubDate>Thu, 15 Aug 2024 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Milky-Way-Broken-Promises-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
