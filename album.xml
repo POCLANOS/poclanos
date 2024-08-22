@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 02:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 03:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Root It Out]]></title>
+            <link>https://poclanos.com/album/root-it-out/</link>
+            <guid>https://poclanos.com/album/root-it-out/</guid>
+            <pubDate>Thu, 22 Aug 2024 03:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%BD%94%EB%84%9BConut-Root-It-Out-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멀었어]]></title>
+            <link>https://poclanos.com/album/%eb%a9%80%ec%97%88%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%eb%a9%80%ec%97%88%ec%96%b4/</guid>
+            <pubDate>Thu, 22 Aug 2024 03:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[강한국]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-%EB%A9%80%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bad Trip (Feat. jeebanoff)]]></title>
             <link>https://poclanos.com/album/bad-trip-feat-jeebanoff/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 15 Aug 2024 03:13:02 GMT</pubDate>
             <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Milky-Way-Broken-Promises-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream, the Butterfly, and the Moon]]></title>
-            <link>https://poclanos.com/album/dream-the-butterfly-and-the-moon/</link>
-            <guid>https://poclanos.com/album/dream-the-butterfly-and-the-moon/</guid>
-            <pubDate>Thu, 15 Aug 2024 03:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Layne-Dream-the-Butterfly-and-the-Moon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹구름]]></title>
-            <link>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84-2/</link>
-            <guid>https://poclanos.com/album/%eb%a8%b9%ea%b5%ac%eb%a6%84-2/</guid>
-            <pubDate>Wed, 14 Aug 2024 09:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[정오월]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%A0%95%EC%98%A4%EC%9B%94-%EB%A8%B9%EA%B5%AC%EB%A6%84-%EC%95%A8%EB%B2%94-%EC%9E%90%EC%BC%93-_%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
