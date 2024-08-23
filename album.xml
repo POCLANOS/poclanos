@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 02:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 03:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ENDLESS SEROTONIN RMXS]]></title>
+            <link>https://poclanos.com/album/endless-serotonin-rmxs/</link>
+            <guid>https://poclanos.com/album/endless-serotonin-rmxs/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[NECTA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ENDLESS-SEROTONIN-RMXS-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Give Me Some Love]]></title>
+            <link>https://poclanos.com/album/give-me-some-love/</link>
+            <guid>https://poclanos.com/album/give-me-some-love/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soul-delivery-Give-Me-Some-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아오리 사과]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%ec%98%a4%eb%a6%ac-%ec%82%ac%ea%b3%bc/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%ec%98%a4%eb%a6%ac-%ec%82%ac%ea%b3%bc/</guid>
+            <pubDate>Fri, 23 Aug 2024 03:12:31 GMT</pubDate>
+            <content:encoded><![CDATA[몽글]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-_-%EC%95%84%EC%98%A4%EB%A6%AC-%EC%82%AC%EA%B3%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Root It Out]]></title>
             <link>https://poclanos.com/album/root-it-out/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
             <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.05-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GUOXIA]]></title>
-            <link>https://poclanos.com/album/guoxia/</link>
-            <guid>https://poclanos.com/album/guoxia/</guid>
-            <pubDate>Thu, 22 Aug 2024 06:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[JelloRio李佳隆]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-cover-%E6%9D%8E%E4%BD%B3%E9%9A%86-GUOXIA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘]]></title>
-            <link>https://poclanos.com/album/%ec%b6%98/</link>
-            <guid>https://poclanos.com/album/%ec%b6%98/</guid>
-            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[포져군단]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8F%AC%EC%A0%B8%EA%B5%B0%EB%8B%A8-%EC%B6%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Baby Cat]]></title>
-            <link>https://poclanos.com/album/baby-cat/</link>
-            <guid>https://poclanos.com/album/baby-cat/</guid>
-            <pubDate>Thu, 15 Aug 2024 09:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[Summer Soul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-Summer-Soul-Baby-Cat-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
