@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 02:04:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 03:14:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YOUTH DOCENT]]></title>
+            <link>https://poclanos.com/album/youth-docent/</link>
+            <guid>https://poclanos.com/album/youth-docent/</guid>
+            <pubDate>Sat, 24 Aug 2024 03:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[RYE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-RYE-YOUTH-DOCENT-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이란 말로]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9e%80-%eb%a7%90%eb%a1%9c/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9e%80-%eb%a7%90%eb%a1%9c/</guid>
+            <pubDate>Sat, 24 Aug 2024 03:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[Vovo Weng (보보웽)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Vovo-Weng-%EC%82%AC%EB%9E%91%EC%9D%B4%EB%9E%80-%EB%A7%90%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ENDLESS SEROTONIN RMXS]]></title>
             <link>https://poclanos.com/album/endless-serotonin-rmxs/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
             <content:encoded><![CDATA[정기가]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%A0%95%EA%B8%B0%EA%B0%80_%EC%8B%B1%EA%B8%80_%EC%95%A8%EB%B2%94_2nd-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazzy Folklore (Wax Alchemy Remastered)]]></title>
-            <link>https://poclanos.com/album/jazzy-folklore-wax-alchemy-remastered/</link>
-            <guid>https://poclanos.com/album/jazzy-folklore-wax-alchemy-remastered/</guid>
-            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[Kenichiro Nishihara]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kenichiro-Nishihara-Jazzy-Folklore-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOL.05]]></title>
-            <link>https://poclanos.com/album/vol-05/</link>
-            <guid>https://poclanos.com/album/vol-05/</guid>
-            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.05-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
