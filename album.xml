@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 02:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 03:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너의 바다]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%b0%94%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%b0%94%eb%8b%a4/</guid>
+            <pubDate>Mon, 26 Aug 2024 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[김 현 (Kim Hyun)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80-%ED%98%84-%EB%84%88%EC%9D%98-%EB%B0%94%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다섯 번째 계절]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4%ec%84%af-%eb%b2%88%ec%a7%b8-%ea%b3%84%ec%a0%88/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4%ec%84%af-%eb%b2%88%ec%a7%b8-%ea%b3%84%ec%a0%88/</guid>
+            <pubDate>Mon, 26 Aug 2024 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EB%8B%A4%EC%84%AF-%EB%B2%88%EC%A7%B8-%EA%B3%84%EC%A0%88-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%B5%9C%EC%A2%85%EC%A0%95%EB%B0%A9%ED%98%952-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슝 ~!]]></title>
+            <link>https://poclanos.com/album/%ec%8a%9d/</link>
+            <guid>https://poclanos.com/album/%ec%8a%9d/</guid>
+            <pubDate>Mon, 26 Aug 2024 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[Formal]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Formal-%EC%8A%9D--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑은 또]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%eb%98%90/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%80-%eb%98%90/</guid>
+            <pubDate>Mon, 26 Aug 2024 03:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[박태욱 (Park Tae Wook)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%ED%83%9C%EC%9A%B1-Park-Tae-Wook-%EC%82%AC%EB%9E%91%EC%9D%80-%EB%98%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[YOUTH DOCENT]]></title>
             <link>https://poclanos.com/album/youth-docent/</link>
@@ -80,20 +112,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-3.-cover-BookBookBalance-STATIONS-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Swim in you]]></title>
-            <link>https://poclanos.com/album/swim-in-you/</link>
-            <guid>https://poclanos.com/album/swim-in-you/</guid>
-            <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-Swim-in-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나는 그렇다]]></title>
             <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</link>
             <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</guid>
             <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[이재경]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%9D%B4%EC%A2%85%EC%84%9C-%EB%82%98%EB%8A%94-%EA%B7%B8%EB%A0%87%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Swim in you]]></title>
+            <link>https://poclanos.com/album/swim-in-you/</link>
+            <guid>https://poclanos.com/album/swim-in-you/</guid>
+            <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-Swim-in-you-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Trio & Charm]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 19 Aug 2024 03:12:43 GMT</pubDate>
             <content:encoded><![CDATA[심아일랜드]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%AC%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-Cheol-Su-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[noise]]></title>
-            <link>https://poclanos.com/album/noise/</link>
-            <guid>https://poclanos.com/album/noise/</guid>
-            <pubDate>Mon, 19 Aug 2024 03:12:43 GMT</pubDate>
-            <content:encoded><![CDATA[D'allant]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-Dallant-noise-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나대로]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8c%80%eb%a1%9c/</guid>
-            <pubDate>Sun, 18 Aug 2024 03:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-Haze-Moon-%EB%82%98%EB%8C%80%EB%A1%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이스쿨 뮤지컬]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%ec%9d%b4%ec%8a%a4%ec%bf%a8-%eb%ae%a4%ec%a7%80%ec%bb%ac/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%ec%9d%b4%ec%8a%a4%ec%bf%a8-%eb%ae%a4%ec%a7%80%ec%bb%ac/</guid>
-            <pubDate>Sat, 17 Aug 2024 03:12:18 GMT</pubDate>
-            <content:encoded><![CDATA[크리스탈 티]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88-%ED%8B%B0-%ED%95%98%EC%9D%B4%EC%8A%A4%EC%BF%A8-%EB%AE%A4%EC%A7%80%EC%BB%AC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wait]]></title>
-            <link>https://poclanos.com/album/wait/</link>
-            <guid>https://poclanos.com/album/wait/</guid>
-            <pubDate>Fri, 16 Aug 2024 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[정기가]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%A0%95%EA%B8%B0%EA%B0%80_%EC%8B%B1%EA%B8%80_%EC%95%A8%EB%B2%94_2nd-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
