@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 08:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 09:14:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vicious Weirdos (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/vicious-weirdos/</link>
+            <guid>https://poclanos.com/album/vicious-weirdos/</guid>
+            <pubDate>Tue, 27 Aug 2024 09:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[비어도스 (VEIRDOS)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98Vicious-Weirdos-Jacket-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[You know how (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/you-know-how/</link>
@@ -128,20 +136,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-3.-cover-BookBookBalance-STATIONS-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나는 그렇다 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</guid>
-            <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[이재경]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%9D%B4%EC%A2%85%EC%84%9C-%EB%82%98%EB%8A%94-%EA%B7%B8%EB%A0%87%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Swim in you (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/swim-in-you/</link>
             <guid>https://poclanos.com/album/swim-in-you/</guid>
             <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-Swim-in-you-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나는 그렇다 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</guid>
+            <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[이재경]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%9D%B4%EC%A2%85%EC%84%9C-%EB%82%98%EB%8A%94-%EA%B7%B8%EB%A0%87%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Trio & Charm (POCLANOS ─ Album)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
             <content:encoded><![CDATA[moong]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-moong-%EC%95%88%EB%85%95-%EC%97%AC%EB%A6%84-%EA%B8%B0%EC%96%B5%EC%A1%B0%EC%9E%91-%ED%94%BC%EC%95%84%EB%85%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화전농업 上 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%94%ec%a0%84%eb%86%8d%ec%97%85-%e4%b8%8a/</link>
-            <guid>https://poclanos.com/album/%ed%99%94%ec%a0%84%eb%86%8d%ec%97%85-%e4%b8%8a/</guid>
-            <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[서림]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%99%94%EC%A0%84%EB%86%8D%EC%97%85-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
