@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 02:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 03:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Echo (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/echo-2/</link>
+            <guid>https://poclanos.com/album/echo-2/</guid>
+            <pubDate>Wed, 28 Aug 2024 03:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[신설희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%8B%A0%EC%84%A4%ED%9D%AC-Echo-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clara’s Place (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/claras-place/</link>
+            <guid>https://poclanos.com/album/claras-place/</guid>
+            <pubDate>Wed, 28 Aug 2024 03:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[남메아리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%82%A8%EB%A9%94%EC%95%84%EB%A6%AC-Claras-Place-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cool, Cool Stunner (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/cool-cool-stunner/</link>
+            <guid>https://poclanos.com/album/cool-cool-stunner/</guid>
+            <pubDate>Wed, 28 Aug 2024 03:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[비치보이스 (The Beach Voice)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B9%84%EC%B9%98%EB%B3%B4%EC%9D%B4%EC%8A%A4The-Beach-Voice-Cool-Cool-Stunner-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이별네컷 (Love and pain in four scenes) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4%eb%b3%84%eb%84%a4%ec%bb%b7-love-and-pain-in-four-scenes/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4%eb%b3%84%eb%84%a4%ec%bb%b7-love-and-pain-in-four-scenes/</guid>
+            <pubDate>Wed, 28 Aug 2024 03:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[정 점]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95-%EC%A0%90-%EC%9D%B4%EB%B3%84%EB%84%A4%EC%BB%B7-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vicious Weirdos (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/vicious-weirdos/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
             <content:encoded><![CDATA[BookBookBalance]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-3.-cover-BookBookBalance-STATIONS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Swim in you (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/swim-in-you/</link>
-            <guid>https://poclanos.com/album/swim-in-you/</guid>
-            <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-Swim-in-you-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나는 그렇다 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%8a%94-%ea%b7%b8%eb%a0%87%eb%8b%a4/</guid>
-            <pubDate>Wed, 21 Aug 2024 03:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[이재경]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%9E%AC%EA%B2%BD-%EC%9D%B4%EC%A2%85%EC%84%9C-%EB%82%98%EB%8A%94-%EA%B7%B8%EB%A0%87%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trio & Charm (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/trio-charm/</link>
-            <guid>https://poclanos.com/album/trio-charm/</guid>
-            <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[OhashiTrio]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/OhashiTrio-Trio-Charm_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 여름, 기억조작 피아노 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%eb%85%95-%ec%97%ac%eb%a6%84-%ea%b8%b0%ec%96%b5%ec%a1%b0%ec%9e%91-%ed%94%bc%ec%95%84%eb%85%b8/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95-%ec%97%ac%eb%a6%84-%ea%b8%b0%ec%96%b5%ec%a1%b0%ec%9e%91-%ed%94%bc%ec%95%84%eb%85%b8/</guid>
-            <pubDate>Tue, 20 Aug 2024 03:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[moong]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-moong-%EC%95%88%EB%85%95-%EC%97%AC%EB%A6%84-%EA%B8%B0%EC%96%B5%EC%A1%B0%EC%9E%91-%ED%94%BC%EC%95%84%EB%85%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
