@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 08:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 09:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이어리(Diary) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</guid>
+            <pubDate>Thu, 29 Aug 2024 09:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%9C%ED%86%A0%EC%9D%B4%EC%A6%88-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-Diary-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[summer summer (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/summer-summer/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 22 Aug 2024 03:14:12 GMT</pubDate>
             <content:encoded><![CDATA[코넛(Conut)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%BD%94%EB%84%9BConut-Root-It-Out-%EC%95%A8%EB%B2%94%EC%9E%90%EC%BC%93-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멀었어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a9%80%ec%97%88%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%a9%80%ec%97%88%ec%96%b4/</guid>
-            <pubDate>Thu, 22 Aug 2024 03:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[강한국]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-%EB%A9%80%EC%97%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
