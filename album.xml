@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 08:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dennis The Menace]]></title>
+            <link>https://poclanos.com/album/dennis-the-menace/</link>
+            <guid>https://poclanos.com/album/dennis-the-menace/</guid>
+            <pubDate>Fri, 30 Aug 2024 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[진동욱]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Dennis-The-Menace-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Way Back Home]]></title>
             <link>https://poclanos.com/album/way-back-home/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 23 Aug 2024 03:12:31 GMT</pubDate>
             <content:encoded><![CDATA[NECTA]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ENDLESS-SEROTONIN-RMXS-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Give Me Some Love]]></title>
-            <link>https://poclanos.com/album/give-me-some-love/</link>
-            <guid>https://poclanos.com/album/give-me-some-love/</guid>
-            <pubDate>Fri, 23 Aug 2024 03:12:31 GMT</pubDate>
-            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soul-delivery-Give-Me-Some-Love-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
