@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Sep 2024 02:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Sep 2024 03:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별이 된 밤 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%b3%84%ec%9d%b4-%eb%90%9c-%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%b3%84%ec%9d%b4-%eb%90%9c-%eb%b0%a4/</guid>
+            <pubDate>Tue, 03 Sep 2024 03:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[Out Of Place (아웃 오브 플레이스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Out-Of-Place-%EC%95%84%EC%9B%83-%EC%98%A4%EB%B8%8C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EB%B3%84%EC%9D%B4-%EB%90%9C-%EB%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Self Control (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/self-control-2/</link>
+            <guid>https://poclanos.com/album/self-control-2/</guid>
+            <pubDate>Tue, 03 Sep 2024 03:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[Marrakech]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/Marrakech-Self-Control_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MAGIC RAIN (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/magic-rain/</link>
+            <guid>https://poclanos.com/album/magic-rain/</guid>
+            <pubDate>Tue, 03 Sep 2024 03:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Joe-Layne-MAGIC-RAIN-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anxious (Feat. The Deep) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/anxious-feat-the-deep/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 27 Aug 2024 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[비어도스 (VEIRDOS)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98Vicious-Weirdos-Jacket-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You know how (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/you-know-how/</link>
-            <guid>https://poclanos.com/album/you-know-how/</guid>
-            <pubDate>Tue, 27 Aug 2024 03:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[LÜCY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-cover-LUCY-You-know-how-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름손님 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%86%90%eb%8b%98/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%eb%a6%84%ec%86%90%eb%8b%98/</guid>
-            <pubDate>Tue, 27 Aug 2024 03:12:35 GMT</pubDate>
-            <content:encoded><![CDATA[전지선]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%A7%80%EC%84%A0-%EC%97%AC%EB%A6%84%EC%86%90%EB%8B%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 바다 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%b0%94%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%b0%94%eb%8b%a4/</guid>
-            <pubDate>Mon, 26 Aug 2024 03:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[김 현 (Kim Hyun)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80-%ED%98%84-%EB%84%88%EC%9D%98-%EB%B0%94%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
