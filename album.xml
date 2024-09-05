@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 08:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 09:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hiki Hiki Rap Song (Hoko Hoko Remix)]]></title>
+            <link>https://poclanos.com/album/hiki-hiki-rap-song-hoko-hoko-remix/</link>
+            <guid>https://poclanos.com/album/hiki-hiki-rap-song-hoko-hoko-remix/</guid>
+            <pubDate>Thu, 05 Sep 2024 09:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[hyejin9w9]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/Hiki-Hiki-Rap-Song-Hoko-Hoko-Remix-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[This Is Me]]></title>
             <link>https://poclanos.com/album/this-is-me/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 30 Aug 2024 03:12:40 GMT</pubDate>
             <content:encoded><![CDATA[Tanaka Yuri (田中裕梨)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Tanaka-Yuri-4AM-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이어리(Diary)]]></title>
-            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</link>
-            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%b4%eb%a6%acdiary/</guid>
-            <pubDate>Thu, 29 Aug 2024 09:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[Jettoyz (제토이즈)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jettoyz-%EC%A0%9C%ED%86%A0%EC%9D%B4%EC%A6%88-%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC-Diary-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
