@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 09:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Evergreen]]></title>
+            <link>https://poclanos.com/album/evergreen/</link>
+            <guid>https://poclanos.com/album/evergreen/</guid>
+            <pubDate>Fri, 06 Sep 2024 09:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[ffpp]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-Evergreen-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Been So Good]]></title>
             <link>https://poclanos.com/album/been-so-good/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 31 Aug 2024 03:12:04 GMT</pubDate>
             <content:encoded><![CDATA[ddbb]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-rabbit-dash-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dennis The Menace]]></title>
-            <link>https://poclanos.com/album/dennis-the-menace/</link>
-            <guid>https://poclanos.com/album/dennis-the-menace/</guid>
-            <pubDate>Fri, 30 Aug 2024 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[진동욱]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%BB%A4%EB%B2%84-%EC%A7%84%EB%8F%99%EC%9A%B1-Dennis-The-Menace-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
