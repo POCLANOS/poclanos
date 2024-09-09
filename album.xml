@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Sep 2024 02:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Sep 2024 03:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lasha]]></title>
+            <link>https://poclanos.com/album/lasha-2/</link>
+            <guid>https://poclanos.com/album/lasha-2/</guid>
+            <pubDate>Mon, 09 Sep 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[사비나앤드론즈 (Savina &amp; Drones)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-%EC%82%AC%EB%B9%84%EB%82%98%EC%95%A4%EB%93%9C%EB%A1%A0%EC%A6%88_Lasha-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜 웃겨]]></title>
+            <link>https://poclanos.com/album/%ec%a7%84%ec%a7%9c-%ec%9b%83%ea%b2%a8/</link>
+            <guid>https://poclanos.com/album/%ec%a7%84%ec%a7%9c-%ec%9b%83%ea%b2%a8/</guid>
+            <pubDate>Mon, 09 Sep 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[권그린 (GREENY)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B6%8C%EA%B7%B8%EB%A6%B0-GREENY-%EC%A7%84%EC%A7%9C-%EC%9B%83%EA%B2%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hailey]]></title>
+            <link>https://poclanos.com/album/hailey/</link>
+            <guid>https://poclanos.com/album/hailey/</guid>
+            <pubDate>Mon, 09 Sep 2024 03:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[Hollyway]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Hollyway-Hailey-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cheese Burger (Feat.Deepflow, Minos, DJ Son)]]></title>
             <link>https://poclanos.com/album/cheese-burger-feat-deepflow-minos-dj-son/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 02 Sep 2024 09:13:30 GMT</pubDate>
             <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINex-Anxious-Feat.-The-Deep-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rush]]></title>
-            <link>https://poclanos.com/album/rush/</link>
-            <guid>https://poclanos.com/album/rush/</guid>
-            <pubDate>Mon, 02 Sep 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[사흘 윤 (Sahl Yoon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%ED%9D%98-%EC%9C%A4-Sahl-Yoon-Rush-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바다의 숲]]></title>
-            <link>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%ec%9d%98-%ec%88%b2/</link>
-            <guid>https://poclanos.com/album/%eb%b0%94%eb%8b%a4%ec%9d%98-%ec%88%b2/</guid>
-            <pubDate>Mon, 02 Sep 2024 03:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[매간당]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EA%B0%84%EB%8B%B9-%EB%B0%94%EB%8B%A4%EC%9D%98-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛나]]></title>
-            <link>https://poclanos.com/album/%eb%b9%9b%eb%82%98-3/</link>
-            <guid>https://poclanos.com/album/%eb%b9%9b%eb%82%98-3/</guid>
-            <pubDate>Sun, 01 Sep 2024 03:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[잠 (zzzaam)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%EC%9E%A04%EC%A7%91%EB%B9%9B%EB%82%98%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
