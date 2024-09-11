@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Sep 2024 08:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2024 09:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작은 숲]]></title>
+            <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</link>
+            <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</guid>
+            <pubDate>Wed, 11 Sep 2024 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[Room306]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Room306-%EC%9E%91%EC%9D%80-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낙원]]></title>
             <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 04 Sep 2024 03:13:04 GMT</pubDate>
             <content:encoded><![CDATA[Monday Off With Bluesy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검은물]]></title>
-            <link>https://poclanos.com/album/%ea%b2%80%ec%9d%80%eb%ac%bc/</link>
-            <guid>https://poclanos.com/album/%ea%b2%80%ec%9d%80%eb%ac%bc/</guid>
-            <pubDate>Wed, 04 Sep 2024 03:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[소음발광]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/08/%EA%B2%80%EC%9D%80%EB%AC%BC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
