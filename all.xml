@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Sep 2024 02:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Sep 2024 03:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다이얼 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%bc/</link>
+            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%bc/</guid>
+            <pubDate>Sat, 14 Sep 2024 03:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[까치산]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-%EB%8B%A4%EC%9D%B4%EC%96%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄을 기다리며 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b4%84%ec%9d%84-%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%a9%b0/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 06 Sep 2024 09:12:22 GMT</pubDate>
             <content:encoded><![CDATA[ffpp]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-Evergreen-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Been So Good (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/been-so-good/</link>
-            <guid>https://poclanos.com/album/been-so-good/</guid>
-            <pubDate>Fri, 06 Sep 2024 03:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[An0]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/Been-So-Good_Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
