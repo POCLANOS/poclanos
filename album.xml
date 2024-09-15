@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Sep 2024 02:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2024 03:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 밤에 이 맘에]]></title>
+            <link>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%97%90-%ec%9d%b4-%eb%a7%98%ec%97%90/</link>
+            <guid>https://poclanos.com/album/%ec%9d%b4-%eb%b0%a4%ec%97%90-%ec%9d%b4-%eb%a7%98%ec%97%90/</guid>
+            <pubDate>Sun, 15 Sep 2024 03:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[장수빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%88%98%EB%B9%88-%EC%9D%B4-%EB%B0%A4%EC%97%90-%EC%9D%B4-%EB%A7%98%EC%97%90%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다이얼]]></title>
             <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%bc/</link>
@@ -80,20 +88,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Room306-%EC%9E%91%EC%9D%80-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[낙원]]></title>
-            <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%eb%82%99%ec%9b%90/</guid>
-            <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%82%99%EC%9B%90-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[그네]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</link>
             <guid>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</guid>
             <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
             <content:encoded><![CDATA[오주하 (OH!JUHA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%A3%BC%ED%95%98-%EA%B7%B8%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낙원]]></title>
+            <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
+            <guid>https://poclanos.com/album/%eb%82%99%ec%9b%90/</guid>
+            <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[김나은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%82%99%EC%9B%90-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ALIVE]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 07 Sep 2024 03:13:11 GMT</pubDate>
             <content:encoded><![CDATA[찰리빈웍스]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B0%B0%EB%A6%AC%EB%B9%88%EC%9B%8D%EC%8A%A4-%EC%9A%B0%EB%A6%AC%EC%82%AC%EB%9E%91%EC%9D%80-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evergreen]]></title>
-            <link>https://poclanos.com/album/evergreen/</link>
-            <guid>https://poclanos.com/album/evergreen/</guid>
-            <pubDate>Fri, 06 Sep 2024 09:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[ffpp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-Evergreen-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
