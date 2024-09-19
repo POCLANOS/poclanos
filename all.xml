@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 02:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 03:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[룸펜 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</link>
+            <guid>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</guid>
+            <pubDate>Thu, 19 Sep 2024 03:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[산보]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%82%B0%EB%B3%B4-%EB%A3%B8%ED%8E%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠든 기억 아래 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9e%a0%eb%93%a0-%ea%b8%b0%ec%96%b5-%ec%95%84%eb%9e%98/</link>
@@ -144,14 +152,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Room306-%EC%9E%91%EC%9D%80-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[낙원 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%eb%82%99%ec%9b%90/</guid>
-            <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%82%99%EC%9B%90-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[그네 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</link>
             <guid>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%A3%BC%ED%95%98-%EA%B7%B8%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ALIVE (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/alive-4/</link>
-            <guid>https://poclanos.com/album/alive-4/</guid>
-            <pubDate>Tue, 10 Sep 2024 03:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[수잔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%88%98%EC%9E%94-ALIVE-%EC%9E%91%EC%9D%80-%EC%9A%A9%EB%9F%89-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[낙원 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
+            <guid>https://poclanos.com/album/%eb%82%99%ec%9b%90/</guid>
+            <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[김나은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%82%99%EC%9B%90-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
