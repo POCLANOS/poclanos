@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 08:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 09:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[착각 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</link>
+            <guid>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</guid>
+            <pubDate>Fri, 20 Sep 2024 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[BRWN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-%EC%B0%A9%EA%B0%81-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[풀잎들 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Sep 2024 03:13:35 GMT</pubDate>
             <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-1-Cypher-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작은 숲 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</link>
-            <guid>https://poclanos.com/album/%ec%9e%91%ec%9d%80-%ec%88%b2/</guid>
-            <pubDate>Wed, 11 Sep 2024 09:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[Room306]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Room306-%EC%9E%91%EC%9D%80-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
