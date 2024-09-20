@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Sep 2024 02:14:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 03:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풀잎들]]></title>
+            <link>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ed%92%80%ec%9e%8e%eb%93%a4/</guid>
+            <pubDate>Fri, 20 Sep 2024 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[최지원]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A7%80%EC%9B%90-%ED%92%80%EC%9E%8E%EB%93%A4-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[세잎클로버]]></title>
+            <link>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</link>
+            <guid>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</guid>
+            <pubDate>Fri, 20 Sep 2024 03:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[박시원]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%EC%84%B8%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[룸펜]]></title>
             <link>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 11 Sep 2024 09:13:26 GMT</pubDate>
             <content:encoded><![CDATA[Room306]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Room306-%EC%9E%91%EC%9D%80-%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그네]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%84%a4/</guid>
-            <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[오주하 (OH!JUHA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EC%A3%BC%ED%95%98-%EA%B7%B8%EB%84%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낙원]]></title>
-            <link>https://poclanos.com/album/%eb%82%99%ec%9b%90/</link>
-            <guid>https://poclanos.com/album/%eb%82%99%ec%9b%90/</guid>
-            <pubDate>Wed, 11 Sep 2024 03:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[김나은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%82%98%EC%9D%80-%EB%82%99%EC%9B%90-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
