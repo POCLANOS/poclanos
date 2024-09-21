@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 02:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 03:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 안에 숨 쉬는]]></title>
+            <link>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%97%90-%ec%88%a8-%ec%89%ac%eb%8a%94/</link>
+            <guid>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%97%90-%ec%88%a8-%ec%89%ac%eb%8a%94/</guid>
+            <pubDate>Sat, 21 Sep 2024 03:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[손혜은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%82%B4-%EC%95%88%EC%97%90-%EC%88%A8-%EC%89%AC%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착각]]></title>
             <link>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Sep 2024 03:13:35 GMT</pubDate>
             <content:encoded><![CDATA[강한국]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-The-Analog-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Season 14 Round 1 Cypher]]></title>
-            <link>https://poclanos.com/album/season-14-round-1-cypher/</link>
-            <guid>https://poclanos.com/album/season-14-round-1-cypher/</guid>
-            <pubDate>Thu, 12 Sep 2024 03:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-1-Cypher-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
