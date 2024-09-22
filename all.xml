@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Sep 2024 02:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2024 03:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가을이 오나 봐 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%b4-%ec%98%a4%eb%82%98-%eb%b4%90/</link>
+            <guid>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%b4-%ec%98%a4%eb%82%98-%eb%b4%90/</guid>
+            <pubDate>Sun, 22 Sep 2024 03:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[임세모]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%84%EC%84%B8%EB%AA%A8-%EA%B0%80%EC%9D%84%EC%9D%B4-%EC%98%A4%EB%82%98-%EB%B4%90-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[내 안에 숨 쉬는 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%97%90-%ec%88%a8-%ec%89%ac%eb%8a%94/</link>
@@ -88,20 +96,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-jumin-Mirror-feat.-%ED%95%9C%EC%A7%80%EC%9B%90-of-Youth-Hostel-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모양들 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%ec%96%91%eb%93%a4/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%ec%96%91%eb%93%a4/</guid>
-            <pubDate>Mon, 16 Sep 2024 03:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[모양들]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AA%A8%EC%96%91%EB%93%A4-%EB%AA%A8%EC%96%91%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[멀어진 친구에게 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%a9%80%ec%96%b4%ec%a7%84-%ec%b9%9c%ea%b5%ac%ec%97%90%ea%b2%8c/</link>
             <guid>https://poclanos.com/album/%eb%a9%80%ec%96%b4%ec%a7%84-%ec%b9%9c%ea%b5%ac%ec%97%90%ea%b2%8c/</guid>
             <pubDate>Mon, 16 Sep 2024 03:20:14 GMT</pubDate>
             <content:encoded><![CDATA[강진아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%84%EC%95%84-%EB%A9%80%EC%96%B4%EC%A7%84-%EC%B9%9C%EA%B5%AC%EC%97%90%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모양들 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%ec%96%91%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%ec%96%91%eb%93%a4/</guid>
+            <pubDate>Mon, 16 Sep 2024 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[모양들]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AA%A8%EC%96%91%EB%93%A4-%EB%AA%A8%EC%96%91%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 밤에 이 맘에 (POCLANOS ─ Album)]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Sep 2024 03:13:35 GMT</pubDate>
             <content:encoded><![CDATA[Nutty]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Nutty-SOMEBODY-HELP-ME-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Analog (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/the-analog/</link>
-            <guid>https://poclanos.com/album/the-analog/</guid>
-            <pubDate>Thu, 12 Sep 2024 03:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[강한국]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-The-Analog-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
