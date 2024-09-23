@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 02:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Sep 2024 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[giveusasalvation. (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/giveusasalvation/</link>
+            <guid>https://poclanos.com/album/giveusasalvation/</guid>
+            <pubDate>Mon, 23 Sep 2024 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-giveusasalvation-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Night and Day (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/night-and-day/</link>
+            <guid>https://poclanos.com/album/night-and-day/</guid>
+            <pubDate>Mon, 23 Sep 2024 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[Oneianmillion (강이안)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%9D%B4%EC%95%88-Night-and-Day-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잊지 말라고 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%8a%ec%a7%80-%eb%a7%90%eb%9d%bc%ea%b3%a0/</link>
+            <guid>https://poclanos.com/album/%ec%9e%8a%ec%a7%80-%eb%a7%90%eb%9d%bc%ea%b3%a0/</guid>
+            <pubDate>Mon, 23 Sep 2024 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[전유빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%9C%A0%EB%B9%88-%EC%9E%8A%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[가을이 오나 봐 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ea%b0%80%ec%9d%84%ec%9d%b4-%ec%98%a4%eb%82%98-%eb%b4%90/</link>
@@ -96,20 +120,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-jumin-Mirror-feat.-%ED%95%9C%EC%A7%80%EC%9B%90-of-Youth-Hostel-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[멀어진 친구에게 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a9%80%ec%96%b4%ec%a7%84-%ec%b9%9c%ea%b5%ac%ec%97%90%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%eb%a9%80%ec%96%b4%ec%a7%84-%ec%b9%9c%ea%b5%ac%ec%97%90%ea%b2%8c/</guid>
-            <pubDate>Mon, 16 Sep 2024 03:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[강진아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%84%EC%95%84-%EB%A9%80%EC%96%B4%EC%A7%84-%EC%B9%9C%EA%B5%AC%EC%97%90%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모양들 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%aa%a8%ec%96%91%eb%93%a4/</link>
             <guid>https://poclanos.com/album/%eb%aa%a8%ec%96%91%eb%93%a4/</guid>
             <pubDate>Mon, 16 Sep 2024 03:20:14 GMT</pubDate>
             <content:encoded><![CDATA[모양들]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AA%A8%EC%96%91%EB%93%A4-%EB%AA%A8%EC%96%91%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[멀어진 친구에게 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%a9%80%ec%96%b4%ec%a7%84-%ec%b9%9c%ea%b5%ac%ec%97%90%ea%b2%8c/</link>
+            <guid>https://poclanos.com/album/%eb%a9%80%ec%96%b4%ec%a7%84-%ec%b9%9c%ea%b5%ac%ec%97%90%ea%b2%8c/</guid>
+            <pubDate>Mon, 16 Sep 2024 03:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[강진아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%84%EC%95%84-%EB%A9%80%EC%96%B4%EC%A7%84-%EC%B9%9C%EA%B5%AC%EC%97%90%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 밤에 이 맘에 (POCLANOS ─ Album)]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 13 Sep 2024 03:13:51 GMT</pubDate>
             <content:encoded><![CDATA[a 9uy]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-KIHU-a-9uy-JEWELS-Feat.-Neidi-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/8-2/</link>
-            <guid>https://poclanos.com/album/8-2/</guid>
-            <pubDate>Fri, 13 Sep 2024 03:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[신세하 (Xin Seha)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Xin-Seha-%EC%8B%A0%EC%84%B8%ED%95%98-8-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Love You (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/i-love-you-2/</link>
-            <guid>https://poclanos.com/album/i-love-you-2/</guid>
-            <pubDate>Thu, 12 Sep 2024 09:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-I-Love-You-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SOMEBODY HELP ME (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/somebody-help-me/</link>
-            <guid>https://poclanos.com/album/somebody-help-me/</guid>
-            <pubDate>Thu, 12 Sep 2024 03:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[Nutty]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Nutty-SOMEBODY-HELP-ME-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4966,6 +4966,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[EVENT] SKIPJACK 첫 정규 <giveusasalvation.> 트랙별 코멘터리 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39172742&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39172742&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 23 Sep 2024 03:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /흔들리는 우리에게 구원을, SKIPJACK 첫 정규앨범 &lt;giveusasalvation.&gt;트랙별 코멘터리  INTRO |&nbsp;스킵잭&nbsp;(SKIPJACK)남유식(보컬),&nbsp;강산터(기타),&nbsp;김민수(베이스),&nbsp;남건욱(드럼)으로 구성된 4인조&nbsp;밴···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjBfMTY5/MDAxNzI2ODMyNzk3MjA0.COmoewYTjdecDNNBwjastW7ku6DSAd0ktoBkLWTmpNMg.v1YDUooNEhAb_w6IGLoIBJXB-A58fNdSSg3ooRfPUsAg.JPEG/Ifgp8JAdhd9cLj3HO2MMX94AZU_c.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38615600&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38615600&amp;memberNo=24373938</guid>
@@ -5116,14 +5124,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL /“다양한&nbsp;시선으로&nbsp;만든&nbsp;다양한&nbsp;곡”&nbsp;첫&nbsp;정규앨범&nbsp;발매한&nbsp;오프더메뉴&nbsp;인터뷰 ARTIST | off&nbsp;the&nbsp;menu&nbsp;(오프더메뉴) ALBUM | Every Point of View INTERVIEW |&nbsp;“다양한&nbsp;시선으로&nbsp;만든&nbsp;다양한&nbsp;곡”&nbsp;첫&nbsp;정규앨범&nbsp;···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMDRfMTgw/MDAxNzAxNjU3MjgxNTA3.rii1Y1QbDknPpp_29TbK0ltcYe4BUlwyFUrJjKPFRwAg.UFPBUxVr3CVlfFbDMfNorrr3BjjUhBYDjarMUh8qvyEg.JPEG/Ib2dVX7Rga6S-yDR3421ujVeNTfk.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온기를 잃은 도시, 마주한 시선. 비공정 <밤새 틀어둔 마주할 나의 슬픔에> 발매 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=36934602&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=36934602&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL /온기를 잃은 도시, 마주한 시선. 비공정 &lt;밤새 틀어둔 마주할 나의 슬픔에&gt; 발매 인터뷰 ARTIST | 비공정 ALBUM | 밤새 틀어둔 마주할 나의 슬픔에 많은 이들의 사랑과 추억을 품고 있었을 도시는 온···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzExMTVfODEg/MDAxNzAwMDM3NzY4NDA2.tYfbgWQTjTzfwCzEfy0iMN2VX3bCIGGlQdh3Pf9shrcg.abc9RtVG-IOUBkTcfZ_o-WAtrqEk_K3eQPmWwKWoZJMg.JPEG/IlxdPifKjdSrP-fr5nqVISoPygtc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5294,6 +5294,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[EVENT] SKIPJACK 첫 정규 <giveusasalvation.> 트랙별 코멘터리 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39172742&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39172742&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Mon, 23 Sep 2024 03:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjBfMTY5/MDAxNzI2ODMyNzk3MjA0.COmoewYTjdecDNNBwjastW7ku6DSAd0ktoBkLWTmpNMg.v1YDUooNEhAb_w6IGLoIBJXB-A58fNdSSg3ooRfPUsAg.JPEG/Ifgp8JAdhd9cLj3HO2MMX94AZU_c.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[We wanna make you smile, 심아일랜드 첫 EP 발매기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38524862&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5437,14 +5445,6 @@ M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDFfMjc0/MDAxNTkzNTkwOTUzMDg5.FbVHVs4G2bNra5g99XvO2753b_dD2DikA9FI-I0q_hAg.ML0VJEZVjlXs2p53uJ1-eyIPbdfe5MkZXhCSH1dqF2Mg.JPEG/I2oA9j_Fexj3aug98_M9ltH0EOVU.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 이한철 X나우 '내가 나를 만나는 여행' with 룰루랄라합창단 3기 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28596569&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28596569&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA2MjJfMjU5/MDAxNTkyODA0NDI4NzU4.9b4O-X7kDmaACd1kCAN_BFkap3Mev0tp6z9cZGB9Xhog.OcAFudgcSlJjFAURLI_BcP8pseXUFuY4B2Gs1M4QqFwg.JPEG/ICaD9f6x1hlt8CKWbvtiujKO4coU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
