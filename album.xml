@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 02:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 03:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[환상]]></title>
+            <link>https://poclanos.com/album/%ed%99%98%ec%83%81-4/</link>
+            <guid>https://poclanos.com/album/%ed%99%98%ec%83%81-4/</guid>
+            <pubDate>Tue, 24 Sep 2024 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[오미비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%AF%B8%EB%B9%84-%ED%99%98%EC%83%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거미]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b0%eb%af%b8/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b0%eb%af%b8/</guid>
+            <pubDate>Tue, 24 Sep 2024 03:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[등아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EA%B1%B0%EB%AF%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Traces of Apathy]]></title>
             <link>https://poclanos.com/album/traces-of-apathy/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 15 Sep 2024 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[장수빈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%88%98%EB%B9%88-%EC%9D%B4-%EB%B0%A4%EC%97%90-%EC%9D%B4-%EB%A7%98%EC%97%90%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이얼]]></title>
-            <link>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%bc/</link>
-            <guid>https://poclanos.com/album/%eb%8b%a4%ec%9d%b4%ec%96%bc/</guid>
-            <pubDate>Sat, 14 Sep 2024 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[까치산]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%8C%EC%B9%98%EC%82%B0-%EB%8B%A4%EC%9D%B4%EC%96%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 기다리며]]></title>
-            <link>https://poclanos.com/album/%eb%b4%84%ec%9d%84-%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%a9%b0/</link>
-            <guid>https://poclanos.com/album/%eb%b4%84%ec%9d%84-%ea%b8%b0%eb%8b%a4%eb%a6%ac%eb%a9%b0/</guid>
-            <pubDate>Fri, 13 Sep 2024 03:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[조종근]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%A1%B0%EC%A2%85%EA%B7%BC-%EB%B4%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%AC%EB%A9%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
