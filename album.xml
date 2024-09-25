@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 08:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Sep 2024 09:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[601]]></title>
+            <link>https://poclanos.com/album/601/</link>
+            <guid>https://poclanos.com/album/601/</guid>
+            <pubDate>Wed, 25 Sep 2024 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EA%B8%B0%EB%8D%95-9duck-601-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[skyMEMORI -footprints in the grass-]]></title>
+            <link>https://poclanos.com/album/skymemori-footprints-in-the-grass/</link>
+            <guid>https://poclanos.com/album/skymemori-footprints-in-the-grass/</guid>
+            <pubDate>Wed, 25 Sep 2024 09:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[High Sunn]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-High-Sunn-skyMEMORI-footprints-in-the-grass--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Famine or Feast]]></title>
             <link>https://poclanos.com/album/famine-or-feast/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 17 Sep 2024 03:13:59 GMT</pubDate>
             <content:encoded><![CDATA[까데호]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-Woo-Woo-Ah-Ah-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What You Want]]></title>
-            <link>https://poclanos.com/album/what-you-want/</link>
-            <guid>https://poclanos.com/album/what-you-want/</guid>
-            <pubDate>Tue, 17 Sep 2024 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[nnn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-nnn-What-You-Want-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mirror (feat. 한지원 of Youth Hostel)]]></title>
-            <link>https://poclanos.com/album/mirror-feat-%ed%95%9c%ec%a7%80%ec%9b%90-of-youth-hostel/</link>
-            <guid>https://poclanos.com/album/mirror-feat-%ed%95%9c%ec%a7%80%ec%9b%90-of-youth-hostel/</guid>
-            <pubDate>Tue, 17 Sep 2024 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[jumin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-jumin-Mirror-feat.-%ED%95%9C%EC%A7%80%EC%9B%90-of-Youth-Hostel-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
