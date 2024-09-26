@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 02:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 03:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Amb for yoga]]></title>
+            <link>https://poclanos.com/album/amb-for-yoga/</link>
+            <guid>https://poclanos.com/album/amb-for-yoga/</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[방민혁]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9%EB%AF%BC%ED%98%81-Amb-for-yoga-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[터널]]></title>
+            <link>https://poclanos.com/album/%ed%84%b0%eb%84%90/</link>
+            <guid>https://poclanos.com/album/%ed%84%b0%eb%84%90/</guid>
+            <pubDate>Thu, 26 Sep 2024 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[김주안 (Juan Kim)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A3%BC%EC%95%88-Juan-Kim-%ED%84%B0%EB%84%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[601]]></title>
             <link>https://poclanos.com/album/601/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 18 Sep 2024 03:14:13 GMT</pubDate>
             <content:encoded><![CDATA[jumin]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luka-jumin-%EC%9E%A0%EB%93%A0-%EA%B8%B0%EC%96%B5-%EC%95%84%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인류를구원할수도없는통기타가수]]></title>
-            <link>https://poclanos.com/album/%ec%9d%b8%eb%a5%98%eb%a5%bc%ea%b5%ac%ec%9b%90%ed%95%a0%ec%88%98%eb%8f%84%ec%97%86%eb%8a%94%ed%86%b5%ea%b8%b0%ed%83%80%ea%b0%80%ec%88%98/</link>
-            <guid>https://poclanos.com/album/%ec%9d%b8%eb%a5%98%eb%a5%bc%ea%b5%ac%ec%9b%90%ed%95%a0%ec%88%98%eb%8f%84%ec%97%86%eb%8a%94%ed%86%b5%ea%b8%b0%ed%83%80%ea%b0%80%ec%88%98/</guid>
-            <pubDate>Wed, 18 Sep 2024 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[김승주]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%8A%B9%EC%A3%BC-%EC%9D%B8%EB%A5%98%EB%A5%BC%EA%B5%AC%EC%9B%90%ED%95%A0%EC%88%98%EB%8F%84%EC%97%86%EB%8A%94%ED%86%B5%EA%B8%B0%ED%83%80%EA%B0%80%EC%88%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Woo-Woo-Ah-Ah]]></title>
-            <link>https://poclanos.com/album/woo-woo-ah-ah/</link>
-            <guid>https://poclanos.com/album/woo-woo-ah-ah/</guid>
-            <pubDate>Tue, 17 Sep 2024 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[까데호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%8C%EB%8D%B0%ED%98%B8-Woo-Woo-Ah-Ah-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
