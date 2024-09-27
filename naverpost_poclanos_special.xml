@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 02:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Haku (하쿠)로의 새로운 시작, 컴백 싱글 'Budapest' MV 촬영기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Fri, 27 Sep 2024 03:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjRfMTUz/MDAxNTk1NTc1NjU4MzI0.4ovnArCGvWhQJQuxZBTP13gj0QtioQrqK-P2DbAfolYg.GDmDLZay1gbC_kexkByb-H_R1eRR1xgu2Kqd3YtNLoUg.JPEG/post_4519952975806860709.jpg?type=f40_40" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -159,14 +167,6 @@ M/V 비하인드 스토리]]></title>
             <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDZfMjI3/MDAxNjAxOTY1NjY3MTA5.2-kLQM7jWUR0YpOijerNv-vRI_V8kFOjM4SLF_9IuNAg.Rj4_Id_x0t02ST0H9hKjYRNF887LSUhIvkVvcz4pSgQg.JPEG/I43SNvxnfdv2wklEip_LYjNBSLpA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL/이벤트] 괴인들의 찬란한 여정, 차세대 <춤의왕>이 나오기까지]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28685086&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28685086&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MDFfMjc0/MDAxNTkzNTkwOTUzMDg5.FbVHVs4G2bNra5g99XvO2753b_dD2DikA9FI-I0q_hAg.ML0VJEZVjlXs2p53uJ1-eyIPbdfe5MkZXhCSH1dqF2Mg.JPEG/I2oA9j_Fexj3aug98_M9ltH0EOVU.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

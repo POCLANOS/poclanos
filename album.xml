@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 02:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 03:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Eyewitness]]></title>
+            <link>https://poclanos.com/album/eyewitness/</link>
+            <guid>https://poclanos.com/album/eyewitness/</guid>
+            <pubDate>Fri, 27 Sep 2024 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[신세하 (Xin Seha)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Xin-Seha-%EC%8B%A0%EC%84%B8%ED%95%98-Eyewitness-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Innocence and Flood]]></title>
+            <link>https://poclanos.com/album/innocence-and-flood/</link>
+            <guid>https://poclanos.com/album/innocence-and-flood/</guid>
+            <pubDate>Fri, 27 Sep 2024 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[BrokenTeeth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-ArtworkBrokenTeeth-Innocence-and-Flood-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budapest]]></title>
+            <link>https://poclanos.com/album/budapest/</link>
+            <guid>https://poclanos.com/album/budapest/</guid>
+            <pubDate>Fri, 27 Sep 2024 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[Hippo]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Haku-%ED%95%98%EC%BF%A0-Budapest-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amb for yoga]]></title>
             <link>https://poclanos.com/album/amb-for-yoga/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 20 Sep 2024 03:15:15 GMT</pubDate>
             <content:encoded><![CDATA[최지원]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A7%80%EC%9B%90-%ED%92%80%EC%9E%8E%EB%93%A4-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[세잎클로버]]></title>
-            <link>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</link>
-            <guid>https://poclanos.com/album/%ec%84%b8%ec%9e%8e%ed%81%b4%eb%a1%9c%eb%b2%84/</guid>
-            <pubDate>Fri, 20 Sep 2024 03:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[박시원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%EC%84%B8%EC%9E%8E%ED%81%B4%EB%A1%9C%EB%B2%84_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[룸펜]]></title>
-            <link>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</link>
-            <guid>https://poclanos.com/album/%eb%a3%b8%ed%8e%9c/</guid>
-            <pubDate>Thu, 19 Sep 2024 03:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[산보]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%82%B0%EB%B3%B4-%EB%A3%B8%ED%8E%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠든 기억 아래]]></title>
-            <link>https://poclanos.com/album/%ec%9e%a0%eb%93%a0-%ea%b8%b0%ec%96%b5-%ec%95%84%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%ec%9e%a0%eb%93%a0-%ea%b8%b0%ec%96%b5-%ec%95%84%eb%9e%98/</guid>
-            <pubDate>Wed, 18 Sep 2024 03:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[jumin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luka-jumin-%EC%9E%A0%EB%93%A0-%EA%B8%B0%EC%96%B5-%EC%95%84%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
