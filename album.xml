@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 02:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 03:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Comedy]]></title>
+            <link>https://poclanos.com/album/comedy/</link>
+            <guid>https://poclanos.com/album/comedy/</guid>
+            <pubDate>Sat, 28 Sep 2024 03:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[테종]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%85%8C%EC%A2%85-Comedy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Confessin’]]></title>
             <link>https://poclanos.com/album/confessin/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 21 Sep 2024 03:13:46 GMT</pubDate>
             <content:encoded><![CDATA[손혜은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%82%B4-%EC%95%88%EC%97%90-%EC%88%A8-%EC%89%AC%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착각]]></title>
-            <link>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</link>
-            <guid>https://poclanos.com/album/%ec%b0%a9%ea%b0%81/</guid>
-            <pubDate>Fri, 20 Sep 2024 09:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[BRWN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BRWN-%EC%B0%A9%EA%B0%81-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
