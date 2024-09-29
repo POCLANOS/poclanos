@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Sep 2024 02:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2024 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또, 가을 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%98%90-%ea%b0%80%ec%9d%84/</link>
+            <guid>https://poclanos.com/album/%eb%98%90-%ea%b0%80%ec%9d%84/</guid>
+            <pubDate>Sun, 29 Sep 2024 03:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[김효린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%ED%9A%A8%EB%A6%B0-%EB%98%90-%EA%B0%80%EC%9D%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Comedy (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/comedy/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 22 Sep 2024 03:19:27 GMT</pubDate>
             <content:encoded><![CDATA[임세모]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%84%EC%84%B8%EB%AA%A8-%EA%B0%80%EC%9D%84%EC%9D%B4-%EC%98%A4%EB%82%98-%EB%B4%90-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 안에 숨 쉬는 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%97%90-%ec%88%a8-%ec%89%ac%eb%8a%94/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4-%ec%95%88%ec%97%90-%ec%88%a8-%ec%89%ac%eb%8a%94/</guid>
-            <pubDate>Sat, 21 Sep 2024 03:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[손혜은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%82%B4-%EC%95%88%EC%97%90-%EC%88%A8-%EC%89%AC%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
