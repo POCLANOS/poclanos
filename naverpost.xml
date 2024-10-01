@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 02:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 03:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몽상을 유영하는 청춘의 백일몽, 도시고독 EP 앨범 발매 기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 01 Oct 2024 03:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/몽상을 유영하는 청춘의 백일몽,도시고독 EP [청춘의 백일몽] 발매 기념 인터뷰  ALBUM | 청춘의 백일몽 몽상을 유영하는 자들의 행진과 찬란한 꿈결로 초대하는 청춘의 백일몽 이&nbsp;세상은&nbsp;참으로&nbsp;다양한&nbsp;것···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTgw/MDAxNzI3MzI1NjQxMDcx.XPzClulNr_f_ligBZA0giFpqP-BG6fT8IPNp3mAbfF0g.Li8uRSbT3DfqQdyaG0ogFIBz3mQrCg2L1iE_HHkZiGUg.JPEG/IEdDyahdV4P7PY32YtC_f6b02o-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Haku (하쿠)로의 새로운 시작, 컴백 싱글 'Budapest' MV 촬영기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[불안이라는 무기, JOONIE EP &lt;No one can hunt me&gt; 발매 기념 인터뷰 음악을 매개로 아티스트와 청자가 소통하는 방식은 다양하다. 전하고자 하는 메시지가 명확하기에, 분출 직전에 놓인 에너지에 음악이라는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfNSAg/MDAxNzE3OTk5MTQzOTY5.nodY5RZwMVdHjStOX8uWGhtExU6kxK2zQXXt4TEGhD8g.WzFLuFRCgYwOPO24ouhrYSr6AIkKdTlUSxtbYIT1itog.JPEG/Imdob9NZP1Ya1xNWPBcemh7Dxqoc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37066624&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37066624&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[NTERVIEW / 모든 자아 끌어안기, 카코포니 정규3집 발매 기념 인터뷰모든 자아 끌어안기, 카코포니 정규 3집 &lt;DIPUC&gt; 발매 기념 인터뷰 자기 자신을 사랑한다는 건 누군가에게는 굉장히 어려운 일이다. 오랜 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfMjQ0/MDAxNzAzMDUyOTAyOTg4.T0x8NDFgAgPOiioxekToVBfPCM1DT5Zv62o62CmbUk8g.itHus4WhBxN3OwG42TJrWuAzZmX0uE0Go3rGTlHjbWYg.JPEG/ImI3qzKntjczGk7hdvx8UnVHZPcI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

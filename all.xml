@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 02:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 03:28:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청춘의 백일몽 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%b2%ad%ec%b6%98%ec%9d%98-%eb%b0%b1%ec%9d%bc%eb%aa%bd/</link>
+            <guid>https://poclanos.com/album/%ec%b2%ad%ec%b6%98%ec%9d%98-%eb%b0%b1%ec%9d%bc%eb%aa%bd/</guid>
+            <pubDate>Tue, 01 Oct 2024 03:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[도시고독]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%EC%B2%AD%EC%B6%98%EC%9D%98-%EB%B0%B1%EC%9D%BC%EB%AA%BD-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dance on the Shoreline (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dance-on-the-shoreline/</link>
+            <guid>https://poclanos.com/album/dance-on-the-shoreline/</guid>
+            <pubDate>Tue, 01 Oct 2024 03:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[LÜCY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-cover-LUCY-Dance-on-the-Shoreline-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[운명 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b4%eb%aa%85/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b4%eb%aa%85/</guid>
+            <pubDate>Tue, 01 Oct 2024 03:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[잔디]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%94%EB%94%94-%EC%9A%B4%EB%AA%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Snowflake (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/snowflake/</link>
+            <guid>https://poclanos.com/album/snowflake/</guid>
+            <pubDate>Tue, 01 Oct 2024 03:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Snowflake-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직도 내가 이래 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%95%84%ec%a7%81%eb%8f%84-%eb%82%b4%ea%b0%80-%ec%9d%b4%eb%9e%98/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 25 Sep 2024 03:20:12 GMT</pubDate>
             <content:encoded><![CDATA[찰리빈웍스]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B0%B0%EB%A6%AC%EB%B9%88%EC%9B%8D%EC%8A%A4-Mr.Miles_-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nothing ever stops me (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/nothing-ever-stops-me/</link>
-            <guid>https://poclanos.com/album/nothing-ever-stops-me/</guid>
-            <pubDate>Wed, 25 Sep 2024 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[LÜCY]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-cover-LUCY-Nothing-ever-stops-me-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환상 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%99%98%ec%83%81-4/</link>
-            <guid>https://poclanos.com/album/%ed%99%98%ec%83%81-4/</guid>
-            <pubDate>Tue, 24 Sep 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[오미비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%AF%B8%EB%B9%84-%ED%99%98%EC%83%81-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거미 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b1%b0%eb%af%b8/</link>
-            <guid>https://poclanos.com/album/%ea%b1%b0%eb%af%b8/</guid>
-            <pubDate>Tue, 24 Sep 2024 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EA%B1%B0%EB%AF%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Traces of Apathy (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/traces-of-apathy/</link>
-            <guid>https://poclanos.com/album/traces-of-apathy/</guid>
-            <pubDate>Mon, 23 Sep 2024 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[장시락 (Jean Chirac)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%8B%9C%EB%9D%BD-Traces-of-Apathy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -4943,6 +4943,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[몽상을 유영하는 청춘의 백일몽, 도시고독 EP 앨범 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 01 Oct 2024 03:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/몽상을 유영하는 청춘의 백일몽,도시고독 EP [청춘의 백일몽] 발매 기념 인터뷰  ALBUM | 청춘의 백일몽 몽상을 유영하는 자들의 행진과 찬란한 꿈결로 초대하는 청춘의 백일몽 이&nbsp;세상은&nbsp;참으로&nbsp;다양한&nbsp;것···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTgw/MDAxNzI3MzI1NjQxMDcx.XPzClulNr_f_ligBZA0giFpqP-BG6fT8IPNp3mAbfF0g.Li8uRSbT3DfqQdyaG0ogFIBz3mQrCg2L1iE_HHkZiGUg.JPEG/IEdDyahdV4P7PY32YtC_f6b02o-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Haku (하쿠)로의 새로운 시작, 컴백 싱글 'Budapest' MV 촬영기 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938</guid>
@@ -5092,14 +5100,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[불안이라는 무기, JOONIE EP &lt;No one can hunt me&gt; 발매 기념 인터뷰 음악을 매개로 아티스트와 청자가 소통하는 방식은 다양하다. 전하고자 하는 메시지가 명확하기에, 분출 직전에 놓인 에너지에 음악이라는···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfNSAg/MDAxNzE3OTk5MTQzOTY5.nodY5RZwMVdHjStOX8uWGhtExU6kxK2zQXXt4TEGhD8g.WzFLuFRCgYwOPO24ouhrYSr6AIkKdTlUSxtbYIT1itog.JPEG/Imdob9NZP1Ya1xNWPBcemh7Dxqoc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 모든 자아 끌어안기, 카코포니 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37066624&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37066624&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[NTERVIEW / 모든 자아 끌어안기, 카코포니 정규3집 발매 기념 인터뷰모든 자아 끌어안기, 카코포니 정규 3집 &lt;DIPUC&gt; 발매 기념 인터뷰 자기 자신을 사랑한다는 건 누군가에게는 굉장히 어려운 일이다. 오랜 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMzEyMjBfMjQ0/MDAxNzAzMDUyOTAyOTg4.T0x8NDFgAgPOiioxekToVBfPCM1DT5Zv62o62CmbUk8g.itHus4WhBxN3OwG42TJrWuAzZmX0uE0Go3rGTlHjbWYg.JPEG/ImI3qzKntjczGk7hdvx8UnVHZPcI.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[EVENT] 결국 다시 만날 거란 믿음, jeebanoff EP 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5262,6 +5262,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjNfMjY2/MDAxNjAzNDMwMjE3MzQ2.UdhHcWV0Izrap9zz6DAeP6eBANovlvfa5G0UhIl8fk0g.aqc40OlQOdJYDNC7aMJMVyQ4SonTHGw-i3k6rygVTtQg.JPEG/IkSiiKTuPlxPvU-mK7S4v1JY2VmY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[몽상을 유영하는 청춘의 백일몽, 도시고독 EP 앨범 발매 기념 인터뷰 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Tue, 01 Oct 2024 03:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTgw/MDAxNzI3MzI1NjQxMDcx.XPzClulNr_f_ligBZA0giFpqP-BG6fT8IPNp3mAbfF0g.Li8uRSbT3DfqQdyaG0ogFIBz3mQrCg2L1iE_HHkZiGUg.JPEG/IEdDyahdV4P7PY32YtC_f6b02o-I.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Haku (하쿠)로의 새로운 시작, 컴백 싱글 'Budapest' MV 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5412,15 +5420,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMjJfMTE1/MDAxNjAzMzU0ODQ3MTQ3.FS-jIhPbmrLu3pJtKU_aNxJtHZ_lajxK0h6zncpciUog.1mVoZmkFVwb6Sb8sdGVs__QTyT9jv4g-Y3DLFgAwst0g.JPEG/IlTpVU9RS85PZTQJm79gkJXAob6c.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] onthedal 새 싱글 [HYE] &
-M/V 비하인드 스토리 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=29630041&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=29630041&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEwMDZfMjI3/MDAxNjAxOTY1NjY3MTA5.2-kLQM7jWUR0YpOijerNv-vRI_V8kFOjM4SLF_9IuNAg.Rj4_Id_x0t02ST0H9hKjYRNF887LSUhIvkVvcz4pSgQg.JPEG/I43SNvxnfdv2wklEip_LYjNBSLpA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>
