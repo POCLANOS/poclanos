@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 08:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 09:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peninsula Park Remix]]></title>
+            <link>https://poclanos.com/album/peninsula-park-remix/</link>
+            <guid>https://poclanos.com/album/peninsula-park-remix/</guid>
+            <pubDate>Wed, 02 Oct 2024 09:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/Peninsula-Park-Remix-Cover@2x-100-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Somehow]]></title>
             <link>https://poclanos.com/album/somehow/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Sep 2024 03:18:10 GMT</pubDate>
             <content:encoded><![CDATA[김주안 (Juan Kim)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A3%BC%EC%95%88-Juan-Kim-%ED%84%B0%EB%84%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[601]]></title>
-            <link>https://poclanos.com/album/601/</link>
-            <guid>https://poclanos.com/album/601/</guid>
-            <pubDate>Wed, 25 Sep 2024 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EA%B8%B0%EB%8D%95-9duck-601-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
