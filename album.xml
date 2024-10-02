@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 02:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 03:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Somehow]]></title>
+            <link>https://poclanos.com/album/somehow/</link>
+            <guid>https://poclanos.com/album/somehow/</guid>
+            <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keep This Feeling]]></title>
+            <link>https://poclanos.com/album/keep-this-feeling/</link>
+            <guid>https://poclanos.com/album/keep-this-feeling/</guid>
+            <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[김준서]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A4%80%EC%84%9C-Keep-This-Feeling-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dudndudndudn]]></title>
+            <link>https://poclanos.com/album/dudndudndudn/</link>
+            <guid>https://poclanos.com/album/dudndudndudn/</guid>
+            <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[김유진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EA%B9%80%EC%9C%A0%EC%A7%84-dudndudndudn-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청춘의 백일몽]]></title>
             <link>https://poclanos.com/album/%ec%b2%ad%ec%b6%98%ec%9d%98-%eb%b0%b1%ec%9d%bc%eb%aa%bd/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 25 Sep 2024 09:13:32 GMT</pubDate>
             <content:encoded><![CDATA[최기덕 (9duck)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EA%B8%B0%EB%8D%95-9duck-601-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[skyMEMORI -footprints in the grass-]]></title>
-            <link>https://poclanos.com/album/skymemori-footprints-in-the-grass/</link>
-            <guid>https://poclanos.com/album/skymemori-footprints-in-the-grass/</guid>
-            <pubDate>Wed, 25 Sep 2024 09:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[High Sunn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-High-Sunn-skyMEMORI-footprints-in-the-grass--600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Famine or Feast]]></title>
-            <link>https://poclanos.com/album/famine-or-feast/</link>
-            <guid>https://poclanos.com/album/famine-or-feast/</guid>
-            <pubDate>Wed, 25 Sep 2024 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[에로틱웜즈익스히비션]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%97%90%EB%A1%9C%ED%8B%B1%EC%9B%9C%EC%A6%88%EC%9D%B5%EC%8A%A4%ED%9E%88%EB%B9%84%EC%85%98-Famine-or-Feast-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mr.Miles]]></title>
-            <link>https://poclanos.com/album/mr-miles/</link>
-            <guid>https://poclanos.com/album/mr-miles/</guid>
-            <pubDate>Wed, 25 Sep 2024 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[찰리빈웍스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B0%B0%EB%A6%AC%EB%B9%88%EC%9B%8D%EC%8A%A4-Mr.Miles_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
