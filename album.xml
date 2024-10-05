@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Oct 2024 02:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 03:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말해]]></title>
+            <link>https://poclanos.com/album/%eb%a7%90%ed%95%b4/</link>
+            <guid>https://poclanos.com/album/%eb%a7%90%ed%95%b4/</guid>
+            <pubDate>Sat, 05 Oct 2024 03:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="https://poclanos.com/album/%eb%a7%90%ed%95%b4/" data-pjax-state=""><div class="album-wrap"><img src="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-앨범커버-손예지_말해-Artwork-600x600.jpg"><span onclick="playPoclanosFromList(this,event)" class="play-only" data-name="말해" data-artist="" data-album="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/01-손예지-말해-4416.mp3" data-url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/01-손예지-말해-4416.mp3" data-art="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-앨범커버-손예지_말해-Artwork-600x600.jpg" data-poc="https://poclanos.com/album/%eb%a7%90%ed%95%b4/">play</span></div><div class="alb-title-gr"><span>말해</span></div></a><div class="artist-term-list"></div>]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%90%EC%98%88%EC%A7%80_%EB%A7%90%ED%95%B4-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌새 (Hummingbird)]]></title>
+            <link>https://poclanos.com/album/%eb%b2%8c%ec%83%88-hummingbird/</link>
+            <guid>https://poclanos.com/album/%eb%b2%8c%ec%83%88-hummingbird/</guid>
+            <pubDate>Sat, 05 Oct 2024 03:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[아사달 (Asadal)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%EB%8B%AC-Asadal-%EB%B2%8C%EC%83%88-Hummingbird-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paradox]]></title>
             <link>https://poclanos.com/album/paradox-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 30 Sep 2024 03:23:09 GMT</pubDate>
             <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EB%B8%8C%EB%9D%BC%EC%9D%B4%EC%96%B8-%EC%8B%A0-%EC%95%88%EB%A7%88%EB%A3%A8-%EC%9C%A4%EC%9E%AC%ED%98%B8-%EC%8B%A0%EC%A7%80%EC%9A%A9-RAINBOW99-%EB%84%88%EC%9D%98-%EB%88%88%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%A5%BC-%EB%B3%B8%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Room Cleaning]]></title>
-            <link>https://poclanos.com/album/room-cleaning/</link>
-            <guid>https://poclanos.com/album/room-cleaning/</guid>
-            <pubDate>Mon, 30 Sep 2024 03:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[st. peach bitches]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-st.-peach-bitches-Room-Cleaning-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또, 가을]]></title>
-            <link>https://poclanos.com/album/%eb%98%90-%ea%b0%80%ec%9d%84/</link>
-            <guid>https://poclanos.com/album/%eb%98%90-%ea%b0%80%ec%9d%84/</guid>
-            <pubDate>Sun, 29 Sep 2024 03:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[김효린]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%ED%9A%A8%EB%A6%B0-%EB%98%90-%EA%B0%80%EC%9D%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
