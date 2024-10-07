@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 02:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 03:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 내 마음에 돌을 던졌을까]]></title>
+            <link>https://poclanos.com/album/%eb%88%84%ea%b0%80-%eb%82%b4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%8f%8c%ec%9d%84-%eb%8d%98%ec%a1%8c%ec%9d%84%ea%b9%8c/</link>
+            <guid>https://poclanos.com/album/%eb%88%84%ea%b0%80-%eb%82%b4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%8f%8c%ec%9d%84-%eb%8d%98%ec%a1%8c%ec%9d%84%ea%b9%8c/</guid>
+            <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[민강]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-%EB%88%84%EA%B0%80-%EB%82%B4-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%8F%8C%EC%9D%84-%EB%8D%98%EC%A1%8C%EC%9D%84%EA%B9%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유령서점]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9%ec%84%9c%ec%a0%90/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9%ec%84%9c%ec%a0%90/</guid>
+            <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[유령서점]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%9C%A0%EB%A0%B9%EC%84%9C%EC%A0%90-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불과 빛]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%ea%b3%bc-%eb%b9%9b/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%ea%b3%bc-%eb%b9%9b/</guid>
+            <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[소음발광]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1/3]]></title>
             <link>https://poclanos.com/album/1-3/</link>
@@ -72,20 +96,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%B1%EC%9D%80-%EC%9A%B0%EB%A6%AC-%EC%98%A4%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Goddamn]]></title>
-            <link>https://poclanos.com/album/goddamn/</link>
-            <guid>https://poclanos.com/album/goddamn/</guid>
-            <pubDate>Thu, 03 Oct 2024 03:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[Sunburst Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunburst-Club-Goddamn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소년만화下]]></title>
             <link>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</link>
             <guid>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</guid>
             <pubDate>Thu, 03 Oct 2024 03:19:06 GMT</pubDate>
             <content:encoded><![CDATA[김승주]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%8A%B9%EC%A3%BC-%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94%E4%B8%8B-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Goddamn]]></title>
+            <link>https://poclanos.com/album/goddamn/</link>
+            <guid>https://poclanos.com/album/goddamn/</guid>
+            <pubDate>Thu, 03 Oct 2024 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[Sunburst Club]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunburst-Club-Goddamn-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peninsula Park Remix]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 01 Oct 2024 03:26:29 GMT</pubDate>
             <content:encoded><![CDATA[잔디]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%94%EB%94%94-%EC%9A%B4%EB%AA%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snowflake]]></title>
-            <link>https://poclanos.com/album/snowflake/</link>
-            <guid>https://poclanos.com/album/snowflake/</guid>
-            <pubDate>Tue, 01 Oct 2024 03:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Snowflake-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 내가 이래]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%a7%81%eb%8f%84-%eb%82%b4%ea%b0%80-%ec%9d%b4%eb%9e%98/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%a7%81%eb%8f%84-%eb%82%b4%ea%b0%80-%ec%9d%b4%eb%9e%98/</guid>
-            <pubDate>Mon, 30 Sep 2024 09:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EC%95%84%EC%A7%81%EB%8F%84-%EB%82%B4%EA%B0%80-%EC%9D%B4%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pipe dream]]></title>
-            <link>https://poclanos.com/album/pipe-dream/</link>
-            <guid>https://poclanos.com/album/pipe-dream/</guid>
-            <pubDate>Mon, 30 Sep 2024 03:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[PATTYMADE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PATTYMADE-Pope-dream-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

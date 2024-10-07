@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 02:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 03:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] About Ghost Bookstore, 밴드 유령서점 EP 발매기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39275178&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39275178&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 07 Oct 2024 03:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/밴드&nbsp;유령서점&nbsp;EP&nbsp;[유령서점]&nbsp;발매기념자문자답 인터뷰 ARTIST | 유령서점 Ghost Bookstore  ALBUM | 유령서점 (Ghost Bookstore) 첫 번째 EP [유령서점] 밴드 유령서점의 첫 번째 EP 앨범 ‘유령서점’, 총 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTc3/MDAxNzI3MzE3ODIxMzM5.bxvAzHJBkaj5A1Uq_WNat8syOwjL3jACQm91c8i1idcg.lT5pezRKRPOd2IRinvtxsSolh-4DhcSRiPwW0cbqjhwg.JPEG/I00JmFnC8no_1N8TvNK9MJYSF_7g.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몽상을 유영하는 청춘의 백일몽, 도시고독 EP 앨범 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39277137&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL / 하나의 곡이 여러 소리로 완성되기까지, 에몬(Emon) 3rd &lt;모으는 사람&gt; 작업기ARTIST | ‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon)INT···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMjA2/MDAxNzA3MzY2NDI3NTQ4.ToVemnt4u6rCwdLdhrfMFAQIRUkH9GgBLk_YNzonMLgg.KGUL_Ngke_2iFRkOd1w6zBt3QHZrDHMGKk95k1zF1tMg.PNG/IeVqVl1U3SZeUfIz4gWa3DQgqNzM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 불안이라는 무기, JOONIE 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199400&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37199400&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[불안이라는 무기, JOONIE EP &lt;No one can hunt me&gt; 발매 기념 인터뷰 음악을 매개로 아티스트와 청자가 소통하는 방식은 다양하다. 전하고자 하는 메시지가 명확하기에, 분출 직전에 놓인 에너지에 음악이라는···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfNSAg/MDAxNzE3OTk5MTQzOTY5.nodY5RZwMVdHjStOX8uWGhtExU6kxK2zQXXt4TEGhD8g.WzFLuFRCgYwOPO24ouhrYSr6AIkKdTlUSxtbYIT1itog.JPEG/Imdob9NZP1Ya1xNWPBcemh7Dxqoc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
