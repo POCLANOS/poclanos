@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 08:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 09:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] 충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39451656&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39451656&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 07 Oct 2024 09:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[INTERVIEW /충족된 기대와 전복된 예상,&nbsp;재창조의 향연으로 가득한 O'KOYE 정규 1집 발매 기념 인터뷰 충족된&nbsp;기대와&nbsp;전복된&nbsp;예상,&nbsp;재창조의&nbsp;향연으로&nbsp;가득한&nbsp;O’KOYE&nbsp;정규&nbsp;1집&nbsp;발매&nbsp;기념&nbsp;인터뷰세상에&nbsp;없던&nbsp;무언···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDdfOSAg/MDAxNzI4MjY4MTcwOTY1.hjoDm55VrgJYDfmz9b4Ig1zRsq8ep43-I0rVpkvR6F8g.H3ihR3EQIL-jYjlzwgPXPAcXUVp903Va-QfMO7zIUeEg.JPEG/Ich5zlDMc55ocVzJfOuQzHx-zUTc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] About Ghost Bookstore, 밴드 유령서점 EP 발매기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39275178&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL / 비공정 첫 EP [Neom 0541] title 'Unreal' MV 촬영기ARTIST | 비공정ALBUM | Neom 0541비공정은 ‘그럼에도 불구하고’ 희망을 향해 키를 잡고자 하는 이들의 이야기를 노래하는 5인조 밴드다. ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL / 하나의 곡이 여러 소리로 완성되기까지, 에몬(Emon) 3rd &lt;모으는 사람&gt; 작업기ARTIST | ‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon)INT···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMjA2/MDAxNzA3MzY2NDI3NTQ4.ToVemnt4u6rCwdLdhrfMFAQIRUkH9GgBLk_YNzonMLgg.KGUL_Ngke_2iFRkOd1w6zBt3QHZrDHMGKk95k1zF1tMg.PNG/IeVqVl1U3SZeUfIz4gWa3DQgqNzM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
