@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Oct 2024 02:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Oct 2024 03:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘오늘처럼 매일 같이 함께’ Luca minor, 우수현, 박지원 [셋] 발매 기념 이야기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 08 Oct 2024 03:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/'오늘처럼 매일같이 함께할 수 있길'Luca minor, 우수현, 박지원 [셋] 발매 기념 이야기 ARTIST | Luca minor, 우수현, 박지원 재즈&nbsp;싱어송라이터&nbsp;Luca&nbsp;minor,&nbsp;대학가요제&nbsp;수상자&nbsp;싱어송라이터&nbsp;우···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDhfMjcx/MDAxNzI4MzUyMTY1NjMx.Ny1nhQoytGrnqvWL0KZMVu9Lp0NJzC8rhgkXlj54jZsg.Emvh0uRraU9wlTkWUYQ1kOM24ga_B7ybHtkFtudbj6wg.JPEG/IJKBoauHU_kDf6YuIngswtehnQvA.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39451656&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰한국대중음악상 시상식이 얼마 남지 않았다. 총 3개 분야, 26개 부문에 해당하는 시상식에 어김없이 많은 후보가 이름을···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비공정 첫 EP [Neom 0541] title ‘Unreal’ MV 촬영기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37356277&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL / 비공정 첫 EP [Neom 0541] title 'Unreal' MV 촬영기ARTIST | 비공정ALBUM | Neom 0541비공정은 ‘그럼에도 불구하고’ 희망을 향해 키를 잡고자 하는 이들의 이야기를 노래하는 5인조 밴드다. ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMTlfMTUy/MDAxNzA4MzA3MzMwOTcw.51yNw9wXA1yg6BjOXlZ2rsk65u23ESxpH3jrVTmvBMkg.2eO1MRp6SseNHXqlJdRIFVtoD6KGk3vwZOQmOsn-r_cg.PNG/IlJathUOS7WD55dB6R6x5lqPLrEE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
