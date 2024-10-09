@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Oct 2024 02:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Oct 2024 03:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레터]]></title>
+            <link>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</link>
+            <guid>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</guid>
+            <pubDate>Wed, 09 Oct 2024 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[김민하]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EB%AF%BC%ED%95%98-%EB%A0%88%ED%84%B0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sunsat]]></title>
+            <link>https://poclanos.com/album/sunsat/</link>
+            <guid>https://poclanos.com/album/sunsat/</guid>
+            <pubDate>Wed, 09 Oct 2024 03:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[Sunsat]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-Sunsat-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Our Spring]]></title>
             <link>https://poclanos.com/album/our-spring/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
             <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keep This Feeling]]></title>
-            <link>https://poclanos.com/album/keep-this-feeling/</link>
-            <guid>https://poclanos.com/album/keep-this-feeling/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[김준서]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A4%80%EC%84%9C-Keep-This-Feeling-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[dudndudndudn]]></title>
-            <link>https://poclanos.com/album/dudndudndudn/</link>
-            <guid>https://poclanos.com/album/dudndudndudn/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[김유진]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EA%B9%80%EC%9C%A0%EC%A7%84-dudndudndudn-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
