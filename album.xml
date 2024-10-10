@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 02:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 03:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Always]]></title>
+            <link>https://poclanos.com/album/always-3/</link>
+            <guid>https://poclanos.com/album/always-3/</guid>
+            <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[MCXON]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hypochondriac]]></title>
+            <link>https://poclanos.com/album/hypochondriac/</link>
+            <guid>https://poclanos.com/album/hypochondriac/</guid>
+            <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[HUNJIYA]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-HUNJIYA-hypochondriac-240920-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vibrate]]></title>
+            <link>https://poclanos.com/album/vibrate/</link>
+            <guid>https://poclanos.com/album/vibrate/</guid>
+            <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[문소낙 (Sonak Moon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sonakonadore-Vibrate-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레터]]></title>
             <link>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</link>
@@ -136,36 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%B1%EC%9D%80-%EC%9A%B0%EB%A6%AC-%EC%98%A4%EB%9E%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[소년만화下]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%eb%85%84%eb%a7%8c%ed%99%94%e4%b8%8b/</guid>
-            <pubDate>Thu, 03 Oct 2024 03:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[김승주]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%8A%B9%EC%A3%BC-%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94%E4%B8%8B-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Goddamn]]></title>
             <link>https://poclanos.com/album/goddamn/</link>
             <guid>https://poclanos.com/album/goddamn/</guid>
             <pubDate>Thu, 03 Oct 2024 03:19:06 GMT</pubDate>
             <content:encoded><![CDATA[Sunburst Club]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunburst-Club-Goddamn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peninsula Park Remix]]></title>
-            <link>https://poclanos.com/album/peninsula-park-remix/</link>
-            <guid>https://poclanos.com/album/peninsula-park-remix/</guid>
-            <pubDate>Wed, 02 Oct 2024 09:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/Peninsula-Park-Remix-Cover@2x-100-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Somehow]]></title>
-            <link>https://poclanos.com/album/somehow/</link>
-            <guid>https://poclanos.com/album/somehow/</guid>
-            <pubDate>Wed, 02 Oct 2024 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/09/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
