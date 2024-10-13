@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Oct 2024 08:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 09:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stop Sign]]></title>
+            <link>https://poclanos.com/album/stop-sign/</link>
+            <guid>https://poclanos.com/album/stop-sign/</guid>
+            <pubDate>Sun, 13 Oct 2024 09:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FRankly%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%AC-Stop-Sign-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불이야/갈팡질팡]]></title>
             <link>https://poclanos.com/album/%eb%b6%88%ec%9d%b4%ec%95%bc-%ea%b0%88%ed%8c%a1%ec%a7%88%ed%8c%a1/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 06 Oct 2024 03:21:00 GMT</pubDate>
             <content:encoded><![CDATA[도나 (DONNA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EB%8F%84%EB%82%98-DONNA-1-3-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말해]]></title>
-            <link>https://poclanos.com/album/%eb%a7%90%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%eb%a7%90%ed%95%b4/</guid>
-            <pubDate>Sat, 05 Oct 2024 03:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="https://poclanos.com/album/%eb%a7%90%ed%95%b4/" data-pjax-state=""><div class="album-wrap"><img src="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-앨범커버-손예지_말해-Artwork-600x600.jpg"><span onclick="playPoclanosFromList(this,event)" class="play-only" data-name="말해" data-artist="" data-album="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/01-손예지-말해-4416.mp3" data-url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/01-손예지-말해-4416.mp3" data-art="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-앨범커버-손예지_말해-Artwork-600x600.jpg" data-poc="https://poclanos.com/album/%eb%a7%90%ed%95%b4/">play</span></div><div class="alb-title-gr"><span>말해</span></div></a><div class="artist-term-list"></div>]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%90%EC%98%88%EC%A7%80_%EB%A7%90%ED%95%B4-Artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
