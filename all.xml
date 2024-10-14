@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 08:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 09:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[soft meltdown (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/soft-meltdown/</link>
+            <guid>https://poclanos.com/album/soft-meltdown/</guid>
+            <pubDate>Mon, 14 Oct 2024 09:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[Leaveourtears]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leaveourtears_soft-meltdown-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[dark (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/dark/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
             <content:encoded><![CDATA[민강]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-%EB%88%84%EA%B0%80-%EB%82%B4-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%8F%8C%EC%9D%84-%EB%8D%98%EC%A1%8C%EC%9D%84%EA%B9%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유령서점 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9%ec%84%9c%ec%a0%90/</link>
-            <guid>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9%ec%84%9c%ec%a0%90/</guid>
-            <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[유령서점]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%9C%A0%EB%A0%B9%EC%84%9C%EC%A0%90-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
