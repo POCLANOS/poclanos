@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 02:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 03:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[dark (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/dark/</link>
+            <guid>https://poclanos.com/album/dark/</guid>
+            <pubDate>Mon, 14 Oct 2024 03:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[ddbb]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-dark-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Season 14 Round 2 Cypher (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/season-14-round-2-cypher/</link>
+            <guid>https://poclanos.com/album/season-14-round-2-cypher/</guid>
+            <pubDate>Mon, 14 Oct 2024 03:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-2-Cypher-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stop Sign (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/stop-sign/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
             <content:encoded><![CDATA[유령서점]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%9C%A0%EB%A0%B9%EC%84%9C%EC%A0%90-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불과 빛 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ea%b3%bc-%eb%b9%9b/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ea%b3%bc-%eb%b9%9b/</guid>
-            <pubDate>Mon, 07 Oct 2024 03:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[소음발광]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1/3 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/1-3/</link>
-            <guid>https://poclanos.com/album/1-3/</guid>
-            <pubDate>Sun, 06 Oct 2024 03:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[도나 (DONNA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EB%8F%84%EB%82%98-DONNA-1-3-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
