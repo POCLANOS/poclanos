@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 02:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 03:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lost track (Feat. Lym en) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lost-track-feat-lym-en/</link>
+            <guid>https://poclanos.com/album/lost-track-feat-lym-en/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL201-Lost-Track-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neo Chimera: Alpha (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/neo-chimera-alpha/</link>
+            <guid>https://poclanos.com/album/neo-chimera-alpha/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[Neo Chimera]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Neo-Chimera-Neo-Chimera-Alpha-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[10 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/10-2/</link>
+            <guid>https://poclanos.com/album/10-2/</guid>
+            <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-10-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[하늘, 손, 풍선 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ed%95%98%eb%8a%98-%ec%86%90-%ed%92%8d%ec%84%a0/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[HUNJIYA]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-HUNJIYA-hypochondriac-240920-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vibrate (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/vibrate/</link>
-            <guid>https://poclanos.com/album/vibrate/</guid>
-            <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[문소낙 (Sonak Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sonakonadore-Vibrate-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레터 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</link>
-            <guid>https://poclanos.com/album/%eb%a0%88%ed%84%b0/</guid>
-            <pubDate>Wed, 09 Oct 2024 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[김민하]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B9%80%EB%AF%BC%ED%95%98-%EB%A0%88%ED%84%B0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunsat (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/sunsat/</link>
-            <guid>https://poclanos.com/album/sunsat/</guid>
-            <pubDate>Wed, 09 Oct 2024 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[Sunsat]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Sunsat-Sunsat-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
