@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 08:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weather]]></title>
+            <link>https://poclanos.com/album/weather-2/</link>
+            <guid>https://poclanos.com/album/weather-2/</guid>
+            <pubDate>Wed, 16 Oct 2024 09:14:04 GMT</pubDate>
+            <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-Weather-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lost track (Feat. Lym en)]]></title>
             <link>https://poclanos.com/album/lost-track-feat-lym-en/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
             <content:encoded><![CDATA[MCXON]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[hypochondriac]]></title>
-            <link>https://poclanos.com/album/hypochondriac/</link>
-            <guid>https://poclanos.com/album/hypochondriac/</guid>
-            <pubDate>Thu, 10 Oct 2024 03:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[HUNJIYA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-HUNJIYA-hypochondriac-240920-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
