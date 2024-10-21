@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 02:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 03:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Before Therapy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/before-therapy/</link>
+            <guid>https://poclanos.com/album/before-therapy/</guid>
+            <pubDate>Mon, 21 Oct 2024 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[지흔]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A7%80%ED%9D%94-Before-Therapy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IMAGINE (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/imagine-2/</link>
+            <guid>https://poclanos.com/album/imagine-2/</guid>
+            <pubDate>Mon, 21 Oct 2024 03:22:05 GMT</pubDate>
+            <content:encoded><![CDATA[ZINO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/IMAGINE-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너를 춤추게 하고싶어 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%ec%b6%a4%ec%b6%94%ea%b2%8c-%ed%95%98%ea%b3%a0%ec%8b%b6%ec%96%b4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 14 Oct 2024 03:21:20 GMT</pubDate>
             <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-2-Cypher-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stop Sign (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/stop-sign/</link>
-            <guid>https://poclanos.com/album/stop-sign/</guid>
-            <pubDate>Sun, 13 Oct 2024 09:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[FRankly(프랭클리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-FRankly%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%AC-Stop-Sign-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불이야/갈팡질팡 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ec%9d%b4%ec%95%bc-%ea%b0%88%ed%8c%a1%ec%a7%88%ed%8c%a1/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ec%9d%b4%ec%95%bc-%ea%b0%88%ed%8c%a1%ec%a7%88%ed%8c%a1/</guid>
-            <pubDate>Sat, 12 Oct 2024 09:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[문선(MOONSUN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B8%EC%84%A0MOONSUN-%EB%B6%88%EC%9D%B4%EC%95%BC-600x600.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
