@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Oct 2024 02:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Oct 2024 03:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dance on the Shoreline]]></title>
+            <link>https://poclanos.com/album/dance-on-the-shoreline-2/</link>
+            <guid>https://poclanos.com/album/dance-on-the-shoreline-2/</guid>
+            <pubDate>Tue, 22 Oct 2024 03:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[LÜCY]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-cover-LUCY-Dance-on-the-Shoreline-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고개를 돌리면]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ea%b0%9c%eb%a5%bc-%eb%8f%8c%eb%a6%ac%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ea%b0%9c%eb%a5%bc-%eb%8f%8c%eb%a6%ac%eb%a9%b4/</guid>
+            <pubDate>Tue, 22 Oct 2024 03:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[이태훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%ED%83%9C%ED%9B%88-%EA%B3%A0%EA%B0%9C%EB%A5%BC-%EB%8F%8C%EB%A6%AC%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑이 필요해]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ed%95%84%ec%9a%94%ed%95%b4/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ed%95%84%ec%9a%94%ed%95%b4/</guid>
+            <pubDate>Tue, 22 Oct 2024 03:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[nnn]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-nnn-%EC%82%AC%EB%9E%91%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Before Therapy]]></title>
             <link>https://poclanos.com/album/before-therapy/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 15 Oct 2024 03:19:37 GMT</pubDate>
             <content:encoded><![CDATA[유노이아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A0%EB%85%B8%EC%9D%B4%EC%95%84-Life-is-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[soft meltdown]]></title>
-            <link>https://poclanos.com/album/soft-meltdown/</link>
-            <guid>https://poclanos.com/album/soft-meltdown/</guid>
-            <pubDate>Mon, 14 Oct 2024 09:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[Leaveourtears]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leaveourtears_soft-meltdown-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[dark]]></title>
-            <link>https://poclanos.com/album/dark/</link>
-            <guid>https://poclanos.com/album/dark/</guid>
-            <pubDate>Mon, 14 Oct 2024 03:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[ddbb]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ddbb-dark-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Season 14 Round 2 Cypher]]></title>
-            <link>https://poclanos.com/album/season-14-round-2-cypher/</link>
-            <guid>https://poclanos.com/album/season-14-round-2-cypher/</guid>
-            <pubDate>Mon, 14 Oct 2024 03:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-2-Cypher-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
