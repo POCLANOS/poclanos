@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 02:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Oct 2024 03:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리의 빛과 춤]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ec%b6%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ec%b6%a4/</guid>
+            <pubDate>Wed, 23 Oct 2024 03:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[정새벽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%B9%9B%EA%B3%BC-%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상강]]></title>
+            <link>https://poclanos.com/album/%ec%83%81%ea%b0%95/</link>
+            <guid>https://poclanos.com/album/%ec%83%81%ea%b0%95/</guid>
+            <pubDate>Wed, 23 Oct 2024 03:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[예위 (yewee)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%98%88%EC%9C%84-yewee-%EC%83%81%EA%B0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Here I Am]]></title>
+            <link>https://poclanos.com/album/d%eb%a7%88%ec%9a%b4%eb%93%9c%eb%af%b8%eb%94%94%ec%96%b4-%ec%a3%bc%ec%8b%9d%ed%9a%8c%ec%82%ac-dropboxmoundmedias-shared-workspace%ec%9c%a0%ed%86%b5-%eb%b6%80%eb%ac%b8poclanosdistribution/</link>
+            <guid>https://poclanos.com/album/d%eb%a7%88%ec%9a%b4%eb%93%9c%eb%af%b8%eb%94%94%ec%96%b4-%ec%a3%bc%ec%8b%9d%ed%9a%8c%ec%82%ac-dropboxmoundmedias-shared-workspace%ec%9c%a0%ed%86%b5-%eb%b6%80%eb%ac%b8poclanosdistribution/</guid>
+            <pubDate>Wed, 23 Oct 2024 03:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[이성은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%84%B1%EC%9D%80-Here-I-Am-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Other Side of Blue]]></title>
+            <link>https://poclanos.com/album/other-side-of-blue/</link>
+            <guid>https://poclanos.com/album/other-side-of-blue/</guid>
+            <pubDate>Wed, 23 Oct 2024 03:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-Other-Side-of-Blue-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[20]]></title>
             <link>https://poclanos.com/album/20-2/</link>
@@ -72,20 +104,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/19990619-%EB%8B%A8%EB%AC%BC-%EB%B9%A0%EC%A7%84-%EA%BB%8C-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너머 [2. White Shade]]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</guid>
-            <pubDate>Fri, 18 Oct 2024 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[선우정아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%BB%A4%EB%B2%84-%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-2.-White-Shade-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[FOREVER]]></title>
             <link>https://poclanos.com/album/forever-2/</link>
             <guid>https://poclanos.com/album/forever-2/</guid>
             <pubDate>Fri, 18 Oct 2024 09:14:05 GMT</pubDate>
             <content:encoded><![CDATA[이희상]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%ED%9D%AC%EC%83%81-FOREVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너머 [2. White Shade]]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</guid>
+            <pubDate>Fri, 18 Oct 2024 09:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[선우정아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%BB%A4%EB%B2%84-%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-2.-White-Shade-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Reason of My Life]]></title>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
             <content:encoded><![CDATA[Neo Chimera]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Neo-Chimera-Neo-Chimera-Alpha-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[10]]></title>
-            <link>https://poclanos.com/album/10-2/</link>
-            <guid>https://poclanos.com/album/10-2/</guid>
-            <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[orange flavored cigarettes]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-orange-flavored-cigarettes-10-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘, 손, 풍선]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%eb%8a%98-%ec%86%90-%ed%92%8d%ec%84%a0/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%eb%8a%98-%ec%86%90-%ed%92%8d%ec%84%a0/</guid>
-            <pubDate>Tue, 15 Oct 2024 09:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[구름(Cloud)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B5%AC%EB%A6%84-%ED%95%98%EB%8A%98-%EC%86%90-%ED%92%8D%EC%84%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AY YAY YA]]></title>
-            <link>https://poclanos.com/album/ay-yay-ya/</link>
-            <guid>https://poclanos.com/album/ay-yay-ya/</guid>
-            <pubDate>Tue, 15 Oct 2024 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/AY-YAY-YA-COVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[rheteW eTh thWaer ehanCg Or oNt]]></title>
-            <link>https://poclanos.com/album/rhetew-eth-thwaer-ehancg-or-ont/</link>
-            <guid>https://poclanos.com/album/rhetew-eth-thwaer-ehancg-or-ont/</guid>
-            <pubDate>Tue, 15 Oct 2024 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[O'KOYE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-OKOYE-rheteW-eTh-thWaer-ehanCg-Or-oNt-600x600.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
