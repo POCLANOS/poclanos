@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Oct 2024 02:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 03:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Black Morning]]></title>
+            <link>https://poclanos.com/album/black-morning/</link>
+            <guid>https://poclanos.com/album/black-morning/</guid>
+            <pubDate>Thu, 24 Oct 2024 03:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Black-Morning-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pages]]></title>
+            <link>https://poclanos.com/album/pages/</link>
+            <guid>https://poclanos.com/album/pages/</guid>
+            <pubDate>Thu, 24 Oct 2024 03:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[오미비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%AF%B8%EB%B9%84-Pages-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 빛과 춤]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ec%b6%a4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 16 Oct 2024 09:14:04 GMT</pubDate>
             <content:encoded><![CDATA[강지원 (Kangziwon)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%EC%A7%80%EC%9B%90-Kangziwon-Weather-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lost track (Feat. Lym en)]]></title>
-            <link>https://poclanos.com/album/lost-track-feat-lym-en/</link>
-            <guid>https://poclanos.com/album/lost-track-feat-lym-en/</guid>
-            <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHANNEL201-Lost-Track-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neo Chimera: Alpha]]></title>
-            <link>https://poclanos.com/album/neo-chimera-alpha/</link>
-            <guid>https://poclanos.com/album/neo-chimera-alpha/</guid>
-            <pubDate>Wed, 16 Oct 2024 03:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[Neo Chimera]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Neo-Chimera-Neo-Chimera-Alpha-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
