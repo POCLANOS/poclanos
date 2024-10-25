@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Oct 2024 08:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2024 09:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WATO]]></title>
+            <link>https://poclanos.com/album/orchid/</link>
+            <guid>https://poclanos.com/album/orchid/</guid>
+            <pubDate>Fri, 25 Oct 2024 09:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[Orchid]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Orchid-WATO-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TEATIME]]></title>
             <link>https://poclanos.com/album/teatime/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Oct 2024 09:11:55 GMT</pubDate>
             <content:encoded><![CDATA[19990619]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/19990619-%EB%8B%A8%EB%AC%BC-%EB%B9%A0%EC%A7%84-%EA%BB%8C-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너머 [2. White Shade]]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-2-white-shade/</guid>
-            <pubDate>Fri, 18 Oct 2024 09:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[선우정아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%BB%A4%EB%B2%84-%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-2.-White-Shade-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
