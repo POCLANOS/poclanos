@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 02:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연꽃 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%97%b0%ea%bd%83/</link>
+            <guid>https://poclanos.com/album/%ec%97%b0%ea%bd%83/</guid>
+            <pubDate>Sat, 26 Oct 2024 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[루아멜 (LUAMEL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%95%84%EB%A9%9C-LUAMEL-%EC%97%B0%EA%BD%83-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1st (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/1st/</link>
+            <guid>https://poclanos.com/album/1st/</guid>
+            <pubDate>Sat, 26 Oct 2024 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[Replica Dream]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Replica-Dream-1st-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[WATO (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/orchid/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 21 Oct 2024 03:22:05 GMT</pubDate>
             <content:encoded><![CDATA[ZINO]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/IMAGINE-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 춤추게 하고싶어 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%ec%b6%a4%ec%b6%94%ea%b2%8c-%ed%95%98%ea%b3%a0%ec%8b%b6%ec%96%b4/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%ec%b6%a4%ec%b6%94%ea%b2%8c-%ed%95%98%ea%b3%a0%ec%8b%b6%ec%96%b4/</guid>
-            <pubDate>Sun, 20 Oct 2024 03:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[이스트워터 (Eastwater)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%8A%A4%ED%8A%B8%EC%9B%8C%ED%84%B0-%EB%84%88%EB%A5%BC-%EC%B6%A4%EC%B6%94%EA%B2%8C-%ED%95%98%EA%B3%A0%EC%8B%B6%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[단물 빠진 껌 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%8b%a8%eb%ac%bc-%eb%b9%a0%ec%a7%84-%ea%bb%8c/</link>
-            <guid>https://poclanos.com/album/%eb%8b%a8%eb%ac%bc-%eb%b9%a0%ec%a7%84-%ea%bb%8c/</guid>
-            <pubDate>Sat, 19 Oct 2024 09:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[19990619]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/19990619-%EB%8B%A8%EB%AC%BC-%EB%B9%A0%EC%A7%84-%EA%BB%8C-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -5049,6 +5049,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Replica Dream의 데뷔 싱글 <1st> 뮤직비디오 촬영기 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938</guid>
+            <pubDate>Sat, 26 Oct 2024 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/Replica Dream 데뷔 싱글 &lt;1st&gt;뮤직비디오 촬영기 INTRO | Replica Dream  ALBUM | 1st 사회적 기대의 가혹함, 세상의 불완전함에 굴하지 않고 앞으로 나아가기 위한 몸부림 STORY | Replica Dream &amp;···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMTdfMTYy/MDAxNzI5MTI4NTIyMDM4.pVAs30ZnbE_Ktvv3uRUyfkvd3C4h5mjheMLAzR39zlEg.4VF1WMU-7drVB-0UuhklCP5v_BRqq65iNlePh5djVYQg.JPEG/Iff5SdwTydmiwu62c1jTbsQBHKBk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘오늘처럼 매일 같이 함께’ Luca minor, 우수현, 박지원 [셋] 발매 기념 이야기 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938</guid>
@@ -5198,14 +5206,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 리스너에서 아티스트까지, 요 정규 1집 발매 기념 인터뷰리스너에서 아티스트까지, '요' 정규 1집 발매 기념 인터뷰 음악을 즐겨 듣고, 더 나아가 제작하던 사람들이 인터넷을 매개로 조금씩 단결하면서···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfMjY4/MDAxNzE3OTk5MDg1MDc0.xytoRrmzAd2k16Td5ra6NXkxDIY9bbpG5WqEXz-kZOYg.MuUMwYtW6_k6swXGp0Q0_cCnJh8rufekBJ358PQuBYog.JPEG/IwaoMqWqMSGqFTy5QoumJsNezXAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37397471&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW / 첫 번째 정규 앨범으로 한국대중음악상 후보에 오른 브라운(BRWN) 인터뷰한국대중음악상 시상식이 얼마 남지 않았다. 총 3개 분야, 26개 부문에 해당하는 시상식에 어김없이 많은 후보가 이름을···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjdfMTkw/MDAxNzA4OTk3NzQ5Nzk0.bVlgDkdmz7pmoV_16EK8iJ1xyW8dPSKkGMzVZmal9j4g.5c_SgM8zfaEOb8BXMusCaeMNFcpdqExLK804D3QWyCsg.JPEG/I9QJWQ6W-13G79aS-LuD_RC3GLo8.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
@@ -5368,6 +5368,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDExMDZfNzIg/MDAxNjA0NjMyMjIyODg2.OHHRACWKanmRkS8Hscql2c4SD9HL4-aUJxl85mVc7d0g.b9asHJqVapQcChVgSxJJpV8_FfqaByRS3GtgAcEAZ14g.JPEG/I_GHQg9_068nLWQR1kUEzgoULoSg.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Replica Dream의 데뷔 싱글 <1st> 뮤직비디오 촬영기 (POCLANOS ─ 뮤직스페셜)]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Sat, 26 Oct 2024 03:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMTdfMTYy/MDAxNzI5MTI4NTIyMDM4.pVAs30ZnbE_Ktvv3uRUyfkvd3C4h5mjheMLAzR39zlEg.4VF1WMU-7drVB-0UuhklCP5v_BRqq65iNlePh5djVYQg.JPEG/Iff5SdwTydmiwu62c1jTbsQBHKBk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘오늘처럼 매일 같이 함께’ Luca minor, 우수현, 박지원 [셋] 발매 기념 이야기 (POCLANOS ─ 뮤직스페셜)]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938&amp;navigationType=push</link>
             <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938&amp;navigationType=push</guid>
@@ -5518,14 +5526,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 26 Oct 2023 09:13:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjg3/MDAxNjk4MDM2MzczOTUx.3khwQ8xnxXrt7aSNDmTvtl4grPcBsqgAeBfx8EFQ2eAg.IVQ14W1hSMbBd12MaS4A0N-qg9cTScUNQT-WmtpPyTsg.JPEG/IPY7lKtqgaiknS_cb0Pz-apY79G0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 제리케이 정규 5집 타이틀곡 '갈색 푸들' 뮤직비디오 작업기 (POCLANOS ─ 뮤직스페셜)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30190272&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30190272&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 01 May 2023 12:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTBfOTQg/MDAxNjA3NTcyMjU3Mjky.BZf81qqj_yEppv4_u2p8WoRzlPZ3adKk4h9-XC2MM90g.RQxZiz2ielhaOU27g8FUOWf1Va4RmqnqB7wIGQG5kPgg.JPEG/Ibr-ccCHcTUNawd1bfh41J79Al-w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우연히, 어쩌다, 얻어걸린 – Ep.4 차분한 음색에 꽂히는 지금 (POCLANOS ─ 포크라노스 코멘터리)]]></title>

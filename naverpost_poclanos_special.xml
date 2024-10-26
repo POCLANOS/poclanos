@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Oct 2024 02:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Oct 2024 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Replica Dream의 데뷔 싱글 <1st> 뮤직비디오 촬영기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Sat, 26 Oct 2024 03:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMTdfMTYy/MDAxNzI5MTI4NTIyMDM4.pVAs30ZnbE_Ktvv3uRUyfkvd3C4h5mjheMLAzR39zlEg.4VF1WMU-7drVB-0UuhklCP5v_BRqq65iNlePh5djVYQg.JPEG/Iff5SdwTydmiwu62c1jTbsQBHKBk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘오늘처럼 매일 같이 함께’ Luca minor, 우수현, 박지원 [셋] 발매 기념 이야기]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=39477169&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 26 Oct 2023 09:13:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMzEwMjNfMjg3/MDAxNjk4MDM2MzczOTUx.3khwQ8xnxXrt7aSNDmTvtl4grPcBsqgAeBfx8EFQ2eAg.IVQ14W1hSMbBd12MaS4A0N-qg9cTScUNQT-WmtpPyTsg.JPEG/IPY7lKtqgaiknS_cb0Pz-apY79G0.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECIAL] 제리케이 정규 5집 타이틀곡 '갈색 푸들' 뮤직비디오 작업기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=30190272&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=30190272&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Mon, 14 Nov 2022 22:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDEyMTBfOTQg/MDAxNjA3NTcyMjU3Mjky.BZf81qqj_yEppv4_u2p8WoRzlPZ3adKk4h9-XC2MM90g.RQxZiz2ielhaOU27g8FUOWf1Va4RmqnqB7wIGQG5kPgg.JPEG/Ibr-ccCHcTUNawd1bfh41J79Al-w.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
