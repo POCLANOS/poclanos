@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Oct 2024 02:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Oct 2024 03:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dear, Barcelona]]></title>
+            <link>https://poclanos.com/album/dear-barcelona/</link>
+            <guid>https://poclanos.com/album/dear-barcelona/</guid>
+            <pubDate>Sun, 27 Oct 2024 03:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[Milena (밀레나)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Milena-Dear-Barcelona-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연꽃]]></title>
             <link>https://poclanos.com/album/%ec%97%b0%ea%bd%83/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 21 Oct 2024 03:22:05 GMT</pubDate>
             <content:encoded><![CDATA[지흔]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A7%80%ED%9D%94-Before-Therapy-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMAGINE]]></title>
-            <link>https://poclanos.com/album/imagine-2/</link>
-            <guid>https://poclanos.com/album/imagine-2/</guid>
-            <pubDate>Mon, 21 Oct 2024 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[ZINO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/IMAGINE-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
