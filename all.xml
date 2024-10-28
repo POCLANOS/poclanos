@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 02:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 03:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[New Girl (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/new-girl/</link>
+            <guid>https://poclanos.com/album/new-girl/</guid>
+            <pubDate>Mon, 28 Oct 2024 03:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[Jiiyeon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Jiiyeon-New-Girl-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주의 시간 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%ec%a3%bc%ec%9d%98-%ec%8b%9c%ea%b0%84/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%ec%a3%bc%ec%9d%98-%ec%8b%9c%ea%b0%84/</guid>
+            <pubDate>Mon, 28 Oct 2024 03:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[문영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B8%EC%98%81-%EC%9A%B0%EC%A3%BC%EC%9D%98-%EC%8B%9C%EA%B0%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울이 지나면 봄이 찾아오듯이 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%9d%b4-%ec%a7%80%eb%82%98%eb%a9%b4-%eb%b4%84%ec%9d%b4-%ec%b0%be%ec%95%84%ec%98%a4%eb%93%af%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%ea%b2%a8%ec%9a%b8%ec%9d%b4-%ec%a7%80%eb%82%98%eb%a9%b4-%eb%b4%84%ec%9d%b4-%ec%b0%be%ec%95%84%ec%98%a4%eb%93%af%ec%9d%b4/</guid>
+            <pubDate>Mon, 28 Oct 2024 03:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[윤인환]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A4%EC%9D%B8%ED%99%98-%EA%B2%A8%EC%9A%B8%EC%9D%B4-%EC%A7%80%EB%82%98%EB%A9%B4-%EB%B4%84%EC%9D%B4-%EC%B0%BE%EC%95%84%EC%98%A4%EB%93%AF%EC%9D%B4-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Dear, Barcelona (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/dear-barcelona/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 22 Oct 2024 03:19:59 GMT</pubDate>
             <content:encoded><![CDATA[LÜCY]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-cover-LUCY-Dance-on-the-Shoreline-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고개를 돌리면 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b3%a0%ea%b0%9c%eb%a5%bc-%eb%8f%8c%eb%a6%ac%eb%a9%b4/</link>
-            <guid>https://poclanos.com/album/%ea%b3%a0%ea%b0%9c%eb%a5%bc-%eb%8f%8c%eb%a6%ac%eb%a9%b4/</guid>
-            <pubDate>Tue, 22 Oct 2024 03:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[이태훈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%ED%83%9C%ED%9B%88-%EA%B3%A0%EA%B0%9C%EB%A5%BC-%EB%8F%8C%EB%A6%AC%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이 필요해 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ed%95%84%ec%9a%94%ed%95%b4/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4-%ed%95%84%ec%9a%94%ed%95%b4/</guid>
-            <pubDate>Tue, 22 Oct 2024 03:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[nnn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-nnn-%EC%82%AC%EB%9E%91%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Before Therapy (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/before-therapy/</link>
-            <guid>https://poclanos.com/album/before-therapy/</guid>
-            <pubDate>Mon, 21 Oct 2024 03:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[지흔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A7%80%ED%9D%94-Before-Therapy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
