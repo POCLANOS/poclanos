@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 02:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 03:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aurora]]></title>
+            <link>https://poclanos.com/album/aurora-3/</link>
+            <guid>https://poclanos.com/album/aurora-3/</guid>
+            <pubDate>Wed, 30 Oct 2024 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[DUDISH (듀디쉬)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUDISH-%EB%93%80%EB%94%94%EC%89%AC-Aurora-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HBRTRX10]]></title>
+            <link>https://poclanos.com/album/hbrtrx10/</link>
+            <guid>https://poclanos.com/album/hbrtrx10/</guid>
+            <pubDate>Wed, 30 Oct 2024 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%88%98%EC%A0%953.-%EC%BB%A4%EB%B2%84-Various-Artists-HBRTRX10-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나침반]]></title>
             <link>https://poclanos.com/album/%eb%82%98%ec%b9%a8%eb%b0%98/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 24 Oct 2024 03:18:26 GMT</pubDate>
             <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Black-Morning-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pages]]></title>
-            <link>https://poclanos.com/album/pages/</link>
-            <guid>https://poclanos.com/album/pages/</guid>
-            <pubDate>Thu, 24 Oct 2024 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[오미비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%AF%B8%EB%B9%84-Pages-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리의 빛과 춤]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ec%b6%a4/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%b9%9b%ea%b3%bc-%ec%b6%a4/</guid>
-            <pubDate>Wed, 23 Oct 2024 03:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[정새벽]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%83%88%EB%B2%BD-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EB%B9%9B%EA%B3%BC-%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
