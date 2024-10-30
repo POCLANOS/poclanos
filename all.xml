@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 08:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 09:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Image (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/image/</link>
+            <guid>https://poclanos.com/album/image/</guid>
+            <pubDate>Wed, 30 Oct 2024 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[Leem]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leem-%EC%9D%B4%EB%8F%84%EC%97%B4-Image-EP-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LOVE SONG (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/love-song-4/</link>
+            <guid>https://poclanos.com/album/love-song-4/</guid>
+            <pubDate>Wed, 30 Oct 2024 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-LOVE-SONG-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aurora (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/aurora-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 24 Oct 2024 09:13:34 GMT</pubDate>
             <content:encoded><![CDATA[GongGongGoo009]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-GongGongGoo009-%ED%91%9C%EB%A5%98-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Still Here (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/still-here/</link>
-            <guid>https://poclanos.com/album/still-here/</guid>
-            <pubDate>Thu, 24 Oct 2024 09:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Still-Here-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Morning (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/black-morning/</link>
-            <guid>https://poclanos.com/album/black-morning/</guid>
-            <pubDate>Thu, 24 Oct 2024 03:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Black-Morning-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
