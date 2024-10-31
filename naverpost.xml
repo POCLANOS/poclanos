@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 02:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 03:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미지근한 물처럼, 산만한시선 EP [산만한시선] 발매 기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938</guid>
+            <pubDate>Thu, 31 Oct 2024 03:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL / 미지근한 물처럼, 산만한시선 EP [산만한시선] 발매 기념 인터뷰ARTIST | 산만한시선산만한시선은 다큐멘터리 제작에서부터 시작된 팀 입니다. "산처럼 커다라면서도, 주의없이 산만하게" 라는 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMzBfMjg1/MDAxNzMwMjYwNTk2ODg1.5VUQwtIk8_WdyRSiD4AVIzZTtyzsztaHvj4cRrjwBn4g.W0k7MaIeUSjCv_M4VWQ3K8l5aAkLBI00rBY6QjOg9Fog.PNG/IZwcEDPmOKQeR_m703pJf53-PFto.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Replica Dream의 데뷔 싱글 <1st> 뮤직비디오 촬영기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39672086&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 한국대중음악상 최우수 알앤비&amp;소울 음반 수상 기념 Jerd (저드) 인터뷰한 음악가의 시작부터 현재까지, 그리고 꾸준한 성과는 물론 점점 커지는 모습을 실시간으로 목격할 수 있다는 건 굉···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTlfNTEg/MDAxNzEwODIxMTg1OTIz.qEO-cF3A_fkYMy1PolV-Q1QSU2TeZ-WCLNxZtsWOgW0g.hno9imDkHtf22_lkm26_oCTSiK7lYrRvL9XPI9W2KPYg.JPEG/IV3q6ngp3T7Nh5OyiTOnzfE9qOTM.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 리스너에서 아티스트까지, ‘요’ 정규 1집 발매 기념 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37399341&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37399341&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW / 리스너에서 아티스트까지, 요 정규 1집 발매 기념 인터뷰리스너에서 아티스트까지, '요' 정규 1집 발매 기념 인터뷰 음악을 즐겨 듣고, 더 나아가 제작하던 사람들이 인터넷을 매개로 조금씩 단결하면서···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfMjY4/MDAxNzE3OTk5MDg1MDc0.xytoRrmzAd2k16Td5ra6NXkxDIY9bbpG5WqEXz-kZOYg.MuUMwYtW6_k6swXGp0Q0_cCnJh8rufekBJ358PQuBYog.JPEG/IwaoMqWqMSGqFTy5QoumJsNezXAQ.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
