@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Nov 2024 08:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Nov 2024 09:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[If we (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/if-we/</link>
+            <guid>https://poclanos.com/album/if-we/</guid>
+            <pubDate>Mon, 04 Nov 2024 09:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[wont]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-wont-If-we-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[처음이었지 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%b2%98%ec%9d%8c%ec%9d%b4%ec%97%88%ec%a7%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 29 Oct 2024 03:20:08 GMT</pubDate>
             <content:encoded><![CDATA[신한태]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%ED%95%9C%ED%83%9C-Everything-in-my-life-forever-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tricky! (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/tricky/</link>
-            <guid>https://poclanos.com/album/tricky/</guid>
-            <pubDate>Tue, 29 Oct 2024 03:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[NECTA]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-NECTA-tricky-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
