@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 02:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감성적 스토리텔러 Heeda (ヒダ), 싱글 발매 기념 인터뷰]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40143833&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40143833&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 05 Nov 2024 03:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/ 감성적 스토리텔러 Heeda (ヒダ),싱글 [Yonakidori(ヨナキドリ)] 발매 기념 인터뷰  ARTIST | 감성적 스토리텔링으로 마니아층을 몰입시키는 J-pop Rock 아티스트 Heeda (ヒダ) J-pop 록 음악을 기반으로 활동하고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDRfMjIg/MDAxNzMwNzEwMTU3ODE0.-n_LxYkbJODb96LV7DVoidEWGFxEHRolAYcU9GfbKsIg.5JzX3N06NHH95s5l2yargeg6KqUP0XKm546b6eXN7G0g.JPEG/ILPq_asDaYMUigwno_q8Ew3NXCjc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미지근한 물처럼, 산만한시선 EP [산만한시선] 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 서로가 만들어나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰살면서 저마다의 여정이나 모험을 떠나게 된다. 그 과정에서 '동료'를 만나 공통된 목표를 가지고 함께 떠나는 일은 말 그대로 한 배를 타는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTUw/MDAxNzExNTMwNTA2Mzg3.FiirCX7u2gczvG_FDU1MwB6GVQZl9kpURkP3Hw3iHGwg.tO3ZWT_EFNpnQqpKT74lnKgIhRvwwekTyX5DuTYmylwg.JPEG/IajdQre1RTjp_1ZwIJ_-PDbcRwVc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국대중음악상 최우수 알앤비&소울 음반수상 기념 Jerd (저드) 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW / 한국대중음악상 최우수 알앤비&amp;소울 음반 수상 기념 Jerd (저드) 인터뷰한 음악가의 시작부터 현재까지, 그리고 꾸준한 성과는 물론 점점 커지는 모습을 실시간으로 목격할 수 있다는 건 굉···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTlfNTEg/MDAxNzEwODIxMTg1OTIz.qEO-cF3A_fkYMy1PolV-Q1QSU2TeZ-WCLNxZtsWOgW0g.hno9imDkHtf22_lkm26_oCTSiK7lYrRvL9XPI9W2KPYg.JPEG/IV3q6ngp3T7Nh5OyiTOnzfE9qOTM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Nov 2024 02:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Nov 2024 03:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너와 나의 수평선 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%88%98%ed%8f%89%ec%84%a0/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%88%98%ed%8f%89%ec%84%a0/</guid>
+            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[유희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%EC%9C%A0%ED%9D%AC-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Letter (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/letter-2/</link>
+            <guid>https://poclanos.com/album/letter-2/</guid>
+            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[정우]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-Letter-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[너를 비추는 밤 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%b9%84%ec%b6%94%eb%8a%94-%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%b9%84%ec%b6%94%eb%8a%94-%eb%b0%a4/</guid>
+            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[무감각]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B4%EA%B0%90%EA%B0%81-%EB%84%88%EB%A5%BC-%EB%B9%84%EC%B6%94%EB%8A%94-%EB%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yonakidori (ヨナキドリ) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/yonakidori-%e3%83%a8%e3%83%8a%e3%82%ad%e3%83%88%e3%82%99%e3%83%aa/</link>
+            <guid>https://poclanos.com/album/yonakidori-%e3%83%a8%e3%83%8a%e3%82%ad%e3%83%88%e3%82%99%e3%83%aa/</guid>
+            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[ヒダ(Heeda)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[If we (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/if-we/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 30 Oct 2024 09:13:41 GMT</pubDate>
             <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-LOVE-SONG-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aurora (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/aurora-3/</link>
-            <guid>https://poclanos.com/album/aurora-3/</guid>
-            <pubDate>Wed, 30 Oct 2024 03:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[DUDISH (듀디쉬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUDISH-%EB%93%80%EB%94%94%EC%89%AC-Aurora-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HBRTRX10 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/hbrtrx10/</link>
-            <guid>https://poclanos.com/album/hbrtrx10/</guid>
-            <pubDate>Wed, 30 Oct 2024 03:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[Various Artists]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%88%98%EC%A0%953.-%EC%BB%A4%EB%B2%84-Various-Artists-HBRTRX10-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나침반 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%ec%b9%a8%eb%b0%98/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%ec%b9%a8%eb%b0%98/</guid>
-            <pubDate>Tue, 29 Oct 2024 09:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[한로로]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A1%9C%EB%A1%9C-%EB%82%98%EC%B9%A8%EB%B0%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everything in my life forever (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/everything-in-my-life-forever/</link>
-            <guid>https://poclanos.com/album/everything-in-my-life-forever/</guid>
-            <pubDate>Tue, 29 Oct 2024 03:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[신한태]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%A0%ED%95%9C%ED%83%9C-Everything-in-my-life-forever-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
@@ -5049,6 +5049,14 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2021/12/2021-POCLANOS_thumbnail.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[감성적 스토리텔러 Heeda (ヒダ), 싱글 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40143833&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40143833&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 05 Nov 2024 03:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL&nbsp;/ 감성적 스토리텔러 Heeda (ヒダ),싱글 [Yonakidori(ヨナキドリ)] 발매 기념 인터뷰  ARTIST | 감성적 스토리텔링으로 마니아층을 몰입시키는 J-pop Rock 아티스트 Heeda (ヒダ) J-pop 록 음악을 기반으로 활동하고 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDRfMjIg/MDAxNzMwNzEwMTU3ODE0.-n_LxYkbJODb96LV7DVoidEWGFxEHRolAYcU9GfbKsIg.5JzX3N06NHH95s5l2yargeg6KqUP0XKm546b6eXN7G0g.JPEG/ILPq_asDaYMUigwno_q8Ew3NXCjc.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미지근한 물처럼, 산만한시선 EP [산만한시선] 발매 기념 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938</link>
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39954556&amp;memberNo=24373938</guid>
@@ -5198,14 +5206,6 @@ The The &lt;Soul Mining&gt;, Slint &lt;Spiderland&gt;, 파란노을 &lt;To See t
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 서로가 만들어나가는 협화음, 잭킹콩 2집 발매 기념 인터뷰살면서 저마다의 여정이나 모험을 떠나게 된다. 그 과정에서 '동료'를 만나 공통된 목표를 가지고 함께 떠나는 일은 말 그대로 한 배를 타는 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMjdfMTUw/MDAxNzExNTMwNTA2Mzg3.FiirCX7u2gczvG_FDU1MwB6GVQZl9kpURkP3Hw3iHGwg.tO3ZWT_EFNpnQqpKT74lnKgIhRvwwekTyX5DuTYmylwg.JPEG/IajdQre1RTjp_1ZwIJ_-PDbcRwVc.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국대중음악상 최우수 알앤비&소울 음반수상 기념 Jerd (저드) 인터뷰 (네이버 포스트 ─ 포크라노스)]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37505138&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW / 한국대중음악상 최우수 알앤비&amp;소울 음반 수상 기념 Jerd (저드) 인터뷰한 음악가의 시작부터 현재까지, 그리고 꾸준한 성과는 물론 점점 커지는 모습을 실시간으로 목격할 수 있다는 건 굉···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAzMTlfNTEg/MDAxNzEwODIxMTg1OTIz.qEO-cF3A_fkYMy1PolV-Q1QSU2TeZ-WCLNxZtsWOgW0g.hno9imDkHtf22_lkm26_oCTSiK7lYrRvL9XPI9W2KPYg.JPEG/IV3q6ngp3T7Nh5OyiTOnzfE9qOTM.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰 (POCLANOS ─ 포크라노스 인터뷰)]]></title>
