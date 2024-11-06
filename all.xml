@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 02:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 03:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너의 말 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%a7%90/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%a7%90/</guid>
+            <pubDate>Wed, 06 Nov 2024 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[손예지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%90%EC%98%88%EC%A7%80-%EB%84%88%EC%9D%98-%EB%A7%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[squanchy ! (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/squanchy/</link>
+            <guid>https://poclanos.com/album/squanchy/</guid>
+            <pubDate>Wed, 06 Nov 2024 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[정서사 (Jeongseosa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%84%9C%EC%82%AC-Jeongseosa-squanchy--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하얀 춤 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ed%95%98%ec%96%80-%ec%b6%a4/</link>
+            <guid>https://poclanos.com/album/%ed%95%98%ec%96%80-%ec%b6%a4/</guid>
+            <pubDate>Wed, 06 Nov 2024 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[전호권]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%B8%EA%B6%8C-%ED%95%98%EC%96%80-%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너와 나의 수평선 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%88%98%ed%8f%89%ec%84%a0/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 31 Oct 2024 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[Moreen]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Moreen-%EB%85%B9%EC%9D%8C-Fright-Train-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산만한시선 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%b0%eb%a7%8c%ed%95%9c%ec%8b%9c%ec%84%a0/</link>
-            <guid>https://poclanos.com/album/%ec%82%b0%eb%a7%8c%ed%95%9c%ec%8b%9c%ec%84%a0/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[산만한시선]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/%EC%82%B0%EB%A7%8C%ED%95%9C%EC%8B%9C%EC%84%A0_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Image (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/image/</link>
-            <guid>https://poclanos.com/album/image/</guid>
-            <pubDate>Wed, 30 Oct 2024 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[Leem]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leem-%EC%9D%B4%EB%8F%84%EC%97%B4-Image-EP-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LOVE SONG (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/love-song-4/</link>
-            <guid>https://poclanos.com/album/love-song-4/</guid>
-            <pubDate>Wed, 30 Oct 2024 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[매미(MEMI)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%BB%A4%EB%B2%84-%EB%A7%A4%EB%AF%B8MEMI-LOVE-SONG-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
