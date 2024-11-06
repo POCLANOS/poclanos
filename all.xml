@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Nov 2024 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2024 09:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너머 (Beyond) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-beyond/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-beyond/</guid>
+            <pubDate>Wed, 06 Nov 2024 09:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[선우정아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%EC%BB%A4%EB%B2%84-%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-Beyond-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너의 말 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%ec%9d%98-%eb%a7%90/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 31 Oct 2024 03:21:01 GMT</pubDate>
             <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/3.-%EC%BB%A4%EB%B2%84-RAINBOW99-%ED%9D%A5%EB%A7%9D%EC%84%B1%EC%87%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fright Train (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/fright-train/</link>
-            <guid>https://poclanos.com/album/fright-train/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[Moreen]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Moreen-%EB%85%B9%EC%9D%8C-Fright-Train-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
