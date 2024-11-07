@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 02:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2024 03:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘Tis Autumn (feat. Dan Nimmer Trio)]]></title>
+            <link>https://poclanos.com/album/tis-autumn-feat-dan-nimmer-trio/</link>
+            <guid>https://poclanos.com/album/tis-autumn-feat-dan-nimmer-trio/</guid>
+            <pubDate>Thu, 07 Nov 2024 03:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[문미향]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Tis-Autumn-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[욕심]]></title>
+            <link>https://poclanos.com/album/%ec%9a%95%ec%8b%ac-2/</link>
+            <guid>https://poclanos.com/album/%ec%9a%95%ec%8b%ac-2/</guid>
+            <pubDate>Thu, 07 Nov 2024 03:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[전아인 (JEONAIN)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%95%84%EC%9D%B8-%EC%9A%95%EC%8B%AC-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[너머 (Beyond)]]></title>
             <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-beyond/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 01 Nov 2024 03:27:54 GMT</pubDate>
             <content:encoded><![CDATA[박첨지]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%B2%A8%EC%A7%80-%EB%AF%B8%EC%86%8C%EB%A5%BC-%EC%9E%83%EC%A7%80-%EB%A7%99%EC%8B%9C%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hymn Series]]></title>
-            <link>https://poclanos.com/album/hymn-series/</link>
-            <guid>https://poclanos.com/album/hymn-series/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[남메아리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%A0%95%EC%95%84-%EB%82%A8%EB%A9%94%EC%95%84%EB%A6%AC-Hymn-Series-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흥망성쇠]]></title>
-            <link>https://poclanos.com/album/%ed%9d%a5%eb%a7%9d%ec%84%b1%ec%87%a0/</link>
-            <guid>https://poclanos.com/album/%ed%9d%a5%eb%a7%9d%ec%84%b1%ec%87%a0/</guid>
-            <pubDate>Thu, 31 Oct 2024 03:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[RAINBOW99]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/3.-%EC%BB%A4%EB%B2%84-RAINBOW99-%ED%9D%A5%EB%A7%9D%EC%84%B1%EC%87%A0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
