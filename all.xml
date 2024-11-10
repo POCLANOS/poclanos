@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Nov 2024 02:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Nov 2024 03:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거리두기 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ea%b1%b0%eb%a6%ac%eb%91%90%ea%b8%b0/</link>
+            <guid>https://poclanos.com/album/%ea%b1%b0%eb%a6%ac%eb%91%90%ea%b8%b0/</guid>
+            <pubDate>Sun, 10 Nov 2024 03:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[최창순]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%B0%BD%EC%88%9C-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[An Inaudible Voice (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/an-inaudible-voice/</link>
+            <guid>https://poclanos.com/album/an-inaudible-voice/</guid>
+            <pubDate>Sun, 10 Nov 2024 03:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[할로우 잰]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/An-Inaudible-Voice-cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Flag (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/red-flag/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 04 Nov 2024 03:22:28 GMT</pubDate>
             <content:encoded><![CDATA[무감각]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B4%EA%B0%90%EA%B0%81-%EB%A7%98%EC%9D%B4-%EC%A7%80%EB%8D%98-%EB%82%A0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dream Paradise (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/dream-paradise/</link>
-            <guid>https://poclanos.com/album/dream-paradise/</guid>
-            <pubDate>Sun, 03 Nov 2024 03:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[Joe Layne]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Joe-Layne-Dream-Paradise-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1102 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/1102/</link>
-            <guid>https://poclanos.com/album/1102/</guid>
-            <pubDate>Sat, 02 Nov 2024 03:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[헤이즈문 (Haze Moon)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/10/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%97%A4%EC%9D%B4%EC%A6%88%EB%AC%B8-Haze-Moon-1102-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
