@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 02:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[낙하]]></title>
+            <link>https://poclanos.com/album/%eb%82%99%ed%95%98/</link>
+            <guid>https://poclanos.com/album/%eb%82%99%ed%95%98/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[손효진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%90%ED%9A%A8%EC%A7%84-%EB%82%99%ED%95%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vergane Glorie]]></title>
+            <link>https://poclanos.com/album/vergane-glorie/</link>
+            <guid>https://poclanos.com/album/vergane-glorie/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[Joep Van Rhijn]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-Joep-Van-Rhijn-Vergane-Glorie-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Season 14 Round 3 Cypher]]></title>
+            <link>https://poclanos.com/album/season-14-round-3-cypher/</link>
+            <guid>https://poclanos.com/album/season-14-round-3-cypher/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[Super Rookie Challenge]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-Super-Rookie-Challenge-Season-14-Round-3-Cypher-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Take me to your heart]]></title>
+            <link>https://poclanos.com/album/take-me-to-your-heart/</link>
+            <guid>https://poclanos.com/album/take-me-to-your-heart/</guid>
+            <pubDate>Tue, 12 Nov 2024 03:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[yooji (유지)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/yooji-Take-me-to-your-heart-Album-Cover-3000x3000-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[As I did]]></title>
             <link>https://poclanos.com/album/as-i-did/</link>
@@ -134,38 +166,6 @@
             <pubDate>Wed, 06 Nov 2024 03:15:51 GMT</pubDate>
             <content:encoded><![CDATA[전호권]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%B8%EA%B6%8C-%ED%95%98%EC%96%80-%EC%B6%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너와 나의 수평선]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%88%98%ed%8f%89%ec%84%a0/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%88%98%ed%8f%89%ec%84%a0/</guid>
-            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[유희]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%EC%9C%A0%ED%9D%AC-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter]]></title>
-            <link>https://poclanos.com/album/letter-2/</link>
-            <guid>https://poclanos.com/album/letter-2/</guid>
-            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[정우]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%9A%B0-Letter-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[너를 비추는 밤]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%b9%84%ec%b6%94%eb%8a%94-%eb%b0%a4/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%b9%84%ec%b6%94%eb%8a%94-%eb%b0%a4/</guid>
-            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[무감각]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AC%B4%EA%B0%90%EA%B0%81-%EB%84%88%EB%A5%BC-%EB%B9%84%EC%B6%94%EB%8A%94-%EB%B0%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yonakidori (ヨナキドリ)]]></title>
-            <link>https://poclanos.com/album/yonakidori-%e3%83%a8%e3%83%8a%e3%82%ad%e3%83%88%e3%82%99%e3%83%aa/</link>
-            <guid>https://poclanos.com/album/yonakidori-%e3%83%a8%e3%83%8a%e3%82%ad%e3%83%88%e3%82%99%e3%83%aa/</guid>
-            <pubDate>Tue, 05 Nov 2024 03:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[ヒダ(Heeda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84--600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

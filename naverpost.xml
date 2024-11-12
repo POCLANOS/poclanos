@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Nov 2024 02:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 03:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] 두렵지만 황홀한 순간, 손효진 [낙하] MV 제작 비하인드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40219829&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40219829&amp;memberNo=24373938</guid>
+            <pubDate>Tue, 12 Nov 2024 03:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL /두렵지만 황홀한 순간, 손효진 새 싱글 [낙하] 뮤직비디오 제작 비하인드INTRO | 손효진ALBUM | 낙하MUSIC VIDEO | 손효진 [낙하]STORY | 손효진 새 싱글 [낙하] MV 제작기‘사방이 끝을 가늠할 수 없···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMDZfMTQ2/MDAxNzMwODgyODEwNDU1.B6VSu2yvtTEfVktndOO_SQ_cmd5f7MRjKzN_AlnRchMg.6D-CQjVjb2m5DDHwfmoGYUYXFj5w3Z9zN5iLU9jCAdsg.JPEG/Ia6YAqoFbsumEuaNUJjXrCwl_nmU.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[본질을 노래하는 음유시인, 나비연의 새 싱글 [물거품] 발매 기념 인터뷰]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40284373&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL / Monday Off With Bluesy 싱글 앨범 &lt;이 느낌 그대로&gt; 뮤직비디오 촬영기ARTIST | Monday Off With BluesyALBUM | 이 느낌 그대로놓치지 말아야 하는 순간들은 어딘가에서 환하게 빛을 내며 나에게 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDNfMjYz/MDAxNzE3NDAxNTU3Mjcy.PsIYCySwb5_kdp_NjwSdHyVfzZCaslcRfwBOi1bx_SQg.GoC6eJDKgeB0oK-7NWsmfFTaU_Hpz6KbsKZQxDky94og.JPEG/IRVdXsY2oGip6qT_5pFn1wC-xrXw.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL / 양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기ARTIST | 양반들 (Yangbans)ALBUM | 바다님STORY | 양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기자연의 조화를 ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTRfMTYz/MDAxNzE1NjY4NTkyNDA2.veS-crtq3hw_M8ySnSkcSOGSVhP3rV1b-QYJEyfWoRog.wOCuZ1-d84xH_dwbufBBggTBm3Fu1pSD_MvfIysi1uwg.PNG/ILyt1FvAYI8OyKoVjwdPxnvUuGGY.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
