@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 02:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 03:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밀려오는 세계]]></title>
+            <link>https://poclanos.com/album/%eb%b0%80%eb%a0%a4%ec%98%a4%eb%8a%94-%ec%84%b8%ea%b3%84/</link>
+            <guid>https://poclanos.com/album/%eb%b0%80%eb%a0%a4%ec%98%a4%eb%8a%94-%ec%84%b8%ea%b3%84/</guid>
+            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[시문]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-%EB%B0%80%EB%A0%A4%EC%98%A4%EB%8A%94-%EC%84%B8%EA%B3%84-cover-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[4us]]></title>
+            <link>https://poclanos.com/album/4us/</link>
+            <guid>https://poclanos.com/album/4us/</guid>
+            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[전현재]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%84%EC%9E%AC-4us-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Letter/The Thing Is]]></title>
+            <link>https://poclanos.com/album/letter-the-thing-is/</link>
+            <guid>https://poclanos.com/album/letter-the-thing-is/</guid>
+            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[Hersh]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-vsclm-Hersh-LetterThe-Thing-Is-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Our Season]]></title>
+            <link>https://poclanos.com/album/our-season/</link>
+            <guid>https://poclanos.com/album/our-season/</guid>
+            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[About Paul]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-About-Paul-Our-Season-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난 네게]]></title>
             <link>https://poclanos.com/album/%eb%82%9c-%eb%84%a4%ea%b2%8c/</link>
@@ -134,38 +166,6 @@
             <pubDate>Fri, 08 Nov 2024 03:16:19 GMT</pubDate>
             <content:encoded><![CDATA[김마리]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%A7%88%EB%A6%AC-%EB%82%9C%EA%B8%B0%EB%A5%98%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94-%EB%B2%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Everything goes fine]]></title>
-            <link>https://poclanos.com/album/everything-goes-fine/</link>
-            <guid>https://poclanos.com/album/everything-goes-fine/</guid>
-            <pubDate>Thu, 07 Nov 2024 09:13:11 GMT</pubDate>
-            <content:encoded><![CDATA[E.HEH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-E.HEH%EC%9D%B4%ED%95%B4-Everything-goes-fine-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Tis Autumn (feat. Dan Nimmer Trio)]]></title>
-            <link>https://poclanos.com/album/tis-autumn-feat-dan-nimmer-trio/</link>
-            <guid>https://poclanos.com/album/tis-autumn-feat-dan-nimmer-trio/</guid>
-            <pubDate>Thu, 07 Nov 2024 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[문미향]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Tis-Autumn-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[욕심]]></title>
-            <link>https://poclanos.com/album/%ec%9a%95%ec%8b%ac-2/</link>
-            <guid>https://poclanos.com/album/%ec%9a%95%ec%8b%ac-2/</guid>
-            <pubDate>Thu, 07 Nov 2024 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[전아인 (JEONAIN)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-%EC%A0%84%EC%95%84%EC%9D%B8-%EC%9A%95%EC%8B%AC-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[너머 (Beyond)]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%eb%a8%b8-beyond/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%eb%a8%b8-beyond/</guid>
-            <pubDate>Wed, 06 Nov 2024 09:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[선우정아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%EC%BB%A4%EB%B2%84-%EC%84%A0%EC%9A%B0%EC%A0%95%EC%95%84-%EB%84%88%EB%A8%B8-Beyond-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
