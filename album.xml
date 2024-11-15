@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 02:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 03:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호계동]]></title>
+            <link>https://poclanos.com/album/%ed%98%b8%ea%b3%84%eb%8f%99/</link>
+            <guid>https://poclanos.com/album/%ed%98%b8%ea%b3%84%eb%8f%99/</guid>
+            <pubDate>Fri, 15 Nov 2024 03:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[원형]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%ED%98%95-%ED%98%B8%EA%B3%84%EB%8F%99-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mido]]></title>
+            <link>https://poclanos.com/album/mido/</link>
+            <guid>https://poclanos.com/album/mido/</guid>
+            <pubDate>Fri, 15 Nov 2024 03:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[Cultgazer]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Cultgazer-mido-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀려오는 세계]]></title>
             <link>https://poclanos.com/album/%eb%b0%80%eb%a0%a4%ec%98%a4%eb%8a%94-%ec%84%b8%ea%b3%84/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 09 Nov 2024 03:15:43 GMT</pubDate>
             <content:encoded><![CDATA[베리코이버니 (verycoybunny)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B2%A0%EB%A6%AC%EC%BD%94%EC%9D%B4%EB%B2%84%EB%8B%88-verycoybunny-Red-Flag-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동경절망]]></title>
-            <link>https://poclanos.com/album/%eb%8f%99%ea%b2%bd%ec%a0%88%eb%a7%9d/</link>
-            <guid>https://poclanos.com/album/%eb%8f%99%ea%b2%bd%ec%a0%88%eb%a7%9d/</guid>
-            <pubDate>Fri, 08 Nov 2024 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[박태욱 (Park Tae Wook)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%ED%83%9C%EC%9A%B1-Park-Tae-Wook-%EB%8F%99%EA%B2%BD%EC%A0%88%EB%A7%9D-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난기류에 대처하는 법]]></title>
-            <link>https://poclanos.com/album/%eb%82%9c%ea%b8%b0%eb%a5%98%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%eb%8a%94-%eb%b2%95/</link>
-            <guid>https://poclanos.com/album/%eb%82%9c%ea%b8%b0%eb%a5%98%ec%97%90-%eb%8c%80%ec%b2%98%ed%95%98%eb%8a%94-%eb%b2%95/</guid>
-            <pubDate>Fri, 08 Nov 2024 03:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[김마리]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%A7%88%EB%A6%AC-%EB%82%9C%EA%B8%B0%EB%A5%98%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94-%EB%B2%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
