@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Nov 2024 02:59:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Nov 2024 03:31:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aʊə(r) (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/a%ca%8a%c9%99r/</link>
+            <guid>https://poclanos.com/album/a%ca%8a%c9%99r/</guid>
+            <pubDate>Sun, 17 Nov 2024 03:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[도재명]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/a%CA%8A%C9%99r_COVER_3000px-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Villain (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/villain/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 11 Nov 2024 03:17:53 GMT</pubDate>
             <content:encoded><![CDATA[키위허그]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kiwihug%ED%82%A4%EC%9C%84%ED%97%88%EA%B7%B8-Black-Goat-Remix-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거리두기 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ea%b1%b0%eb%a6%ac%eb%91%90%ea%b8%b0/</link>
-            <guid>https://poclanos.com/album/%ea%b1%b0%eb%a6%ac%eb%91%90%ea%b8%b0/</guid>
-            <pubDate>Sun, 10 Nov 2024 03:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[최창순]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%B0%BD%EC%88%9C-%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[POV] 포크라노스 오리지널 바이닐 시리즈 1 (POCLANOS ─ Review)]]></title>
