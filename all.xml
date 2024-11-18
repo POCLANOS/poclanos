@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Nov 2024 02:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Nov 2024 03:31:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[you never was in my dream (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/you-never-was-in-my-dream/</link>
+            <guid>https://poclanos.com/album/you-never-was-in-my-dream/</guid>
+            <pubDate>Mon, 18 Nov 2024 03:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[sunho]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sunho-you-never-was-in-my-dream-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너를 닮은 아득하게 펼쳐진 별빛 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%8b%ae%ec%9d%80-%ec%95%84%eb%93%9d%ed%95%98%ea%b2%8c-%ed%8e%bc%ec%b3%90%ec%a7%84-%eb%b3%84%eb%b9%9b/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%eb%a5%bc-%eb%8b%ae%ec%9d%80-%ec%95%84%eb%93%9d%ed%95%98%ea%b2%8c-%ed%8e%bc%ec%b3%90%ec%a7%84-%eb%b3%84%eb%b9%9b/</guid>
+            <pubDate>Mon, 18 Nov 2024 03:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[마재경]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%88%EC%9E%AC%EA%B2%BD-%EB%84%88%EB%A5%BC-%EB%8B%AE%EC%9D%80-%EC%95%84%EB%93%9D%ED%95%98%EA%B2%8C-%ED%8E%BC%EC%B3%90%EC%A7%84-%EB%B3%84%EB%B9%9B-600x600.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[유예 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%ec%98%88/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%ec%98%88/</guid>
+            <pubDate>Mon, 18 Nov 2024 03:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[구기훈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B5%AC%EA%B8%B0%ED%9B%88-%EC%9C%A0%EC%98%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aʊə(r) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/a%ca%8a%c9%99r/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 11 Nov 2024 03:17:53 GMT</pubDate>
             <content:encoded><![CDATA[박지우]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%A7%80%EC%9A%B0-As-I-did-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물거품 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%ac%bc%ea%b1%b0%ed%92%88/</link>
-            <guid>https://poclanos.com/album/%eb%ac%bc%ea%b1%b0%ed%92%88/</guid>
-            <pubDate>Mon, 11 Nov 2024 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[나비연]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%82%98%EB%B9%84%EC%97%B0-%EB%AC%BC%EA%B1%B0%ED%92%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stranger (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/stranger-2/</link>
-            <guid>https://poclanos.com/album/stranger-2/</guid>
-            <pubDate>Mon, 11 Nov 2024 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[권그린 (GREENY)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B6%8C%EA%B7%B8%EB%A6%B0-GREENY-Stranger-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Goat Remix (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/black-goat-remix/</link>
-            <guid>https://poclanos.com/album/black-goat-remix/</guid>
-            <pubDate>Mon, 11 Nov 2024 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[키위허그]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kiwihug%ED%82%A4%EC%9C%84%ED%97%88%EA%B7%B8-Black-Goat-Remix-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[POV] 포크라노스 오리지널 바이닐 시리즈 1 (POCLANOS ─ Review)]]></title>
