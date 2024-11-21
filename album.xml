@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Nov 2024 08:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Nov 2024 09:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Monsoon]]></title>
+            <link>https://poclanos.com/album/monsoon-4/</link>
+            <guid>https://poclanos.com/album/monsoon-4/</guid>
+            <pubDate>Thu, 21 Nov 2024 09:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[BRWN]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-BRWN-Monsoon-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wildflower]]></title>
             <link>https://poclanos.com/album/wildflower/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
             <content:encoded><![CDATA[Hersh]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-vsclm-Hersh-LetterThe-Thing-Is-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Our Season]]></title>
-            <link>https://poclanos.com/album/our-season/</link>
-            <guid>https://poclanos.com/album/our-season/</guid>
-            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[About Paul]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-About-Paul-Our-Season-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
