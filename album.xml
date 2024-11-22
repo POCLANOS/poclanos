@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 03:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[If U..]]></title>
+            <link>https://poclanos.com/album/if-u/</link>
+            <guid>https://poclanos.com/album/if-u/</guid>
+            <pubDate>Fri, 22 Nov 2024 03:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-JUE%EC%A3%BC%EC%95%A0-If-U..-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Time’s Reflection]]></title>
+            <link>https://poclanos.com/album/times-reflection/</link>
+            <guid>https://poclanos.com/album/times-reflection/</guid>
+            <pubDate>Fri, 22 Nov 2024 03:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[Uigeadail Trace]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EA%B1%B0%EB%8B%A4%EC%9D%BC-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-Uigeadail-Trace-Times-Reflection-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Monsoon]]></title>
             <link>https://poclanos.com/album/monsoon-4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
             <content:encoded><![CDATA[시문]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-%EB%B0%80%EB%A0%A4%EC%98%A4%EB%8A%94-%EC%84%B8%EA%B3%84-cover-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4us]]></title>
-            <link>https://poclanos.com/album/4us/</link>
-            <guid>https://poclanos.com/album/4us/</guid>
-            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[전현재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%84%ED%98%84%EC%9E%AC-4us-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter/The Thing Is]]></title>
-            <link>https://poclanos.com/album/letter-the-thing-is/</link>
-            <guid>https://poclanos.com/album/letter-the-thing-is/</guid>
-            <pubDate>Thu, 14 Nov 2024 03:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[Hersh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-vsclm-Hersh-LetterThe-Thing-Is-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

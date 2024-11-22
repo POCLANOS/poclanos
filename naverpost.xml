@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Nov 2024 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Nov 2024 03:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지나간 시간 속 회상Ⅰ, 우거다일 트레이스 첫 EP 트랙별 코멘터리]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40486078&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=40486078&amp;memberNo=24373938</guid>
+            <pubDate>Fri, 22 Nov 2024 03:26:01 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/ 지나간 시간 속 회상Ⅰ,우거다일 트레이스 (Uigeadail Trace) 첫 EP [Time's Refection] 트랙별 코멘터리  ARTIST | 우거다일 트레이스 (Uigeadail Trace) 좌측에서부터 명준 (Myeong Jun), 휴일 (Hueil···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMTJfMzYg/MDAxNzMxMzgwOTc4NjA4.tzFbz_IKytXiS8K-osK_2VdJJm_46HgbOC4Lj4VNstog.MBGYow4HozA4kuZb7HCBcfU7MP5k55Msltf-UsC2eJ8g.JPEG/Im-IeT3Y3Qb4_zhmHCyDuWMAu2Mg.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어두운 별을 위한 음악, 전현재의 새 앨범 [4us] 코멘터리]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=40848705&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW / 내 안의 흔들림과 발 맞춰 걷기, 다린 4번째 EP [serenade] 발매 기념 인터뷰내 안의 흔들림과 발 맞춰 걷기, 다린 4번째 EP [serenade] 발매 기념 인터뷰 우리는 모두 하루에도 몇 번씩이나 저마다의 ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTJfMTMw/MDAxNzE4MTY5Mzg3MDM5.gsIlSgH5KjBRn4JlTxVWnL1nIxDvt0oXSuGUBO9ti3Qg.pHPDQn5W--Y8jjt2TGjDbQeHuo5yLGKRE_qyH59_2GUg.PNG/IwVMwtL4j8olQMPcOA1cx29jD7FU.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[INTERVIEW] 각자의 세계를 더한 우주로의 항해, The Poles 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=37945281&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=37945281&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 11 Jul 2024 10:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW /각자의 세계를 더한 우주로의 항해,밴드 The Poles (더 폴스) 인터뷰김다니엘, 김경배, 이황제로 이루어진 밴드 The Poles (더 폴스)가 지난 4월 [Anomalies in the oddity space]를 발···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MTBfOTkg/MDAxNzE3OTk5MDQwNTc4.OpQJrCqk0Jp_A9RkMxR7zOr8zSpETFpnb3xKfX5wzsUg.-cvFHkTLGDnNPtSTGeQBKN3v5gp7OPRU98auhsXm1Ekg.JPEG/I4p1smbmbA9zY55Y1f9uj0_bQG8E.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
