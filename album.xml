@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Nov 2024 02:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Nov 2024 03:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say Yes]]></title>
+            <link>https://poclanos.com/album/say-yes/</link>
+            <guid>https://poclanos.com/album/say-yes/</guid>
+            <pubDate>Sat, 23 Nov 2024 03:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[ZIWOO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ZIWOO-Say-Yes-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wasteland Destination]]></title>
             <link>https://poclanos.com/album/wasteland-destination/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 15 Nov 2024 03:25:21 GMT</pubDate>
             <content:encoded><![CDATA[원형]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%ED%98%95-%ED%98%B8%EA%B3%84%EB%8F%99-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[mido]]></title>
-            <link>https://poclanos.com/album/mido/</link>
-            <guid>https://poclanos.com/album/mido/</guid>
-            <pubDate>Fri, 15 Nov 2024 03:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[Cultgazer]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Cultgazer-mido-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
