@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Nov 2024 08:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BOY of]]></title>
+            <link>https://poclanos.com/album/boy-of/</link>
+            <guid>https://poclanos.com/album/boy-of/</guid>
+            <pubDate>Thu, 28 Nov 2024 09:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[bojvck]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-bojvck-BOY-of-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[How to live on earth]]></title>
             <link>https://poclanos.com/album/how-to-live-on-earth/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 21 Nov 2024 09:14:19 GMT</pubDate>
             <content:encoded><![CDATA[BRWN]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-BRWN-Monsoon-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wildflower]]></title>
-            <link>https://poclanos.com/album/wildflower/</link>
-            <guid>https://poclanos.com/album/wildflower/</guid>
-            <pubDate>Thu, 21 Nov 2024 03:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[muun]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-muun-Wildflower-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
