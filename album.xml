@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 02:57:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 03:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 사운드 오브 얀씨클럽 1 – 고마워요, 아마드! (THE SOUND OF YANCEY CLUB 1 – THX, AHMAD !)]]></title>
+            <link>https://poclanos.com/album/%eb%8d%94-%ec%82%ac%ec%9a%b4%eb%93%9c-%ec%98%a4%eb%b8%8c-%ec%96%80%ec%94%a8%ed%81%b4%eb%9f%bd-1-%ea%b3%a0%eb%a7%88%ec%9b%8c%ec%9a%94-%ec%95%84%eb%a7%88%eb%93%9c-the-sound-of-yancey-club-1-thx/</link>
+            <guid>https://poclanos.com/album/%eb%8d%94-%ec%82%ac%ec%9a%b4%eb%93%9c-%ec%98%a4%eb%b8%8c-%ec%96%80%ec%94%a8%ed%81%b4%eb%9f%bd-1-%ea%b3%a0%eb%a7%88%ec%9b%8c%ec%9a%94-%ec%95%84%eb%a7%88%eb%93%9c-the-sound-of-yancey-club-1-thx/</guid>
+            <pubDate>Fri, 29 Nov 2024 03:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[사모 키요타 (SAMO KHIYOTA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/3.-%EC%BB%A4%EB%B2%84-%EC%82%AC%EB%AA%A8-%ED%82%A4%EC%9A%94%ED%83%80-SAMO-KHIYOTA-%EB%8D%94-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%98%A4%EB%B8%8C-%EC%96%80%EC%94%A8%ED%81%B4%EB%9F%BD-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나방]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%eb%b0%a9/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%eb%b0%a9/</guid>
+            <pubDate>Fri, 29 Nov 2024 03:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[nnn]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-nnn-%EB%82%98%EB%B0%A9-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheese Burger (Feat. Deepflow, Minos, NUCK, Ja Mezz, Chaboom, G2, Huckleberry P, Mc Meta, RHYME-A-) (Remix)]]></title>
+            <link>https://poclanos.com/album/cheese-burger-feat-deepflow-minos-nuck-ja-mezz-chaboom-g2-huckleberry-p-mc-meta-rhyme-a-remix/</link>
+            <guid>https://poclanos.com/album/cheese-burger-feat-deepflow-minos-nuck-ja-mezz-chaboom-g2-huckleberry-p-mc-meta-rhyme-a-remix/</guid>
+            <pubDate>Fri, 29 Nov 2024 03:29:18 GMT</pubDate>
+            <content:encoded><![CDATA[노아원러브 (NOAH1LUV)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%85%B8%EC%95%84%EC%9B%90%EB%9F%AC%EB%B8%8C-NOAH1LUV-Cheese-Buger-Remix-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BOY of]]></title>
             <link>https://poclanos.com/album/boy-of/</link>
@@ -48,20 +72,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Sawtooth]]></title>
-            <link>https://poclanos.com/album/the-sawtooth/</link>
-            <guid>https://poclanos.com/album/the-sawtooth/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Ordeal]]></title>
             <link>https://poclanos.com/album/ordeal/</link>
             <guid>https://poclanos.com/album/ordeal/</guid>
             <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
             <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Sawtooth]]></title>
+            <link>https://poclanos.com/album/the-sawtooth/</link>
+            <guid>https://poclanos.com/album/the-sawtooth/</guid>
+            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[밤차]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 22 Nov 2024 09:14:42 GMT</pubDate>
             <content:encoded><![CDATA[Orchid]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Wasteland-Destination-Orchid-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[If U..]]></title>
-            <link>https://poclanos.com/album/if-u/</link>
-            <guid>https://poclanos.com/album/if-u/</guid>
-            <pubDate>Fri, 22 Nov 2024 03:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[Jue(주애)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-JUE%EC%A3%BC%EC%95%A0-If-U..-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Time’s Reflection]]></title>
-            <link>https://poclanos.com/album/times-reflection/</link>
-            <guid>https://poclanos.com/album/times-reflection/</guid>
-            <pubDate>Fri, 22 Nov 2024 03:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[Uigeadail Trace]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9A%B0%EA%B1%B0%EB%8B%A4%EC%9D%BC-%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%8A%A4-Uigeadail-Trace-Times-Reflection-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Monsoon]]></title>
-            <link>https://poclanos.com/album/monsoon-4/</link>
-            <guid>https://poclanos.com/album/monsoon-4/</guid>
-            <pubDate>Thu, 21 Nov 2024 09:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[BRWN]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-BRWN-Monsoon-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
