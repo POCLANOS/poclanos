@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 08:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 09:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[RIVER]]></title>
+            <link>https://poclanos.com/album/river/</link>
+            <guid>https://poclanos.com/album/river/</guid>
+            <pubDate>Fri, 29 Nov 2024 09:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[Lazy Palace]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Lazy-Palace-RIVER-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 사운드 오브 얀씨클럽 1 – 고마워요, 아마드! (THE SOUND OF YANCEY CLUB 1 – THX, AHMAD !)]]></title>
             <link>https://poclanos.com/album/%eb%8d%94-%ec%82%ac%ec%9a%b4%eb%93%9c-%ec%98%a4%eb%b8%8c-%ec%96%80%ec%94%a8%ed%81%b4%eb%9f%bd-1-%ea%b3%a0%eb%a7%88%ec%9b%8c%ec%9a%94-%ec%95%84%eb%a7%88%eb%93%9c-the-sound-of-yancey-club-1-thx/</link>
@@ -72,20 +80,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ordeal]]></title>
-            <link>https://poclanos.com/album/ordeal/</link>
-            <guid>https://poclanos.com/album/ordeal/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Sawtooth]]></title>
             <link>https://poclanos.com/album/the-sawtooth/</link>
             <guid>https://poclanos.com/album/the-sawtooth/</guid>
             <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
             <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ordeal]]></title>
+            <link>https://poclanos.com/album/ordeal/</link>
+            <guid>https://poclanos.com/album/ordeal/</guid>
+            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤차]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 23 Nov 2024 03:22:33 GMT</pubDate>
             <content:encoded><![CDATA[ZIWOO]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ZIWOO-Say-Yes-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wasteland Destination]]></title>
-            <link>https://poclanos.com/album/wasteland-destination/</link>
-            <guid>https://poclanos.com/album/wasteland-destination/</guid>
-            <pubDate>Fri, 22 Nov 2024 09:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[Orchid]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Wasteland-Destination-Orchid-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
