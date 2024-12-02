@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Dec 2024 01:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Dec 2024 03:01:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[타원율]]></title>
+            <link>https://poclanos.com/album/%ed%83%80%ec%9b%90%ec%9c%a8/</link>
+            <guid>https://poclanos.com/album/%ed%83%80%ec%9b%90%ec%9c%a8/</guid>
+            <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[물과음]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AC%BC%EA%B3%BC%EC%9D%8C-%ED%83%80%EC%9B%90%EC%9C%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A bird in the Night]]></title>
+            <link>https://poclanos.com/album/a-bird-in-the-night/</link>
+            <guid>https://poclanos.com/album/a-bird-in-the-night/</guid>
+            <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[DUDISH (듀디쉬)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUDISH-%EB%93%80%EB%94%94%EC%89%AC-A-bird-in-the-Night-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너와 나의 안녕]]></title>
+            <link>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%95%88%eb%85%95/</link>
+            <guid>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%95%88%eb%85%95/</guid>
+            <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
+            <content:encoded><![CDATA[연수]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%97%B0%EC%88%98-%EB%84%88%EC%99%80-%EB%82%98%EC%9D%98-%EC%95%88%EB%85%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[슬픔을 구름으로 만들어줘]]></title>
             <link>https://poclanos.com/album/%ec%8a%ac%ed%94%94%ec%9d%84-%ea%b5%ac%eb%a6%84%ec%9c%bc%eb%a1%9c-%eb%a7%8c%eb%93%a4%ec%96%b4%ec%a4%98/</link>
@@ -96,20 +120,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ordeal]]></title>
-            <link>https://poclanos.com/album/ordeal/</link>
-            <guid>https://poclanos.com/album/ordeal/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Sawtooth]]></title>
             <link>https://poclanos.com/album/the-sawtooth/</link>
             <guid>https://poclanos.com/album/the-sawtooth/</guid>
             <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
             <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ordeal]]></title>
+            <link>https://poclanos.com/album/ordeal/</link>
+            <guid>https://poclanos.com/album/ordeal/</guid>
+            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤차]]></title>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 25 Nov 2024 03:28:40 GMT</pubDate>
             <content:encoded><![CDATA[송다홍]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EB%8B%A4%ED%99%8D-%EC%96%B4%EC%97%AC%EC%81%9C%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소행성]]></title>
-            <link>https://poclanos.com/album/%ec%86%8c%ed%96%89%ec%84%b1-2/</link>
-            <guid>https://poclanos.com/album/%ec%86%8c%ed%96%89%ec%84%b1-2/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[Sycho(사이코)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-Sycho%EC%82%AC%EC%9D%B4%EC%BD%94-%EC%86%8C%ED%96%89%EC%84%B1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[romanticismo]]></title>
-            <link>https://poclanos.com/album/romanticismo/</link>
-            <guid>https://poclanos.com/album/romanticismo/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[Luca minor]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Luca-minor-romanticismo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그들과는 다르다]]></title>
-            <link>https://poclanos.com/album/%ea%b7%b8%eb%93%a4%ea%b3%bc%eb%8a%94-%eb%8b%a4%eb%a5%b4%eb%8b%a4/</link>
-            <guid>https://poclanos.com/album/%ea%b7%b8%eb%93%a4%ea%b3%bc%eb%8a%94-%eb%8b%a4%eb%a5%b4%eb%8b%a4/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[등아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%93%B1%EC%95%84-%EA%B7%B8%EB%93%A4%EA%B3%BC%EB%8A%94-%EB%8B%A4%EB%A5%B4%EB%8B%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
