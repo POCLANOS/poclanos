@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 01:03:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 03:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Forgotten Christmas]]></title>
+            <link>https://poclanos.com/album/forgotten-christmas/</link>
+            <guid>https://poclanos.com/album/forgotten-christmas/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-Forgotten-Christmas-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wish You Merry]]></title>
+            <link>https://poclanos.com/album/wish-you-merry/</link>
+            <guid>https://poclanos.com/album/wish-you-merry/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[민강]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC%EA%B0%95-Wish-You-Merry-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숲속에 그린 집]]></title>
+            <link>https://poclanos.com/album/%ec%88%b2%ec%86%8d%ec%97%90-%ea%b7%b8%eb%a6%b0-%ec%a7%91/</link>
+            <guid>https://poclanos.com/album/%ec%88%b2%ec%86%8d%ec%97%90-%ea%b7%b8%eb%a6%b0-%ec%a7%91/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[Ram (람)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-Ram%EB%9E%8C-%EC%88%B2%EC%86%8D%EC%97%90-%EA%B7%B8%EB%A6%B0-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[타원율]]></title>
             <link>https://poclanos.com/album/%ed%83%80%ec%9b%90%ec%9c%a8/</link>
@@ -120,14 +144,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Sawtooth]]></title>
-            <link>https://poclanos.com/album/the-sawtooth/</link>
-            <guid>https://poclanos.com/album/the-sawtooth/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Ordeal]]></title>
             <link>https://poclanos.com/album/ordeal/</link>
             <guid>https://poclanos.com/album/ordeal/</guid>
@@ -136,36 +152,20 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Sawtooth]]></title>
+            <link>https://poclanos.com/album/the-sawtooth/</link>
+            <guid>https://poclanos.com/album/the-sawtooth/</guid>
+            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[The Sawtooth]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[밤차]]></title>
             <link>https://poclanos.com/album/%eb%b0%a4%ec%b0%a8/</link>
             <guid>https://poclanos.com/album/%eb%b0%a4%ec%b0%a8/</guid>
             <pubDate>Tue, 26 Nov 2024 03:26:48 GMT</pubDate>
             <content:encoded><![CDATA[송다홍]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EB%8B%A4%ED%99%8D-%EB%B0%A4%EC%B0%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Night View In Seoul (Feat. 안서진) (Big Band ver.)]]></title>
-            <link>https://poclanos.com/album/the-night-view-in-seoul-feat-%ec%95%88%ec%84%9c%ec%a7%84-big-band-ver/</link>
-            <guid>https://poclanos.com/album/the-night-view-in-seoul-feat-%ec%95%88%ec%84%9c%ec%a7%84-big-band-ver/</guid>
-            <pubDate>Tue, 26 Nov 2024 03:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[유근호]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EA%B7%BC%ED%98%B8-The-Night-View-In-Seoul-Big-Band-ver.-Feat.%EC%95%88%EC%84%9C%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베갯잇을 적실 때]]></title>
-            <link>https://poclanos.com/album/%eb%b2%a0%ea%b0%af%ec%9e%87%ec%9d%84-%ec%a0%81%ec%8b%a4-%eb%95%8c/</link>
-            <guid>https://poclanos.com/album/%eb%b2%a0%ea%b0%af%ec%9e%87%ec%9d%84-%ec%a0%81%ec%8b%a4-%eb%95%8c/</guid>
-            <pubDate>Tue, 26 Nov 2024 03:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[무이야드(mooee yard)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84%EB%AC%B4%EC%9D%B4%EC%95%BC%EB%93%9Cmooee-yard-%EB%B2%A0%EA%B0%AF%EC%9E%87%EC%9D%84-%EC%A0%81%EC%8B%A4-%EB%95%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어여쁜사람]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%ec%97%ac%ec%81%9c%ec%82%ac%eb%9e%8c/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%ec%97%ac%ec%81%9c%ec%82%ac%eb%9e%8c/</guid>
-            <pubDate>Mon, 25 Nov 2024 03:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[송다홍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EB%8B%A4%ED%99%8D-%EC%96%B4%EC%97%AC%EC%81%9C%EC%82%AC%EB%9E%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
