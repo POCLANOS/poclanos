@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 03:01:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 03:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈이 내리니까]]></title>
+            <link>https://poclanos.com/album/%eb%88%88%ec%9d%b4-%eb%82%b4%eb%a6%ac%eb%8b%88%ea%b9%8c/</link>
+            <guid>https://poclanos.com/album/%eb%88%88%ec%9d%b4-%eb%82%b4%eb%a6%ac%eb%8b%88%ea%b9%8c/</guid>
+            <pubDate>Tue, 03 Dec 2024 03:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[한림(Hanlim)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%9C%EB%A6%BC-%EB%88%88%EC%9D%B4-%EB%82%B4%EB%A6%AC%EB%8B%88%EA%B9%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forgotten Christmas]]></title>
             <link>https://poclanos.com/album/forgotten-christmas/</link>
@@ -144,14 +152,6 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ordeal]]></title>
-            <link>https://poclanos.com/album/ordeal/</link>
-            <guid>https://poclanos.com/album/ordeal/</guid>
-            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
-            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Sawtooth]]></title>
             <link>https://poclanos.com/album/the-sawtooth/</link>
             <guid>https://poclanos.com/album/the-sawtooth/</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-The-Sawtooth-The-Sawtooth-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[밤차]]></title>
-            <link>https://poclanos.com/album/%eb%b0%a4%ec%b0%a8/</link>
-            <guid>https://poclanos.com/album/%eb%b0%a4%ec%b0%a8/</guid>
-            <pubDate>Tue, 26 Nov 2024 03:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[송다홍]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EB%8B%A4%ED%99%8D-%EB%B0%A4%EC%B0%A8-600x600.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Ordeal]]></title>
+            <link>https://poclanos.com/album/ordeal/</link>
+            <guid>https://poclanos.com/album/ordeal/</guid>
+            <pubDate>Wed, 27 Nov 2024 03:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-ANDOR_Ordeal_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
