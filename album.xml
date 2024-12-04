@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 08:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 09:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Relationship]]></title>
+            <link>https://poclanos.com/album/relationship/</link>
+            <guid>https://poclanos.com/album/relationship/</guid>
+            <pubDate>Wed, 04 Dec 2024 09:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[Mixsings]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%AE%A4%EC%A6%88-Kimmuse-Mixsings-Relationship-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lost in the Night (迷惑的夜晚)]]></title>
             <link>https://poclanos.com/album/lost-in-the-night-%e8%bf%b7%e6%83%91%e7%9a%84%e5%a4%9c%e6%99%9a/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 28 Nov 2024 03:29:04 GMT</pubDate>
             <content:encoded><![CDATA[장세현]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%84%B8%ED%98%84-How-to-live-on-earth-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애도]]></title>
-            <link>https://poclanos.com/album/%ec%95%a0%eb%8f%84/</link>
-            <guid>https://poclanos.com/album/%ec%95%a0%eb%8f%84/</guid>
-            <pubDate>Thu, 28 Nov 2024 03:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[진우양]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%84%EC%9A%B0%EC%96%91-%EC%95%A0%EB%8F%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
