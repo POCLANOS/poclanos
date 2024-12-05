@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 03:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 04:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REVIEW] RSS 뮤직 페스티벌 – 장르 음악이 한데 모인 역사적인 순간]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41943193&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41943193&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Thu, 05 Dec 2024 04:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDRfMzEg/MDAxNzMzMzAxMTEwMTA3.oLCsC6C_ltX50DxQznIs2DdAWjTAe3kEEAlYrj-67LMg.M7K5vaI3X3JpIwvSA856uXthV5b6vBPrtWAYm_uhQbEg.PNG/In5GxXP0q4c1FG3cTJDkuOxrUAlk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너를 만나 참 다행이야, 복다진 새 싱글 <취미생활> 뮤직비디오 제작 비하인드]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41420672&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 03 Apr 2024 03:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjNfMjU3/MDAxNzA4NjU1NTUyOTIx.k1ZB9siujBkQvidKP5CH0URQCi1ew1qAzMQAYfE0dzgg.s8gQfsLPlKGcb2PdfY9BijjOL-Aqa84CiR34UZwqrlYg.JPEG/IPlK-gpmr9GQgDED3GCXiuUc-pfA.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘있었던 것’들로 ‘낯섦’을 만들어내는 싱어송라이터 에몬(Emon)]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37312133&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Tue, 13 Feb 2024 03:13:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMDhfMjA2/MDAxNzA3MzY2NDI3NTQ4.ToVemnt4u6rCwdLdhrfMFAQIRUkH9GgBLk_YNzonMLgg.KGUL_Ngke_2iFRkOd1w6zBt3QHZrDHMGKk95k1zF1tMg.PNG/IeVqVl1U3SZeUfIz4gWa3DQgqNzM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Dec 2024 03:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Dec 2024 04:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REVIEW] RSS 뮤직 페스티벌 – 장르 음악이 한데 모인 역사적인 순간]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41943193&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=41943193&amp;memberNo=24373938</guid>
+            <pubDate>Thu, 05 Dec 2024 04:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[REVIEW/ RSS 뮤직 페스티벌,장르 음악이 한데 모인 역사적인 순간 REVIEW | RSS 뮤직 페스티벌, 장르 음악이 한데 모인 역사적인 순간 레이블 리듬소망사랑(RSS)이 주최하고 연 음악 페스티벌, RSS 뮤직 페스티벌은 ···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMDRfMzEg/MDAxNzMzMzAxMTEwMTA3.oLCsC6C_ltX50DxQznIs2DdAWjTAe3kEEAlYrj-67LMg.M7K5vaI3X3JpIwvSA856uXthV5b6vBPrtWAYm_uhQbEg.PNG/In5GxXP0q4c1FG3cTJDkuOxrUAlk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너를 만나 참 다행이야, 복다진 새 싱글 <취미생활> 뮤직비디오 제작 비하인드]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41420672&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Mon, 23 Sep 2024 03:20:17 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL / 흔들리는 우리에게 구원을, SKIPJACK 첫 정규앨범 &lt;giveusasalvation.&gt; 트랙별 코멘터리INTRO | 스킵잭 (SKIPJACK) 남유식(보컬), 강산터(기타), 김민수(베이스), ···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjBfMTY5/MDAxNzI2ODMyNzk3MjA0.COmoewYTjdecDNNBwjastW7ku6DSAd0ktoBkLWTmpNMg.v1YDUooNEhAb_w6IGLoIBJXB-A58fNdSSg3ooRfPUsAg.JPEG/Ifgp8JAdhd9cLj3HO2MMX94AZU_c.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 발매 기념 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=38615600&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=38615600&amp;memberNo=24373938</guid>
-            <pubDate>Thu, 22 Aug 2024 09:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW /BORN TO BE ROCKSTAR,최원빈 첫 정규 [ACTING ROCKSTAR] 발매 기념 인터뷰BORN TO BE ROCKSTAR, 최원빈 첫 정규앨범 [ACTING ROCKSTAR] 발매 기념 인터뷰 두터운 매니아층을 자랑하는 장르 음악을 열렬히···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MjFfNDEg/MDAxNzI0MjM3NzExNjY4.km9448KQQGM8Qaw4FuW66TpJke_RBP8sRPikB06YFeYg.QDVYPHDjjihxnMlC13Oh2DqIRG8jqWPXM5fX9skPsrEg.JPEG/IU96bXAtjkYnfRw8VVH1OBcw-q70.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
