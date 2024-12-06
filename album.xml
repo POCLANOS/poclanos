@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Dec 2024 02:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Dec 2024 03:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유리애]]></title>
+            <link>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%95%a0/</link>
+            <guid>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%95%a0/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-uri-ae-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파블로프2]]></title>
+            <link>https://poclanos.com/album/%ed%8c%8c%eb%b8%94%eb%a1%9c%ed%94%842/</link>
+            <guid>https://poclanos.com/album/%ed%8c%8c%eb%b8%94%eb%a1%9c%ed%94%842/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[오도함 (OHDOHAHM)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%8F%84%ED%95%A8-%ED%8C%8C%EB%B8%94%EB%A1%9C%ED%94%842-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이 바이 바이]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4/</guid>
+            <pubDate>Fri, 06 Dec 2024 03:33:07 GMT</pubDate>
+            <content:encoded><![CDATA[주태중]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%94%EC%9D%B4%EB%B0%94%EC%9D%B4%EB%B0%94%EC%9D%B4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아사녀]]></title>
             <link>https://poclanos.com/album/%ec%95%84%ec%82%ac%eb%85%80/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 30 Nov 2024 03:23:57 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%EC%8B%9C%EB%86%89%EC%8B%9C%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RIVER]]></title>
-            <link>https://poclanos.com/album/river/</link>
-            <guid>https://poclanos.com/album/river/</guid>
-            <pubDate>Fri, 29 Nov 2024 09:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[Lazy Palace]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Lazy-Palace-RIVER-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 사운드 오브 얀씨클럽 1 – 고마워요, 아마드! (THE SOUND OF YANCEY CLUB 1 – THX, AHMAD !)]]></title>
-            <link>https://poclanos.com/album/%eb%8d%94-%ec%82%ac%ec%9a%b4%eb%93%9c-%ec%98%a4%eb%b8%8c-%ec%96%80%ec%94%a8%ed%81%b4%eb%9f%bd-1-%ea%b3%a0%eb%a7%88%ec%9b%8c%ec%9a%94-%ec%95%84%eb%a7%88%eb%93%9c-the-sound-of-yancey-club-1-thx/</link>
-            <guid>https://poclanos.com/album/%eb%8d%94-%ec%82%ac%ec%9a%b4%eb%93%9c-%ec%98%a4%eb%b8%8c-%ec%96%80%ec%94%a8%ed%81%b4%eb%9f%bd-1-%ea%b3%a0%eb%a7%88%ec%9b%8c%ec%9a%94-%ec%95%84%eb%a7%88%eb%93%9c-the-sound-of-yancey-club-1-thx/</guid>
-            <pubDate>Fri, 29 Nov 2024 03:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[사모 키요타 (SAMO KHIYOTA)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/3.-%EC%BB%A4%EB%B2%84-%EC%82%AC%EB%AA%A8-%ED%82%A4%EC%9A%94%ED%83%80-SAMO-KHIYOTA-%EB%8D%94-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%98%A4%EB%B8%8C-%EC%96%80%EC%94%A8%ED%81%B4%EB%9F%BD-1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나방]]></title>
-            <link>https://poclanos.com/album/%eb%82%98%eb%b0%a9/</link>
-            <guid>https://poclanos.com/album/%eb%82%98%eb%b0%a9/</guid>
-            <pubDate>Fri, 29 Nov 2024 03:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[nnn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-nnn-%EB%82%98%EB%B0%A9-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
