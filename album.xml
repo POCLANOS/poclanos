@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 08:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 09:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Glow]]></title>
+            <link>https://poclanos.com/album/glow-3/</link>
+            <guid>https://poclanos.com/album/glow-3/</guid>
+            <pubDate>Mon, 09 Dec 2024 09:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[12BH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-12bh_glow_albumcover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dreamscapes]]></title>
             <link>https://poclanos.com/album/dreamscapes/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 03 Dec 2024 03:00:48 GMT</pubDate>
             <content:encoded><![CDATA[Ram (람)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%BB%A4%EB%B2%84-Ram%EB%9E%8C-%EC%88%B2%EC%86%8D%EC%97%90-%EA%B7%B8%EB%A6%B0-%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타원율]]></title>
-            <link>https://poclanos.com/album/%ed%83%80%ec%9b%90%ec%9c%a8/</link>
-            <guid>https://poclanos.com/album/%ed%83%80%ec%9b%90%ec%9c%a8/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[물과음]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AC%BC%EA%B3%BC%EC%9D%8C-%ED%83%80%EC%9B%90%EC%9C%A8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
