@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 01:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 03:03:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dreamscapes]]></title>
+            <link>https://poclanos.com/album/dreamscapes/</link>
+            <guid>https://poclanos.com/album/dreamscapes/</guid>
+            <pubDate>Mon, 09 Dec 2024 03:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[SUN KIM]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SUN-KIM-Dreamscapes-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Armstrong Spiral]]></title>
+            <link>https://poclanos.com/album/armstrong-spiral/</link>
+            <guid>https://poclanos.com/album/armstrong-spiral/</guid>
+            <pubDate>Mon, 09 Dec 2024 03:02:31 GMT</pubDate>
+            <content:encoded><![CDATA[Neontype]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Neontype_Armstrong-Spiral_Cover-600x600.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[무아(舞雅)]]></title>
             <link>https://poclanos.com/album/%eb%ac%b4%ec%95%84%e8%88%9e%e9%9b%85/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
             <content:encoded><![CDATA[물과음]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AC%BC%EA%B3%BC%EC%9D%8C-%ED%83%80%EC%9B%90%EC%9C%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A bird in the Night]]></title>
-            <link>https://poclanos.com/album/a-bird-in-the-night/</link>
-            <guid>https://poclanos.com/album/a-bird-in-the-night/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[DUDISH (듀디쉬)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-DUDISH-%EB%93%80%EB%94%94%EC%89%AC-A-bird-in-the-Night-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너와 나의 안녕]]></title>
-            <link>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%95%88%eb%85%95/</link>
-            <guid>https://poclanos.com/album/%eb%84%88%ec%99%80-%eb%82%98%ec%9d%98-%ec%95%88%eb%85%95/</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[연수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/11/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%97%B0%EC%88%98-%EB%84%88%EC%99%80-%EB%82%98%EC%9D%98-%EC%95%88%EB%85%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
