@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 08:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 09:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Valentine]]></title>
+            <link>https://poclanos.com/album/valentine/</link>
+            <guid>https://poclanos.com/album/valentine/</guid>
+            <pubDate>Fri, 13 Dec 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[coldnight]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-coldnight-Valentine-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모두의 크리스마스]]></title>
             <link>https://poclanos.com/album/%eb%aa%a8%eb%91%90%ec%9d%98-%ed%81%ac%eb%a6%ac%ec%8a%a4%eb%a7%88%ec%8a%a4-2/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 05 Dec 2024 03:36:06 GMT</pubDate>
             <content:encoded><![CDATA[복다진]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B3%B5%EB%8B%A4%EC%A7%84-%EC%B7%A8%EB%AF%B8%EC%83%9D%ED%99%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[You Made Me Trust Everyone Easily]]></title>
-            <link>https://poclanos.com/album/you-made-me-trust-everyone-easily/</link>
-            <guid>https://poclanos.com/album/you-made-me-trust-everyone-easily/</guid>
-            <pubDate>Thu, 05 Dec 2024 03:36:06 GMT</pubDate>
-            <content:encoded><![CDATA[Fully Bold]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/ou-Made-Me-Trust-Everyone-Easily_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
