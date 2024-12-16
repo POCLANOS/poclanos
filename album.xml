@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 01:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 03:03:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Maybe]]></title>
+            <link>https://poclanos.com/album/maybe-5/</link>
+            <guid>https://poclanos.com/album/maybe-5/</guid>
+            <pubDate>Mon, 16 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[장수빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mind]]></title>
+            <link>https://poclanos.com/album/mind-2/</link>
+            <guid>https://poclanos.com/album/mind-2/</guid>
+            <pubDate>Mon, 16 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[원형]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-%EC%9B%90%ED%98%95-Mind-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The First Noel]]></title>
+            <link>https://poclanos.com/album/the-first-noel/</link>
+            <guid>https://poclanos.com/album/the-first-noel/</guid>
+            <pubDate>Mon, 16 Dec 2024 03:02:32 GMT</pubDate>
+            <content:encoded><![CDATA[남메아리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9D%B4%EC%A0%95%EC%95%84-%EB%82%A8%EB%A9%94%EC%95%84%EB%A6%AC-The-First-Noel-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Head On]]></title>
             <link>https://poclanos.com/album/head-on/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sat, 07 Dec 2024 09:13:18 GMT</pubDate>
             <content:encoded><![CDATA[박소은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%86%8C%EC%9D%80-%EB%A7%A4%EC%9D%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유리애]]></title>
-            <link>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%95%a0/</link>
-            <guid>https://poclanos.com/album/%ec%9c%a0%eb%a6%ac%ec%95%a0/</guid>
-            <pubDate>Fri, 06 Dec 2024 03:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-uri-ae-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파블로프2]]></title>
-            <link>https://poclanos.com/album/%ed%8c%8c%eb%b8%94%eb%a1%9c%ed%94%842/</link>
-            <guid>https://poclanos.com/album/%ed%8c%8c%eb%b8%94%eb%a1%9c%ed%94%842/</guid>
-            <pubDate>Fri, 06 Dec 2024 03:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[오도함 (OHDOHAHM)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%98%A4%EB%8F%84%ED%95%A8-%ED%8C%8C%EB%B8%94%EB%A1%9C%ED%94%842-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이 바이 바이]]></title>
-            <link>https://poclanos.com/album/%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4-%eb%b0%94%ec%9d%b4/</guid>
-            <pubDate>Fri, 06 Dec 2024 03:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[주태중]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%94%EC%9D%B4%EB%B0%94%EC%9D%B4%EB%B0%94%EC%9D%B4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
