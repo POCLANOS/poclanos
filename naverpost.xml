@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 02:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 03:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[EVENT] 박정웅 EP [여름] 발매 기념 미니 인터뷰 & 트랙별 코멘터리]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41233688&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=41233688&amp;memberNo=24373938</guid>
+            <pubDate>Wed, 18 Dec 2024 03:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/ 박정웅 EP [여름] 발매 기념 미니 인터뷰, 트랙별 코멘터리 공개 INTRO | 박정웅(WOONG) '박정웅(WOONG)'은&nbsp;2019년&nbsp;[STAY],&nbsp;2022년&nbsp;[방울방울]&nbsp;발매&nbsp;이후&nbsp;EP&nbsp;[여름]을&nbsp;발매하며&nbsp;슈게이즈&nbsp;기반의&nbsp;다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjVfMjIy/MDAxNzMyNTI3NzM3Mjk3.BaoHV7kbs_bIuHLUitYWqJKZddqt_yC8-NRK-Bby4TEg.tI5SdNsvbli0fft72t4atb8JTOyQ3uwntlqfWrUXugkg.JPEG/I-9xvHZuQnmR8MtuMpTyrkRJRbvM.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[REVIEW] RSS 뮤직 페스티벌 – 장르 음악이 한데 모인 역사적인 순간]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41943193&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <pubDate>Tue, 24 Sep 2024 03:20:37 GMT</pubDate>
             <content:encoded><![CDATA[INTERVIEW /결국 다시 만날 거란 믿음,jeebanoff (지바노프) 여섯 번째 EP 발매 기념 인터뷰결국 다시 만날 거란 믿음, jeebanoff (지바노프) 여섯 번째 EP 발매 기념 인터뷰 오랜 공백기 끝에 jeeb···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjNfNDEg/MDAxNzI3MDkwMDM5NDE4.vFrygUqhfDFSmF1cmBkpDbGim59mIq5USsRKF6RbPy8g.r92FAhWzYReEOlTJ2ck0wg4CdCsmKICbv1btyD7WjKsg.JPEG/I84z95uuxwfot1mXUC4nvzpHQJqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] SKIPJACK 첫 정규 <giveusasalvation.> 트랙별 코멘터리]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39172742&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39172742&amp;memberNo=24373938</guid>
-            <pubDate>Mon, 23 Sep 2024 03:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL / 흔들리는 우리에게 구원을, SKIPJACK 첫 정규앨범 &lt;giveusasalvation.&gt; 트랙별 코멘터리INTRO | 스킵잭 (SKIPJACK) 남유식(보컬), 강산터(기타), 김민수(베이스), ···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjBfMTY5/MDAxNzI2ODMyNzk3MjA0.COmoewYTjdecDNNBwjastW7ku6DSAd0ktoBkLWTmpNMg.v1YDUooNEhAb_w6IGLoIBJXB-A58fNdSSg3ooRfPUsAg.JPEG/Ifgp8JAdhd9cLj3HO2MMX94AZU_c.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

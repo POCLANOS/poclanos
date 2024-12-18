@@ -4,7 +4,7 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 02:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 03:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 05 Dec 2024 03:00:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjhfMjEg/MDAxNzMyNzYyMzYzMzY5.HnoQCPDqhClMR5rvIQ8zRQaqzL7xleRkf_p1fUdNafAg.E0bSXPfkol9Ti8P-FtRIZxTWlurA8GBhIuDD0yJF630g.JPEG/ITTAHOAJ1UQQlstEnW0yFS_ZefQU.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[EVENT] 박정웅 EP [여름] 발매 기념 미니 인터뷰 & 트랙별 코멘터리]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=41233688&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=41233688&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 18 Dec 2024 03:25:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDExMjVfMjIy/MDAxNzMyNTI3NzM3Mjk3.BaoHV7kbs_bIuHLUitYWqJKZddqt_yC8-NRK-Bby4TEg.tI5SdNsvbli0fft72t4atb8JTOyQ3uwntlqfWrUXugkg.JPEG/I-9xvHZuQnmR8MtuMpTyrkRJRbvM.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어두운 별을 위한 음악, 전현재의 새 앨범 [4us] 코멘터리]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 15 May 2024 03:15:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTRfMTYz/MDAxNzE1NjY4NTkyNDA2.veS-crtq3hw_M8ySnSkcSOGSVhP3rV1b-QYJEyfWoRog.wOCuZ1-d84xH_dwbufBBggTBm3Fu1pSD_MvfIysi1uwg.PNG/ILyt1FvAYI8OyKoVjwdPxnvUuGGY.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8년만의 컴백! 사비나앤드론즈와 도국작가의 웹툰 인터뷰 2탄]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37380024&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Wed, 03 Apr 2024 03:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDAyMjNfMjU3/MDAxNzA4NjU1NTUyOTIx.k1ZB9siujBkQvidKP5CH0URQCi1ew1qAzMQAYfE0dzgg.s8gQfsLPlKGcb2PdfY9BijjOL-Aqa84CiR34UZwqrlYg.JPEG/IPlK-gpmr9GQgDED3GCXiuUc-pfA.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

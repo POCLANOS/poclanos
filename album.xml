@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 02:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 03:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여름]]></title>
+            <link>https://poclanos.com/album/%ec%97%ac%eb%a6%84/</link>
+            <guid>https://poclanos.com/album/%ec%97%ac%eb%a6%84/</guid>
+            <pubDate>Wed, 18 Dec 2024 03:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[박정웅]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%A0%95%EC%9B%85-%EC%97%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소문]]></title>
+            <link>https://poclanos.com/album/%ec%86%8c%eb%ac%b8/</link>
+            <guid>https://poclanos.com/album/%ec%86%8c%eb%ac%b8/</guid>
+            <pubDate>Wed, 18 Dec 2024 03:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[ANYO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ANYO-%EC%86%8C%EB%AC%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YEAH YEAH]]></title>
+            <link>https://poclanos.com/album/yeah-yeah/</link>
+            <guid>https://poclanos.com/album/yeah-yeah/</guid>
+            <pubDate>Wed, 18 Dec 2024 03:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SWRY-YEAH-YEAH-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Finite]]></title>
             <link>https://poclanos.com/album/finite-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 10 Dec 2024 03:01:13 GMT</pubDate>
             <content:encoded><![CDATA[구기훈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B5%AC%EA%B8%B0%ED%9B%88-%EB%81%9D%EB%A7%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Color]]></title>
-            <link>https://poclanos.com/album/color-4/</link>
-            <guid>https://poclanos.com/album/color-4/</guid>
-            <pubDate>Tue, 10 Dec 2024 03:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[Tuesday Beach Club]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-Tuesday-Beach-Club-Color-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Glow]]></title>
-            <link>https://poclanos.com/album/glow-3/</link>
-            <guid>https://poclanos.com/album/glow-3/</guid>
-            <pubDate>Mon, 09 Dec 2024 09:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[12BH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-12bh_glow_albumcover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dreamscapes]]></title>
-            <link>https://poclanos.com/album/dreamscapes/</link>
-            <guid>https://poclanos.com/album/dreamscapes/</guid>
-            <pubDate>Mon, 09 Dec 2024 03:02:31 GMT</pubDate>
-            <content:encoded><![CDATA[SUN KIM]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SUN-KIM-Dreamscapes-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
