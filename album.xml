@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Dec 2024 08:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Love (Feat. Horim)]]></title>
+            <link>https://poclanos.com/album/love-feat-horimlove-feat-horimlove-feat-horim/</link>
+            <guid>https://poclanos.com/album/love-feat-horimlove-feat-horimlove-feat-horim/</guid>
+            <pubDate>Thu, 19 Dec 2024 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINex-Love-Feat.-Horim-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Are We Dreaming]]></title>
             <link>https://poclanos.com/album/are-we-dreaming/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 11 Dec 2024 09:14:26 GMT</pubDate>
             <content:encoded><![CDATA[동찬 (Dongchan)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-%EB%8F%99%EC%B0%AC-%EC%A0%95%EB%AF%BC%EC%A7%80-%EA%B5%AC%EC%9B%90-Salvation-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑이라 부를래(Name It Love)]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9d%bc-%eb%b6%80%eb%a5%bc%eb%9e%98name-it-love/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%ec%9d%b4%eb%9d%bc-%eb%b6%80%eb%a5%bc%eb%9e%98name-it-love/</guid>
-            <pubDate>Wed, 11 Dec 2024 03:33:15 GMT</pubDate>
-            <content:encoded><![CDATA[이형은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EC%82%AC%EB%9E%91%EC%9D%B4%EB%9D%BC%EB%B6%80%EB%A5%BC%EB%9E%98-%EC%B5%9C%EC%A2%85%EB%B3%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
