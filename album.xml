@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Dec 2024 08:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 09:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nothing’s Gonna Change For Christmas]]></title>
+            <link>https://poclanos.com/album/nothings-gonna-change-for-christmas/</link>
+            <guid>https://poclanos.com/album/nothings-gonna-change-for-christmas/</guid>
+            <pubDate>Sat, 21 Dec 2024 09:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[EHEHE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Various-Artist-Nothings-Gonna-Change-For-Christmas-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 나를 아프게 해도 괜찮아]]></title>
             <link>https://poclanos.com/album/%eb%8d%94-%eb%82%98%eb%a5%bc-%ec%95%84%ed%94%84%ea%b2%8c-%ed%95%b4%eb%8f%84-%ea%b4%9c%ec%b0%ae%ec%95%84/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 12 Dec 2024 09:14:09 GMT</pubDate>
             <content:encoded><![CDATA[박기훈]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%88%98%EC%A0%95-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EA%B8%B0%ED%9B%88-%EB%AA%A8%EB%91%90%EC%9D%98-%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From SH_Point 24]]></title>
-            <link>https://poclanos.com/album/from-sh_point-24/</link>
-            <guid>https://poclanos.com/album/from-sh_point-24/</guid>
-            <pubDate>Thu, 12 Dec 2024 03:34:21 GMT</pubDate>
-            <content:encoded><![CDATA[서울매직클럽 (Seoul Magic Club)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%84%9C%EC%9A%B8%EB%A7%A4%EC%A7%81%ED%81%B4%EB%9F%BD-From-SH_Point-24-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
