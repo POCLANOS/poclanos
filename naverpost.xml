@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 02:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난 시간을 돌아보며 미래를 바라보는 고고학의 여섯 번째 이야기]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42611988&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=42611988&amp;memberNo=24373938</guid>
+            <pubDate>Sun, 22 Dec 2024 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/ 지난 시간을 돌아보며 미래를 바라보는고고학의 여섯 번째 이야기 ARTIST | 고고학 ALBUM | VOL.06 이번&nbsp;VOL.06에는&nbsp;어떻게&nbsp;보면&nbsp;전작&nbsp;‘COMPLEX’와는&nbsp;상반되는&nbsp;이미지인&nbsp;‘DOPAMINE’을&nbsp;다뤄보았습니다.&nbsp;바야···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTFfMTM2/MDAxNzMzOTExNTM5OTEy.bWSON-6Z8f6igXpB-kl995ooTBmDluwdixeX730YBk4g.yC-LvxuOfSOtOprFJ3iUHKvP0szivWHNbwIx9c90hQMg.JPEG/I27QiS3EKGbg3KhoAxbL-zkry2uk.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[EVENT] 박정웅 EP [여름] 발매 기념 미니 인터뷰 & 트랙별 코멘터리]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=41233688&amp;memberNo=24373938</link>
@@ -157,14 +165,6 @@
             <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938</guid>
             <pubDate>Fri, 27 Sep 2024 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL / Haku (하쿠)라는 이름으로의 새로운 시작, 컴백 싱글 'Budapest' 뮤직비디오 촬영기INTRO | Haku (하쿠)ALBUM | Haku (하쿠)의 컴백 싱글 'Budapest'2년 여간의 공백을 깨고 Hipp···]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[EVENT] 결국 다시 만날 거란 믿음, jeebanoff EP 발매 기념 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39207515&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39207515&amp;memberNo=24373938</guid>
-            <pubDate>Tue, 24 Sep 2024 03:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW /결국 다시 만날 거란 믿음,jeebanoff (지바노프) 여섯 번째 EP 발매 기념 인터뷰결국 다시 만날 거란 믿음, jeebanoff (지바노프) 여섯 번째 EP 발매 기념 인터뷰 오랜 공백기 끝에 jeeb···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjNfNDEg/MDAxNzI3MDkwMDM5NDE4.vFrygUqhfDFSmF1cmBkpDbGim59mIq5USsRKF6RbPy8g.r92FAhWzYReEOlTJ2ck0wg4CdCsmKICbv1btyD7WjKsg.JPEG/I84z95uuxwfot1mXUC4nvzpHQJqE.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

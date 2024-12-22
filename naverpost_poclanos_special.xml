@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Dec 2024 02:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지난 시간을 돌아보며 미래를 바라보는 고고학의 여섯 번째 이야기]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=42611988&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=42611988&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Sun, 22 Dec 2024 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEyMTFfMTM2/MDAxNzMzOTExNTM5OTEy.bWSON-6Z8f6igXpB-kl995ooTBmDluwdixeX730YBk4g.yC-LvxuOfSOtOprFJ3iUHKvP0szivWHNbwIx9c90hQMg.JPEG/I27QiS3EKGbg3KhoAxbL-zkry2uk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[REVIEW] RSS 뮤직 페스티벌 – 장르 음악이 한데 모인 역사적인 순간]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41943193&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 05 Jun 2024 09:15:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA2MDNfMjYz/MDAxNzE3NDAxNTU3Mjcy.PsIYCySwb5_kdp_NjwSdHyVfzZCaslcRfwBOi1bx_SQg.GoC6eJDKgeB0oK-7NWsmfFTaU_Hpz6KbsKZQxDky94og.JPEG/IRVdXsY2oGip6qT_5pFn1wC-xrXw.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양반들의 첫 정규 음반 선공개 싱글 '바다님' 뮤직비디오 촬영기]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=37814257&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Wed, 15 May 2024 03:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA1MTRfMTYz/MDAxNzE1NjY4NTkyNDA2.veS-crtq3hw_M8ySnSkcSOGSVhP3rV1b-QYJEyfWoRog.wOCuZ1-d84xH_dwbufBBggTBm3Fu1pSD_MvfIysi1uwg.PNG/ILyt1FvAYI8OyKoVjwdPxnvUuGGY.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
