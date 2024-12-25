@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 02:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 03:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[escena]]></title>
+            <link>https://poclanos.com/album/escena/</link>
+            <guid>https://poclanos.com/album/escena/</guid>
+            <pubDate>Wed, 25 Dec 2024 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[mhk]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-mhk-escena-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Perfect Love]]></title>
+            <link>https://poclanos.com/album/perfect-love/</link>
+            <guid>https://poclanos.com/album/perfect-love/</guid>
+            <pubDate>Wed, 25 Dec 2024 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[키디비 (KittiB)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%94%94%EB%B9%84-Perfect-Love-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성자 김오키 홀리데이 에디션 (Holiday Edition)]]></title>
             <link>https://poclanos.com/album/%ec%84%b1%ec%9e%90-%ea%b9%80%ec%98%a4%ed%82%a4-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%97%90%eb%94%94%ec%85%98-holiday-edition/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 18 Dec 2024 03:24:35 GMT</pubDate>
             <content:encoded><![CDATA[ANYO]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ANYO-%EC%86%8C%EB%AC%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YEAH YEAH]]></title>
-            <link>https://poclanos.com/album/yeah-yeah/</link>
-            <guid>https://poclanos.com/album/yeah-yeah/</guid>
-            <pubDate>Wed, 18 Dec 2024 03:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[SWRY (수리)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-SWRY-YEAH-YEAH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finite]]></title>
-            <link>https://poclanos.com/album/finite-2/</link>
-            <guid>https://poclanos.com/album/finite-2/</guid>
-            <pubDate>Tue, 17 Dec 2024 03:32:27 GMT</pubDate>
-            <content:encoded><![CDATA[Hersh]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-vsclm-Hersh-Finite-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
