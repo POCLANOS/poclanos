@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 08:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 09:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Persona]]></title>
+            <link>https://poclanos.com/album/persona-3/</link>
+            <guid>https://poclanos.com/album/persona-3/</guid>
+            <pubDate>Thu, 26 Dec 2024 09:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[산사]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[눈 두 번 깜빡이는]]></title>
             <link>https://poclanos.com/album/%eb%88%88-%eb%91%90-%eb%b2%88-%ea%b9%9c%eb%b9%a1%ec%9d%b4%eb%8a%94/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 20 Dec 2024 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[Wav Table]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-Wav-Table-Snow-Smile-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love (Feat. Horim)]]></title>
-            <link>https://poclanos.com/album/love-feat-horimlove-feat-horimlove-feat-horim/</link>
-            <guid>https://poclanos.com/album/love-feat-horimlove-feat-horimlove-feat-horim/</guid>
-            <pubDate>Thu, 19 Dec 2024 09:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINex-Love-Feat.-Horim-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
