@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 02:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 03:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈 두 번 깜빡이는 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%eb%88%88-%eb%91%90-%eb%b2%88-%ea%b9%9c%eb%b9%a1%ec%9d%b4%eb%8a%94/</link>
+            <guid>https://poclanos.com/album/%eb%88%88-%eb%91%90-%eb%b2%88-%ea%b9%9c%eb%b9%a1%ec%9d%b4%eb%8a%94/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[시문]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-%EB%88%88-%EB%91%90-%EB%B2%88-%EA%B9%9C%EB%B9%A1%EC%9D%B4%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ECHO (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/echo-3/</link>
+            <guid>https://poclanos.com/album/echo-3/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[CHS]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-ECHO-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Exit (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/exit/</link>
+            <guid>https://poclanos.com/album/exit/</guid>
+            <pubDate>Thu, 26 Dec 2024 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[매간당]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EA%B0%84%EB%8B%B9-Exit-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[작년 겨울에 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%9e%91%eb%85%84-%ea%b2%a8%ec%9a%b8%ec%97%90/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 19 Dec 2024 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[JINex (지넥스)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-JINex-Love-Feat.-Horim-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are We Dreaming (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/are-we-dreaming/</link>
-            <guid>https://poclanos.com/album/are-we-dreaming/</guid>
-            <pubDate>Thu, 19 Dec 2024 03:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/COVER_Are-We-Dreaming_01SYNTH-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유령 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9/</link>
-            <guid>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9/</guid>
-            <pubDate>Wed, 18 Dec 2024 09:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-%EC%9C%A0%EB%A0%B9-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여름 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%97%ac%eb%a6%84/</link>
-            <guid>https://poclanos.com/album/%ec%97%ac%eb%a6%84/</guid>
-            <pubDate>Wed, 18 Dec 2024 03:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[박정웅]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%A0%95%EC%9B%85-%EC%97%AC%EB%A6%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[POV] 포크라노스 오리지널 바이닐 시리즈 1 (POCLANOS ─ Review)]]></title>
