@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Dec 2024 02:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태평가]]></title>
+            <link>https://poclanos.com/album/%ed%83%9c%ed%8f%89%ea%b0%80/</link>
+            <guid>https://poclanos.com/album/%ed%83%9c%ed%8f%89%ea%b0%80/</guid>
+            <pubDate>Fri, 27 Dec 2024 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[해파리]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%ED%95%B4%ED%8C%8C%EB%A6%ACHAEPAARY-%ED%83%9C%ED%8F%89%EA%B0%80-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저녁]]></title>
+            <link>https://poclanos.com/album/%ec%a0%80%eb%85%81/</link>
+            <guid>https://poclanos.com/album/%ec%a0%80%eb%85%81/</guid>
+            <pubDate>Fri, 27 Dec 2024 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[최제니]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A0%9C%EB%8B%88-%EC%A0%80%EB%85%81-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Persona]]></title>
             <link>https://poclanos.com/album/persona-3/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 20 Dec 2024 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[루아멜 (LUAMEL)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-%EB%A3%A8%EC%95%84%EB%A9%9C-LUAMEL-%EB%8D%94-%EB%82%98%EB%A5%BC-%EC%95%84%ED%94%84%EA%B2%8C-%ED%95%B4%EB%8F%84-%EA%B4%9C%EC%B0%AE%EC%95%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Limbo]]></title>
-            <link>https://poclanos.com/album/in-limbo/</link>
-            <guid>https://poclanos.com/album/in-limbo/</guid>
-            <pubDate>Fri, 20 Dec 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[MCXON]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-MCXON-In-Limbo-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snow Smile]]></title>
-            <link>https://poclanos.com/album/snow-smile/</link>
-            <guid>https://poclanos.com/album/snow-smile/</guid>
-            <pubDate>Fri, 20 Dec 2024 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[Wav Table]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-Wav-Table-Snow-Smile-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
