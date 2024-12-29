@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Dec 2024 02:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Dec 2024 03:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[작지만 소중함들]]></title>
+            <link>https://poclanos.com/album/%ec%9e%91%ec%a7%80%eb%a7%8c-%ec%86%8c%ec%a4%91%ed%95%a8%eb%93%a4/</link>
+            <guid>https://poclanos.com/album/%ec%9e%91%ec%a7%80%eb%a7%8c-%ec%86%8c%ec%a4%91%ed%95%a8%eb%93%a4/</guid>
+            <pubDate>Sun, 29 Dec 2024 03:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[전현재]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A0%84%ED%98%84%EC%9E%AC-%EC%9E%91%EC%A7%80%EB%A7%8C-%EC%86%8C%EC%A4%91%ED%95%A8%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OLYMPIA]]></title>
             <link>https://poclanos.com/album/olympia/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 23 Dec 2024 03:19:03 GMT</pubDate>
             <content:encoded><![CDATA[어차피]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%96%B4%EC%B0%A8%ED%94%BC-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%AC%EC%88%98%EA%B8%89-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VOL.06]]></title>
-            <link>https://poclanos.com/album/vol-06/</link>
-            <guid>https://poclanos.com/album/vol-06/</guid>
-            <pubDate>Sun, 22 Dec 2024 03:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.06-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
