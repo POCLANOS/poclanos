@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 02:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 03:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PURE LOVE]]></title>
+            <link>https://poclanos.com/album/pure-love/</link>
+            <guid>https://poclanos.com/album/pure-love/</guid>
+            <pubDate>Tue, 31 Dec 2024 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[해서웨이 (Hathaw9y)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4-PURE-LOVE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hizashi no Hana (日差しの花 )]]></title>
+            <link>https://poclanos.com/album/hizashi-no-hana-%e6%97%a5%e5%b7%ae%e3%81%97%e3%81%ae%e8%8a%b1/</link>
+            <guid>https://poclanos.com/album/hizashi-no-hana-%e6%97%a5%e5%b7%ae%e3%81%97%e3%81%ae%e8%8a%b1/</guid>
+            <pubDate>Tue, 31 Dec 2024 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[ヒダ(Heeda)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarette]]></title>
+            <link>https://poclanos.com/album/cigarette/</link>
+            <guid>https://poclanos.com/album/cigarette/</guid>
+            <pubDate>Tue, 31 Dec 2024 03:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[nnn]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-nnn-Cigarette-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비어 있는 시]]></title>
             <link>https://poclanos.com/album/%eb%b9%84%ec%96%b4-%ec%9e%88%eb%8a%94-%ec%8b%9c/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 24 Dec 2024 09:13:29 GMT</pubDate>
             <content:encoded><![CDATA[김오키]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%84%B1%EC%9E%90-%EA%B9%80%EC%98%A4%ED%82%A4-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4-%EC%97%90%EB%94%94%EC%85%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복대감]]></title>
-            <link>https://poclanos.com/album/%eb%b3%b5%eb%8c%80%ea%b0%90/</link>
-            <guid>https://poclanos.com/album/%eb%b3%b5%eb%8c%80%ea%b0%90/</guid>
-            <pubDate>Tue, 24 Dec 2024 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[악단광칠]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%85%EB%8B%A8%EA%B4%91%EC%B9%A0ADG7-%EB%B3%B5%EB%8C%80%EA%B0%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I wish you a Merry Christmas]]></title>
-            <link>https://poclanos.com/album/i-wish-you-a-merry-christmas/</link>
-            <guid>https://poclanos.com/album/i-wish-you-a-merry-christmas/</guid>
-            <pubDate>Tue, 24 Dec 2024 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[정튠 (Jungtune)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%ED%8A%A0-I-wish-you-a-Merry-Christmas-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러너스 하이]]></title>
-            <link>https://poclanos.com/album/%eb%9f%ac%eb%84%88%ec%8a%a4-%ed%95%98%ec%9d%b4/</link>
-            <guid>https://poclanos.com/album/%eb%9f%ac%eb%84%88%ec%8a%a4-%ed%95%98%ec%9d%b4/</guid>
-            <pubDate>Tue, 24 Dec 2024 03:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[Brian Shin]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-3.-%EC%BB%A4%EB%B2%84-Brian-Shin-%EB%9F%AC%EB%84%88%EC%8A%A4-%ED%95%98%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
