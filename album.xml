@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 08:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 09:13:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[b]]></title>
+            <link>https://poclanos.com/album/b-2/</link>
+            <guid>https://poclanos.com/album/b-2/</guid>
+            <pubDate>Tue, 31 Dec 2024 09:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[BABO]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BABO-b-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[PURE LOVE]]></title>
             <link>https://poclanos.com/album/pure-love/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 25 Dec 2024 03:15:51 GMT</pubDate>
             <content:encoded><![CDATA[키디비 (KittiB)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%82%A4%EB%94%94%EB%B9%84-Perfect-Love-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성자 김오키 홀리데이 에디션 (Holiday Edition)]]></title>
-            <link>https://poclanos.com/album/%ec%84%b1%ec%9e%90-%ea%b9%80%ec%98%a4%ed%82%a4-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%97%90%eb%94%94%ec%85%98-holiday-edition/</link>
-            <guid>https://poclanos.com/album/%ec%84%b1%ec%9e%90-%ea%b9%80%ec%98%a4%ed%82%a4-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%97%90%eb%94%94%ec%85%98-holiday-edition/</guid>
-            <pubDate>Tue, 24 Dec 2024 09:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[김오키]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%84%B1%EC%9E%90-%EA%B9%80%EC%98%A4%ED%82%A4-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4-%EC%97%90%EB%94%94%EC%85%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
