@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 02:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 03:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Goodbye Earthsea (further.)]]></title>
+            <link>https://poclanos.com/album/goodbye-earthsea-further/</link>
+            <guid>https://poclanos.com/album/goodbye-earthsea-further/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[동경버튼]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-%EB%8F%99%EA%B2%BD%EB%B2%84%ED%8A%BC-Goodbye-Earthsea-further.-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Poor Things]]></title>
+            <link>https://poclanos.com/album/poor-things/</link>
+            <guid>https://poclanos.com/album/poor-things/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[mcboil (맥보일)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-mcboil-%EB%A7%A5%EB%B3%B4%EC%9D%BC-Poor-Things-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새겨져 있어]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%ea%b2%a8%ec%a0%b8-%ec%9e%88%ec%96%b4/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%ea%b2%a8%ec%a0%b8-%ec%9e%88%ec%96%b4/</guid>
+            <pubDate>Thu, 02 Jan 2025 03:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[윤형준]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A4%ED%98%95%EC%A4%80-%EC%83%88%EA%B2%A8%EC%A0%B8%EC%9E%88%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JEZZ or JAZZ (Feat. Yireh)]]></title>
             <link>https://poclanos.com/album/jezz-or-jazz-feat-yireh/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 26 Dec 2024 03:17:06 GMT</pubDate>
             <content:encoded><![CDATA[시문]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-%EB%88%88-%EB%91%90-%EB%B2%88-%EA%B9%9C%EB%B9%A1%EC%9D%B4%EB%8A%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ECHO]]></title>
-            <link>https://poclanos.com/album/echo-3/</link>
-            <guid>https://poclanos.com/album/echo-3/</guid>
-            <pubDate>Thu, 26 Dec 2024 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[CHS]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-CHS-ECHO-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Exit]]></title>
-            <link>https://poclanos.com/album/exit/</link>
-            <guid>https://poclanos.com/album/exit/</guid>
-            <pubDate>Thu, 26 Dec 2024 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[매간당]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%A7%A4%EA%B0%84%EB%8B%B9-Exit-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 겨울에]]></title>
-            <link>https://poclanos.com/album/%ec%9e%91%eb%85%84-%ea%b2%a8%ec%9a%b8%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ec%9e%91%eb%85%84-%ea%b2%a8%ec%9a%b8%ec%97%90/</guid>
-            <pubDate>Wed, 25 Dec 2024 09:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[19990619]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-19990619-%EC%9E%91%EB%85%84-%EA%B2%A8%EC%9A%B8%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
