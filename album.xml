@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jan 2025 02:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2025 03:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도처]]></title>
+            <link>https://poclanos.com/album/%eb%8f%84%ec%b2%98/</link>
+            <guid>https://poclanos.com/album/%eb%8f%84%ec%b2%98/</guid>
+            <pubDate>Sun, 05 Jan 2025 03:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[2단지]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-2%EB%8B%A8%EC%A7%80-%EB%8F%84%EC%B2%98-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Memorise]]></title>
             <link>https://poclanos.com/album/memorise/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 28 Dec 2024 03:15:31 GMT</pubDate>
             <content:encoded><![CDATA[공공카펫]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%EA%B3%B5%EC%B9%B4%ED%8E%AB_OLYMPIA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Far Away]]></title>
-            <link>https://poclanos.com/album/far-away/</link>
-            <guid>https://poclanos.com/album/far-away/</guid>
-            <pubDate>Fri, 27 Dec 2024 09:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[Prou.]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-Cover-Prou-Far-Away-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
