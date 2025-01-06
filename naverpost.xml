@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 02:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 03:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[요셉(Yoseph) 첫 번째 싱글 [Love for] 비하인드 스토리]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=45238205&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=45238205&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 06 Jan 2025 03:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL / 요셉(Yoseph) 첫 번째 싱글 [Love for] 비하인드 스토리ARTIST | 요셉 (Yoseph)요셉(Yoseph)은 ‘ANDOR(앤드오어)’ 기타리스트 이요셉의 솔로 프로젝트입니다···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNTAxMDJfMjU2/MDAxNzM1Nzk3ODYyODYw.HqKRfPtIq5DU7T053AiVnIAXL0Ntu5CwhZ0WTAr7G-og.oaYJp-_75Nueqy9J-EVHRMAdkOZ3pOdO8XWbxdeWn_gg.JPEG/Igp70Cgufry6h-TgsgFjZjUKjeYY.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난 시간을 돌아보며 미래를 바라보는 고고학의 여섯 번째 이야기]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=42611988&amp;memberNo=24373938</link>
@@ -158,13 +166,6 @@
             <pubDate>Tue, 01 Oct 2024 03:28:39 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL&nbsp;/몽상을 유영하는 청춘의 백일몽,도시고독 EP [청춘의 백일몽] 발매 기념 인터뷰  ALBUM | 청춘의 백일몽 몽상을 유영하는 자들의 행진과 찬란한 꿈결로 초대하는 청춘의 백일몽 이&nbsp;세상은&nbsp;참으로&nbsp;다양한&nbsp;것···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA5MjZfMTgw/MDAxNzI3MzI1NjQxMDcx.XPzClulNr_f_ligBZA0giFpqP-BG6fT8IPNp3mAbfF0g.Li8uRSbT3DfqQdyaG0ogFIBz3mQrCg2L1iE_HHkZiGUg.JPEG/IEdDyahdV4P7PY32YtC_f6b02o-I.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Haku (하쿠)로의 새로운 시작, 컴백 싱글 'Budapest' MV 촬영기]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39261904&amp;memberNo=24373938</guid>
-            <pubDate>Fri, 27 Sep 2024 03:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[SPECIAL / Haku (하쿠)라는 이름으로의 새로운 시작, 컴백 싱글 'Budapest' 뮤직비디오 촬영기INTRO | Haku (하쿠)ALBUM | Haku (하쿠)의 컴백 싱글 'Budapest'2년 여간의 공백을 깨고 Hipp···]]></content:encoded>
         </item>
     </channel>
 </rss>

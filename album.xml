@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 02:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 03:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Post To Past]]></title>
+            <link>https://poclanos.com/album/post-to-past/</link>
+            <guid>https://poclanos.com/album/post-to-past/</guid>
+            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[Rick Yoon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Rick-Yoon-Post-to-Past-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Love for]]></title>
+            <link>https://poclanos.com/album/love-for/</link>
+            <guid>https://poclanos.com/album/love-for/</guid>
+            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[요셉(Yoseph)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%9A%94%EC%85%89Yoseph-Love-for_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAPE NO-P]]></title>
+            <link>https://poclanos.com/album/tape-no-p/</link>
+            <guid>https://poclanos.com/album/tape-no-p/</guid>
+            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[Sycho(사이코)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Sycho%EC%82%AC%EC%9D%B4%EC%BD%94-TAPE-NO-P-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rubato]]></title>
+            <link>https://poclanos.com/album/rubato/</link>
+            <guid>https://poclanos.com/album/rubato/</guid>
+            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[moong]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-moong-Rubato-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[도처]]></title>
             <link>https://poclanos.com/album/%eb%8f%84%ec%b2%98/</link>
@@ -134,38 +166,6 @@
             <pubDate>Mon, 30 Dec 2024 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[AJC]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-AJC-%EC%8A%AC%ED%94%84%EA%B2%8C%EB%8F%84-%EC%98%A4%EB%8A%98-%EA%BF%88%EC%9D%B4-%EC%97%86%EC%96%B4%EC%A1%8C%EC%96%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리에게]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%97%90%ea%b2%8c/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%97%90%ea%b2%8c/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[oait]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-oait-%EC%9A%B0%EB%A6%AC%EC%97%90%EA%B2%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차분히 내일을]]></title>
-            <link>https://poclanos.com/album/%ec%b0%a8%eb%b6%84%ed%9e%88-%eb%82%b4%ec%9d%bc%ec%9d%84/</link>
-            <guid>https://poclanos.com/album/%ec%b0%a8%eb%b6%84%ed%9e%88-%eb%82%b4%ec%9d%bc%ec%9d%84/</guid>
-            <pubDate>Mon, 30 Dec 2024 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[최지원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%B5%9C%EC%A7%80%EC%9B%90-%EC%B0%A8%EB%B6%84%ED%9E%88-%EB%82%B4%EC%9D%BC%EC%9D%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작지만 소중함들]]></title>
-            <link>https://poclanos.com/album/%ec%9e%91%ec%a7%80%eb%a7%8c-%ec%86%8c%ec%a4%91%ed%95%a8%eb%93%a4/</link>
-            <guid>https://poclanos.com/album/%ec%9e%91%ec%a7%80%eb%a7%8c-%ec%86%8c%ec%a4%91%ed%95%a8%eb%93%a4/</guid>
-            <pubDate>Sun, 29 Dec 2024 03:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[전현재]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A0%84%ED%98%84%EC%9E%AC-%EC%9E%91%EC%A7%80%EB%A7%8C-%EC%86%8C%EC%A4%91%ED%95%A8%EB%93%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OLYMPIA]]></title>
-            <link>https://poclanos.com/album/olympia/</link>
-            <guid>https://poclanos.com/album/olympia/</guid>
-            <pubDate>Sat, 28 Dec 2024 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[공공카펫]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84_%EA%B3%B5%EA%B3%B5%EC%B9%B4%ED%8E%AB_OLYMPIA-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
