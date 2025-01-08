@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 02:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 03:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WHY WON’T YOU]]></title>
+            <link>https://poclanos.com/album/why-wont-you/</link>
+            <guid>https://poclanos.com/album/why-wont-you/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[zoey]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/5.-%EC%8B%B1%EA%B8%80-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cold Wind, Warm Breeze]]></title>
+            <link>https://poclanos.com/album/cold-wind-warm-breeze/</link>
+            <guid>https://poclanos.com/album/cold-wind-warm-breeze/</guid>
+            <pubDate>Wed, 08 Jan 2025 03:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[Angelina Danilova]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/Angelina-Danilova-Marcus-Way-Cold-Wind-Warm-Breeze-cover-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유령]]></title>
             <link>https://poclanos.com/album/%ec%9c%a0%eb%a0%b9-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 31 Dec 2024 09:12:55 GMT</pubDate>
             <content:encoded><![CDATA[BABO]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-BABO-b-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PURE LOVE]]></title>
-            <link>https://poclanos.com/album/pure-love/</link>
-            <guid>https://poclanos.com/album/pure-love/</guid>
-            <pubDate>Tue, 31 Dec 2024 03:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[해서웨이 (Hathaw9y)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%B4%EC%84%9C%EC%9B%A8%EC%9D%B4-PURE-LOVE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hizashi no Hana (日差しの花 )]]></title>
-            <link>https://poclanos.com/album/hizashi-no-hana-%e6%97%a5%e5%b7%ae%e3%81%97%e3%81%ae%e8%8a%b1/</link>
-            <guid>https://poclanos.com/album/hizashi-no-hana-%e6%97%a5%e5%b7%ae%e3%81%97%e3%81%ae%e8%8a%b1/</guid>
-            <pubDate>Tue, 31 Dec 2024 03:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[ヒダ(Heeda)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
