@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 뮤직스페셜</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 02:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 03:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첫사랑의 설렘을 ! ‘강한국’의 4번째 EP [Hatsukoi] 트랙별 코멘터리]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=45238966&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=45238966&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Thu, 09 Jan 2025 03:35:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNTAxMDJfMzMg/MDAxNzM1Nzk4MjQ0Mzg4.9zY0u-XsT1jABqgixDXoTKbQHRcmLDtP8rU47hXTU5kg.0r-UkO3F8FGF3_-6jcFWqH0Np-1aTWrsj2Thj8q4T58g.JPEG/I-MVm6UodEKhT5SGf2b5-npHcWnk.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요셉(Yoseph) 첫 번째 싱글 [Love for] 비하인드 스토리]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=45238205&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 19 Aug 2024 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDA4MTZfODcg/MDAxNzIzNzc3NTk0OTc1.xxK8U1X9262iyoCAxRPGvSrOl4fReRhN7FuO4X32KZsg.DyTZ25sORvvkqiJZXGhz1qp27P5TkLWBnwTR3clcYjAg.JPEG/IkS7fFGUIo8nraejsbhlocN1feqo.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원니 첫 EP <Eternal Panorama> MV 비하인드 스토리]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=38236956&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Tue, 30 Jul 2024 03:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDA3MjVfOTYg/MDAxNzIxODg2NjcxMTY5.mCtgQ709Fz976ZFsrMtLw7XHu82BU-2nt4IFzFlDjGsg.NSfMm7b8N8KJgpPAmPv_4AFuCv0b-8HWSKY8-BsshPsg.JPEG/IHmQARyP57YKvP86r_aCbBjcd4w4.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
