@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jan 2025 02:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 03:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자조]]></title>
+            <link>https://poclanos.com/album/%ec%9e%90%ec%a1%b0/</link>
+            <guid>https://poclanos.com/album/%ec%9e%90%ec%a1%b0/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[뱁새들]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B1%81%EC%83%88%EB%93%A4-%EC%9E%90%EC%A1%B0-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GREEDIARY]]></title>
+            <link>https://poclanos.com/album/greediary/</link>
+            <guid>https://poclanos.com/album/greediary/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[oddeen]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-oddeen-GREEDIARY-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JAZZ CATS]]></title>
+            <link>https://poclanos.com/album/jazz-cats/</link>
+            <guid>https://poclanos.com/album/jazz-cats/</guid>
+            <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[박상아 퀸텟 (parksanga quintet)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%83%81%EC%95%84-JAZZ-CATS-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그댄 나의 노래]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%8c%84-%eb%82%98%ec%9d%98-%eb%85%b8%eb%9e%98/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
             <content:encoded><![CDATA[요셉(Yoseph)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%9A%94%EC%85%89Yoseph-Love-for_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAPE NO-P]]></title>
-            <link>https://poclanos.com/album/tape-no-p/</link>
-            <guid>https://poclanos.com/album/tape-no-p/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[Sycho(사이코)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Sycho%EC%82%AC%EC%9D%B4%EC%BD%94-TAPE-NO-P-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rubato]]></title>
-            <link>https://poclanos.com/album/rubato/</link>
-            <guid>https://poclanos.com/album/rubato/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[moong]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-moong-Rubato-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[도처]]></title>
-            <link>https://poclanos.com/album/%eb%8f%84%ec%b2%98/</link>
-            <guid>https://poclanos.com/album/%eb%8f%84%ec%b2%98/</guid>
-            <pubDate>Sun, 05 Jan 2025 03:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[2단지]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2024/12/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-2%EB%8B%A8%EC%A7%80-%EB%8F%84%EC%B2%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
