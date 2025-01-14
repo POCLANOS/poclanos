@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 02:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 03:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[독백적 집단]]></title>
+            <link>https://poclanos.com/album/%eb%8f%85%eb%b0%b1%ec%a0%81-%ec%a7%91%eb%8b%a8/</link>
+            <guid>https://poclanos.com/album/%eb%8f%85%eb%b0%b1%ec%a0%81-%ec%a7%91%eb%8b%a8/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[행간소음]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%96%89%EA%B0%84%EC%86%8C%EC%9D%8C-%EB%8F%85%EB%B0%B1%EC%A0%81-%EC%A7%91%EB%8B%A8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매일의 여행]]></title>
+            <link>https://poclanos.com/album/%eb%a7%a4%ec%9d%bc%ec%9d%98-%ec%97%ac%ed%96%89/</link>
+            <guid>https://poclanos.com/album/%eb%a7%a4%ec%9d%bc%ec%9d%98-%ec%97%ac%ed%96%89/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EA%B0%95%EB%8B%A4%EB%8B%88%EC%97%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EC%97%AC%ED%96%89-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[새처럼]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%ec%b2%98%eb%9f%bc/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%ec%b2%98%eb%9f%bc/</guid>
+            <pubDate>Tue, 14 Jan 2025 03:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[김효린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%ED%9A%A8%EB%A6%B0-%EC%83%88%EC%B2%98%EB%9F%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자조]]></title>
             <link>https://poclanos.com/album/%ec%9e%90%ec%a1%b0/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 07 Jan 2025 03:19:23 GMT</pubDate>
             <content:encoded><![CDATA[잭킹콩 (JKC)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EC%9E%AD%ED%82%B9%EC%BD%A9-JKC-us-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHOPPING BOARD]]></title>
-            <link>https://poclanos.com/album/chopping-board/</link>
-            <guid>https://poclanos.com/album/chopping-board/</guid>
-            <pubDate>Tue, 07 Jan 2025 03:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[POEM RADIO]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-POEM-RADIO-CHOPPING-BOARD-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post To Past]]></title>
-            <link>https://poclanos.com/album/post-to-past/</link>
-            <guid>https://poclanos.com/album/post-to-past/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[Rick Yoon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Rick-Yoon-Post-to-Past-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love for]]></title>
-            <link>https://poclanos.com/album/love-for/</link>
-            <guid>https://poclanos.com/album/love-for/</guid>
-            <pubDate>Mon, 06 Jan 2025 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[요셉(Yoseph)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%9A%94%EC%85%89Yoseph-Love-for_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
