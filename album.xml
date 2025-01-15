@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 08:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 09:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[On My Chest (feat. NSW yoon, 마이크로닷 (Microdot))]]></title>
+            <link>https://poclanos.com/album/on-my-chest-feat-nsw-yoon-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%eb%8b%b7-microdot/</link>
+            <guid>https://poclanos.com/album/on-my-chest-feat-nsw-yoon-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%eb%8b%b7-microdot/</guid>
+            <pubDate>Wed, 15 Jan 2025 09:12:54 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-On-My-Chest-feat.-NSW.-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김일두 박윤호 탁경주 더 바인홀 라이브]]></title>
             <link>https://poclanos.com/album/%ea%b9%80%ec%9d%bc%eb%91%90-%eb%b0%95%ec%9c%a4%ed%98%b8-%ed%83%81%ea%b2%bd%ec%a3%bc-%eb%8d%94-%eb%b0%94%ec%9d%b8%ed%99%80-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 08 Jan 2025 09:13:43 GMT</pubDate>
             <content:encoded><![CDATA[Leem]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Leem-Back-Arm-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHY WON’T YOU]]></title>
-            <link>https://poclanos.com/album/why-wont-you/</link>
-            <guid>https://poclanos.com/album/why-wont-you/</guid>
-            <pubDate>Wed, 08 Jan 2025 03:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[zoey]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/5.-%EC%8B%B1%EA%B8%80-%EC%BB%A4%EB%B2%84-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
