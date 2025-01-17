@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 02:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 03:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오전]]></title>
+            <link>https://poclanos.com/album/%ec%98%a4%ec%a0%84/</link>
+            <guid>https://poclanos.com/album/%ec%98%a4%ec%a0%84/</guid>
+            <pubDate>Fri, 17 Jan 2025 03:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[원형]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EC%9B%90%ED%98%95-%EC%98%A4%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gone]]></title>
             <link>https://poclanos.com/album/gone/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 09 Jan 2025 03:34:48 GMT</pubDate>
             <content:encoded><![CDATA[강한국]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B0%95%ED%95%9C%EA%B5%AD-Hatsukoi-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[붉은 등]]></title>
-            <link>https://poclanos.com/album/%eb%b6%89%ec%9d%80-%eb%93%b1/</link>
-            <guid>https://poclanos.com/album/%eb%b6%89%ec%9d%80-%eb%93%b1/</guid>
-            <pubDate>Thu, 09 Jan 2025 03:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[Purple Whale (퍼플웨일)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%8D%BC%ED%94%8C%EC%9B%A8%EC%9D%BC-Purple-Whale-%EB%B6%89%EC%9D%80-%EB%93%B1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
