@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 02:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 03:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[처방전]]></title>
+            <link>https://poclanos.com/album/%ec%b2%98%eb%b0%a9%ec%a0%84/</link>
+            <guid>https://poclanos.com/album/%ec%b2%98%eb%b0%a9%ec%a0%84/</guid>
+            <pubDate>Sat, 18 Jan 2025 03:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[등아]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%93%B1%EC%95%84-%EC%B2%98%EB%B0%A9%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Bitter Letter To Myself]]></title>
             <link>https://poclanos.com/album/a-bitter-letter-to-myself/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 10 Jan 2025 03:20:04 GMT</pubDate>
             <content:encoded><![CDATA[정비]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%A0%95%EB%B9%84-%EC%82%BF%ED%8F%AC%EB%A1%9C-%ED%81%AC%EA%B8%B0-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비둘기의 失樂園]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%eb%91%98%ea%b8%b0%ec%9d%98-%e5%a4%b1%e6%a8%82%e5%9c%92/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%eb%91%98%ea%b8%b0%ec%9d%98-%e5%a4%b1%e6%a8%82%e5%9c%92/</guid>
-            <pubDate>Fri, 10 Jan 2025 03:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[달 위의 콜린스]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EB%8B%AC-%EC%9C%84%EC%9D%98-%EC%BD%9C%EB%A6%B0%EC%8A%A4-%EB%B9%84%EB%91%98%EA%B8%B0%EC%9D%98-%E5%A4%B1%E6%A8%82%E5%9C%92-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
