@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 02:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 03:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권태]]></title>
+            <link>https://poclanos.com/album/%ea%b6%8c%ed%83%9c-2/</link>
+            <guid>https://poclanos.com/album/%ea%b6%8c%ed%83%9c-2/</guid>
+            <pubDate>Mon, 20 Jan 2025 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[Kani (카니)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kani-%EA%B6%8C%ED%83%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추락]]></title>
+            <link>https://poclanos.com/album/%ec%b6%94%eb%9d%bd/</link>
+            <guid>https://poclanos.com/album/%ec%b6%94%eb%9d%bd/</guid>
+            <pubDate>Mon, 20 Jan 2025 03:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[종연]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%B6%94%EB%9D%BD-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[횃불]]></title>
             <link>https://poclanos.com/album/%ed%9a%83%eb%b6%88/</link>
@@ -140,7 +156,7 @@
             <link>https://poclanos.com/album/jazz-cats/</link>
             <guid>https://poclanos.com/album/jazz-cats/</guid>
             <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[박상아 퀸텟 (parksanga quintet)]]></content:encoded>
+            <content:encoded><![CDATA[박상아]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%83%81%EC%95%84-JAZZ-CATS-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -150,22 +166,6 @@
             <pubDate>Sun, 12 Jan 2025 03:23:17 GMT</pubDate>
             <content:encoded><![CDATA[최창순]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EA%B7%B8%EB%8C%84-%EB%82%98%EC%9D%98-%EB%85%B8%EB%9E%98-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forget Me NOT! (with dePresno)]]></title>
-            <link>https://poclanos.com/album/forget-me-not-with-depresno/</link>
-            <guid>https://poclanos.com/album/forget-me-not-with-depresno/</guid>
-            <pubDate>Sat, 11 Jan 2025 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Forget-ME-NOT-cover-RGB-%EC%B5%9C%EC%A2%85-%EC%9E%AC%EC%88%98%EA%B8%89-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jaguar]]></title>
-            <link>https://poclanos.com/album/jaguar/</link>
-            <guid>https://poclanos.com/album/jaguar/</guid>
-            <pubDate>Fri, 10 Jan 2025 03:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[zz_opp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-zz_opp-Jaguar-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
