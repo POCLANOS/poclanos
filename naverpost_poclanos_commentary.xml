@@ -4,9 +4,17 @@
         <title>POCLANOS ─ 포크라노스 코멘터리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 02:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블루터틀랜드의 ‘2024년 일본투어’ 와 ‘Blue Mean’ MV 비하인드 스토리]]></title>
+            <link>https://post.naver.com/viewer/postView.naver?volumeNo=47649653&amp;memberNo=24373938&amp;navigationType=push</link>
+            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=47649653&amp;memberNo=24373938&amp;navigationType=push</guid>
+            <pubDate>Wed, 22 Jan 2025 03:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNTAxMjFfMTQ5/MDAxNzM3NDU2MTQ3NDIz.589w-4qOQS1mEA95HTMqe4WMmL04JUZguecJbABeQPIg.Rmt0F2cJWVn14roD46fHwALIoyqGZkTDnxCCsLb4iCsg.JPEG/IHS0-jSwEIBHO6oKXU6W4EHUTIjw.jpg?type=fb500_500" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ANDOR(앤드오어) 두 번째 EP [Ordeal] 발매 기념 트랙별 코멘터리]]></title>
             <link>https://post.naver.com/viewer/postView.naver?volumeNo=41233164&amp;memberNo=24373938&amp;navigationType=push</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 07 Apr 2024 19:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjFfMTIw/MDAxNTk1MzE3MjMzMTgx.4jOwu92Lafq5k897oU2G4D28gF0XDRPJ1-6tF6Y_Gckg.b6yjH0siKvBHVq1ze8Oc__r5gIwNffTV6Pan_smJIaEg.JPEG/Ik4hkHNnKUW8NS7iiGVQsF1PyoK8.jpg?type=fb500_500" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈부신 꿈결의 향연 – 신해경 [속꿈, 속꿈]]]></title>
-            <link>https://post.naver.com/viewer/postView.naver?volumeNo=28854653&amp;memberNo=24373938&amp;navigationType=push</link>
-            <guid>https://post.naver.com/viewer/postView.naver?volumeNo=28854653&amp;memberNo=24373938&amp;navigationType=push</guid>
-            <pubDate>Sun, 07 Apr 2024 19:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="ell">포크라노스</span>]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyMDA3MjFfMjU3/MDAxNTk1MzE2NzMxOTk0.uhiH56xwU6a2UF3gUlmHnuO8DxY1H3m8n74YLPjaNTog.qr8uCH4LLut1WLbfS3OPeF-3gDtcEVUDC1Hv77Scp90g.JPEG/IClyNCGk4ormvkpwUzoTs07Q5I7k.jpg?type=fb500_500" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jan 2025 02:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 03:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집 가는 길]]></title>
+            <link>https://poclanos.com/album/%ec%a7%91-%ea%b0%80%eb%8a%94-%ea%b8%b8/</link>
+            <guid>https://poclanos.com/album/%ec%a7%91-%ea%b0%80%eb%8a%94-%ea%b8%b8/</guid>
+            <pubDate>Wed, 22 Jan 2025 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[송재원]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EC%9E%AC%EC%9B%90-%EC%A7%91-%EA%B0%80%EB%8A%94-%EA%B8%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yoonseul]]></title>
+            <link>https://poclanos.com/album/yoonseul/</link>
+            <guid>https://poclanos.com/album/yoonseul/</guid>
+            <pubDate>Wed, 22 Jan 2025 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[moza]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-moza-Yoonseu-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blue Mean]]></title>
+            <link>https://poclanos.com/album/blue-mean/</link>
+            <guid>https://poclanos.com/album/blue-mean/</guid>
+            <pubDate>Wed, 22 Jan 2025 03:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[블루터틀랜드]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B8%94%EB%A3%A8%ED%84%B0%ED%8B%80%EB%9E%9C%EB%93%9C-Blue-Mean-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[My Buggy]]></title>
             <link>https://poclanos.com/album/my-buggy/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 14 Jan 2025 03:12:37 GMT</pubDate>
             <content:encoded><![CDATA[김효린]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%ED%9A%A8%EB%A6%B0-%EC%83%88%EC%B2%98%EB%9F%BC-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자조]]></title>
-            <link>https://poclanos.com/album/%ec%9e%90%ec%a1%b0/</link>
-            <guid>https://poclanos.com/album/%ec%9e%90%ec%a1%b0/</guid>
-            <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[뱁새들]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B1%81%EC%83%88%EB%93%A4-%EC%9E%90%EC%A1%B0-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GREEDIARY]]></title>
-            <link>https://poclanos.com/album/greediary/</link>
-            <guid>https://poclanos.com/album/greediary/</guid>
-            <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[oddeen]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-oddeen-GREEDIARY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JAZZ CATS]]></title>
-            <link>https://poclanos.com/album/jazz-cats/</link>
-            <guid>https://poclanos.com/album/jazz-cats/</guid>
-            <pubDate>Mon, 13 Jan 2025 03:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[박상아]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%83%81%EC%95%84-JAZZ-CATS-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
