@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 02:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 03:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Home Alone]]></title>
+            <link>https://poclanos.com/album/home-alone/</link>
+            <guid>https://poclanos.com/album/home-alone/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/6.-Home-Alone-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kpop Addict]]></title>
+            <link>https://poclanos.com/album/kpop-addict/</link>
+            <guid>https://poclanos.com/album/kpop-addict/</guid>
+            <pubDate>Thu, 23 Jan 2025 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[Moldy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Moldy-Kpop-Addict-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HOOL HOOL]]></title>
             <link>https://poclanos.com/album/hool-hool/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 14 Jan 2025 09:12:52 GMT</pubDate>
             <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%ED%95%99%EA%B5%90-%EC%95%9E-%EB%B6%84%EC%8B%9D%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독백적 집단]]></title>
-            <link>https://poclanos.com/album/%eb%8f%85%eb%b0%b1%ec%a0%81-%ec%a7%91%eb%8b%a8/</link>
-            <guid>https://poclanos.com/album/%eb%8f%85%eb%b0%b1%ec%a0%81-%ec%a7%91%eb%8b%a8/</guid>
-            <pubDate>Tue, 14 Jan 2025 03:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[행간소음]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%ED%96%89%EA%B0%84%EC%86%8C%EC%9D%8C-%EB%8F%85%EB%B0%B1%EC%A0%81-%EC%A7%91%EB%8B%A8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매일의 여행]]></title>
-            <link>https://poclanos.com/album/%eb%a7%a4%ec%9d%bc%ec%9d%98-%ec%97%ac%ed%96%89/</link>
-            <guid>https://poclanos.com/album/%eb%a7%a4%ec%9d%bc%ec%9d%98-%ec%97%ac%ed%96%89/</guid>
-            <pubDate>Tue, 14 Jan 2025 03:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[강다니엘]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EA%B0%95%EB%8B%A4%EB%8B%88%EC%97%98-%EB%A7%A4%EC%9D%BC%EC%9D%98-%EC%97%AC%ED%96%89-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
