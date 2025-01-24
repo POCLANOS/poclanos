@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 02:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 03:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[.•*]]></title>
+            <link>https://poclanos.com/album/60454/</link>
+            <guid>https://poclanos.com/album/60454/</guid>
+            <pubDate>Fri, 24 Jan 2025 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[방]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-.%E2%80%A2_-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond]]></title>
+            <link>https://poclanos.com/album/beyond-4/</link>
+            <guid>https://poclanos.com/album/beyond-4/</guid>
+            <pubDate>Fri, 24 Jan 2025 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[김주안(Juan Kim)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%A3%BC%EC%95%88Juan-Kim-Beyond-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amphetamine]]></title>
+            <link>https://poclanos.com/album/amphetamine/</link>
+            <guid>https://poclanos.com/album/amphetamine/</guid>
+            <pubDate>Fri, 24 Jan 2025 03:14:24 GMT</pubDate>
+            <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-Amphetamine-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Home Alone]]></title>
             <link>https://poclanos.com/album/home-alone/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 15 Jan 2025 09:12:54 GMT</pubDate>
             <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-On-My-Chest-feat.-NSW.-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김일두 박윤호 탁경주 더 바인홀 라이브]]></title>
-            <link>https://poclanos.com/album/%ea%b9%80%ec%9d%bc%eb%91%90-%eb%b0%95%ec%9c%a4%ed%98%b8-%ed%83%81%ea%b2%bd%ec%a3%bc-%eb%8d%94-%eb%b0%94%ec%9d%b8%ed%99%80-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</link>
-            <guid>https://poclanos.com/album/%ea%b9%80%ec%9d%bc%eb%91%90-%eb%b0%95%ec%9c%a4%ed%98%b8-%ed%83%81%ea%b2%bd%ec%a3%bc-%eb%8d%94-%eb%b0%94%ec%9d%b8%ed%99%80-%eb%9d%bc%ec%9d%b4%eb%b8%8c/</guid>
-            <pubDate>Wed, 15 Jan 2025 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[김일두]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%EA%B9%80%EC%9D%BC%EB%91%90-%EB%B0%95%EC%9C%A4%ED%98%B8-%ED%83%81%EA%B2%BD%EC%A3%BC-%EB%8D%94-%EB%B0%94%EC%9D%B8%ED%99%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[penguins live on the upper floor of your room.]]></title>
-            <link>https://poclanos.com/album/penguins-live-on-the-upper-floor-of-your-room/</link>
-            <guid>https://poclanos.com/album/penguins-live-on-the-upper-floor-of-your-room/</guid>
-            <pubDate>Wed, 15 Jan 2025 03:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[penguin apt]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-penguin-apt-penguins-live-on-the-upper-floor-of-your-room.-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[학교 앞 분식집]]></title>
-            <link>https://poclanos.com/album/%ed%95%99%ea%b5%90-%ec%95%9e-%eb%b6%84%ec%8b%9d%ec%a7%91/</link>
-            <guid>https://poclanos.com/album/%ed%95%99%ea%b5%90-%ec%95%9e-%eb%b6%84%ec%8b%9d%ec%a7%91/</guid>
-            <pubDate>Tue, 14 Jan 2025 09:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[알레프 (ALEPH)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%8C%EB%A0%88%ED%94%84-%ED%95%99%EA%B5%90-%EC%95%9E-%EB%B6%84%EC%8B%9D%EC%A7%91-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
