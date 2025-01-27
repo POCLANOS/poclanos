@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jan 2025 02:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 03:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ACT]]></title>
+            <link>https://poclanos.com/album/act/</link>
+            <guid>https://poclanos.com/album/act/</guid>
+            <pubDate>Mon, 27 Jan 2025 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[HEIBE]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-OLOGI-HEIBE-ACT-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬픔이 마음에 내리면]]></title>
+            <link>https://poclanos.com/album/%ec%8a%ac%ed%94%94%ec%9d%b4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%82%b4%eb%a6%ac%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%ec%8a%ac%ed%94%94%ec%9d%b4-%eb%a7%88%ec%9d%8c%ec%97%90-%eb%82%b4%eb%a6%ac%eb%a9%b4/</guid>
+            <pubDate>Mon, 27 Jan 2025 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[박성진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%84%B1%EC%A7%84-%EC%8A%AC%ED%94%94%EC%9D%B4-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%82%B4%EB%A6%AC%EB%A9%B4-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[AoB 컴필레이션 앨범 Vol.1 : 돌연변이]]></title>
+            <link>https://poclanos.com/album/aob-%ec%bb%b4%ed%95%84%eb%a0%88%ec%9d%b4%ec%85%98-%ec%95%a8%eb%b2%94-vol-1-%eb%8f%8c%ec%97%b0%eb%b3%80%ec%9d%b4/</link>
+            <guid>https://poclanos.com/album/aob-%ec%bb%b4%ed%95%84%eb%a0%88%ec%9d%b4%ec%85%98-%ec%95%a8%eb%b2%94-vol-1-%eb%8f%8c%ec%97%b0%eb%b3%80%ec%9d%b4/</guid>
+            <pubDate>Mon, 27 Jan 2025 03:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[Various Artists]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-AoB-%EB%8F%8C%EC%97%B0%EB%B3%80%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[salty heart]]></title>
             <link>https://poclanos.com/album/salty-heart/</link>
@@ -142,30 +166,6 @@
             <pubDate>Fri, 17 Jan 2025 09:12:38 GMT</pubDate>
             <content:encoded><![CDATA[NIve]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-NIve_A-Bitter-Letter-To-Myself_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오전]]></title>
-            <link>https://poclanos.com/album/%ec%98%a4%ec%a0%84/</link>
-            <guid>https://poclanos.com/album/%ec%98%a4%ec%a0%84/</guid>
-            <pubDate>Fri, 17 Jan 2025 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[원형]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%EC%9B%90%ED%98%95-%EC%98%A4%EC%A0%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gone]]></title>
-            <link>https://poclanos.com/album/gone/</link>
-            <guid>https://poclanos.com/album/gone/</guid>
-            <pubDate>Thu, 16 Jan 2025 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kevin-Kaho-Tsui-Gone-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느새(Before one knows)]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%8a%90%ec%83%88before-one-knows/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%8a%90%ec%83%88before-one-knows/</guid>
-            <pubDate>Thu, 16 Jan 2025 03:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[TINOone(티노원)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-TINOone%ED%8B%B0%EB%85%B8%EC%9B%90-%EC%96%B4%EB%8A%90%EC%83%88Before-one-knows-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
