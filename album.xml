@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jan 2025 02:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 03:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤 사랑]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%96%a4-%ec%82%ac%eb%9e%91/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%96%a4-%ec%82%ac%eb%9e%91/</guid>
+            <pubDate>Wed, 29 Jan 2025 03:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-pylat-%EC%96%B4%EB%96%A4-%EC%82%AC%EB%9E%91-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잉글리시아이 (Englisheye)]]></title>
+            <link>https://poclanos.com/album/%ec%9e%89%ea%b8%80%eb%a6%ac%ec%8b%9c%ec%95%84%ec%9d%b4-englisheye/</link>
+            <guid>https://poclanos.com/album/%ec%9e%89%ea%b8%80%eb%a6%ac%ec%8b%9c%ec%95%84%ec%9d%b4-englisheye/</guid>
+            <pubDate>Wed, 29 Jan 2025 03:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[J way(박동진)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-J-way-Englisheye-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We]]></title>
             <link>https://poclanos.com/album/we-4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 21 Jan 2025 09:13:09 GMT</pubDate>
             <content:encoded><![CDATA[hyejin9w9]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/My-Buggy-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권태]]></title>
-            <link>https://poclanos.com/album/%ea%b6%8c%ed%83%9c-2/</link>
-            <guid>https://poclanos.com/album/%ea%b6%8c%ed%83%9c-2/</guid>
-            <pubDate>Mon, 20 Jan 2025 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[Kani (카니)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Kani-%EA%B6%8C%ED%83%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추락]]></title>
-            <link>https://poclanos.com/album/%ec%b6%94%eb%9d%bd/</link>
-            <guid>https://poclanos.com/album/%ec%b6%94%eb%9d%bd/</guid>
-            <pubDate>Mon, 20 Jan 2025 03:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[종연]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%B6%94%EB%9D%BD-%EC%95%A8%EB%B2%94-%EC%95%84%ED%8A%B8-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
