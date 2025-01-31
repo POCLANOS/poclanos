@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 02:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 03:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[속내 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%86%8d%eb%82%b4/</link>
+            <guid>https://poclanos.com/album/%ec%86%8d%eb%82%b4/</guid>
+            <pubDate>Fri, 31 Jan 2025 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[jeje]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%B0%95%EC%9E%AC%EC%9E%AC-%EC%86%8D%EB%82%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아낌없이 주는 나 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%95%84%eb%82%8c%ec%97%86%ec%9d%b4-%ec%a3%bc%eb%8a%94-%eb%82%98/</link>
+            <guid>https://poclanos.com/album/%ec%95%84%eb%82%8c%ec%97%86%ec%9d%b4-%ec%a3%bc%eb%8a%94-%eb%82%98/</guid>
+            <pubDate>Fri, 31 Jan 2025 03:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[블루자몽]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%EC%95%84%EB%82%8C%EC%97%86%EC%9D%B4-%EC%A3%BC%EB%8A%94-%EB%82%98-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Better Days (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/better-days/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 22 Jan 2025 09:12:58 GMT</pubDate>
             <content:encoded><![CDATA[조하 (JOHA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A1%B0%ED%95%98-HOOL-HOOL-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집 가는 길 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%a7%91-%ea%b0%80%eb%8a%94-%ea%b8%b8/</link>
-            <guid>https://poclanos.com/album/%ec%a7%91-%ea%b0%80%eb%8a%94-%ea%b8%b8/</guid>
-            <pubDate>Wed, 22 Jan 2025 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[송재원]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%86%A1%EC%9E%AC%EC%9B%90-%EC%A7%91-%EA%B0%80%EB%8A%94-%EA%B8%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoonseul (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/yoonseul/</link>
-            <guid>https://poclanos.com/album/yoonseul/</guid>
-            <pubDate>Wed, 22 Jan 2025 03:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[moza]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-moza-Yoonseu-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
