@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Feb 2025 02:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2025 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pattern]]></title>
+            <link>https://poclanos.com/album/pattern/</link>
+            <guid>https://poclanos.com/album/pattern/</guid>
+            <pubDate>Sun, 02 Feb 2025 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[moza]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/5.-%EC%BB%A4%EB%B2%84%EC%95%84%ED%8A%B8-moza-Pattern-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[hidden plant]]></title>
             <link>https://poclanos.com/album/hidden-plant/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 24 Jan 2025 03:14:24 GMT</pubDate>
             <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-Amphetamine-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Home Alone]]></title>
-            <link>https://poclanos.com/album/home-alone/</link>
-            <guid>https://poclanos.com/album/home-alone/</guid>
-            <pubDate>Thu, 23 Jan 2025 03:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/6.-Home-Alone-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
