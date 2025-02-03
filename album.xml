@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Feb 2025 08:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 09:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Palace]]></title>
+            <link>https://poclanos.com/album/palace/</link>
+            <guid>https://poclanos.com/album/palace/</guid>
+            <pubDate>Mon, 03 Feb 2025 09:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[Lazy Palace]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Lazy-Palace-Palace-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[그래서 그런지]]></title>
             <link>https://poclanos.com/album/%ea%b7%b8%eb%9e%98%ec%84%9c-%ea%b7%b8%eb%9f%b0%ec%a7%80/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 25 Jan 2025 03:12:25 GMT</pubDate>
             <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunday-Moon-down-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[.•*]]></title>
-            <link>https://poclanos.com/album/60454/</link>
-            <guid>https://poclanos.com/album/60454/</guid>
-            <pubDate>Fri, 24 Jan 2025 03:14:24 GMT</pubDate>
-            <content:encoded><![CDATA[방]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/3.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-.%E2%80%A2_-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
