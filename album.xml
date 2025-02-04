@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 02:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 03:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Distorted Diary]]></title>
+            <link>https://poclanos.com/album/distorted-diary/</link>
+            <guid>https://poclanos.com/album/distorted-diary/</guid>
+            <pubDate>Tue, 04 Feb 2025 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[Sun’stroll]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Sunstroll-Distorted-Diary_cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비가 되어 내려]]></title>
+            <link>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%eb%90%98%ec%96%b4-%eb%82%b4%eb%a0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%eb%90%98%ec%96%b4-%eb%82%b4%eb%a0%a4/</guid>
+            <pubDate>Tue, 04 Feb 2025 03:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[서울전자음악단]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%84%9C%EC%9A%B8%EC%A0%84%EC%9E%90%EC%9D%8C%EC%95%85%EB%8B%A8-%EB%B9%84%EA%B0%80-%EB%90%98%EC%96%B4-%EB%82%B4%EB%A0%A4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Palace]]></title>
             <link>https://poclanos.com/album/palace/</link>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 27 Jan 2025 03:15:05 GMT</pubDate>
             <content:encoded><![CDATA[Various Artists]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-AoB-%EB%8F%8C%EC%97%B0%EB%B3%80%EC%9D%B4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[salty heart]]></title>
-            <link>https://poclanos.com/album/salty-heart/</link>
-            <guid>https://poclanos.com/album/salty-heart/</guid>
-            <pubDate>Sun, 26 Jan 2025 03:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[ddbb]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-ddbb-salty-heart-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[down]]></title>
-            <link>https://poclanos.com/album/down-2/</link>
-            <guid>https://poclanos.com/album/down-2/</guid>
-            <pubDate>Sat, 25 Jan 2025 03:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[Sunday Moon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Sunday-Moon-down-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
