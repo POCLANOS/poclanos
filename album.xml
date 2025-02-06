@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 08:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 10:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고요의 정원]]></title>
+            <link>https://poclanos.com/album/%ea%b3%a0%ec%9a%94%ec%9d%98-%ec%a0%95%ec%9b%90/</link>
+            <guid>https://poclanos.com/album/%ea%b3%a0%ec%9a%94%ec%9d%98-%ec%a0%95%ec%9b%90/</guid>
+            <pubDate>Thu, 06 Feb 2025 10:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[이라온]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/%EA%B3%A0%EC%9A%94%EC%9D%98-%EC%A0%95%EC%9B%90-Solitude_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Little Darling]]></title>
             <link>https://poclanos.com/album/little-darling/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 29 Jan 2025 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[pylat (파일랫)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-pylat-%EC%96%B4%EB%96%A4-%EC%82%AC%EB%9E%91-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잉글리시아이 (Englisheye)]]></title>
-            <link>https://poclanos.com/album/%ec%9e%89%ea%b8%80%eb%a6%ac%ec%8b%9c%ec%95%84%ec%9d%b4-englisheye/</link>
-            <guid>https://poclanos.com/album/%ec%9e%89%ea%b8%80%eb%a6%ac%ec%8b%9c%ec%95%84%ec%9d%b4-englisheye/</guid>
-            <pubDate>Wed, 29 Jan 2025 03:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[J way(박동진)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-J-way-Englisheye-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
