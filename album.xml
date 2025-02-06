@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 02:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 03:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Little Darling]]></title>
+            <link>https://poclanos.com/album/little-darling/</link>
+            <guid>https://poclanos.com/album/little-darling/</guid>
+            <pubDate>Thu, 06 Feb 2025 03:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Little-Darling-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lonely Love Song]]></title>
+            <link>https://poclanos.com/album/lonely-love-song/</link>
+            <guid>https://poclanos.com/album/lonely-love-song/</guid>
+            <pubDate>Thu, 06 Feb 2025 03:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[weirdweirdweird]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-weirdweirdweird-Lonely-Love-Song-Single-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리의 메아리]]></title>
             <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%ec%9d%98-%eb%a9%94%ec%95%84%eb%a6%ac/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 29 Jan 2025 03:14:26 GMT</pubDate>
             <content:encoded><![CDATA[J way(박동진)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-J-way-Englisheye-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[We]]></title>
-            <link>https://poclanos.com/album/we-4/</link>
-            <guid>https://poclanos.com/album/we-4/</guid>
-            <pubDate>Tue, 28 Jan 2025 09:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[Dive to garden]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Dive-to-garden-We-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Before Therapy 2]]></title>
-            <link>https://poclanos.com/album/before-therapy-2/</link>
-            <guid>https://poclanos.com/album/before-therapy-2/</guid>
-            <pubDate>Tue, 28 Jan 2025 03:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[지흔]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A7%80%ED%9D%94-Before-Therapy-2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
