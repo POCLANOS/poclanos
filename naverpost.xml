@@ -4,9 +4,17 @@
         <title>네이버 포스트 ─ 포크라노스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 02:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 03:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정비의 두 번째 미니앨범 [일기장] 제작 비하인드]]></title>
+            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=50000160&amp;memberNo=24373938</link>
+            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=50000160&amp;memberNo=24373938</guid>
+            <pubDate>Mon, 10 Feb 2025 03:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[SPECIAL/ 정비의 두 번째 미니앨범 [일기장] 제작 비하인드 ARTIST | 정비  ALBUM | 정비 두 번째 미니앨범 [일기장] 저만 아는 제 마음이 누군가에게도 머물렀던 마음이었을까요?제가 쓴 일기를 불러드릴게요.  TRA···]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyNTAyMTBfMjA4/MDAxNzM5MTUxMzYzNTk5.L4Bf9ZglVChCyWP3q8uZnqwJ9JWmTtKxEpr56xfX_ysg.oJuAoB9XAas8YQpYmuAoVNfvD5IZEfRaopOoOvAmIKQg.JPEG/Iv35Cvf_LdJtAQMXDAZMj7g5sJU0.jpg?type=fb500_195" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블루터틀랜드의 ‘2024년 일본투어’ 와 ‘Blue Mean’ MV 비하인드 스토리]]></title>
             <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=47649653&amp;memberNo=24373938</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 08 Oct 2024 03:23:22 GMT</pubDate>
             <content:encoded><![CDATA[SPECIAL&nbsp;/'오늘처럼 매일같이 함께할 수 있길'Luca minor, 우수현, 박지원 [셋] 발매 기념 이야기 ARTIST | Luca minor, 우수현, 박지원 재즈&nbsp;싱어송라이터&nbsp;Luca&nbsp;minor,&nbsp;대학가요제&nbsp;수상자&nbsp;싱어송라이터&nbsp;우···]]></content:encoded>
             <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDhfMjcx/MDAxNzI4MzUyMTY1NjMx.Ny1nhQoytGrnqvWL0KZMVu9Lp0NJzC8rhgkXlj54jZsg.Emvh0uRraU9wlTkWUYQ1kOM24ga_B7ybHtkFtudbj6wg.JPEG/IJKBoauHU_kDf6YuIngswtehnQvA.jpg?type=fb500_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충족된 기대와 전복된 예상, O'KOYE 정규 1집 발매 기념 인터뷰]]></title>
-            <link>https://m.post.naver.com/viewer/postView.naver?volumeNo=39451656&amp;memberNo=24373938</link>
-            <guid>https://m.post.naver.com/viewer/postView.naver?volumeNo=39451656&amp;memberNo=24373938</guid>
-            <pubDate>Mon, 07 Oct 2024 09:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[INTERVIEW /충족된 기대와 전복된 예상, 재창조의 향연으로 가득한 O'KOYE 정규 1집 발매 기념 인터뷰충족된 기대와 전복된 예상, 재창조의 향연으로 가득한 O’KOYE 정규 1집 발매 기념 인터뷰 세상에 없던 무···]]></content:encoded>
-            <enclosure url="https://post-phinf.pstatic.net/MjAyNDEwMDdfOSAg/MDAxNzI4MjY4MTcwOTY1.hjoDm55VrgJYDfmz9b4Ig1zRsq8ep43-I0rVpkvR6F8g.H3ihR3EQIL-jYjlzwgPXPAcXUVp903Va-QfMO7zIUeEg.JPEG/Ich5zlDMc55ocVzJfOuQzHx-zUTc.jpg?type=fb500_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

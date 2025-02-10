@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 02:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 03:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어두워]]></title>
+            <link>https://poclanos.com/album/%ec%96%b4%eb%91%90%ec%9b%8c/</link>
+            <guid>https://poclanos.com/album/%ec%96%b4%eb%91%90%ec%9b%8c/</guid>
+            <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[zz_opp]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-zz_opp-%EC%96%B4%EB%91%90%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불편한 잠]]></title>
+            <link>https://poclanos.com/album/%eb%b6%88%ed%8e%b8%ed%95%9c-%ec%9e%a0/</link>
+            <guid>https://poclanos.com/album/%eb%b6%88%ed%8e%b8%ed%95%9c-%ec%9e%a0/</guid>
+            <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[손서정]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%86%90%EC%84%9C%EC%A0%95-%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%9E%A0-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[일기장]]></title>
+            <link>https://poclanos.com/album/%ec%9d%bc%ea%b8%b0%ec%9e%a5/</link>
+            <guid>https://poclanos.com/album/%ec%9d%bc%ea%b8%b0%ec%9e%a5/</guid>
+            <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[정비]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/%EC%A0%95%EB%B9%84-EP-%EC%9D%BC%EA%B8%B0%EC%9E%A5-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NE MAEUM]]></title>
             <link>https://poclanos.com/album/ne-maeum/</link>
@@ -142,30 +166,6 @@
             <pubDate>Sun, 02 Feb 2025 03:15:08 GMT</pubDate>
             <content:encoded><![CDATA[moza]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/5.-%EC%BB%A4%EB%B2%84%EC%95%84%ED%8A%B8-moza-Pattern-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[hidden plant]]></title>
-            <link>https://poclanos.com/album/hidden-plant/</link>
-            <guid>https://poclanos.com/album/hidden-plant/</guid>
-            <pubDate>Sat, 01 Feb 2025 03:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[ryojinnjane]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-ryojinnjane-hidden-plant-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I ME MY]]></title>
-            <link>https://poclanos.com/album/i-me-my/</link>
-            <guid>https://poclanos.com/album/i-me-my/</guid>
-            <pubDate>Fri, 31 Jan 2025 09:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[MORE]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/MORE_I-ME-MY_%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속내]]></title>
-            <link>https://poclanos.com/album/%ec%86%8d%eb%82%b4/</link>
-            <guid>https://poclanos.com/album/%ec%86%8d%eb%82%b4/</guid>
-            <pubDate>Fri, 31 Jan 2025 03:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[jeje]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%B0%95%EC%9E%AC%EC%9E%AC-%EC%86%8D%EB%82%B4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
