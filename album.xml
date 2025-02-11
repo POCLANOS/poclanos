@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 02:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Smile! You’re On Camera (Special Edition)]]></title>
+            <link>https://poclanos.com/album/smile-youre-on-camera-special-edition/</link>
+            <guid>https://poclanos.com/album/smile-youre-on-camera-special-edition/</guid>
+            <pubDate>Tue, 11 Feb 2025 03:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[Juju B. Goode (주주비굿)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Juju-B.-Goode-Smile-You_re-On-Camera_ARTWORK-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어두워]]></title>
             <link>https://poclanos.com/album/%ec%96%b4%eb%91%90%ec%9b%8c/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 03 Feb 2025 03:16:24 GMT</pubDate>
             <content:encoded><![CDATA[사모 키요타 (SAMO KHIYOTA)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/3.-%EC%BB%A4%EB%B2%84-%EC%82%AC%EB%AA%A8-%ED%82%A4%EC%9A%94%ED%83%80-SAMO-KHIYOTA-%EB%8D%94-%EC%82%AC%EC%9A%B4%EB%93%9C-%EC%98%A4%EB%B8%8C-%EC%96%80%EC%94%A8%ED%81%B4%EB%9F%BD-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pattern]]></title>
-            <link>https://poclanos.com/album/pattern/</link>
-            <guid>https://poclanos.com/album/pattern/</guid>
-            <pubDate>Sun, 02 Feb 2025 03:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[moza]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/5.-%EC%BB%A4%EB%B2%84%EC%95%84%ED%8A%B8-moza-Pattern-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
