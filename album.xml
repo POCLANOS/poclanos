@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 02:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 03:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바보]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%eb%b3%b4/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%eb%b3%b4/</guid>
+            <pubDate>Fri, 14 Feb 2025 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[유령서점]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EB%A0%B9%EC%84%9C%EC%A0%90-%EB%B0%94%EB%B3%B4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춘향팔자]]></title>
+            <link>https://poclanos.com/album/%ec%b6%98%ed%96%a5%ed%8c%94%ec%9e%90/</link>
+            <guid>https://poclanos.com/album/%ec%b6%98%ed%96%a5%ed%8c%94%ec%9e%90/</guid>
+            <pubDate>Fri, 14 Feb 2025 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[황은진]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%ED%99%A9%EC%9D%80%EC%A7%84-%EC%B6%98%ED%96%A5%ED%8C%94%EC%9E%90-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stars]]></title>
+            <link>https://poclanos.com/album/stars-2/</link>
+            <guid>https://poclanos.com/album/stars-2/</guid>
+            <pubDate>Fri, 14 Feb 2025 03:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[Rosie]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Rosie-Stars-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[By The Time]]></title>
             <link>https://poclanos.com/album/by-the-time/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 05 Feb 2025 03:15:50 GMT</pubDate>
             <content:encoded><![CDATA[HAEL]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EC%97%98HAEL-Flower-Dance-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thalia]]></title>
-            <link>https://poclanos.com/album/thalia/</link>
-            <guid>https://poclanos.com/album/thalia/</guid>
-            <pubDate>Wed, 05 Feb 2025 03:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[Jinwoo]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Jinwoo-Thalia-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Distorted Diary]]></title>
-            <link>https://poclanos.com/album/distorted-diary/</link>
-            <guid>https://poclanos.com/album/distorted-diary/</guid>
-            <pubDate>Tue, 04 Feb 2025 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[Sun’stroll]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Sunstroll-Distorted-Diary_cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비가 되어 내려]]></title>
-            <link>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%eb%90%98%ec%96%b4-%eb%82%b4%eb%a0%a4/</link>
-            <guid>https://poclanos.com/album/%eb%b9%84%ea%b0%80-%eb%90%98%ec%96%b4-%eb%82%b4%eb%a0%a4/</guid>
-            <pubDate>Tue, 04 Feb 2025 03:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[서울전자음악단]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%84%9C%EC%9A%B8%EC%A0%84%EC%9E%90%EC%9D%8C%EC%95%85%EB%8B%A8-%EB%B9%84%EA%B0%80-%EB%90%98%EC%96%B4-%EB%82%B4%EB%A0%A4-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
