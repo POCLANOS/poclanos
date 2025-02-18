@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Feb 2025 02:14:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 03:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈틈]]></title>
+            <link>https://poclanos.com/album/%eb%b9%88%ed%8b%88/</link>
+            <guid>https://poclanos.com/album/%eb%b9%88%ed%8b%88/</guid>
+            <pubDate>Tue, 18 Feb 2025 03:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[손혜은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%B9%88%ED%8B%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과호흡]]></title>
+            <link>https://poclanos.com/album/%ea%b3%bc%ed%98%b8%ed%9d%a1/</link>
+            <guid>https://poclanos.com/album/%ea%b3%bc%ed%98%b8%ed%9d%a1/</guid>
+            <pubDate>Tue, 18 Feb 2025 03:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[장세현]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%84%B8%ED%98%84-%EA%B3%BC%ED%98%B8%ED%9D%A1-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠, 꿈]]></title>
             <link>https://poclanos.com/album/%ec%9e%a0-%ea%bf%88/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 06 Feb 2025 10:13:02 GMT</pubDate>
             <content:encoded><![CDATA[이라온]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/%EA%B3%A0%EC%9A%94%EC%9D%98-%EC%A0%95%EC%9B%90-Solitude_%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Darling]]></title>
-            <link>https://poclanos.com/album/little-darling/</link>
-            <guid>https://poclanos.com/album/little-darling/</guid>
-            <pubDate>Thu, 06 Feb 2025 03:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-Little-Darling-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lonely Love Song]]></title>
-            <link>https://poclanos.com/album/lonely-love-song/</link>
-            <guid>https://poclanos.com/album/lonely-love-song/</guid>
-            <pubDate>Thu, 06 Feb 2025 03:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[weirdweirdweird]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-weirdweirdweird-Lonely-Love-Song-Single-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
