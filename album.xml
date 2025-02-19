@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 08:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 09:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[the world is… (feat. SEZI)]]></title>
+            <link>https://poclanos.com/album/the-world-is-feat-sezi/</link>
+            <guid>https://poclanos.com/album/the-world-is-feat-sezi/</guid>
+            <pubDate>Wed, 19 Feb 2025 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-the-world-is...-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바람]]></title>
+            <link>https://poclanos.com/album/%eb%b0%94%eb%9e%8c-2/</link>
+            <guid>https://poclanos.com/album/%eb%b0%94%eb%9e%8c-2/</guid>
+            <pubDate>Wed, 19 Feb 2025 09:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EB%B0%94%EB%9E%8C-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[The flare]]></title>
             <link>https://poclanos.com/album/the-flare/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 08 Feb 2025 03:14:32 GMT</pubDate>
             <content:encoded><![CDATA[화노 (Hwanho)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-%ED%99%94%EB%85%B8-Run-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[N.1]]></title>
-            <link>https://poclanos.com/album/n-1/</link>
-            <guid>https://poclanos.com/album/n-1/</guid>
-            <pubDate>Fri, 07 Feb 2025 09:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[MNC]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-MNC_N.1_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[COWBOY]]></title>
-            <link>https://poclanos.com/album/cowboy/</link>
-            <guid>https://poclanos.com/album/cowboy/</guid>
-            <pubDate>Fri, 07 Feb 2025 03:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[PLAYGRXXND]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/01/4.-%EC%BB%A4%EB%B2%84-NVRMNDTHT-COWBOY-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
