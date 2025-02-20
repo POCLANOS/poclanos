@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Feb 2025 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 09:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[bath mumble.]]></title>
+            <link>https://poclanos.com/album/bath-mumble/</link>
+            <guid>https://poclanos.com/album/bath-mumble/</guid>
+            <pubDate>Thu, 20 Feb 2025 09:13:19 GMT</pubDate>
+            <content:encoded><![CDATA[NIve]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-NIve-bath-mumble-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Take Me Back]]></title>
             <link>https://poclanos.com/album/take-me-back/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
             <content:encoded><![CDATA[손서정]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%86%90%EC%84%9C%EC%A0%95-%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%9E%A0-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[일기장]]></title>
-            <link>https://poclanos.com/album/%ec%9d%bc%ea%b8%b0%ec%9e%a5/</link>
-            <guid>https://poclanos.com/album/%ec%9d%bc%ea%b8%b0%ec%9e%a5/</guid>
-            <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[정비]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/%EC%A0%95%EB%B9%84-EP-%EC%9D%BC%EA%B8%B0%EC%9E%A5-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
