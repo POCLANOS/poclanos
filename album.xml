@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Feb 2025 02:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Letter-Slowed]]></title>
+            <link>https://poclanos.com/album/letter-slowed/</link>
+            <guid>https://poclanos.com/album/letter-slowed/</guid>
+            <pubDate>Fri, 21 Feb 2025 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[Rick Yoon]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Rick-Yoon-Letter-slowed-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW WAVE]]></title>
+            <link>https://poclanos.com/album/new-wave/</link>
+            <guid>https://poclanos.com/album/new-wave/</guid>
+            <pubDate>Fri, 21 Feb 2025 03:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soul-delivery-NEW-WAVE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[bath mumble.]]></title>
             <link>https://poclanos.com/album/bath-mumble/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 11 Feb 2025 03:16:44 GMT</pubDate>
             <content:encoded><![CDATA[Juju B. Goode (주주비굿)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Juju-B.-Goode-Smile-You_re-On-Camera_ARTWORK-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어두워]]></title>
-            <link>https://poclanos.com/album/%ec%96%b4%eb%91%90%ec%9b%8c/</link>
-            <guid>https://poclanos.com/album/%ec%96%b4%eb%91%90%ec%9b%8c/</guid>
-            <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[zz_opp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-zz_opp-%EC%96%B4%EB%91%90%EC%9B%8C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불편한 잠]]></title>
-            <link>https://poclanos.com/album/%eb%b6%88%ed%8e%b8%ed%95%9c-%ec%9e%a0/</link>
-            <guid>https://poclanos.com/album/%eb%b6%88%ed%8e%b8%ed%95%9c-%ec%9e%a0/</guid>
-            <pubDate>Mon, 10 Feb 2025 03:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[손서정]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-%EC%86%90%EC%84%9C%EC%A0%95-%EB%B6%88%ED%8E%B8%ED%95%9C-%EC%9E%A0-600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
