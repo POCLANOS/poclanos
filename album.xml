@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 02:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 03:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[true romance]]></title>
+            <link>https://poclanos.com/album/true-romance/</link>
+            <guid>https://poclanos.com/album/true-romance/</guid>
+            <pubDate>Mon, 24 Feb 2025 03:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[sewoong]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-sewoong-true-romance-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hello, World!]]></title>
+            <link>https://poclanos.com/album/hello-world/</link>
+            <guid>https://poclanos.com/album/hello-world/</guid>
+            <pubDate>Mon, 24 Feb 2025 03:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[강찬구]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EC%B0%AC%EA%B5%AC-Hello-World-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 아는 동화]]></title>
             <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ec%95%84%eb%8a%94-%eb%8f%99%ed%99%94/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 14 Feb 2025 03:16:29 GMT</pubDate>
             <content:encoded><![CDATA[Rosie]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/5.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Rosie-Stars-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[By The Time]]></title>
-            <link>https://poclanos.com/album/by-the-time/</link>
-            <guid>https://poclanos.com/album/by-the-time/</guid>
-            <pubDate>Thu, 13 Feb 2025 03:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-By-The-Time-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HEADBUTTERS]]></title>
-            <link>https://poclanos.com/album/headbutters/</link>
-            <guid>https://poclanos.com/album/headbutters/</guid>
-            <pubDate>Thu, 13 Feb 2025 03:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[Hakm]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%9D%BC%EB%94%94%EC%98%A4939-HAKM-HEADBUTTERS-%EC%88%98%EC%A0%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
