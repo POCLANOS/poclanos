@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 08:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 09:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[반칠십]]></title>
+            <link>https://poclanos.com/album/%eb%b0%98%ec%b9%a0%ec%8b%ad/</link>
+            <guid>https://poclanos.com/album/%eb%b0%98%ec%b9%a0%ec%8b%ad/</guid>
+            <pubDate>Tue, 25 Feb 2025 09:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[윤딴딴]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9C%A4%EB%94%B4%EB%94%B4-%EB%B0%98%EC%B9%A0%EC%8B%AD-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kissing In The Moonlight]]></title>
             <link>https://poclanos.com/album/kissing-in-the-moonlight/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 15 Feb 2025 03:15:36 GMT</pubDate>
             <content:encoded><![CDATA[Haru Kid (하루키드)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-Haru-Kid-%ED%95%98%EB%A3%A8%ED%82%A4%EB%93%9C-%EC%95%84%EC%B9%A8%EC%9D%B4-%EB%84%90-%EC%AB%93%EA%B8%B0-%EC%A0%84%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바보]]></title>
-            <link>https://poclanos.com/album/%eb%b0%94%eb%b3%b4/</link>
-            <guid>https://poclanos.com/album/%eb%b0%94%eb%b3%b4/</guid>
-            <pubDate>Fri, 14 Feb 2025 03:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[유령서점]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EB%A0%B9%EC%84%9C%EC%A0%90-%EB%B0%94%EB%B3%B4-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
