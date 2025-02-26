@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Feb 2025 02:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 03:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sea:/(Sea-Drive)]]></title>
+            <link>https://poclanos.com/album/sea-sea-drive/</link>
+            <guid>https://poclanos.com/album/sea-sea-drive/</guid>
+            <pubDate>Wed, 26 Feb 2025 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[패럿신드롬 (Parrot Syndrome)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%8C%A8%EB%9F%BF%EC%8B%A0%EB%93%9C%EB%A1%AC-Sea-Drive-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈과피]]></title>
+            <link>https://poclanos.com/album/%eb%88%88%ea%b3%bc%ed%94%bc/</link>
+            <guid>https://poclanos.com/album/%eb%88%88%ea%b3%bc%ed%94%bc/</guid>
+            <pubDate>Wed, 26 Feb 2025 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[소실 (Sosil)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%86%8C%EC%8B%A4-%EB%88%88%EA%B3%BC%ED%94%BC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[등장!]]></title>
+            <link>https://poclanos.com/album/%eb%93%b1%ec%9e%a5/</link>
+            <guid>https://poclanos.com/album/%eb%93%b1%ec%9e%a5/</guid>
+            <pubDate>Wed, 26 Feb 2025 03:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[아사달 (Asadal)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%95%84%EC%82%AC%EB%8B%AC-Asadal-%EB%93%B1%EC%9E%A5-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[반칠십]]></title>
             <link>https://poclanos.com/album/%eb%b0%98%ec%b9%a0%ec%8b%ad/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 18 Feb 2025 03:15:57 GMT</pubDate>
             <content:encoded><![CDATA[장세현]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9E%A5%EC%84%B8%ED%98%84-%EA%B3%BC%ED%98%B8%ED%9D%A1-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠, 꿈]]></title>
-            <link>https://poclanos.com/album/%ec%9e%a0-%ea%bf%88/</link>
-            <guid>https://poclanos.com/album/%ec%9e%a0-%ea%bf%88/</guid>
-            <pubDate>Mon, 17 Feb 2025 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[연수]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%97%B0%EC%88%98-%EC%9E%A0-%EA%BF%88-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERMOON]]></title>
-            <link>https://poclanos.com/album/evermoon/</link>
-            <guid>https://poclanos.com/album/evermoon/</guid>
-            <pubDate>Sun, 16 Feb 2025 09:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[문미향]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EB%AC%B8%EB%AF%B8%ED%96%A5-EVERMOON-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아침이 널 쫓기 전에]]></title>
-            <link>https://poclanos.com/album/%ec%95%84%ec%b9%a8%ec%9d%b4-%eb%84%90-%ec%ab%93%ea%b8%b0-%ec%a0%84%ec%97%90/</link>
-            <guid>https://poclanos.com/album/%ec%95%84%ec%b9%a8%ec%9d%b4-%eb%84%90-%ec%ab%93%ea%b8%b0-%ec%a0%84%ec%97%90/</guid>
-            <pubDate>Sat, 15 Feb 2025 03:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[Haru Kid (하루키드)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-Haru-Kid-%ED%95%98%EB%A3%A8%ED%82%A4%EB%93%9C-%EC%95%84%EC%B9%A8%EC%9D%B4-%EB%84%90-%EC%AB%93%EA%B8%B0-%EC%A0%84%EC%97%90-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
