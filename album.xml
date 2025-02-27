@@ -4,9 +4,41 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Feb 2025 02:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vulnerable Night]]></title>
+            <link>https://poclanos.com/album/vulnerable-night/</link>
+            <guid>https://poclanos.com/album/vulnerable-night/</guid>
+            <pubDate>Thu, 27 Feb 2025 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[ORORA (오로라)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-ORORA-%EC%98%A4%EB%A1%9C%EB%9D%BC-Vulnerable-Night-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Name of Twilight Blue]]></title>
+            <link>https://poclanos.com/album/name-of-twilight-blue/</link>
+            <guid>https://poclanos.com/album/name-of-twilight-blue/</guid>
+            <pubDate>Thu, 27 Feb 2025 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[무일(Muil)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AC%B4%EC%9D%BCMuil-Name-of-Twilight-Blue-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뜬눈]]></title>
+            <link>https://poclanos.com/album/%eb%9c%ac%eb%88%88/</link>
+            <guid>https://poclanos.com/album/%eb%9c%ac%eb%88%88/</guid>
+            <pubDate>Thu, 27 Feb 2025 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[방]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-%EB%9C%AC%EB%88%88-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[creespy]]></title>
+            <link>https://poclanos.com/album/creespy/</link>
+            <guid>https://poclanos.com/album/creespy/</guid>
+            <pubDate>Thu, 27 Feb 2025 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[creespy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-creespy-creespy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INSTANT LOVE (Prod. HAHM)]]></title>
             <link>https://poclanos.com/album/instant-love-prod-hahm/</link>
@@ -134,38 +166,6 @@
             <pubDate>Thu, 20 Feb 2025 04:15:11 GMT</pubDate>
             <content:encoded><![CDATA[Joep Van Rhijn]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/Joep-van-Rhijn-Vertier-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[the world is… (feat. SEZI)]]></title>
-            <link>https://poclanos.com/album/the-world-is-feat-sezi/</link>
-            <guid>https://poclanos.com/album/the-world-is-feat-sezi/</guid>
-            <pubDate>Wed, 19 Feb 2025 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-the-world-is...-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바람]]></title>
-            <link>https://poclanos.com/album/%eb%b0%94%eb%9e%8c-2/</link>
-            <guid>https://poclanos.com/album/%eb%b0%94%eb%9e%8c-2/</guid>
-            <pubDate>Wed, 19 Feb 2025 09:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[초승 (CHOSNG)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EC%B4%88%EC%8A%B9-CHOSNG-%EB%B0%94%EB%9E%8C-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The flare]]></title>
-            <link>https://poclanos.com/album/the-flare/</link>
-            <guid>https://poclanos.com/album/the-flare/</guid>
-            <pubDate>Tue, 18 Feb 2025 09:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[Kimdigo]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Kimdigo-The-flare-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈틈]]></title>
-            <link>https://poclanos.com/album/%eb%b9%88%ed%8b%88/</link>
-            <guid>https://poclanos.com/album/%eb%b9%88%ed%8b%88/</guid>
-            <pubDate>Tue, 18 Feb 2025 03:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[손혜은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%B9%88%ED%8B%88-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
