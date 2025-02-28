@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 02:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 03:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(concept)]]></title>
+            <link>https://poclanos.com/album/concept/</link>
+            <guid>https://poclanos.com/album/concept/</guid>
+            <pubDate>Fri, 28 Feb 2025 03:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[oddeen]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-oddeen-concept-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[seoulDayz13]]></title>
+            <link>https://poclanos.com/album/seouldayz13/</link>
+            <guid>https://poclanos.com/album/seouldayz13/</guid>
+            <pubDate>Fri, 28 Feb 2025 03:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-seoulDayz13-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Vulnerable Night]]></title>
             <link>https://poclanos.com/album/vulnerable-night/</link>
@@ -150,22 +166,6 @@
             <pubDate>Thu, 20 Feb 2025 09:13:19 GMT</pubDate>
             <content:encoded><![CDATA[NIve]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-NIve-bath-mumble-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Take Me Back]]></title>
-            <link>https://poclanos.com/album/take-me-back/</link>
-            <guid>https://poclanos.com/album/take-me-back/</guid>
-            <pubDate>Thu, 20 Feb 2025 03:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[Kevin Kaho Tsui]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Take-Me-Back-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vertier]]></title>
-            <link>https://poclanos.com/album/vertier/</link>
-            <guid>https://poclanos.com/album/vertier/</guid>
-            <pubDate>Thu, 20 Feb 2025 04:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[Joep Van Rhijn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/Joep-van-Rhijn-Vertier-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
