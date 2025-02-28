@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Feb 2025 08:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 09:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ma Lil Planet]]></title>
+            <link>https://poclanos.com/album/ma-lil-planet/</link>
+            <guid>https://poclanos.com/album/ma-lil-planet/</guid>
+            <pubDate>Fri, 28 Feb 2025 09:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[NIve]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Nive-Ma-Lil-Planet-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(concept)]]></title>
             <link>https://poclanos.com/album/concept/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Feb 2025 03:18:31 GMT</pubDate>
             <content:encoded><![CDATA[Soul delivery]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soul-delivery-NEW-WAVE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bath mumble.]]></title>
-            <link>https://poclanos.com/album/bath-mumble/</link>
-            <guid>https://poclanos.com/album/bath-mumble/</guid>
-            <pubDate>Thu, 20 Feb 2025 09:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[NIve]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-NIve-bath-mumble-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
