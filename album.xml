@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Mar 2025 02:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Mar 2025 03:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[403]]></title>
+            <link>https://poclanos.com/album/403/</link>
+            <guid>https://poclanos.com/album/403/</guid>
+            <pubDate>Sat, 01 Mar 2025 03:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[사공 (Sagong)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%EA%B3%B5-403-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Love You]]></title>
+            <link>https://poclanos.com/album/i-love-you-3/</link>
+            <guid>https://poclanos.com/album/i-love-you-3/</guid>
+            <pubDate>Sat, 01 Mar 2025 03:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[하가 (HAGA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EA%B0%80-I-Love-You-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ma Lil Planet]]></title>
             <link>https://poclanos.com/album/ma-lil-planet/</link>
@@ -150,22 +166,6 @@
             <pubDate>Sat, 22 Feb 2025 03:15:39 GMT</pubDate>
             <content:encoded><![CDATA[GAMAAL]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-GAMAAL-%EC%9A%94%EC%A6%98%EC%96%B4%EB%95%8C-with-ZEROWHO--600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter-Slowed]]></title>
-            <link>https://poclanos.com/album/letter-slowed/</link>
-            <guid>https://poclanos.com/album/letter-slowed/</guid>
-            <pubDate>Fri, 21 Feb 2025 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[Rick Yoon]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Rick-Yoon-Letter-slowed-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NEW WAVE]]></title>
-            <link>https://poclanos.com/album/new-wave/</link>
-            <guid>https://poclanos.com/album/new-wave/</guid>
-            <pubDate>Fri, 21 Feb 2025 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[Soul delivery]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Soul-delivery-NEW-WAVE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
