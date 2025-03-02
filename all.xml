@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Mar 2025 02:53:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 03:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Currents of the Heart (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/currents-of-the-heart/</link>
+            <guid>https://poclanos.com/album/currents-of-the-heart/</guid>
+            <pubDate>Sun, 02 Mar 2025 03:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[장수빈]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9E%A5%EC%88%98%EB%B9%88-Currents-of-the-Heart-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[403 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/403/</link>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Feb 2025 03:19:37 GMT</pubDate>
             <content:encoded><![CDATA[신승은]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%82%B4%EA%B0%80-%EC%95%84%EB%8A%94-%EB%8F%99%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘어때 (with ZEROWHO) (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%9a%94%ec%a6%98%ec%96%b4%eb%95%8c-with-zerowho/</link>
-            <guid>https://poclanos.com/album/%ec%9a%94%ec%a6%98%ec%96%b4%eb%95%8c-with-zerowho/</guid>
-            <pubDate>Sat, 22 Feb 2025 03:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[GAMAAL]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-GAMAAL-%EC%9A%94%EC%A6%98%EC%96%B4%EB%95%8C-with-ZEROWHO--600x600.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
