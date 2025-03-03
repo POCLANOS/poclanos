@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 03:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복해지는 방법]]></title>
+            <link>https://poclanos.com/album/%ed%96%89%eb%b3%b5%ed%95%b4%ec%a7%80%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
+            <guid>https://poclanos.com/album/%ed%96%89%eb%b3%b5%ed%95%b4%ec%a7%80%eb%8a%94-%eb%b0%a9%eb%b2%95/</guid>
+            <pubDate>Mon, 03 Mar 2025 03:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[이종서]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A2%85%EC%84%9C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%B0%A9%EB%B2%95-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Currents of the Heart]]></title>
             <link>https://poclanos.com/album/currents-of-the-heart/</link>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 24 Feb 2025 03:20:58 GMT</pubDate>
             <content:encoded><![CDATA[강찬구]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EA%B0%95%EC%B0%AC%EA%B5%AC-Hello-World-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 아는 동화]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ec%95%84%eb%8a%94-%eb%8f%99%ed%99%94/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ec%95%84%eb%8a%94-%eb%8f%99%ed%99%94/</guid>
-            <pubDate>Sun, 23 Feb 2025 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[신승은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%8B%A0%EC%8A%B9%EC%9D%80-%EB%82%B4%EA%B0%80-%EC%95%84%EB%8A%94-%EB%8F%99%ED%99%94-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
