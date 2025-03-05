@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 08:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 09:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VOL.07]]></title>
+            <link>https://poclanos.com/album/vol-07/</link>
+            <guid>https://poclanos.com/album/vol-07/</guid>
+            <pubDate>Wed, 05 Mar 2025 09:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[고고학 (Gogohawk)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B3%A0%EA%B3%A0%ED%95%99-Gogohawk-VOL.07-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Beetle(Train Seoul)]]></title>
             <link>https://poclanos.com/album/a-beetletrain-seoul/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 26 Feb 2025 09:14:12 GMT</pubDate>
             <content:encoded><![CDATA[Summer Soul]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Summer-Soul-YOHLU-INSTANT-LOVE-Prod.-HAHM-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sea:/(Sea-Drive)]]></title>
-            <link>https://poclanos.com/album/sea-sea-drive/</link>
-            <guid>https://poclanos.com/album/sea-sea-drive/</guid>
-            <pubDate>Wed, 26 Feb 2025 03:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[패럿신드롬 (Parrot Syndrome)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%8C%A8%EB%9F%BF%EC%8B%A0%EB%93%9C%EB%A1%AC-Sea-Drive-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
