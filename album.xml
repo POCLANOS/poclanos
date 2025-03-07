@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 08:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 09:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Running Around the Town]]></title>
+            <link>https://poclanos.com/album/running-around-the-town/</link>
+            <guid>https://poclanos.com/album/running-around-the-town/</guid>
+            <pubDate>Fri, 07 Mar 2025 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[Norman]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Norman-Running-Around-the-Town-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[62]]></title>
+            <link>https://poclanos.com/album/62/</link>
+            <guid>https://poclanos.com/album/62/</guid>
+            <pubDate>Fri, 07 Mar 2025 09:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[Eumin]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-Eumin-62-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[난반사]]></title>
             <link>https://poclanos.com/album/%eb%82%9c%eb%b0%98%ec%82%ac/</link>
@@ -150,22 +166,6 @@
             <pubDate>Fri, 28 Feb 2025 03:20:49 GMT</pubDate>
             <content:encoded><![CDATA[스킵잭 (SKIPJACK)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%8A%A4%ED%82%B5%EC%9E%AD-SKIPJACK-seoulDayz13-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vulnerable Night]]></title>
-            <link>https://poclanos.com/album/vulnerable-night/</link>
-            <guid>https://poclanos.com/album/vulnerable-night/</guid>
-            <pubDate>Thu, 27 Feb 2025 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[ORORA (오로라)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-ORORA-%EC%98%A4%EB%A1%9C%EB%9D%BC-Vulnerable-Night-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Name of Twilight Blue]]></title>
-            <link>https://poclanos.com/album/name-of-twilight-blue/</link>
-            <guid>https://poclanos.com/album/name-of-twilight-blue/</guid>
-            <pubDate>Thu, 27 Feb 2025 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[무일(Muil)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EB%AC%B4%EC%9D%BCMuil-Name-of-Twilight-Blue-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
