@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 02:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 03:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내가 만든 케이크]]></title>
+            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%bc%80%ec%9d%b4%ed%81%ac/</link>
+            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%bc%80%ec%9d%b4%ed%81%ac/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[주태중]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A3%BC%ED%83%9C%EC%A4%91-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%BC%80%EC%9D%B4%ED%81%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekend Plan]]></title>
+            <link>https://poclanos.com/album/weekend-plan/</link>
+            <guid>https://poclanos.com/album/weekend-plan/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[라라]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-Weekend-Plan-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fadin’]]></title>
+            <link>https://poclanos.com/album/fadin/</link>
+            <guid>https://poclanos.com/album/fadin/</guid>
+            <pubDate>Tue, 11 Mar 2025 03:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내가 갈게]]></title>
             <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%ea%b0%88%ea%b2%8c/</link>
@@ -142,30 +166,6 @@
             <pubDate>Mon, 03 Mar 2025 09:15:58 GMT</pubDate>
             <content:encoded><![CDATA[NomadV]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%BB%A4%EB%B2%84-NomadV-Bad-Trip-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복해지는 방법]]></title>
-            <link>https://poclanos.com/album/%ed%96%89%eb%b3%b5%ed%95%b4%ec%a7%80%eb%8a%94-%eb%b0%a9%eb%b2%95/</link>
-            <guid>https://poclanos.com/album/%ed%96%89%eb%b3%b5%ed%95%b4%ec%a7%80%eb%8a%94-%eb%b0%a9%eb%b2%95/</guid>
-            <pubDate>Mon, 03 Mar 2025 03:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[이종서]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9D%B4%EC%A2%85%EC%84%9C-%ED%96%89%EB%B3%B5%ED%95%B4%EC%A7%80%EB%8A%94-%EB%B0%A9%EB%B2%95-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Currents of the Heart]]></title>
-            <link>https://poclanos.com/album/currents-of-the-heart/</link>
-            <guid>https://poclanos.com/album/currents-of-the-heart/</guid>
-            <pubDate>Sun, 02 Mar 2025 03:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[장수빈]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%9E%A5%EC%88%98%EB%B9%88-Currents-of-the-Heart-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[403]]></title>
-            <link>https://poclanos.com/album/403/</link>
-            <guid>https://poclanos.com/album/403/</guid>
-            <pubDate>Sat, 01 Mar 2025 03:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[사공 (Sagong)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/02/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%82%AC%EA%B3%B5-403-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
