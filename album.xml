@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Mar 2025 08:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤빛산책]]></title>
+            <link>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</link>
+            <guid>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</guid>
+            <pubDate>Tue, 18 Mar 2025 09:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[이라온]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%9D%B4%EB%9D%BC%EC%98%A8_%EB%B0%A4%EB%B9%9B%EC%82%B0%EC%B1%85_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용]]></title>
             <link>https://poclanos.com/album/%ec%9a%a9/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 11 Mar 2025 03:23:55 GMT</pubDate>
             <content:encoded><![CDATA[라라]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%8B%9C%EB%AC%B8-Weekend-Plan-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fadin’]]></title>
-            <link>https://poclanos.com/album/fadin/</link>
-            <guid>https://poclanos.com/album/fadin/</guid>
-            <pubDate>Tue, 11 Mar 2025 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[leanon (리논)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94-%EC%BB%A4%EB%B2%84-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
