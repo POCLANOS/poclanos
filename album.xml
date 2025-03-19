@@ -4,14 +4,14 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 10:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[SIMPLE]]></title>
             <link>https://poclanos.com/album/simple/</link>
             <guid>https://poclanos.com/album/simple/</guid>
-            <pubDate>Wed, 19 Mar 2025 09:14:25 GMT</pubDate>
+            <pubDate>Wed, 19 Mar 2025 10:15:20 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-CHANNEL-201-SIMPLE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
