@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Mar 2025 08:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 09:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SIMPLE]]></title>
+            <link>https://poclanos.com/album/simple/</link>
+            <guid>https://poclanos.com/album/simple/</guid>
+            <pubDate>Wed, 19 Mar 2025 09:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-CHANNEL-201-SIMPLE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Between Fact & Fiction]]></title>
             <link>https://poclanos.com/album/between-fact-fiction/</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 12 Mar 2025 03:22:45 GMT</pubDate>
             <content:encoded><![CDATA[jumin]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-jumin-Thunderstruck-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 만든 케이크]]></title>
-            <link>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%bc%80%ec%9d%b4%ed%81%ac/</link>
-            <guid>https://poclanos.com/album/%eb%82%b4%ea%b0%80-%eb%a7%8c%eb%93%a0-%ec%bc%80%ec%9d%b4%ed%81%ac/</guid>
-            <pubDate>Tue, 11 Mar 2025 03:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[주태중]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%A3%BC%ED%83%9C%EC%A4%91-%EB%82%B4%EA%B0%80-%EB%A7%8C%EB%93%A0-%EC%BC%80%EC%9D%B4%ED%81%AC-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
