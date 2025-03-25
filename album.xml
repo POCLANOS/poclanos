@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 02:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 03:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모자이크]]></title>
+            <link>https://poclanos.com/album/%eb%aa%a8%ec%9e%90%ec%9d%b4%ed%81%ac/</link>
+            <guid>https://poclanos.com/album/%eb%aa%a8%ec%9e%90%ec%9d%b4%ed%81%ac/</guid>
+            <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[손혜은]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산호숲]]></title>
+            <link>https://poclanos.com/album/%ec%82%b0%ed%98%b8%ec%88%b2/</link>
+            <guid>https://poclanos.com/album/%ec%82%b0%ed%98%b8%ec%88%b2/</guid>
+            <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[제인과 산호초]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B8%EA%B3%BC-%EC%82%B0%ED%98%B8%EC%B4%88-%EC%82%B0%ED%98%B8%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 왜]]></title>
+            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%99%9c/</link>
+            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%99%9c/</guid>
+            <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[페이퍼플레인]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%ED%8E%98%EC%9D%B4%ED%8D%BC-%ED%94%8C%EB%A0%88%EC%9D%B8-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%99%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[creespy]]></title>
             <link>https://poclanos.com/album/creespy-2/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 18 Mar 2025 03:26:22 GMT</pubDate>
             <content:encoded><![CDATA[림헤엄]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/baby-hold-on-Cover-Artwork-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All we’ve ever found]]></title>
-            <link>https://poclanos.com/album/all-weve-ever-found/</link>
-            <guid>https://poclanos.com/album/all-weve-ever-found/</guid>
-            <pubDate>Mon, 17 Mar 2025 09:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[ffpp]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-ffpp-All-weve-ever-wanted-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몽상은나의조랑말]]></title>
-            <link>https://poclanos.com/album/%eb%aa%bd%ec%83%81%ec%9d%80%eb%82%98%ec%9d%98%ec%a1%b0%eb%9e%91%eb%a7%90/</link>
-            <guid>https://poclanos.com/album/%eb%aa%bd%ec%83%81%ec%9d%80%eb%82%98%ec%9d%98%ec%a1%b0%eb%9e%91%eb%a7%90/</guid>
-            <pubDate>Mon, 17 Mar 2025 03:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[소실 (Sosil)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-%EC%86%8C%EC%8B%A4-%EB%AA%BD%EC%83%81%EC%9D%80%EB%82%98%EC%9D%98%EC%A1%B0%EB%9E%91%EB%A7%90-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끼인 마음]]></title>
-            <link>https://poclanos.com/album/%eb%81%bc%ec%9d%b8-%eb%a7%88%ec%9d%8c/</link>
-            <guid>https://poclanos.com/album/%eb%81%bc%ec%9d%b8-%eb%a7%88%ec%9d%8c/</guid>
-            <pubDate>Mon, 17 Mar 2025 03:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[문영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EB%AC%B8%EC%98%81-%EB%81%BC%EC%9D%B8-%EB%A7%88%EC%9D%8C-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
