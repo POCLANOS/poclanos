@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 08:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 09:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Burnout (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/burnout/</link>
+            <guid>https://poclanos.com/album/burnout/</guid>
+            <pubDate>Wed, 26 Mar 2025 09:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Burnout-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산책 (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/%ec%82%b0%ec%b1%85-2/</link>
+            <guid>https://poclanos.com/album/%ec%82%b0%ec%b1%85-2/</guid>
+            <pubDate>Wed, 26 Mar 2025 09:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[박찬영]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%B0%AC%EC%98%81-%EC%82%B0%EC%B1%85-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%ec%95%88%eb%85%95-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 19 Mar 2025 10:15:20 GMT</pubDate>
             <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-CHANNEL-201-SIMPLE-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Between Fact & Fiction (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/between-fact-fiction/</link>
-            <guid>https://poclanos.com/album/between-fact-fiction/</guid>
-            <pubDate>Wed, 19 Mar 2025 03:26:09 GMT</pubDate>
-            <content:encoded><![CDATA[Joep Van Rhijn]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98Album-cover-design-Between-Fact-Fiction-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤빛산책 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</link>
-            <guid>https://poclanos.com/album/%eb%b0%a4%eb%b9%9b%ec%82%b0%ec%b1%85/</guid>
-            <pubDate>Tue, 18 Mar 2025 09:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[이라온]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%9D%B4%EB%9D%BC%EC%98%A8_%EB%B0%A4%EB%B9%9B%EC%82%B0%EC%B1%85_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
