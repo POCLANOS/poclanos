@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 02:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 03:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SAD : Sometimes Always Depressed]]></title>
+            <link>https://poclanos.com/album/sad-sometimes-always-depressed/</link>
+            <guid>https://poclanos.com/album/sad-sometimes-always-depressed/</guid>
+            <pubDate>Thu, 27 Mar 2025 03:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-SAD-Sometimes-Always-Depressed-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Burnout]]></title>
             <link>https://poclanos.com/album/burnout/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 20 Mar 2025 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[원니]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%9B%90%EB%8B%88-%EC%95%84%ED%8C%8C%ED%8A%B8-%EA%B2%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EC%9A%B0%EC%8A%A4-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SIMPLE]]></title>
-            <link>https://poclanos.com/album/simple/</link>
-            <guid>https://poclanos.com/album/simple/</guid>
-            <pubDate>Wed, 19 Mar 2025 10:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[CHANNEL 201]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-CHANNEL-201-SIMPLE-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
