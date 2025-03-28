@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 08:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 09:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Where Do I Look?]]></title>
+            <link>https://poclanos.com/album/where-do-i-look/</link>
+            <guid>https://poclanos.com/album/where-do-i-look/</guid>
+            <pubDate>Fri, 28 Mar 2025 09:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[jeonga]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-jeonga-Where-Do-I-Look-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[했었나]]></title>
             <link>https://poclanos.com/album/%ed%96%88%ec%97%88%eb%82%98/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 21 Mar 2025 09:14:14 GMT</pubDate>
             <content:encoded><![CDATA[송소희]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%BB%A4%EB%B2%84_%EC%86%A1%EC%86%8C%ED%9D%AC-Not-a-Dream-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑보다 더욱]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%b3%b4%eb%8b%a4-%eb%8d%94%ec%9a%b1/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91%eb%b3%b4%eb%8b%a4-%eb%8d%94%ec%9a%b1/</guid>
-            <pubDate>Fri, 21 Mar 2025 03:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[신윤철]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/01-%EC%8B%A0%EC%9C%A4%EC%B2%A0-%EC%9E%A5%EC%9E%AC%EC%9B%90-%EC%82%AC%EB%9E%91%EB%B3%B4%EB%8B%A4-%EB%8D%94%EC%9A%B1-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
