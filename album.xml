@@ -4,9 +4,25 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 02:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 03:32:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2099]]></title>
+            <link>https://poclanos.com/album/2099/</link>
+            <guid>https://poclanos.com/album/2099/</guid>
+            <pubDate>Wed, 02 Apr 2025 03:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/Cover_01SYNTH_2099-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tell Me Why]]></title>
+            <link>https://poclanos.com/album/tell-me-why/</link>
+            <guid>https://poclanos.com/album/tell-me-why/</guid>
+            <pubDate>Wed, 02 Apr 2025 03:31:55 GMT</pubDate>
+            <content:encoded><![CDATA[정서사 (Jeongseosa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%84%9C%EC%82%AC-Tell-Me-Why-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길]]></title>
             <link>https://poclanos.com/album/%ea%b8%b8-2/</link>
@@ -150,22 +166,6 @@
             <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
             <content:encoded><![CDATA[제인과 산호초]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B8%EA%B3%BC-%EC%82%B0%ED%98%B8%EC%B4%88-%EC%82%B0%ED%98%B8%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리는 왜]]></title>
-            <link>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%99%9c/</link>
-            <guid>https://poclanos.com/album/%ec%9a%b0%eb%a6%ac%eb%8a%94-%ec%99%9c/</guid>
-            <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[페이퍼플레인]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%ED%8E%98%EC%9D%B4%ED%8D%BC-%ED%94%8C%EB%A0%88%EC%9D%B8-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%99%9C-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[creespy]]></title>
-            <link>https://poclanos.com/album/creespy-2/</link>
-            <guid>https://poclanos.com/album/creespy-2/</guid>
-            <pubDate>Mon, 24 Mar 2025 09:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[creespy]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-creespy-creespy-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
