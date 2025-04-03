@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Apr 2025 02:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Apr 2025 03:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄밤]]></title>
+            <link>https://poclanos.com/album/%eb%b4%84%eb%b0%a4/</link>
+            <guid>https://poclanos.com/album/%eb%b4%84%eb%b0%a4/</guid>
+            <pubDate>Thu, 03 Apr 2025 03:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[유희]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%9C%A0%ED%9D%AC-%EB%B4%84%EB%B0%A4-%EC%BB%A4%EB%B2%84%EC%82%AC%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김 앤 탁 하트 히트]]></title>
+            <link>https://poclanos.com/album/%ea%b9%80-%ec%95%a4-%ed%83%81-%ed%95%98%ed%8a%b8-%ed%9e%88%ed%8a%b8/</link>
+            <guid>https://poclanos.com/album/%ea%b9%80-%ec%95%a4-%ed%83%81-%ed%95%98%ed%8a%b8-%ed%9e%88%ed%8a%b8/</guid>
+            <pubDate>Thu, 03 Apr 2025 03:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[김일두]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%ED%83%81%EA%B2%BD%EC%A3%BC-%EA%B9%80-%EC%95%A4-%ED%83%81-%ED%95%98%ED%8A%B8-%ED%9E%88%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사랑 100L]]></title>
+            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91-100l/</link>
+            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91-100l/</guid>
+            <pubDate>Thu, 03 Apr 2025 03:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[미로 (miro)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-%EB%AF%B8%EB%A1%9C-%EC%82%AC%EB%9E%91-100L-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2099]]></title>
             <link>https://poclanos.com/album/2099/</link>
@@ -142,30 +166,6 @@
             <pubDate>Wed, 26 Mar 2025 03:26:31 GMT</pubDate>
             <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%BB%A4%EB%B2%84_%EC%82%AC%EB%AE%88-%EC%95%88%EB%85%95-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beheaded 2]]></title>
-            <link>https://poclanos.com/album/beheaded-2/</link>
-            <guid>https://poclanos.com/album/beheaded-2/</guid>
-            <pubDate>Wed, 26 Mar 2025 03:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[Beheaded]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-Beheaded-Beheaded-2-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모자이크]]></title>
-            <link>https://poclanos.com/album/%eb%aa%a8%ec%9e%90%ec%9d%b4%ed%81%ac/</link>
-            <guid>https://poclanos.com/album/%eb%aa%a8%ec%9e%90%ec%9d%b4%ed%81%ac/</guid>
-            <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[손혜은]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%86%90%ED%98%9C%EC%9D%80-%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC-%EC%B5%9C%EC%A2%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산호숲]]></title>
-            <link>https://poclanos.com/album/%ec%82%b0%ed%98%b8%ec%88%b2/</link>
-            <guid>https://poclanos.com/album/%ec%82%b0%ed%98%b8%ec%88%b2/</guid>
-            <pubDate>Tue, 25 Mar 2025 03:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[제인과 산호초]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%A0%9C%EC%9D%B8%EA%B3%BC-%EC%82%B0%ED%98%B8%EC%B4%88-%EC%82%B0%ED%98%B8%EC%88%B2-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
