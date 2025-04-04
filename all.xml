@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 02:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 03:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Birds, Promises, Moonlights (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/birds-promises-moonlights/</link>
+            <guid>https://poclanos.com/album/birds-promises-moonlights/</guid>
+            <pubDate>Fri, 04 Apr 2025 03:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[Pishu]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-Pishu-Birds-Promises-Moonlight-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HU that 9uy (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/hu-that-9uy/</link>
+            <guid>https://poclanos.com/album/hu-that-9uy/</guid>
+            <pubDate>Fri, 04 Apr 2025 03:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[a 9uy]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%95%84%ED%8A%B8-KIHU-a-9uy-HU-that-9uy-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄밤 (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/%eb%b4%84%eb%b0%a4/</link>
@@ -150,22 +166,6 @@
             <pubDate>Wed, 26 Mar 2025 09:14:38 GMT</pubDate>
             <content:encoded><![CDATA[Ineffa Lucas]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-Ineffa-Lucas-Burnout-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산책 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%82%b0%ec%b1%85-2/</link>
-            <guid>https://poclanos.com/album/%ec%82%b0%ec%b1%85-2/</guid>
-            <pubDate>Wed, 26 Mar 2025 09:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[박찬영]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%95%EC%B0%AC%EC%98%81-%EC%82%B0%EC%B1%85-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ec%95%88%eb%85%95-2/</link>
-            <guid>https://poclanos.com/album/%ec%95%88%eb%85%95-2/</guid>
-            <pubDate>Wed, 26 Mar 2025 03:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[사뮈 (Samui)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%BB%A4%EB%B2%84_%EC%82%AC%EB%AE%88-%EC%95%88%EB%85%95-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
