@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Apr 2025 02:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 03:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽보다 길었던]]></title>
+            <link>https://poclanos.com/album/%ec%83%88%eb%b2%bd%eb%b3%b4%eb%8b%a4-%ea%b8%b8%ec%97%88%eb%8d%98/</link>
+            <guid>https://poclanos.com/album/%ec%83%88%eb%b2%bd%eb%b3%b4%eb%8b%a4-%ea%b8%b8%ec%97%88%eb%8d%98/</guid>
+            <pubDate>Sat, 05 Apr 2025 03:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[겸(GYE0M)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%83%88%EB%B2%BD%EB%B3%B4%EB%8B%A4-%EA%B8%B8%EC%97%88%EB%8D%98-%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[N.3]]></title>
             <link>https://poclanos.com/album/n-3/</link>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 27 Mar 2025 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PITTA-%EA%B0%95%ED%98%95%ED%98%B8-Deep-Shadow-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SAD : Sometimes Always Depressed]]></title>
-            <link>https://poclanos.com/album/sad-sometimes-always-depressed/</link>
-            <guid>https://poclanos.com/album/sad-sometimes-always-depressed/</guid>
-            <pubDate>Thu, 27 Mar 2025 03:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[결 (KYUL)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EA%B2%B0-KYUL-SAD-Sometimes-Always-Depressed-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
