@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Apr 2025 03:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 03:36:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋아해]]></title>
+            <link>https://poclanos.com/album/%ec%a2%8b%ec%95%84%ed%95%b4/</link>
+            <guid>https://poclanos.com/album/%ec%a2%8b%ec%95%84%ed%95%b4/</guid>
+            <pubDate>Sun, 06 Apr 2025 03:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[유발이 (U.BAR.E)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%9C%A0%EB%B0%9C%EC%9D%B4-U.BAR_.E-%EC%A2%8B%EC%95%84%ED%95%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽보다 길었던]]></title>
             <link>https://poclanos.com/album/%ec%83%88%eb%b2%bd%eb%b3%b4%eb%8b%a4-%ea%b8%b8%ec%97%88%eb%8d%98/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Mar 2025 03:30:01 GMT</pubDate>
             <content:encoded><![CDATA[zz_opp]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-zz_opp-12345-forgive-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Shadow]]></title>
-            <link>https://poclanos.com/album/deep-shadow/</link>
-            <guid>https://poclanos.com/album/deep-shadow/</guid>
-            <pubDate>Thu, 27 Mar 2025 09:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[PITTA (강형호)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-PITTA-%EA%B0%95%ED%98%95%ED%98%B8-Deep-Shadow-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
