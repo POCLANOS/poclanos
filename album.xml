@@ -4,9 +4,17 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 08:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 09:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Plastic Love (Tokyo Night Cover)]]></title>
+            <link>https://poclanos.com/album/plastic-love-tokyo-night-cover/</link>
+            <guid>https://poclanos.com/album/plastic-love-tokyo-night-cover/</guid>
+            <pubDate>Mon, 07 Apr 2025 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[last spring.]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-last-spring-Summer-Soul-Plastic-LoveTokyo-Night-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taster Shots]]></title>
             <link>https://poclanos.com/album/taster-shots/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Mar 2025 03:30:01 GMT</pubDate>
             <content:encoded><![CDATA[방]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-%ED%96%88%EC%97%88%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하늘에 있는 공]]></title>
-            <link>https://poclanos.com/album/%ed%95%98%eb%8a%98%ec%97%90-%ec%9e%88%eb%8a%94-%ea%b3%b5/</link>
-            <guid>https://poclanos.com/album/%ed%95%98%eb%8a%98%ec%97%90-%ec%9e%88%eb%8a%94-%ea%b3%b5/</guid>
-            <pubDate>Fri, 28 Mar 2025 03:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[원형]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EC%9B%90%ED%98%95-%ED%95%98%EB%8A%98%EC%97%90-%EC%9E%88%EB%8A%94-%EA%B3%B5-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
