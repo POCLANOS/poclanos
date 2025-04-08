@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 01:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 03:01:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lonely Love Never Works (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/lonely-love-never-works/</link>
+            <guid>https://poclanos.com/album/lonely-love-never-works/</guid>
+            <pubDate>Tue, 08 Apr 2025 03:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[정서사 (Jeongseosa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%84%9C%EC%82%ACJeongseosa-Lonely-Love-Never-Works-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Plastic Love (Tokyo Night Cover) (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/plastic-love-tokyo-night-cover/</link>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 28 Mar 2025 09:14:34 GMT</pubDate>
             <content:encoded><![CDATA[jeonga]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-jeonga-Where-Do-I-Look-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[했었나 (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/%ed%96%88%ec%97%88%eb%82%98/</link>
-            <guid>https://poclanos.com/album/%ed%96%88%ec%97%88%eb%82%98/</guid>
-            <pubDate>Fri, 28 Mar 2025 03:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[방]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%B0%A9-%ED%96%88%EC%97%88%EB%82%98-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
