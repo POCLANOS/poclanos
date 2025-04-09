@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 08:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 09:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Promenade (POCLANOS ─ Album)]]></title>
+            <link>https://poclanos.com/album/promenade/</link>
+            <guid>https://poclanos.com/album/promenade/</guid>
+            <pubDate>Wed, 09 Apr 2025 09:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[다린]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%BB%A4%EB%B2%84-%EB%8B%A4%EB%A6%B0-Promenade-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[flowers (POCLANOS ─ Album)]]></title>
             <link>https://poclanos.com/album/flowers/</link>
@@ -158,14 +166,6 @@
             <pubDate>Tue, 01 Apr 2025 09:15:00 GMT</pubDate>
             <content:encoded><![CDATA[한석규]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%ED%95%9C%EC%84%9D%EA%B7%9C-INSOMNIA-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THERAPY (POCLANOS ─ Album)]]></title>
-            <link>https://poclanos.com/album/therapy/</link>
-            <guid>https://poclanos.com/album/therapy/</guid>
-            <pubDate>Tue, 01 Apr 2025 03:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[Lazy Palace]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-Lazy-Palace-THERAPY-600x600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Non Amer [Loop 1] (POCLANOS ─ Review)]]></title>
