@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 02:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 03:33:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[flowers]]></title>
+            <link>https://poclanos.com/album/flowers/</link>
+            <guid>https://poclanos.com/album/flowers/</guid>
+            <pubDate>Wed, 09 Apr 2025 03:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[김박재재 (kimparkjeje)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EA%B9%80%EB%B0%95%EC%9E%AC%EC%9E%ACkimparkjeje-flowers-600x600.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[나의 말이 들리면]]></title>
+            <link>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%a7%90%ec%9d%b4-%eb%93%a4%eb%a6%ac%eb%a9%b4/</link>
+            <guid>https://poclanos.com/album/%eb%82%98%ec%9d%98-%eb%a7%90%ec%9d%b4-%eb%93%a4%eb%a6%ac%eb%a9%b4/</guid>
+            <pubDate>Wed, 09 Apr 2025 03:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[민 (Mean)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EB%AF%BC-Mean-%EB%82%98%EC%9D%98-%EB%A7%90%EC%9D%B4-%EB%93%A4%EB%A6%AC%EB%A9%B4-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kurt Cobain]]></title>
+            <link>https://poclanos.com/album/kurt-cobain/</link>
+            <guid>https://poclanos.com/album/kurt-cobain/</guid>
+            <pubDate>Wed, 09 Apr 2025 03:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[ANDOR (앤드오어)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-%ED%8F%AC%EB%A7%B7%EB%B3%80%ED%99%98ANDOR%EC%95%A4%EB%93%9C%EC%98%A4%EC%96%B4-Kurt-Cobain_Album-Cover-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MMORPG]]></title>
             <link>https://poclanos.com/album/mmorpg/</link>
@@ -142,30 +166,6 @@
             <pubDate>Tue, 01 Apr 2025 03:09:16 GMT</pubDate>
             <content:encoded><![CDATA[Lazy Palace]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-Lazy-Palace-THERAPY-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Let Down by the World]]></title>
-            <link>https://poclanos.com/album/let-down-by-the-world/</link>
-            <guid>https://poclanos.com/album/let-down-by-the-world/</guid>
-            <pubDate>Mon, 31 Mar 2025 09:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[Norman]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-Norman-Let-Down-by-the-World-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GREENROOM<3]]></title>
-            <link>https://poclanos.com/album/greenroom-2/</link>
-            <guid>https://poclanos.com/album/greenroom-2/</guid>
-            <pubDate>Mon, 31 Mar 2025 03:02:58 GMT</pubDate>
-            <content:encoded><![CDATA[몰라시스템]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84%EB%AA%B0%EB%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C-GREENROOM-3-600x600.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love is a shade of blue]]></title>
-            <link>https://poclanos.com/album/love-is-a-shade-of-blue/</link>
-            <guid>https://poclanos.com/album/love-is-a-shade-of-blue/</guid>
-            <pubDate>Sat, 29 Mar 2025 03:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[off the menu (오프더메뉴)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-off-the-menu-Love-is-a-shade-of-blue--600x600.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
