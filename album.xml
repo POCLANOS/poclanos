@@ -4,9 +4,33 @@
         <title>POCLANOS ─ Album</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Apr 2025 02:59:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 03:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EH !]]></title>
+            <link>https://poclanos.com/album/eh/</link>
+            <guid>https://poclanos.com/album/eh/</guid>
+            <pubDate>Fri, 11 Apr 2025 03:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[정서사 (Jeongseosa)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%EC%A0%95%EC%84%9C%EC%82%ACJeongseosa-EH--600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기우제]]></title>
+            <link>https://poclanos.com/album/%ea%b8%b0%ec%9a%b0%ec%a0%9c/</link>
+            <guid>https://poclanos.com/album/%ea%b8%b0%ec%9a%b0%ec%a0%9c/</guid>
+            <pubDate>Fri, 11 Apr 2025 03:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[하가 (HAGA)]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%95%A8%EB%B2%94%EC%BB%A4%EB%B2%84-%ED%95%98%EA%B0%80HAGA-%EA%B8%B0%EC%9A%B0%EC%A0%9C-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TIME MACHINE]]></title>
+            <link>https://poclanos.com/album/time-machine/</link>
+            <guid>https://poclanos.com/album/time-machine/</guid>
+            <pubDate>Fri, 11 Apr 2025 03:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[KAGAMI]]></content:encoded>
+            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/04/4.-%EC%BB%A4%EB%B2%84-KAGAMI-TIME-MACHINE-600x600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dakapo Remixes]]></title>
             <link>https://poclanos.com/album/dakapo-remixes/</link>
@@ -142,30 +166,6 @@
             <pubDate>Thu, 03 Apr 2025 03:30:29 GMT</pubDate>
             <content:encoded><![CDATA[유희]]></content:encoded>
             <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%EC%9C%A0%ED%9D%AC-%EB%B4%84%EB%B0%A4-%EC%BB%A4%EB%B2%84%EC%82%AC%EC%A7%84-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김 앤 탁 하트 히트]]></title>
-            <link>https://poclanos.com/album/%ea%b9%80-%ec%95%a4-%ed%83%81-%ed%95%98%ed%8a%b8-%ed%9e%88%ed%8a%b8/</link>
-            <guid>https://poclanos.com/album/%ea%b9%80-%ec%95%a4-%ed%83%81-%ed%95%98%ed%8a%b8-%ed%9e%88%ed%8a%b8/</guid>
-            <pubDate>Thu, 03 Apr 2025 03:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[김일두]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/4.-%EC%BB%A4%EB%B2%84-%EA%B9%80%EC%9D%BC%EB%91%90-%ED%83%81%EA%B2%BD%EC%A3%BC-%EA%B9%80-%EC%95%A4-%ED%83%81-%ED%95%98%ED%8A%B8-%ED%9E%88%ED%8A%B8-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑 100L]]></title>
-            <link>https://poclanos.com/album/%ec%82%ac%eb%9e%91-100l/</link>
-            <guid>https://poclanos.com/album/%ec%82%ac%eb%9e%91-100l/</guid>
-            <pubDate>Thu, 03 Apr 2025 03:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[미로 (miro)]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/%ED%81%AC%EA%B8%B0%EC%88%98%EC%A0%95-4.-%EC%BB%A4%EB%B2%84-%EB%AF%B8%EB%A1%9C-%EC%82%AC%EB%9E%91-100L-600x600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2099]]></title>
-            <link>https://poclanos.com/album/2099/</link>
-            <guid>https://poclanos.com/album/2099/</guid>
-            <pubDate>Wed, 02 Apr 2025 03:31:55 GMT</pubDate>
-            <content:encoded><![CDATA[01SYNTH]]></content:encoded>
-            <enclosure url="https://poclanos.com/drmvsn/wp-content/uploads/2025/03/Cover_01SYNTH_2099-600x600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
